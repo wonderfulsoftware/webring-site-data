@@ -313,7 +313,20 @@
       "rect": null,
       "href": "https://webring.wonderful.software#Mymintrabbit.com"
     },
-    "number": 24,
-    "lastUpdated": "2021-01-18T18:19:23.105Z"
+    "lastUpdated": "2021-01-18T18:19:23.105Z",
+    "number": 24
+  },
+  "savepong.com": {
+    "url": "https://www.savepong.com",
+    "number": 25,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/savepong.com_375w@2x.png",
+    "blurhash": "vAS6Y?9txu$+D*i{RkS1~CxGRjR*AVI.e.xaVssVWBR*,[$*bHNGFsJ6V[xH",
+    "screenshotUpdatedAt": "2021-01-18T18:20:58.810Z",
+    "description": "Always keep in touch and catch up the new technology.",
+    "backlink": {
+      "rect": "32:32:171.5:1698",
+      "href": "https://webring.wonderful.software#savepong.com"
+    },
+    "lastUpdated": "2021-01-18T18:20:58.810Z"
   }
 }
