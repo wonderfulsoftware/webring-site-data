@@ -188,5 +188,27 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/saltyaom.com_375w@2x.png",
     "lastUpdated": "2021-01-17T15:36:52.607Z"
+  },
+  "icez.net": {
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/icez.net_375w@2x.png",
+    "blurhash": "v6Q,O7#I000000xwR*M_Uf0Jx]-q8%4,x]%400^QoyNa00?1kCSb00JXjuxV",
+    "screenshotUpdatedAt": "2021-01-18T07:09:17.066Z",
+    "description": null,
+    "backlink": {
+      "rect": "32:18:787:2768",
+      "href": "https://webring.wonderful.software/#icez.net"
+    },
+    "lastUpdated": "2021-01-18T07:09:17.066Z"
+  },
+  "kykungz.dev": {
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/kykungz.dev_375w@2x.png",
+    "blurhash": "viNd{:o0.8jb7MWBIUoftnayRjj[vhofxvay~BWWRjof$vkCRjWVR4j[kBf7",
+    "screenshotUpdatedAt": "2021-01-18T07:09:31.372Z",
+    "description": "Personal website of Kongpon Charanwattanakit",
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#kykungz.dev"
+    },
+    "lastUpdated": "2021-01-18T07:09:31.372Z"
   }
 }
