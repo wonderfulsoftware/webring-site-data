@@ -304,12 +304,16 @@
     "number": 23
   },
   "mymintrabbit.com": {
-    "url": "https://http://www.mymintrabbit.com",
-    "number": 24,
+    "url": "http://www.mymintrabbit.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mymintrabbit.com_375w@2x.png",
-    "blurhash": "v0TSUA-;fQ-;%MfQfQfQfQfQfQfQ%MfQfQfQfQfQfQfQ%MfQfQfQfQfQfQfQ",
-    "screenshotUpdatedAt": "2021-01-18T18:05:08.940Z",
-    "description": null,
-    "backlink": null
+    "blurhash": "v2T8?.Rj-;xb?bWBIofQOpM{RPj[_MWBD%ay00RQt7ju8{RjtRj[.8WBM|of",
+    "screenshotUpdatedAt": "2021-01-18T18:19:23.105Z",
+    "description": "Portfolio",
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#Mymintrabbit.com"
+    },
+    "number": 24,
+    "lastUpdated": "2021-01-18T18:19:23.105Z"
   }
 }
