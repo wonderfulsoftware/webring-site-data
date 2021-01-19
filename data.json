@@ -344,7 +344,6 @@
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
-    "number": 18,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mahasak.com_375w@2x.png",
     "blurhash": "vEMQ-TWAxYM}00W?E2xW00t6xYR.~pM|kDt5~qWCxtof9Foet6R+4mt8WFoI",
     "screenshotUpdatedAt": "2021-01-19T05:44:16.847Z",
@@ -353,6 +352,20 @@
       "rect": "32:21:171.5:7604.734375",
       "href": "https://webring.wonderful.software#mahasak.com"
     },
-    "lastUpdated": "2021-01-19T05:44:16.847Z"
+    "lastUpdated": "2021-01-19T05:44:16.847Z",
+    "number": 18
+  },
+  "jitrak.dev": {
+    "url": "https://jitrak.dev",
+    "number": 28,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jitrak.dev_375w@2x.png",
+    "blurhash": "v98qKb~qIUD$?G%LV[Rj01D%xtx]4m9Ft7%MM{NHofn$R,t6ofR*?b%MWVRj",
+    "screenshotUpdatedAt": "2021-01-19T05:45:22.065Z",
+    "description": "A story about Jitrak development.",
+    "backlink": {
+      "rect": "64:20:21:118",
+      "href": "https://webring.wonderful.software#jitrak.dev"
+    },
+    "lastUpdated": "2021-01-19T05:45:22.065Z"
   }
 }
