@@ -357,7 +357,6 @@
   },
   "jitrak.dev": {
     "url": "https://jitrak.dev",
-    "number": 28,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jitrak.dev_375w@2x.png",
     "blurhash": "v98qKb~qIUD$?G%LV[Rj01D%xtx]4m9Ft7%MM{NHofn$R,t6ofR*?b%MWVRj",
     "screenshotUpdatedAt": "2021-01-19T05:45:22.065Z",
@@ -366,6 +365,20 @@
       "rect": "64:20:21:118",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2021-01-19T05:45:22.065Z"
+    "lastUpdated": "2021-01-19T05:45:22.065Z",
+    "number": 28
+  },
+  "www.varokas.com": {
+    "url": "https://www.varokas.com",
+    "number": 29,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/www.varokas.com_375w@2x.png",
+    "blurhash": "vSHoRSV@xuay00ofM{fR~XbFNFay4naexuj[%ej]t7j[%Maxa{a#9Gj@fijt",
+    "screenshotUpdatedAt": "2021-01-19T07:06:05.238Z",
+    "description": null,
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#www.varokas.com"
+    },
+    "lastUpdated": "2021-01-19T07:06:05.238Z"
   }
 }
