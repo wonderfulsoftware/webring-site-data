@@ -465,7 +465,6 @@
   },
   "wp.curve.in.th": {
     "url": "https://wp.curve.in.th/",
-    "number": 36,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wp.curve.in.th_375w@2x.png",
     "blurhash": "voMj,YRP?bt8Ipt7IURjofV@RikB_3ofxvWB~qWBjZs:xuj[WBWBWBfkR*ax",
     "screenshotUpdatedAt": "2021-01-20T14:28:26.117Z",
@@ -474,6 +473,20 @@
       "rect": "360:32:7.5:60.5",
       "href": "https://webring.wonderful.software#wp.curve.in.th"
     },
-    "lastUpdated": "2021-01-20T14:28:26.117Z"
+    "lastUpdated": "2021-01-20T14:28:26.117Z",
+    "number": 36
+  },
+  "adamblog.co": {
+    "url": "https://adamblog.co",
+    "number": 37,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/adamblog.co_375w@2x.png",
+    "blurhash": "vLRp8-j[jaof00ofRjj[0Jayofj[%2ofWVj[?bayofj[~qjtkCfQ_3ayofju",
+    "screenshotUpdatedAt": "2021-01-20T14:49:06.251Z",
+    "description": "การเปลี่ยนแปลงที่แท้จริง คือการทำอย่างสม่ำเสมอ ต่อเนื่อง ในทุกๆ วัน",
+    "backlink": {
+      "rect": "44:23:224.5:9.234375",
+      "href": "https://webring.wonderful.software#adamblog.co"
+    },
+    "lastUpdated": "2021-01-20T14:49:06.251Z"
   }
 }
