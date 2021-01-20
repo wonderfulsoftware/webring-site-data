@@ -478,7 +478,6 @@
   },
   "adamblog.co": {
     "url": "https://adamblog.co",
-    "number": 37,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/adamblog.co_375w@2x.png",
     "blurhash": "vLRp8-j[jaof00ofRjj[0Jayofj[%2ofWVj[?bayofj[~qjtkCfQ_3ayofju",
     "screenshotUpdatedAt": "2021-01-20T14:49:06.251Z",
@@ -487,6 +486,20 @@
       "rect": "44:23:224.5:9.234375",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2021-01-20T14:49:06.251Z"
+    "lastUpdated": "2021-01-20T14:49:06.251Z",
+    "number": 37
+  },
+  "pat.chormai.org": {
+    "url": "https://pat.chormai.org",
+    "number": 38,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pat.chormai.org_375w@2x.png",
+    "blurhash": "vSRfh3ax~qWCD%of-;WBt7ayRjfR%gayD%j@-;azIUoe%MayM{oeazayWAj[",
+    "screenshotUpdatedAt": "2021-01-20T14:50:54.225Z",
+    "description": "A PhD Candidate at Max Planck School of Cognition",
+    "backlink": {
+      "rect": "66:18:190.890625:4077.5625",
+      "href": "https://webring.wonderful.software#pat.chormai.org"
+    },
+    "lastUpdated": "2021-01-20T14:50:54.225Z"
   }
 }
