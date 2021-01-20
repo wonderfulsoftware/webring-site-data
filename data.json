@@ -491,7 +491,6 @@
   },
   "pat.chormai.org": {
     "url": "https://pat.chormai.org",
-    "number": 38,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pat.chormai.org_375w@2x.png",
     "blurhash": "vSRfh3ax~qWCD%of-;WBt7ayRjfR%gayD%j@-;azIUoe%MayM{oeazayWAj[",
     "screenshotUpdatedAt": "2021-01-20T14:50:54.225Z",
@@ -500,6 +499,7 @@
       "rect": "66:18:190.890625:4077.5625",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2021-01-20T14:50:54.225Z"
+    "lastUpdated": "2021-01-20T14:50:54.225Z",
+    "number": 38
   }
 }
