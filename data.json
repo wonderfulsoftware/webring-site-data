@@ -238,7 +238,7 @@
       "rect": "32:18:787:2768",
       "href": "https://webring.wonderful.software/#icez.net"
     },
-    "lastUpdated": "2021-01-19T11:40:18.212Z",
+    "lastUpdated": "2021-01-20T14:27:03.817Z",
     "url": "https://icez.net",
     "number": 20
   },
@@ -251,20 +251,20 @@
       "rect": null,
       "href": "https://webring.wonderful.software#kykungz.dev"
     },
-    "lastUpdated": "2021-01-19T11:40:33.827Z",
+    "lastUpdated": "2021-01-20T14:27:18.564Z",
     "url": "https://kykungz.dev",
     "number": 21
   },
   "jittagornp.me": {
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jittagornp.me_375w@2x.png",
-    "blurhash": "vXR3G~aKTJbH-=a^a1WC%gt6VtazIAjZbbayaxj]ayj@ITWCbbj@_NR*n5o2",
-    "screenshotUpdatedAt": "2021-01-19T11:40:49.194Z",
+    "blurhash": "vXR3G~aKTJbH-=a^a1WC%gt6VtayIAjZbbayaxj]ayj@ITWCbbj@_NR*n5oL",
+    "screenshotUpdatedAt": "2021-01-20T14:27:29.952Z",
     "description": "โดย จิตกร พิทักษ์เมธากุล",
     "backlink": {
       "rect": "30:30:281:13",
       "href": "https://webring.wonderful.software#jittagornp.me"
     },
-    "lastUpdated": "2021-01-19T11:40:49.194Z",
+    "lastUpdated": "2021-01-20T14:27:29.952Z",
     "url": "https://www.jittagornp.me",
     "number": 22
   },
@@ -277,7 +277,7 @@
       "rect": "20:20:177.5:1504",
       "href": "https://webring.wonderful.software#pandora.sh"
     },
-    "lastUpdated": "2021-01-19T11:41:06.936Z",
+    "lastUpdated": "2021-01-20T14:27:47.436Z",
     "url": "https://pandora.sh",
     "number": 23
   },
@@ -401,14 +401,14 @@
   "doopdip.me": {
     "url": "https://doopdip.me",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/doopdip.me_375w@2x.png",
-    "blurhash": "vZP?:hWBof%Mt7WBWBfQ~qayj[IUofj[WBayM{WBRjxuayWBayay-;t7fQRj",
-    "screenshotUpdatedAt": "2021-01-19T11:41:14.710Z",
+    "blurhash": "v@LqeAfQt7ayxuayWBay~qWBWBj[WBfQWBay%Mj[RjayM{ayj[ayIUfQofay",
+    "screenshotUpdatedAt": "2021-01-20T14:27:55.741Z",
     "description": "เลาเดฟบ้าน ๆ เลาเดฟเลี้ยงวัว ~",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2021-01-19T11:41:14.710Z",
+    "lastUpdated": "2021-01-20T14:27:55.741Z",
     "number": 32
   },
   "dont.works": {
@@ -418,23 +418,23 @@
     "screenshotUpdatedAt": "2021-01-19T11:43:04.207Z",
     "description": "เบียร์ กาแฟ เนื้อ นอน",
     "backlink": {
-      "rect": null,
+      "rect": "32:32:75:19",
       "href": "https://webring.wonderful.software/#/dont.works"
     },
-    "lastUpdated": "2021-01-19T11:43:04.208Z",
+    "lastUpdated": "2021-01-20T14:26:52.333Z",
     "number": 19
   },
   "mikkipastel.com": {
     "url": "https://www.mikkipastel.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mikkipastel.com_375w@2x.png",
-    "blurhash": "vkE.@jo{bbofxsk8oba_?wn+jbjvxTaMoMax%hWDoMa#=^W;Sefjt,WVo2ag",
-    "screenshotUpdatedAt": "2021-01-19T13:01:50.469Z",
+    "blurhash": "vwHLY$tOkUkCIoW:fPj?_NoJjta#ROV_jcj?-=aeoLWC%KWYWXoetRj?oLWC",
+    "screenshotUpdatedAt": "2021-01-20T14:28:13.449Z",
     "description": "Full-time Android developer, Part-time Developer and Blogger.\nบล็อก Android, Chatbot, Programming, lifestyle, สรุป Event และ Online Course ต่างๆ",
     "backlink": {
       "rect": "28.799999237060547:27.60000228881836:-13.5:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2021-01-19T13:01:50.469Z",
+    "lastUpdated": "2021-01-20T14:28:13.449Z",
     "number": 33
   },
   "ntsd.me": {
@@ -452,7 +452,6 @@
   },
   "pontakorn.dev": {
     "url": "https://pontakorn.dev",
-    "number": 35,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pontakorn.dev_375w@2x.png",
     "blurhash": "vlLEKMWCV?V@tRWBWBWB_NWBt7ofxHt7WUazM{f+t6s:-;oLjtkBE1s:WCWB",
     "screenshotUpdatedAt": "2021-01-20T11:25:27.769Z",
@@ -461,6 +460,20 @@
       "rect": "32:32:311:34",
       "href": "https://webring.wonderful.software#pontakorn.dev"
     },
-    "lastUpdated": "2021-01-20T11:25:27.769Z"
+    "lastUpdated": "2021-01-20T11:25:27.769Z",
+    "number": 35
+  },
+  "wp.curve.in.th": {
+    "url": "https://wp.curve.in.th/",
+    "number": 36,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wp.curve.in.th_375w@2x.png",
+    "blurhash": "voMj,YRP?bt8Ipt7IURjofV@RikB_3ofxvWB~qWBjZs:xuj[WBWBWBfkR*ax",
+    "screenshotUpdatedAt": "2021-01-20T14:28:26.117Z",
+    "description": "An experienced web developer // Now, I’m doing reasearch in NLP, Transfer Learning, and Continual Learning interested on how to leverage linguistic knowledge to improve trasferablity in cross-lingual models",
+    "backlink": {
+      "rect": "360:32:7.5:60.5",
+      "href": "https://webring.wonderful.software#wp.curve.in.th"
+    },
+    "lastUpdated": "2021-01-20T14:28:26.117Z"
   }
 }
