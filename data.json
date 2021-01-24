@@ -530,7 +530,6 @@
   },
   "wiennat.com": {
     "url": "https://www.wiennat.com",
-    "number": 41,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wiennat.com_375w@2x.png",
     "blurhash": "v2SF;L9F~p_300M{xuj]00xuD%Rj00%MIUM{00a}t7xu00-;%MRj00t7M{Rj",
     "screenshotUpdatedAt": "2021-01-24T13:09:47.765Z",
@@ -539,6 +538,20 @@
       "rect": "48:56:35.53125:551.375",
       "href": "https://webring.wonderful.software#wiennat.com"
     },
-    "lastUpdated": "2021-01-24T13:09:47.765Z"
+    "lastUpdated": "2021-01-24T13:09:47.765Z",
+    "number": 41
+  },
+  "llun.me": {
+    "url": "https://www.llun.me",
+    "number": 42,
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/llun.me_375w@2x.png",
+    "blurhash": "v5SF@V00~U-p-nadIVju?GIUE1a#s,adayj[M|oeM|M|%MWWRjoexuNIIot6",
+    "screenshotUpdatedAt": "2021-01-24T13:10:37.624Z",
+    "description": "My notebook",
+    "backlink": {
+      "rect": "26:26:171.375:76.625",
+      "href": "https://webring.wonderful.software#llun.me"
+    },
+    "lastUpdated": "2021-01-24T13:10:37.624Z"
   }
 }
