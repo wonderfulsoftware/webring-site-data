@@ -605,5 +605,18 @@
     },
     "lastUpdated": "2021-01-27T16:45:44.056Z",
     "number": 46
+  },
+  "blog.oatto.dev": {
+    "url": "https://blog.oatto.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.oatto.dev_375w@2x.png",
+    "blurhash": "v5S?DVxt~qM{RjRPIUj[WBRiIVt7RjaxR*j@M|ofWCj[bHoLoft6M{xuofax",
+    "screenshotUpdatedAt": "2021-01-27T17:37:50.082Z",
+    "description": "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.\n",
+    "backlink": {
+      "rect": "32:20:91:102",
+      "href": "https://webring.wonderful.software#blog.oatto.dev"
+    },
+    "lastUpdated": "2021-01-27T17:37:50.082Z",
+    "number": 47
   }
 }
