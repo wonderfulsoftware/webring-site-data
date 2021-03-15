@@ -652,5 +652,18 @@
     },
     "lastUpdated": "2021-03-14T17:41:00.115Z",
     "number": 50
+  },
+  "blog.kpping.me": {
+    "url": "https://blog.kpping.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.kpping.me_375w@2x.png",
+    "blurhash": "v5Ryy$02%Kj[I_R.t5WEt7NHfkWDXCRos.t6~RxsIpNG^sxVRnf5%Nj[NGxt",
+    "screenshotUpdatedAt": "2021-03-15T12:19:23.932Z",
+    "description": "My simple micro blog.",
+    "backlink": {
+      "rect": "16:21:12:2645.75",
+      "href": "https://webring.wonderful.software#blog.kpping.me"
+    },
+    "lastUpdated": "2021-03-15T12:19:23.932Z",
+    "number": 51
   }
 }
