@@ -632,14 +632,15 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "vFPsn=RQ%fNGG^oyMxs:00s:kqNH0pt6RPs;00t6xtR*$^ayM|n+00WBa#WV",
-    "screenshotUpdatedAt": "2021-08-05T17:30:37.676Z",
+    "blurhash": "vGP%CjRP%fR*P;oeR6s:00oebwNH0Vt6ROs:00t7tQR*$^j[M|ja00axoMWX",
+    "screenshotUpdatedAt": "2021-08-07T06:05:35.884Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2021-08-05T17:30:37.676Z"
+    "lastUpdated": "2021-08-07T06:05:35.884Z",
+    "number": 50
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -705,5 +706,18 @@
     },
     "lastUpdated": "2021-08-06T17:30:20.798Z",
     "number": 54
+  },
+  "jaruwat.fucking-thai.dev": {
+    "url": "https://jaruwat.fucking-thai.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jaruwat.fucking-thai.dev_375w@2x.png",
+    "blurhash": "vA8#88D*0K$_I7xnNLNLIUNM-ot356of?GRkE0t4xaRl_4ItInxVH;${R:N2",
+    "screenshotUpdatedAt": "2021-08-07T06:05:36.085Z",
+    "description": "I am Jaruwat Pohong, Desktop and Web Developer. (or just wanna be)\n Actually I am a student in Computer Science who would like to do anything about web design and frontend development.\n I usually play video games, listen to music and coding my mini project.",
+    "backlink": {
+      "rect": "32:32:333:10",
+      "href": "https://webring.wonderful.software#jaruwat.fucking-thai.dev"
+    },
+    "lastUpdated": "2021-08-07T06:05:36.085Z",
+    "number": 55
   }
 }
