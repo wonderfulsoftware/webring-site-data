@@ -732,5 +732,18 @@
     },
     "lastUpdated": "2021-09-02T17:32:21.574Z",
     "number": 56
+  },
+  "varkaria.tech": {
+    "url": "https://varkaria.tech",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/varkaria.tech_375w@2x.png",
+    "blurhash": "v26a*SV[00og-=ozRifP00t7?bRjIUt6xuWB_3j[IUof?bj@D%ofWBayayay",
+    "screenshotUpdatedAt": "2021-09-02T20:34:30.569Z",
+    "description": "just a frontend (full stack?) developer who like something interesting",
+    "backlink": {
+      "rect": "28:31:445:12.5",
+      "href": "https://webring.wonderful.software#varkaria.tech"
+    },
+    "lastUpdated": "2021-09-02T20:34:30.569Z",
+    "number": 57
   }
 }
