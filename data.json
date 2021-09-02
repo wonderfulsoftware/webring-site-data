@@ -419,11 +419,15 @@
   "mikkipastel.com": {
     "url": "https://www.mikkipastel.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mikkipastel.com_375w@2x.png",
-    "blurhash": "vGRyseWFaxxu-;V@kCof~XNFt7kBMyf+aekCo|jGkCafIUt7V@azWUofa{af",
-    "screenshotUpdatedAt": "2021-05-04T17:39:58.020Z",
-    "description": null,
-    "backlink": null,
-    "lastUpdated": "2021-05-04T17:39:58.020Z"
+    "blurhash": "vPIEYCouNFXRKko{j=sm~Wrst7WX?vN1%2sA=|nPR,S2?vS#M|oL_2WBkCWX",
+    "screenshotUpdatedAt": "2021-09-02T20:36:00.661Z",
+    "description": "Android developer & Blogger.\nบล็อก Android, Chatbot, Programming, lifestyle, สรุป Event และ Online Course ต่างๆ",
+    "backlink": {
+      "rect": "28.799999237060547:27.60000228881836:-13.5:53.04999923706055",
+      "href": "https://webring.wonderful.software#mikkipastel.com"
+    },
+    "lastUpdated": "2021-09-02T20:36:00.661Z",
+    "number": 33
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -745,5 +749,18 @@
     },
     "lastUpdated": "2021-09-02T20:34:30.569Z",
     "number": 57
+  },
+  "krit.life": {
+    "url": "https://krit.life",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/krit.life_375w@2x.png",
+    "blurhash": "vIS6Mcoc_NWFI9j?-;WEt8azWAj[.8WEIAoc?va$D%ob%gfkIUjrxaj[RjWC",
+    "screenshotUpdatedAt": "2021-09-02T20:36:10.088Z",
+    "description": "A brief history of my life",
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#krit.life"
+    },
+    "lastUpdated": "2021-09-02T20:36:10.088Z",
+    "number": 58
   }
 }
