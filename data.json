@@ -626,14 +626,15 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "v4Q,L6hf?auO00HCIVv300@@xtK*00qED*M000[VbYKj00K%IVic00MJ-:tl",
-    "screenshotUpdatedAt": "2021-10-26T17:29:16.389Z",
+    "blurhash": "vWPGX5rrt7S2*0SfaKn*00w^X8S3JWS$V[soIBxHWXWW4.X8jun%M|o0oeS3",
+    "screenshotUpdatedAt": "2021-10-28T12:00:41.862Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2021-10-26T17:29:16.389Z"
+    "lastUpdated": "2021-10-28T12:00:41.862Z",
+    "number": 50
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -712,14 +713,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25;t0?J5lM_OTacw^R+0wWR=aog}bxwK5n#+~nnOFS12lk6+]S6IUNGW-xD",
-    "screenshotUpdatedAt": "2021-10-23T17:29:10.412Z",
+    "blurhash": "v25;p]?J5lM_JiV?wwR+0dRz=Gog}bxcK5n#+~nnOFS12moZ+]S6IUNHbExD",
+    "screenshotUpdatedAt": "2021-10-28T12:01:26.458Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2021-10-23T17:29:10.412Z"
+    "lastUpdated": "2021-10-28T12:01:26.458Z",
+    "number": 56
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -772,5 +774,18 @@
     },
     "lastUpdated": "2021-10-27T17:30:37.569Z",
     "number": 55
+  },
+  "cwstory.com": {
+    "url": "http://cwstory.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/cwstory.com_375w@2x.png",
+    "blurhash": "vrPZ$8ayxuof~qoeRjWVD%WBt6j[t6ofWBay-;aeWBj[E1kCoeay%LayWCoL",
+    "screenshotUpdatedAt": "2021-10-28T12:01:41.459Z",
+    "description": "Software engineer personal blog base in Thailand. Who love to coding gadget technology and coffee. Let's take a look to my journey. Come on in!!!",
+    "backlink": {
+      "rect": "18:20.109375:249:971",
+      "href": "https://webring.wonderful.software#cwstory.com"
+    },
+    "lastUpdated": "2021-10-28T12:01:41.459Z",
+    "number": 60
   }
 }
