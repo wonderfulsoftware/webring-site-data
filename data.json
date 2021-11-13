@@ -792,5 +792,18 @@
     },
     "lastUpdated": "2021-11-13T17:29:26.770Z",
     "number": 55
+  },
+  "supavitk.com": {
+    "url": "http://supavitk.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/supavitk.com_375w@2x.png",
+    "blurhash": "v2SY{q00%N?b-;Rj4o?a?b%M9G%M-=~pD%ay0K^+ofoLoz?bRj%M~q-;M{-;",
+    "screenshotUpdatedAt": "2021-11-13T17:54:16.288Z",
+    "description": "About me",
+    "backlink": {
+      "rect": "32:21:16:672.6875",
+      "href": "https://webring.wonderful.software#supavitk.com"
+    },
+    "lastUpdated": "2021-11-13T17:54:16.288Z",
+    "number": 57
   }
 }
