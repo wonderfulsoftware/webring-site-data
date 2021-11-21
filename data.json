@@ -7,7 +7,7 @@
       "href": "https://webring.wonderful.software#dt.in.th"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/dt.in.th_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:18:10.558Z",
+    "lastUpdated": "2021-11-21T17:18:03.258Z",
     "url": "https://dt.in.th",
     "screenshotUpdatedAt": "2021-08-02T17:19:31.663Z",
     "number": 1
@@ -21,7 +21,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wonderful.software_375w@2x.png",
     "screenshotUpdatedAt": "2021-01-17T15:33:43.852Z",
-    "lastUpdated": "2021-11-20T17:17:57.647Z",
+    "lastUpdated": "2021-11-21T17:17:54.026Z",
     "url": "https://wonderful.software",
     "number": 0
   },
@@ -34,7 +34,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/notaboutcode.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-01-17T15:34:11.246Z",
-    "lastUpdated": "2021-11-20T17:18:30.699Z",
+    "lastUpdated": "2021-11-21T17:18:16.929Z",
     "url": "http://www.notaboutcode.com",
     "number": 2
   },
@@ -48,8 +48,7 @@
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-11-20T17:19:03.505Z",
     "lastUpdated": "2021-11-20T17:19:03.505Z",
-    "url": "https://monosor.dev",
-    "number": 3
+    "url": "https://monosor.dev"
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -60,7 +59,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-11-15T17:21:16.447Z",
-    "lastUpdated": "2021-11-20T17:19:24.149Z",
+    "lastUpdated": "2021-11-21T17:19:06.912Z",
     "url": "https://monosor.com",
     "number": 4
   },
@@ -72,7 +71,7 @@
       "href": "https://webring.wonderful.software#chrisza.me"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/chrisza.me_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:19:31.318Z",
+    "lastUpdated": "2021-11-21T17:19:13.994Z",
     "url": "https://chrisza.me",
     "screenshotUpdatedAt": "2021-10-23T17:17:41.284Z",
     "number": 5
@@ -85,7 +84,7 @@
       "href": "https://webring.wonderful.software/#srakrn.me"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/srakrn.me_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:19:47.477Z",
+    "lastUpdated": "2021-11-21T17:19:27.107Z",
     "url": "https://srakrn.me",
     "screenshotUpdatedAt": "2021-04-28T17:47:11.578Z",
     "number": 7
@@ -98,7 +97,7 @@
       "href": "https://webring.wonderful.software#unnawut.com"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/unnawut.com_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:19:37.060Z",
+    "lastUpdated": "2021-11-21T17:19:19.549Z",
     "url": "http://www.unnawut.com",
     "screenshotUpdatedAt": "2021-10-05T17:18:53.805Z",
     "number": 6
@@ -120,9 +119,9 @@
       "href": "https://webring.wonderful.software#ggolfz.me"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/ggolfz.codes_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:20:04.862Z",
+    "lastUpdated": "2021-11-21T17:19:42.147Z",
     "url": "https://ggolfz.me",
-    "screenshotUpdatedAt": "2021-11-20T17:20:04.862Z",
+    "screenshotUpdatedAt": "2021-11-21T17:19:42.147Z",
     "number": 8
   },
   "knowlats.dev": {
@@ -134,21 +133,21 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/knowlats.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-06-20T17:27:24.518Z",
-    "lastUpdated": "2021-11-20T17:20:18.497Z",
+    "lastUpdated": "2021-11-21T17:19:54.897Z",
     "url": "https://knowlats.dev",
     "number": 9
   },
   "petepittawat.dev": {
-    "blurhash": "vjPs-Xt6xua#_3RlRjoJa$s-WCaz9EWEt7oe_NocM{WVMxWEofoeRjoda#WC",
+    "blurhash": "vjPZ$At6xuWX~pRlRjocR-s-jsWDDhWEt7oe_NocM|WCMxWEofoeRks-azWC",
     "description": "A personal blog website by Pittawat Taveekitworachai. This blog is all about web and mobile technology.",
     "backlink": {
-      "rect": "32:20:171.5:6586.890625",
+      "rect": "32:20:171.5:6651.890625",
       "href": "https://webring.wonderful.software#petepittawat.dev"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/petepittawat.dev_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:20:35.319Z",
+    "lastUpdated": "2021-11-21T17:20:10.018Z",
     "url": "https://petepittawat.dev",
-    "screenshotUpdatedAt": "2021-11-20T17:20:35.319Z",
+    "screenshotUpdatedAt": "2021-11-21T17:20:10.018Z",
     "number": 10
   },
   "rayriffy.com": {
@@ -160,7 +159,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/rayriffy.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-08-10T17:22:02.358Z",
-    "lastUpdated": "2021-11-20T17:20:57.047Z",
+    "lastUpdated": "2021-11-21T17:20:30.879Z",
     "url": "https://rayriffy.com",
     "number": 12
   },
@@ -173,7 +172,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/kusumotolab.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-10-23T17:19:27.298Z",
-    "lastUpdated": "2021-11-20T17:21:14.113Z",
+    "lastUpdated": "2021-11-21T17:20:49.752Z",
     "url": "https://kusumotolab.com",
     "number": 13
   },
@@ -185,7 +184,7 @@
       "href": "https://webring.wonderful.software#neizod.dev"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/neizod.dev_375w@2x.png",
-    "lastUpdated": "2021-11-20T17:21:22.446Z",
+    "lastUpdated": "2021-11-21T17:20:58.099Z",
     "url": "https://neizod.dev",
     "screenshotUpdatedAt": "2021-11-19T17:21:37.987Z",
     "number": 14
@@ -199,7 +198,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wiput.me_375w@2x.png",
     "screenshotUpdatedAt": "2021-01-17T15:36:40.995Z",
-    "lastUpdated": "2021-11-20T17:21:27.464Z",
+    "lastUpdated": "2021-11-21T17:21:03.678Z",
     "url": "https://wiput.me",
     "number": 15
   },
@@ -212,7 +211,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jojoee.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-11-11T17:21:57.063Z",
-    "lastUpdated": "2021-11-20T17:20:42.752Z",
+    "lastUpdated": "2021-11-21T17:20:16.883Z",
     "url": "https://jojoee.com",
     "number": 11
   },
@@ -234,7 +233,7 @@
       "rect": "32:18:787:2828",
       "href": "https://webring.wonderful.software/#icez.net"
     },
-    "lastUpdated": "2021-11-20T17:21:59.196Z",
+    "lastUpdated": "2021-11-21T17:21:32.371Z",
     "url": "https://icez.net",
     "number": 17
   },
@@ -247,20 +246,20 @@
       "rect": null,
       "href": "https://webring.wonderful.software#kykungz.dev"
     },
-    "lastUpdated": "2021-11-20T17:22:12.901Z",
+    "lastUpdated": "2021-11-21T17:21:45.416Z",
     "url": "https://kykungz.dev",
     "number": 18
   },
   "jittagornp.me": {
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jittagornp.me_375w@2x.png",
-    "blurhash": "vFP?wB;4?HOX4;OmIojG4:pHIVnk00$j%2S200t7ofj[00nPxtX7?^ACIUwf",
-    "screenshotUpdatedAt": "2021-11-20T17:22:34.265Z",
+    "blurhash": "vFP?wB;4?HOX4;OmIojG4:pHIVnk00$j%2S100t7ofj[00nPxtX7?^ACIUwf",
+    "screenshotUpdatedAt": "2021-11-21T17:22:08.114Z",
     "description": "โดย จิตกร พิทักษ์เมธากุล",
     "backlink": {
       "rect": "30:30:281:13",
       "href": "https://webring.wonderful.software/#/jittagornp.me"
     },
-    "lastUpdated": "2021-11-20T17:22:34.265Z",
+    "lastUpdated": "2021-11-21T17:22:08.114Z",
     "url": "https://www.jittagornp.me",
     "number": 19
   },
@@ -273,7 +272,7 @@
       "rect": "20:20:177.5:2170",
       "href": "https://webring.wonderful.software#pandora.sh"
     },
-    "lastUpdated": "2021-11-20T17:22:54.738Z",
+    "lastUpdated": "2021-11-21T17:22:35.418Z",
     "url": "https://pandora.sh",
     "number": 20
   },
@@ -287,7 +286,7 @@
       "rect": "24:24:175.5:8576.640625",
       "href": "https://webring.wonderful.software#warat.win"
     },
-    "lastUpdated": "2021-11-20T17:23:01.162Z",
+    "lastUpdated": "2021-11-21T17:22:42.831Z",
     "number": 21
   },
   "poolsawat.com": {
@@ -300,7 +299,7 @@
       "rect": "32:22:171.5:27363",
       "href": "https://webring.wonderful.software#poolsawat.com"
     },
-    "lastUpdated": "2021-11-20T17:31:35.390Z",
+    "lastUpdated": "2021-11-21T17:30:23.317Z",
     "number": 56
   },
   "mymintrabbit.com": {
@@ -322,7 +321,7 @@
       "rect": "32:32:171.5:1848.046875",
       "href": "https://webring.wonderful.software#savepong.com"
     },
-    "lastUpdated": "2021-11-20T17:23:09.967Z",
+    "lastUpdated": "2021-11-21T17:22:52.927Z",
     "number": 22
   },
   "shayennn.com": {
@@ -335,7 +334,7 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#shayennn.com"
     },
-    "lastUpdated": "2021-11-20T17:23:28.138Z",
+    "lastUpdated": "2021-11-21T17:23:12.924Z",
     "number": 23
   },
   "mahasak.com": {
@@ -357,7 +356,7 @@
       "rect": "32:68:21:224",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2021-11-20T17:23:44.195Z",
+    "lastUpdated": "2021-11-21T17:23:25.898Z",
     "number": 24
   },
   "www.varokas.com": {
@@ -370,20 +369,20 @@
       "rect": null,
       "href": "https://webring.wonderful.software#www.varokas.com"
     },
-    "lastUpdated": "2021-11-20T17:24:14.186Z",
+    "lastUpdated": "2021-11-21T17:23:53.508Z",
     "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v8P?:i8_RjWVD%f,xtoe_3?bx]ax00M_IVbIDh9ZadoK~q?bxuWBx]xtofj]",
-    "screenshotUpdatedAt": "2021-11-19T17:24:21.857Z",
+    "blurhash": "v3Qcn|~V.84.00D*t6xa004nRj-;00_2NGM{?Fbx-pM{%h-oNGWX-;D%ayxu",
+    "screenshotUpdatedAt": "2021-11-21T17:23:39.301Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2021-11-20T17:23:59.216Z",
+    "lastUpdated": "2021-11-21T17:23:39.301Z",
     "number": 25
   },
   "doopdip.me": {
@@ -396,7 +395,7 @@
       "rect": "40:44:167.5:321",
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2021-11-20T17:24:21.002Z",
+    "lastUpdated": "2021-11-21T17:23:59.640Z",
     "number": 27
   },
   "dont.works": {
@@ -409,20 +408,20 @@
       "rect": "32:32:89:19",
       "href": "https://webring.wonderful.software/#/dont.works"
     },
-    "lastUpdated": "2021-11-20T17:21:43.194Z",
+    "lastUpdated": "2021-11-21T17:21:17.603Z",
     "number": 16
   },
   "mikkipastel.com": {
     "url": "https://www.mikkipastel.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mikkipastel.com_375w@2x.png",
-    "blurhash": "vpI5#yoxWBofH@k9WUbF~qjat6jbJ5ags;ja?IWCazWU%LbIR*j]%fWVa#WC",
-    "screenshotUpdatedAt": "2021-11-20T17:24:38.031Z",
+    "blurhash": "vpIFMQoxR%ofH@k9axay~qjGs:j[I.ahs;f6?IV[afWV%LbIR*j]%fWVa#WC",
+    "screenshotUpdatedAt": "2021-11-21T17:24:14.947Z",
     "description": "Android developer & Blogger.\nบล็อก Android, Chatbot, Programming, lifestyle, สรุป Event และ Online Course ต่างๆ",
     "backlink": {
       "rect": "28.799999237060547:27.60000228881836:-13.5:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2021-11-20T17:24:38.031Z",
+    "lastUpdated": "2021-11-21T17:24:14.947Z",
     "number": 28
   },
   "ntsd.me": {
@@ -432,7 +431,7 @@
     "screenshotUpdatedAt": "2021-03-13T17:37:48.925Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2021-11-20T17:24:43.041Z",
+    "lastUpdated": "2021-11-21T17:24:20.346Z",
     "number": 29
   },
   "pontakorn.dev": {
@@ -445,7 +444,7 @@
       "rect": "32:32:310.5:34",
       "href": "https://webring.wonderful.software#pontakorn.dev"
     },
-    "lastUpdated": "2021-11-20T17:25:00.475Z",
+    "lastUpdated": "2021-11-21T17:24:35.770Z",
     "number": 30
   },
   "wp.curve.in.th": {
@@ -458,7 +457,7 @@
       "rect": "360:32:7.5:60.5",
       "href": "https://webring.wonderful.software#wp.curve.in.th"
     },
-    "lastUpdated": "2021-11-20T17:25:13.350Z",
+    "lastUpdated": "2021-11-21T17:24:46.937Z",
     "number": 31
   },
   "adamblog.co": {
@@ -471,7 +470,7 @@
       "rect": "24:28.765625:239.5:10.6171875",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2021-11-20T17:25:26.792Z",
+    "lastUpdated": "2021-11-21T17:24:58.400Z",
     "number": 32
   },
   "pat.chormai.org": {
@@ -484,7 +483,7 @@
       "rect": "66:18:190.890625:4077.5625",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2021-11-20T17:25:36.070Z",
+    "lastUpdated": "2021-11-21T17:25:07.160Z",
     "number": 33
   },
   "curiousdev.in.th": {
@@ -497,20 +496,20 @@
       "rect": "32:61.1875:282.3125:47",
       "href": "https://webring.wonderful.software#curiousdev.in.th"
     },
-    "lastUpdated": "2021-11-20T17:25:43.083Z",
+    "lastUpdated": "2021-11-21T17:25:13.356Z",
     "number": 34
   },
   "heyfirst.co": {
     "url": "https://heyfirst.co",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/heyfirst.co_375w@2x.png",
-    "blurhash": "vASPRwr79WK+NRI9t.xl~EM^#Sr=%ypdM_NynfXfM}a1pt-ppGm@pbxTsrWU",
-    "screenshotUpdatedAt": "2021-11-20T17:26:09.849Z",
+    "blurhash": "vERpLHRpD+%C0^K1w5Vaf.^%nzkq?K^OSbcF%4nzRh9$IJa2NFTHXkkCxbRP",
+    "screenshotUpdatedAt": "2021-11-21T17:25:38.212Z",
     "description": "Front-end developer, JavaScript enthusiast, and course creator.",
     "backlink": {
       "rect": "16:18:347:42.5",
       "href": "https://webring.wonderful.software#heyfirst.co"
     },
-    "lastUpdated": "2021-11-20T17:26:09.849Z",
+    "lastUpdated": "2021-11-21T17:25:38.212Z",
     "number": 35
   },
   "wiennat.com": {
@@ -523,7 +522,7 @@
       "rect": "21:31:334.8125:3534.1875",
       "href": "https://webring.wonderful.software#wiennat.com"
     },
-    "lastUpdated": "2021-11-20T17:26:15.839Z",
+    "lastUpdated": "2021-11-21T17:25:43.483Z",
     "number": 36
   },
   "llun.me": {
@@ -536,7 +535,7 @@
       "rect": "26:26:145.5625:72.625",
       "href": "https://webring.wonderful.software#llun.me"
     },
-    "lastUpdated": "2021-11-20T17:26:29.795Z",
+    "lastUpdated": "2021-11-21T17:25:56.686Z",
     "number": 37
   },
   "t6tg.com": {
@@ -546,23 +545,23 @@
     "screenshotUpdatedAt": "2021-10-26T17:27:45.581Z",
     "description": "Thanawat Gulati • CSKMUNTB#32 | t6tg.com | Google Developer Student Clubs Lead | Microsoft Learn Student Ambassador (MLSA)",
     "backlink": {
-      "rect": "42.19451904296875:42.19451904296875:214.40274047851562:350.9027404785156",
+      "rect": "45.18568420410156:45.18572998046875:212.9071502685547:349.4071350097656",
       "href": "https://webring.wonderful.software#t6tg.com"
     },
-    "lastUpdated": "2021-11-20T17:26:47.969Z",
+    "lastUpdated": "2021-11-21T17:26:11.708Z",
     "number": 38
   },
   "thanapon.info": {
     "url": "https://thanapon.info",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thanapon.info_375w@2x.png",
-    "blurhash": "v0TSUA-;-;-;%MfQj[fQ-;ayD%j[%MfQayfQD%j[-;ayxufQoffQ-;ayD%j[",
-    "screenshotUpdatedAt": "2021-11-20T17:27:03.461Z",
+    "blurhash": "vrPGX0ng%MofMxjZWBa}_NR.Rkay.8bbWVf6M{oIoeoLofe.Rjj[%MWBWVj]",
+    "screenshotUpdatedAt": "2021-11-21T17:26:30.666Z",
     "description": "My knowledge and experiences",
     "backlink": {
       "rect": "75:62:300:60",
       "href": "https://webring.wonderful.software#thanapon.info"
     },
-    "lastUpdated": "2021-11-20T17:27:03.461Z",
+    "lastUpdated": "2021-11-21T17:26:30.666Z",
     "number": 39
   },
   "mr.touno.io": {
@@ -575,7 +574,7 @@
       "rect": "14:21:284.625:7750",
       "href": "https://webring.wonderful.software#mr.touno.io"
     },
-    "lastUpdated": "2021-11-20T17:27:27.475Z",
+    "lastUpdated": "2021-11-21T17:26:50.172Z",
     "number": 40
   },
   "suam.wtf": {
@@ -588,7 +587,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#suam.wtf"
     },
-    "lastUpdated": "2021-11-20T17:27:34.617Z",
+    "lastUpdated": "2021-11-21T17:26:57.024Z",
     "number": 41
   },
   "blog.oatto.dev": {
@@ -601,7 +600,7 @@
       "rect": "32:22:90:102",
       "href": "https://webring.wonderful.software#blog.oatto.dev"
     },
-    "lastUpdated": "2021-11-20T17:27:42.359Z",
+    "lastUpdated": "2021-11-21T17:27:03.796Z",
     "number": 42
   },
   "toupawa.com": {
@@ -614,7 +613,7 @@
       "rect": "18:22:261:19",
       "href": "https://webring.wonderful.software#toupawa.com"
     },
-    "lastUpdated": "2021-11-20T17:27:55.050Z",
+    "lastUpdated": "2021-11-21T17:27:14.044Z",
     "number": 43
   },
   "blog.karnwong.me": {
@@ -627,20 +626,20 @@
       "rect": "32:22:172:24",
       "href": "https://webring.wonderful.software#blog.karnwong.me"
     },
-    "lastUpdated": "2021-11-20T17:28:01.475Z",
+    "lastUpdated": "2021-11-21T17:27:21.467Z",
     "number": 44
   },
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "v9Q9=%VE.7Xm3GX,R5n500#SJWOr03pIrqix00#:WTS#NVS}N1nP00VsazX8",
-    "screenshotUpdatedAt": "2021-11-20T17:28:28.293Z",
+    "blurhash": "vAP%Izm-x]S~3Gk=R5ix00v}S%S~02b]V@rr00wJW:S#EcS#t6aL00i{oISg",
+    "screenshotUpdatedAt": "2021-11-21T17:27:47.792Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2021-11-20T17:28:28.293Z",
+    "lastUpdated": "2021-11-21T17:27:47.792Z",
     "number": 45
   },
   "blog.kpping.me": {
@@ -653,20 +652,20 @@
       "rect": "19.890625:21:16:3203.171875",
       "href": "https://webring.wonderful.software#blog.kpping.me"
     },
-    "lastUpdated": "2021-11-20T17:28:46.349Z",
+    "lastUpdated": "2021-11-21T17:28:02.087Z",
     "number": 46
   },
   "myifew.com": {
     "url": "https://myifew.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/myifew.com_375w@2x.png",
-    "blurhash": "vlO3|io}WBVt_MnPWBoz?DkDjYaxDPkqRkjFEkrqj[bvVtkWaxWB-.S5j]oI",
-    "screenshotUpdatedAt": "2021-11-20T17:29:03.062Z",
+    "blurhash": "v4SigQR,jY%MIS?b9Ft700?bITRkDixvITxb00xbkCt7~q?HITWB0JWA%MM{",
+    "screenshotUpdatedAt": "2021-11-21T17:28:11.127Z",
     "description": "Few Steps - ก้าวสั้นๆ แต่ไปเรื่อยๆ",
     "backlink": {
       "rect": "32:15:171.5:5324.015625",
       "href": "https://webring.wonderful.software#myifew.com"
     },
-    "lastUpdated": "2021-11-20T17:29:03.062Z",
+    "lastUpdated": "2021-11-21T17:28:11.127Z",
     "number": 47
   },
   "jungai.me": {
@@ -679,7 +678,7 @@
       "rect": "32:48:171.5:432",
       "href": "https://webring.wonderful.software#jungai.me"
     },
-    "lastUpdated": "2021-11-20T17:29:13.059Z",
+    "lastUpdated": "2021-11-21T17:28:20.146Z",
     "number": 48
   },
   "ntsd.dev": {
@@ -704,7 +703,7 @@
       "rect": "32:19:171.5:25011.75",
       "href": "https://webring.wonderful.software/#/bellmcp.work"
     },
-    "lastUpdated": "2021-11-20T17:29:20.795Z",
+    "lastUpdated": "2021-11-21T17:28:27.157Z",
     "number": 49
   },
   "jaruwat.fucking-thai.dev": {
@@ -726,8 +725,7 @@
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2021-11-20T17:30:20.385Z",
-    "number": 51
+    "lastUpdated": "2021-11-20T17:30:20.385Z"
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -739,7 +737,7 @@
       "rect": "28:31:445:12.5",
       "href": "https://webring.wonderful.software#varkaria.tech"
     },
-    "lastUpdated": "2021-11-20T17:30:41.406Z",
+    "lastUpdated": "2021-11-21T17:29:33.871Z",
     "number": 52
   },
   "krit.life": {
@@ -752,20 +750,20 @@
       "rect": null,
       "href": "https://webring.wonderful.software#krit.life"
     },
-    "lastUpdated": "2021-11-20T17:30:50.567Z",
+    "lastUpdated": "2021-11-21T17:29:43.792Z",
     "number": 53
   },
   "engineerbudge.xyz": {
     "url": "http://www.engineerbudge.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/engineerbudge.xyz_375w@2x.png",
-    "blurhash": "vWRpB[j@~qog%MayM{oexuoeIVWBWCWBt6ofRjj[kCf7?bj[ITWBRjj]kCWB",
-    "screenshotUpdatedAt": "2021-11-20T17:31:06.249Z",
+    "blurhash": "vWRpB[js~qof%MazM{oexuoeIVWBWCWBt6ofRjj[kCf7?boLITWBRjj]kCWB",
+    "screenshotUpdatedAt": "2021-11-21T17:29:59.260Z",
     "description": "Code is my life.",
     "backlink": {
       "rect": "48:64:327:-4",
       "href": "https://webring.wonderful.software#engineerbudge.xyz"
     },
-    "lastUpdated": "2021-11-20T17:31:06.249Z",
+    "lastUpdated": "2021-11-21T17:29:59.260Z",
     "number": 54
   },
   "jaruwat.dev": {
@@ -778,7 +776,7 @@
       "rect": "32:32:333:10",
       "href": "https://webring.wonderful.software#jaruwat.dev"
     },
-    "lastUpdated": "2021-11-20T17:29:37.780Z",
+    "lastUpdated": "2021-11-21T17:28:41.974Z",
     "number": 50
   },
   "cwstory.com": {
@@ -791,7 +789,7 @@
       "rect": "18:20.109375:249:971",
       "href": "https://webring.wonderful.software#cwstory.com"
     },
-    "lastUpdated": "2021-11-20T17:31:23.252Z",
+    "lastUpdated": "2021-11-21T17:30:14.534Z",
     "number": 55
   },
   "supavitk.com": {
@@ -804,7 +802,7 @@
       "rect": "32:21:16:672.6875",
       "href": "https://webring.wonderful.software#supavitk.com"
     },
-    "lastUpdated": "2021-11-20T17:31:44.455Z",
+    "lastUpdated": "2021-11-21T17:30:30.937Z",
     "number": 57
   },
   "dmg.st": {
@@ -817,7 +815,7 @@
       "rect": "375:52.5:0:11.5",
       "href": "https://webring.wonderful.software/#dmg.st"
     },
-    "lastUpdated": "2021-11-20T17:32:07.257Z",
+    "lastUpdated": "2021-11-21T17:30:51.450Z",
     "number": 58
   }
 }
