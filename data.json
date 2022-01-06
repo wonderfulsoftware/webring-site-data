@@ -47,8 +47,9 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-12-02T17:21:21.829Z",
-    "lastUpdated": "2022-01-03T17:24:11.169Z",
-    "url": "https://monosor.dev"
+    "lastUpdated": "2022-01-06T11:52:15.783Z",
+    "url": "https://monosor.dev",
+    "number": 3
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -815,5 +816,18 @@
     },
     "lastUpdated": "2022-01-05T17:36:08.088Z",
     "number": 58
+  },
+  "yume-dev.me": {
+    "url": "https://yume-dev.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yume-dev.me_375w@2x.png",
+    "blurhash": "vKQmI;bI~qoetRayRja|~qay4.bIxVf6Nefk4ma}-=jZS%a}ngj?%gayROj]",
+    "screenshotUpdatedAt": "2022-01-06T11:52:29.871Z",
+    "description": null,
+    "backlink": {
+      "rect": "103:72:16:0",
+      "href": "https://webring.wonderful.software#yume-dev.me"
+    },
+    "lastUpdated": "2022-01-06T11:52:29.871Z",
+    "number": 59
   }
 }
