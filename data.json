@@ -121,8 +121,7 @@
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/ggolfz.codes_375w@2x.png",
     "lastUpdated": "2022-01-27T17:17:40.451Z",
     "url": "https://ggolfz.me",
-    "screenshotUpdatedAt": "2022-01-25T17:18:33.904Z",
-    "number": 8
+    "screenshotUpdatedAt": "2022-01-25T17:18:33.904Z"
   },
   "knowlats.dev": {
     "blurhash": "v5RC_G4n-p%2~qxaRixaxuxuV@WBD%WBayt7M{WBRjR*bIkCRjRj%Mx]M{Rj",
@@ -431,8 +430,7 @@
     "screenshotUpdatedAt": "2021-03-13T17:37:48.925Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2022-01-27T17:22:16.840Z",
-    "number": 29
+    "lastUpdated": "2022-01-27T17:22:16.840Z"
   },
   "pontakorn.dev": {
     "url": "https://pontakorn.dev",
@@ -680,14 +678,15 @@
   "ntsd.dev": {
     "url": "https://ntsd.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/ntsd.dev_375w@2x.png",
-    "blurhash": "v+JRdWj[ayay9FayWBj[~qayoffQxuj[ofayt7WBj[oe?boeWBWBxuWBayof",
-    "screenshotUpdatedAt": "2021-10-24T17:24:00.981Z",
+    "blurhash": "v+JRdVfQf6ay9FayWBj[~qayt7j[xuj[j[ayt7WBj[of?bofWBWCt7WBayof",
+    "screenshotUpdatedAt": "2022-01-27T18:07:39.531Z",
     "description": "A full-stack software engineer who likes to learn, play, and develop things in software.",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2021-10-27T17:26:11.999Z"
+    "lastUpdated": "2022-01-27T18:07:39.531Z",
+    "number": 29
   },
   "bellmcp.work": {
     "url": "https://bellmcp.work",
@@ -714,14 +713,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25#9Q-?5SM_J5Rhs9R+0cRz=Gog}bt9K4n#+~jKOFS12moZ+]S6MxNabYxD",
-    "screenshotUpdatedAt": "2022-01-18T17:35:01.023Z",
+    "blurhash": "v25#9R?J5lM_JPRiwcR+0dRz=Gog}bt9K5n#+~nnOFS12moZ+]S6IUNabYxD",
+    "screenshotUpdatedAt": "2022-01-27T18:08:34.019Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2022-01-18T17:35:01.023Z"
+    "lastUpdated": "2022-01-27T18:08:34.019Z",
+    "number": 51
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -826,5 +826,18 @@
     },
     "lastUpdated": "2022-01-27T17:28:56.963Z",
     "number": 59
+  },
+  "ggolfz.me": {
+    "url": "https://ggolfz.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/ggolfz.me_375w@2x.png",
+    "blurhash": "v.MQ*Jj[xuj[IUWBofay~qj[Rjj[-;WBayayIUj[j[j[xuayfQayM{j[j[j[",
+    "screenshotUpdatedAt": "2022-01-27T18:07:27.953Z",
+    "description": "GGolfz",
+    "backlink": {
+      "rect": "20:20:22.125:580",
+      "href": "https://webring.wonderful.software#ggolfz.me"
+    },
+    "lastUpdated": "2022-01-27T18:07:27.953Z",
+    "number": 8
   }
 }
