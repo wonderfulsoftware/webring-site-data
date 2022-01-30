@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.1">
+  <head>
+    <title>วงแหวนเว็บ.ไทย</title>
+  </head>
+  <body>
+    <outline title="วงแหวนเว็บ.ไทย" text="วงแหวนเว็บ.ไทย">
+      <outline text="wonderful.software" title="wonderful.software" type="rss" xmlUrl="https://wonderful.software/rss.xml" htmlUrl="https://wonderful.software"/>
+      <outline text="dt.in.th" title="dt.in.th" type="rss" xmlUrl="https://notes.dt.in.th/api/recent.xml" htmlUrl="https://dt.in.th"/>
+      <outline text="notaboutcode.com" title="notaboutcode.com" type="rss" xmlUrl="http://www.notaboutcode.com/index.xml" htmlUrl="http://www.notaboutcode.com"/>
+      <outline text="chrisza.me" title="chrisza.me" type="rss" xmlUrl="https://chrisza.me/rss.xml" htmlUrl="https://chrisza.me"/>
+      <outline text="unnawut.com" title="unnawut.com" type="rss" xmlUrl="https://www.unnawut.com/index.xml" htmlUrl="http://www.unnawut.com"/>
+      <outline text="srakrn.me" title="srakrn.me" type="rss" xmlUrl="https://srakrn.me/bio/feed/" htmlUrl="https://srakrn.me"/>
+      <outline text="knowlats.dev" title="knowlats.dev" type="rss" xmlUrl="https://knowlats.dev/feed.xml" htmlUrl="https://knowlats.dev"/>
+      <outline text="petepittawat.dev" title="petepittawat.dev" type="rss" xmlUrl="https://petepittawat.dev/rss/" htmlUrl="https://petepittawat.dev"/>
+      <outline text="jojoee.com" title="jojoee.com" type="rss" xmlUrl="https://jojoee.com/feed/" htmlUrl="https://jojoee.com"/>
+      <outline text="kusumotolab.com" title="kusumotolab.com" type="rss" xmlUrl="https://kusumotolab.com/rss/" htmlUrl="https://kusumotolab.com"/>
+      <outline text="neizod.dev" title="neizod.dev" type="rss" xmlUrl="https://neizod.dev/feed.xml" htmlUrl="https://neizod.dev"/>
+      <outline text="dont.works" title="dont.works" type="rss" xmlUrl="https://i.dont.works/rss/" htmlUrl="https://dont.works"/>
+      <outline text="icez.net" title="icez.net" type="rss" xmlUrl="https://www.icez.net/blog/feed" htmlUrl="https://icez.net"/>
+      <outline text="pandora.sh" title="pandora.sh" type="rss" xmlUrl="https://pandora.sh/index.xml" htmlUrl="https://pandora.sh"/>
+      <outline text="shayennn.com" title="shayennn.com" type="rss" xmlUrl="https://shayennn.com/feed/" htmlUrl="https://shayennn.com"/>
+      <outline text="jitrak.dev" title="jitrak.dev" type="rss" xmlUrl="https://jitrak.dev/rss.xml" htmlUrl="https://jitrak.dev"/>
+      <outline text="somkiat.cc" title="somkiat.cc" type="rss" xmlUrl="https://www.somkiat.cc/feed/" htmlUrl="https://www.somkiat.cc"/>
+      <outline text="www.varokas.com" title="www.varokas.com" type="rss" xmlUrl="https://www.varokas.com/rss/" htmlUrl="https://www.varokas.com"/>
+      <outline text="doopdip.me" title="doopdip.me" type="rss" xmlUrl="https://doopdip.me/feed.xml" htmlUrl="https://doopdip.me"/>
+      <outline text="mikkipastel.com" title="mikkipastel.com" type="rss" xmlUrl="https://www.mikkipastel.com/rss/" htmlUrl="https://www.mikkipastel.com"/>
+      <outline text="ntsd.dev" title="ntsd.dev" type="rss" xmlUrl="https://ntsd.dev/feed.xml" htmlUrl="https://ntsd.dev"/>
+      <outline text="wp.curve.in.th" title="wp.curve.in.th" type="rss" xmlUrl="https://wp.curve.in.th/feed.xml" htmlUrl="https://wp.curve.in.th/"/>
+      <outline text="adamblog.co" title="adamblog.co" type="rss" xmlUrl="https://adamblog.co/feed/" htmlUrl="https://adamblog.co"/>
+      <outline text="heyfirst.co" title="heyfirst.co" type="rss" xmlUrl="https://heyfirst.co/rss.xml" htmlUrl="https://heyfirst.co"/>
+      <outline text="llun.me" title="llun.me" type="rss" xmlUrl="https://www.llun.me/feeds/atom.xml" htmlUrl="https://www.llun.me"/>
+      <outline text="t6tg.com" title="t6tg.com" type="rss" xmlUrl="https://t6tg.com/rss.xml" htmlUrl="https://t6tg.com"/>
+      <outline text="thanapon.info" title="thanapon.info" type="rss" xmlUrl="https://thanapon.info/feed/" htmlUrl="https://thanapon.info"/>
+      <outline text="suam.wtf" title="suam.wtf" type="rss" xmlUrl="https://suam.wtf/index.xml" htmlUrl="https://suam.wtf"/>
+      <outline text="blog.oatto.dev" title="blog.oatto.dev" type="rss" xmlUrl="https://blog.oatto.dev/feed.xml" htmlUrl="https://blog.oatto.dev"/>
+      <outline text="toupawa.com" title="toupawa.com" type="rss" xmlUrl="https://toupawa.com/rss/" htmlUrl="https://toupawa.com"/>
+      <outline text="blog.karnwong.me" title="blog.karnwong.me" type="rss" xmlUrl="https://blog.karnwong.me/rss/" htmlUrl="https://blog.karnwong.me"/>
+      <outline text="thiti.dev" title="thiti.dev" type="rss" xmlUrl="https://thiti.dev/rss.xml" htmlUrl="https://thiti.dev"/>
+      <outline text="blog.kpping.me" title="blog.kpping.me" type="rss" xmlUrl="https://blog.kpping.me/index.xml" htmlUrl="https://blog.kpping.me"/>
+      <outline text="myifew.com" title="myifew.com" type="rss" xmlUrl="https://myifew.com/feed/" htmlUrl="https://myifew.com"/>
+      <outline text="jungai.me" title="jungai.me" type="rss" xmlUrl="https://jungai.me/rss/feed.xml" htmlUrl="https://www.jungai.me"/>
+      <outline text="cwstory.com" title="cwstory.com" type="rss" xmlUrl="https://cwstory.com/rss/" htmlUrl="http://cwstory.com"/>
+      <outline text="poolsawat.com" title="poolsawat.com" type="rss" xmlUrl="https://www.poolsawat.com/feed/" htmlUrl="https://www.poolsawat.com"/>
+      <outline text="supavitk.com" title="supavitk.com" type="rss" xmlUrl="http://www.supavitk.com/feed.xml" htmlUrl="http://supavitk.com"/>
+      <outline text="dmg.st" title="dmg.st" type="rss" xmlUrl="https://dmg.st/feed/" htmlUrl="https://dmg.st"/>
+    </outline>
+  </body>
+</opml>
