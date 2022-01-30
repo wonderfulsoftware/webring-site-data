@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Spring Boot 3.0.0-M1 มาลองทดสอบกัน",
-    "url": "https://www.somkiat.cc/spring-boot-3-m1/",
-    "published": "2022-01-28T18:09:23.000Z"
+    "title": "ว่าง ๆ มาลอง Warp กันหน่อย",
+    "url": "https://www.somkiat.cc/hello-warp-terminal/",
+    "published": "2022-01-30T06:57:53.000Z"
+  },
+  {
+    "site": "pandora.sh",
+    "title": "CVE-2021-4034 — PwnKit",
+    "url": "https://pandora.sh/posts/cve-2021-4034-pwnkit/",
+    "published": "2022-01-30T05:55:16.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -19,7 +25,7 @@
   },
   {
     "site": "ntsd.dev",
-    "title": "How to manage multiple Git accounts on a single user",
+    "title": "How to manage multiple Git accounts",
     "url": "https://ntsd.dev/git-multiple-accounts/",
     "published": "2022-01-27T17:00:00.000Z"
   },
@@ -112,12 +118,6 @@
     "title": "แชร์วิธีการ mint/list งาน 10k collection โดยไม่ใช้ smart contract ครับ",
     "url": "https://jojoee.com/mint-and-list-10k-collection-without-smart-contract/",
     "published": "2021-10-06T01:00:12.000Z"
-  },
-  {
-    "site": "pandora.sh",
-    "title": "Economic of Offensive and Defensive Development",
-    "url": "https://pandora.sh/posts/economics-of-offensive-and-defensive-development/",
-    "published": "2021-09-05T09:42:34.000Z"
   },
   {
     "site": "kusumotolab.com",
