@@ -78,6 +78,12 @@
     "published": "2022-01-01T00:00:00.000Z"
   },
   {
+    "site": "jungai.me",
+    "title": "สรุปปี 2021 ที่ผ่านมา",
+    "url": "https://jungai.me/blogs/summary-2021",
+    "published": "2021-12-31T07:17:23.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "2021",
     "url": "https://www.llun.me/posts/2021-12-30-2021",
@@ -144,12 +150,6 @@
     "published": "2021-07-03T14:21:43.000Z"
   },
   {
-    "site": "jungai.me",
-    "title": "ประสบการณ์กับจอ 144hz",
-    "url": "https://jungai.me/blogs/144hz-monitor",
-    "published": "2021-06-03T12:58:59.000Z"
-  },
-  {
     "site": "toupawa.com",
     "title": "CRUD Rest API โดยใช้ Express ของ Node.js",
     "url": "https://toupawa.com/crud-rest-api-using-express-of-node-js/",
@@ -186,15 +186,15 @@
     "published": "2021-01-25T12:47:49.000Z"
   },
   {
+    "site": "notaboutcode.com",
+    "title": "เถียงเรื่อง Technical Design กันไม่จบซักที ทำไงดี?",
+    "url": "http://www.notaboutcode.com/post/29-technical-conflict-resolution/",
+    "published": "2020-06-11T05:04:02.000Z"
+  },
+  {
     "site": "unnawut.com",
     "title": "GenServer, Registry, DynamicSupervisor. Combined.",
     "url": "https://unnawut.com/posts/2019-10-05-genserver-registry-dynamic-supervisor-combined/",
     "published": "2019-10-04T17:34:00.000Z"
-  },
-  {
-    "site": "notaboutcode.com",
-    "title": "About",
-    "url": "http://www.notaboutcode.com/about/",
-    "published": "2017-08-20T13:38:52.000Z"
   }
 ]
