@@ -162,6 +162,12 @@
     "published": "2021-03-24T00:00:00.000Z"
   },
   {
+    "site": "wonderful.software",
+    "title": "Programming and motivation",
+    "url": "https://wonderful.software/programming-and-motivation/",
+    "published": "2021-03-14T00:00:00.000Z"
+  },
+  {
     "site": "knowlats.dev",
     "title": "แนะนำ SchemaSpy เครื่องมือทำเอกสาร Database",
     "url": "https://knowlats.dev/how-to-use-schemaspy/",
@@ -178,5 +184,11 @@
     "title": "GenServer, Registry, DynamicSupervisor. Combined.",
     "url": "https://unnawut.com/posts/2019-10-05-genserver-registry-dynamic-supervisor-combined/",
     "published": "2019-10-04T17:34:00.000Z"
+  },
+  {
+    "site": "notaboutcode.com",
+    "title": "About",
+    "url": "http://www.notaboutcode.com/about/",
+    "published": "2017-08-20T13:38:52.000Z"
   }
 ]
