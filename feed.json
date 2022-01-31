@@ -138,6 +138,12 @@
     "published": "2021-09-01T15:14:56.000Z"
   },
   {
+    "site": "heyfirst.co",
+    "title": "How to use test.todo() in Jest",
+    "url": "https://heyfirst.co/blog/how-to-use-test-todo-in-jest",
+    "published": "2021-08-03T00:00:00.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "Homebrew, Cask and mas-cli",
     "url": "https://jitrak.dev/homebrew-plus-cask-and-mas/",
