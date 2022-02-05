@@ -47,7 +47,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-12-02T17:21:21.829Z",
-    "lastUpdated": "2022-02-04T11:31:12.582Z",
+    "lastUpdated": "2022-02-05T07:44:54.572Z",
     "url": "https://monosor.dev",
     "number": 3
   },
@@ -631,14 +631,14 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "vYJ[Vbw@-;Sj9DS$xujF9Ks9NHX5~pNyM{nhRVslM{X95AW;jYag$|n$RnbH",
-    "screenshotUpdatedAt": "2022-02-04T11:31:33.344Z",
+    "blurhash": "vKP765rpoyT0~lOFe.rr00$eWqS$E1T0n~nO8|$zRkSh02Sis-jER3nhR-bb",
+    "screenshotUpdatedAt": "2022-02-05T07:45:10.906Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-02-04T11:31:33.344Z",
+    "lastUpdated": "2022-02-05T07:45:10.906Z",
     "number": 45
   },
   "blog.kpping.me": {
@@ -718,14 +718,14 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25;p]?J5lM_J$V?w^R+0dRz=Zog}bxdK5n#+~nnOFS12moZ+]S6IUNHbExD",
-    "screenshotUpdatedAt": "2022-02-04T11:32:52.505Z",
+    "blurhash": "v25#9Q-?5SM_J5ROs9R+0cRg=Gog}bt9J-n#+~jKOFS16^oZ,CS6MyNabYxD",
+    "screenshotUpdatedAt": "2022-02-05T07:45:52.013Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2022-02-04T11:32:52.505Z",
+    "lastUpdated": "2022-02-05T07:45:52.013Z",
     "number": 51
   },
   "varkaria.tech": {
@@ -857,5 +857,18 @@
     },
     "lastUpdated": "2022-02-05T00:47:29.512Z",
     "number": 60
+  },
+  "natdanai.me": {
+    "url": "https://natdanai.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/natdanai.me_375w@2x.png",
+    "blurhash": "vnQ9frj[.8a#iuofo#ay?wfkM|aeyEWBe-jZM{aenhj?t7WBM_ofxvWBWBof",
+    "screenshotUpdatedAt": "2022-02-05T07:46:07.529Z",
+    "description": "สมุดบันทึกเรื่องราวแต่ละช่วงเวลาของชีวิตไม่ว่าจะเป็น การทำงาน การเรียน การเดินทาง การท่องเที่ยว ผลงานการถ่ายภาพ ผลงานทำงาน โดยทุกอย่างจะถูกบันทึกไว้ในนี้ ",
+    "backlink": {
+      "rect": "12:21:45.5:5359.953125",
+      "href": "https://webring.wonderful.software#natdanai.me"
+    },
+    "lastUpdated": "2022-02-05T07:46:07.529Z",
+    "number": 61
   }
 }
