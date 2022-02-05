@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "สัมประสิทธิ์อเนกนาม และเหนือกว่าสามเหลี่ยมปัสกาล",
+    "url": "https://neizod.dev/2022/02/05/multinomial-coeff-pascal-triangle-and-beyond.html",
+    "published": "2022-02-05T12:57:38.000Z"
+  },
+  {
+    "site": "llun.me",
+    "title": "Apple Watch Browser",
+    "url": "https://www.llun.me/posts/dev/2022-02-05-apple-watch-browser",
+    "published": "2022-02-05T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "4 Feb 2022 23:43",
     "url": "https://myifew.com/6249/4-feb-2022-2343/",
@@ -28,12 +40,6 @@
     "title": "ลองติดตั้ง Docker บน Mac โดยไม่ใช้ Docker Desktop",
     "url": "https://www.somkiat.cc/goodbye-docker-desktop/",
     "published": "2022-02-03T09:29:07.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "เขียนหนึ่งเซตย่อยใน $\\binom{n}{r}$ ด้วยความเร็ว $O(r\\log n)$",
-    "url": "https://neizod.dev/2022/02/02/choose-in-rlogn-time.html",
-    "published": "2022-02-02T15:02:02.000Z"
   },
   {
     "site": "dt.in.th",
@@ -94,12 +100,6 @@
     "title": "สรุปปี 2021 ที่ผ่านมา",
     "url": "https://jungai.me/blogs/summary-2021",
     "published": "2021-12-31T07:17:23.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "2021",
-    "url": "https://www.llun.me/posts/2021-12-30-2021",
-    "published": "2021-12-30T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
@@ -212,7 +212,7 @@
   {
     "site": "notaboutcode.com",
     "title": "เถียงเรื่อง Technical Design กันไม่จบซักที ทำไงดี?",
-    "url": "http://www.notaboutcode.com/post/29-technical-conflict-resolution/",
+    "url": "https://www.notaboutcode.com/post/29-technical-conflict-resolution/",
     "published": "2020-06-11T05:04:02.000Z"
   },
   {

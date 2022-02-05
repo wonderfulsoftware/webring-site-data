@@ -870,5 +870,18 @@
     },
     "lastUpdated": "2022-02-05T07:46:07.529Z",
     "number": 61
+  },
+  "siriwatk.dev": {
+    "url": "https://siriwatk.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/siriwatk.dev_375w@2x.png",
+    "blurhash": "vtDU72kCM{a|.Tj[WBfQNGayt7j[IUf6t6ayWWj[jsayogj[WBj[jYa}azj[",
+    "screenshotUpdatedAt": "2022-02-05T16:45:22.323Z",
+    "description": "Welcome to my personal blog. This is where I share stuff from my discovery & experience.",
+    "backlink": {
+      "rect": "48:48:16:16",
+      "href": "https://webring.wonderful.software#siriwatk.dev"
+    },
+    "lastUpdated": "2022-02-05T16:45:22.323Z",
+    "number": 62
   }
 }
