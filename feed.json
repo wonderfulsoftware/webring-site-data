@@ -1,5 +1,17 @@
 [
   {
+    "site": "icez.net",
+    "title": "0252 | ปี 2022 ลง Linux Server ตัวไหนดี…",
+    "url": "https://www.icez.net/blog/167486/0252-linux-server-distro-selection",
+    "published": "2022-02-06T08:07:11.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เพิ่ม Micro SD Card ให้ Tab S7",
+    "url": "https://naiwaen.debuggingsoft.com/2022/02/samsung-tab-s7-add-micro-sd-card/",
+    "published": "2022-02-06T03:42:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "สัมประสิทธิ์อเนกนาม และเหนือกว่าสามเหลี่ยมปัสกาล",
     "url": "https://neizod.dev/2022/02/05/multinomial-coeff-pascal-triangle-and-beyond.html",
@@ -28,12 +40,6 @@
     "title": "ทดลองทำ React website แบบง่ายๆบน Vercel กันเถอะ",
     "url": "https://www.mikkipastel.com/simple-react-website-on-vercel/",
     "published": "2022-02-04T06:56:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AI-900] Short Note",
-    "url": "https://naiwaen.debuggingsoft.com/2022/02/ai-900-summary/",
-    "published": "2022-02-04T04:23:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -172,12 +178,6 @@
     "title": "CRUD Rest API โดยใช้ Express ของ Node.js",
     "url": "https://toupawa.com/crud-rest-api-using-express-of-node-js/",
     "published": "2021-05-24T01:00:00.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0251 | whmcs line notify แจ้งเตือน invoice",
-    "url": "https://www.icez.net/blog/167470/whmcs-line-notify-invoice",
-    "published": "2021-05-18T07:23:43.000Z"
   },
   {
     "site": "srakrn.me",

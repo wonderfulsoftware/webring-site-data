@@ -48,8 +48,7 @@
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-12-02T17:21:21.829Z",
     "lastUpdated": "2022-02-05T07:44:54.572Z",
-    "url": "https://monosor.dev",
-    "number": 3
+    "url": "https://monosor.dev"
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -631,14 +630,14 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "vKP765rpoyT0~lOFe.rr00$eWqS$E1T0n~nO8|$zRkSh02Sis-jER3nhR-bb",
-    "screenshotUpdatedAt": "2022-02-05T07:45:10.906Z",
+    "blurhash": "vPO4GCrqtPS$~lOYaenh00$fR-S$0gS$s,ni03xCWBX8E0ShayjFVXniR-W=",
+    "screenshotUpdatedAt": "2022-02-06T08:36:44.404Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-02-05T07:45:10.906Z",
+    "lastUpdated": "2022-02-06T08:36:44.404Z",
     "number": 45
   },
   "blog.kpping.me": {
@@ -718,14 +717,14 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25#9Q-?5SM_J5ROs9R+0cRg=Gog}bt9J-n#+~jKOFS16^oZ,CS6MyNabYxD",
-    "screenshotUpdatedAt": "2022-02-05T07:45:52.013Z",
+    "blurhash": "v25#9R?J5lM_JiV?wwR+0dRz=Gog}bxcK5n#+~nnOFS12moZ+]S6IUNHbExD",
+    "screenshotUpdatedAt": "2022-02-06T08:37:20.077Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2022-02-05T07:45:52.013Z",
+    "lastUpdated": "2022-02-06T08:37:20.077Z",
     "number": 51
   },
   "varkaria.tech": {
@@ -865,10 +864,10 @@
     "screenshotUpdatedAt": "2022-02-05T07:46:07.529Z",
     "description": "สมุดบันทึกเรื่องราวแต่ละช่วงเวลาของชีวิตไม่ว่าจะเป็น การทำงาน การเรียน การเดินทาง การท่องเที่ยว ผลงานการถ่ายภาพ ผลงานทำงาน โดยทุกอย่างจะถูกบันทึกไว้ในนี้ ",
     "backlink": {
-      "rect": "12:21:45.5:5359.953125",
+      "rect": "20:18:337:8673.15625",
       "href": "https://webring.wonderful.software#natdanai.me"
     },
-    "lastUpdated": "2022-02-05T07:46:07.529Z",
+    "lastUpdated": "2022-02-06T08:37:47.618Z",
     "number": 61
   },
   "siriwatk.dev": {
@@ -883,5 +882,18 @@
     },
     "lastUpdated": "2022-02-05T16:45:22.323Z",
     "number": 62
+  },
+  "anuwataravis.com": {
+    "url": "https://anuwataravis.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/anuwataravis.com_375w@2x.png",
+    "blurhash": "vFSF;Lay~qofayWBofof~qWBD%ofofayIUj[M{j[ayayRjj[%MayRjj[%MfQ",
+    "screenshotUpdatedAt": "2022-02-06T08:37:54.000Z",
+    "description": "anuwataravis.com share my blog , my note, my art, etc.",
+    "backlink": {
+      "rect": "48:52:28:93",
+      "href": "https://webring.wonderful.software#anuwataravis.com"
+    },
+    "lastUpdated": "2022-02-06T08:37:54.000Z",
+    "number": 63
   }
 }
