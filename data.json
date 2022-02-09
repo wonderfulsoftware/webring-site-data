@@ -47,8 +47,9 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-12-02T17:21:21.829Z",
-    "lastUpdated": "2022-02-08T00:43:58.822Z",
-    "url": "https://monosor.dev"
+    "lastUpdated": "2022-02-09T04:01:58.486Z",
+    "url": "https://monosor.dev",
+    "number": 3
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -630,14 +631,15 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "vPO4GCrqtPS$~lOYaenh00$fR-S$0gS$s,ni03xCWBX8E0ShayjFVXniR-W=",
-    "screenshotUpdatedAt": "2022-02-06T08:36:44.404Z",
+    "blurhash": "vNODw#rqtPS$~lOYaenh00$eNJS$4:S$s,nh03xDWUSh4:Sho1jF,+nhRnbb",
+    "screenshotUpdatedAt": "2022-02-09T04:02:30.476Z",
     "description": "Programmer & Bloger",
     "backlink": {
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-02-06T08:36:44.404Z"
+    "lastUpdated": "2022-02-09T04:02:30.476Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
