@@ -1,27 +1,33 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Move on",
+    "url": "https://myifew.com/6271/move-on/",
+    "published": "2022-02-12T15:06:20.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึก diagram สำหรับการ deploy ระบบบน Kubernetes",
+    "url": "https://www.somkiat.cc/diagram-deployment-kubernetes/",
+    "published": "2022-02-12T12:04:33.000Z"
+  },
+  {
+    "site": "notaboutcode.com",
+    "title": "Structured Logging คืออะไร ทำไมถึงเป็นที่นิยม",
+    "url": "https://www.notaboutcode.com/post/30-structured-logging/",
+    "published": "2022-02-12T05:04:02.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "วิธีการรับเหรียญไว้เทสใน Ropsten Ethereum",
     "url": "https://www.mikkipastel.com/get-eth-and-token-for-test-with-ropsten-ethereum-testnet-by-faucet/",
     "published": "2022-02-11T05:52:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Distributed Monolith",
-    "url": "https://www.somkiat.cc/distributed-monolith/",
-    "published": "2022-02-11T04:49:16.000Z"
-  },
-  {
     "site": "debuggingsoft.com",
     "title": "สิ่งที่ควรระวังเมื่อเลือกขาตั้งจอ",
     "url": "https://naiwaen.debuggingsoft.com/2022/02/monitor-arm-or-monitor-stand-checklist/",
     "published": "2022-02-10T23:56:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "9 Feb 2022 00:55",
-    "url": "https://myifew.com/6259/9-feb-2022-0055/",
-    "published": "2022-02-08T17:56:37.000Z"
   },
   {
     "site": "neizod.dev",
@@ -208,12 +214,6 @@
     "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
     "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
     "published": "2021-01-25T12:47:49.000Z"
-  },
-  {
-    "site": "notaboutcode.com",
-    "title": "เถียงเรื่อง Technical Design กันไม่จบซักที ทำไงดี?",
-    "url": "https://www.notaboutcode.com/post/29-technical-conflict-resolution/",
-    "published": "2020-06-11T05:04:02.000Z"
   },
   {
     "site": "unnawut.com",
