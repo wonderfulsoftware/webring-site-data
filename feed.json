@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[Azure] ใช้ CLI แล้ว Location มันเอาค่าอะไรมาใส่",
+    "url": "https://naiwaen.debuggingsoft.com/2022/02/azure-cli-list-locations/",
+    "published": "2022-02-13T10:18:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "Move on",
     "url": "https://myifew.com/6271/move-on/",
@@ -22,12 +28,6 @@
     "title": "วิธีการรับเหรียญไว้เทสใน Ropsten Ethereum",
     "url": "https://www.mikkipastel.com/get-eth-and-token-for-test-with-ropsten-ethereum-testnet-by-faucet/",
     "published": "2022-02-11T05:52:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สิ่งที่ควรระวังเมื่อเลือกขาตั้งจอ",
-    "url": "https://naiwaen.debuggingsoft.com/2022/02/monitor-arm-or-monitor-stand-checklist/",
-    "published": "2022-02-10T23:56:00.000Z"
   },
   {
     "site": "neizod.dev",
