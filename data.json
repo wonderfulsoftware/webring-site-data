@@ -47,8 +47,9 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2021-12-02T17:21:21.829Z",
-    "lastUpdated": "2022-02-12T00:46:52.733Z",
-    "url": "https://monosor.dev"
+    "lastUpdated": "2022-02-14T07:07:37.734Z",
+    "url": "https://monosor.dev",
+    "number": 3
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -637,7 +638,8 @@
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-02-10T00:53:38.355Z"
+    "lastUpdated": "2022-02-14T07:07:59.645Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -894,5 +896,18 @@
     },
     "lastUpdated": "2022-02-14T00:55:44.845Z",
     "number": 63
+  },
+  "yothinix.com": {
+    "url": "https://yothinix.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yothinix.com_375w@2x.png",
+    "blurhash": "vMKnbzNFkXoL00t7WBj[.8e:MxR*9FbHR+WB9GR*t7oe_NjZt6of%LjZWBR*",
+    "screenshotUpdatedAt": "2022-02-14T07:08:11.870Z",
+    "description": "Banana is not apple, If you know what I mean 😏",
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#yothinix.com"
+    },
+    "lastUpdated": "2022-02-14T07:08:11.870Z",
+    "number": 64
   }
 }
