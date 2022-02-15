@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "IOI 1995: สายไฟและสวิตช์",
+    "url": "https://neizod.dev/2022/02/14/ioi-1995-wires-and-switches.html",
+    "published": "2022-02-14T11:03:20.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการอ่านหนังสือ Clean Architecture ในบทที่ 1 เรื่องของ Architecture",
+    "url": "https://www.somkiat.cc/book-design-and-architecture/",
+    "published": "2022-02-14T08:50:58.000Z"
+  },
+  {
     "site": "cwstory.com",
     "title": "เอาเวลาชีวิตของคุณกลับคืนมาด้วย Social Network Detox",
     "url": "https://cwstory.com/%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-social-network-detox-8f4eecbb4586?source=rss----1f62a4110224---4",
@@ -24,12 +36,6 @@
     "published": "2022-02-12T15:06:20.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "บันทึก diagram สำหรับการ deploy ระบบบน Kubernetes",
-    "url": "https://www.somkiat.cc/diagram-deployment-kubernetes/",
-    "published": "2022-02-12T12:04:33.000Z"
-  },
-  {
     "site": "notaboutcode.com",
     "title": "Structured Logging คืออะไร ทำไมถึงเป็นที่นิยม",
     "url": "https://www.notaboutcode.com/post/30-structured-logging/",
@@ -40,12 +46,6 @@
     "title": "วิธีการรับเหรียญไว้เทสใน Ropsten Ethereum",
     "url": "https://www.mikkipastel.com/get-eth-and-token-for-test-with-ropsten-ethereum-testnet-by-faucet/",
     "published": "2022-02-11T05:52:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "แก้โจทย์สัมภาษณ์งาน รวมพลังเซิร์ฟเวอร์ $O(n \\log n)$",
-    "url": "https://neizod.dev/2022/02/09/interview-question-sum-server-power.html",
-    "published": "2022-02-08T17:05:55.000Z"
   },
   {
     "site": "llun.me",
