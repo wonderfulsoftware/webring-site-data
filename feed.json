@@ -1,15 +1,39 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] ขาตั้งจอคอม E-Life",
+    "url": "https://naiwaen.debuggingsoft.com/2022/02/cr-e-life-monitor-arm-monitor-stand/",
+    "published": "2022-02-15T14:08:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "After Valentine 2022",
+    "url": "https://myifew.com/6289/after-valentine-2022/",
+    "published": "2022-02-15T10:44:58.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปเรื่อง Coupling สำหรับการออกแบบ service",
+    "url": "https://www.somkiat.cc/service-coupling-problems/",
+    "published": "2022-02-15T05:22:40.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Disabling an App Engine service without also disabling Firestore",
+    "url": "https://notes.dt.in.th/20220215T075203Z1549",
+    "published": "2022-02-15T00:00:00.000Z"
+  },
+  {
+    "site": "llun.me",
+    "title": "👋 Singapore",
+    "url": "https://www.llun.me/posts/2022-02-15-bye-singapore",
+    "published": "2022-02-15T00:00:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "IOI 1995: สายไฟและสวิตช์",
     "url": "https://neizod.dev/2022/02/14/ioi-1995-wires-and-switches.html",
     "published": "2022-02-14T11:03:20.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการอ่านหนังสือ Clean Architecture ในบทที่ 1 เรื่องของ Architecture",
-    "url": "https://www.somkiat.cc/book-design-and-architecture/",
-    "published": "2022-02-14T08:50:58.000Z"
   },
   {
     "site": "cwstory.com",
@@ -18,22 +42,10 @@
     "published": "2022-02-14T04:54:31.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[Azure] ใช้ CLI แล้ว Location มันเอาค่าอะไรมาใส่",
-    "url": "https://naiwaen.debuggingsoft.com/2022/02/azure-cli-list-locations/",
-    "published": "2022-02-13T10:18:00.000Z"
-  },
-  {
     "site": "yothinix.com",
     "title": "ถามยังไงให้ง่ายกับคนตอบ ตอบยังไงให้ง่ายกับคนถาม",
     "url": "https://yothinix.com/how-to-ask/",
     "published": "2022-02-13T06:18:38.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "Move on",
-    "url": "https://myifew.com/6271/move-on/",
-    "published": "2022-02-12T15:06:20.000Z"
   },
   {
     "site": "notaboutcode.com",
@@ -48,12 +60,6 @@
     "published": "2022-02-11T05:52:00.000Z"
   },
   {
-    "site": "llun.me",
-    "title": "Javascript unicode text splitting",
-    "url": "https://www.llun.me/posts/dev/2022-02-08-javascript-unicode-text-splitting",
-    "published": "2022-02-08T00:00:00.000Z"
-  },
-  {
     "site": "icez.net",
     "title": "0252 | ปี 2022 ลง Linux Server ตัวไหนดี…",
     "url": "https://www.icez.net/blog/167486/0252-linux-server-distro-selection",
@@ -64,12 +70,6 @@
     "title": "บริหารพอร์ต Cryptocurrency ยังไง",
     "url": "https://natdanai.me/management-crypto/",
     "published": "2022-02-04T16:56:59.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "TIL: pgrep and pkill",
-    "url": "https://notes.dt.in.th/20220204T170710Z2789",
-    "published": "2022-02-04T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
