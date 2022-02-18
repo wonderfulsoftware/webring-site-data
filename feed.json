@@ -6,6 +6,12 @@
     "published": "2022-02-17T00:44:00.000Z"
   },
   {
+    "site": "llun.me",
+    "title": "Test & Go",
+    "url": "https://www.llun.me/posts/2022-02-17-test-and-go-thailand",
+    "published": "2022-02-17T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "GitHub :: เขียน diagram ด้วย Markdown ได้แล้ว",
     "url": "https://www.somkiat.cc/github-diagram-with-markdown/",
@@ -21,12 +27,6 @@
     "site": "dt.in.th",
     "title": "Disabling an App Engine service without also disabling Firestore",
     "url": "https://notes.dt.in.th/20220215T075203Z1549",
-    "published": "2022-02-15T00:00:00.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "👋 Singapore",
-    "url": "https://www.llun.me/posts/2022-02-15-bye-singapore",
     "published": "2022-02-15T00:00:00.000Z"
   },
   {
