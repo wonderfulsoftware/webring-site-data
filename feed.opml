@@ -48,6 +48,7 @@
       <outline text="natdanai.me" title="natdanai.me" type="rss" xmlUrl="https://natdanai.me/feed/" htmlUrl="https://natdanai.me"/>
       <outline text="yothinix.com" title="yothinix.com" type="rss" xmlUrl="https://yothinix.com/rss/" htmlUrl="https://yothinix.com"/>
       <outline text="tech.duckfollow.co" title="tech.duckfollow.co" type="rss" xmlUrl="https://tech.duckfollow.co/rss.xml" htmlUrl="https://tech.duckfollow.co"/>
+      <outline text="nitpum.com" title="nitpum.com" type="rss" xmlUrl="https://nitpum.com/index.xml" htmlUrl="https://nitpum.com"/>
     </outline>
   </body>
 </opml>

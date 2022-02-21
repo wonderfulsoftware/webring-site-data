@@ -915,5 +915,18 @@
     },
     "lastUpdated": "2022-02-21T08:59:08.518Z",
     "number": 65
+  },
+  "nitpum.com": {
+    "url": "https://nitpum.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nitpum.com_375w@2x.png",
+    "blurhash": "voGk,+ibS1g3}re9kCf+n$jsj[j[5mkqn%n$4-o}ofn$EMkWj[o0bHj@jtjs",
+    "screenshotUpdatedAt": "2022-02-21T12:09:58.326Z",
+    "description": "nitpum blog",
+    "backlink": {
+      "rect": "24:33:255.5:4279",
+      "href": "https://webring.wonderful.software#nitpum.com"
+    },
+    "lastUpdated": "2022-02-21T12:09:58.326Z",
+    "number": 66
   }
 }
