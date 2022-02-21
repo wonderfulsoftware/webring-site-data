@@ -47,6 +47,7 @@
       <outline text="debuggingsoft.com" title="debuggingsoft.com" type="rss" xmlUrl="https://naiwaen.debuggingsoft.com/feed/" htmlUrl="https://debuggingsoft.com"/>
       <outline text="natdanai.me" title="natdanai.me" type="rss" xmlUrl="https://natdanai.me/feed/" htmlUrl="https://natdanai.me"/>
       <outline text="yothinix.com" title="yothinix.com" type="rss" xmlUrl="https://yothinix.com/rss/" htmlUrl="https://yothinix.com"/>
+      <outline text="tech.duckfollow.co" title="tech.duckfollow.co" type="rss" xmlUrl="https://tech.duckfollow.co/rss.xml" htmlUrl="https://tech.duckfollow.co"/>
     </outline>
   </body>
 </opml>
