@@ -637,7 +637,8 @@
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-02-21T08:58:39.734Z"
+    "lastUpdated": "2022-02-25T12:50:03.433Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -716,14 +717,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25#9Q-?5SM_J5Rhs9R+0cRg=Gog}bt9J-n#+~jKOFS12moZ+]S6MxNabYxD",
-    "screenshotUpdatedAt": "2022-02-24T01:01:16.641Z",
+    "blurhash": "v25#9Q-?5SM_J5ROs9R+0cRg=Gog}bt9J-n#+~jKOFS16^oZ,CS6MxNabYxD",
+    "screenshotUpdatedAt": "2022-02-25T12:50:40.620Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2022-02-24T01:01:16.641Z"
+    "lastUpdated": "2022-02-25T12:50:40.620Z",
+    "number": 51
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -940,7 +942,20 @@
       "rect": "80.96875:19:817.546875:277",
       "href": "https://webring.wonderful.software/#mesodiar.com"
     },
-    "lastUpdated": "2022-02-24T16:14:00.440Z",
+    "lastUpdated": "2022-02-25T12:50:57.582Z",
     "number": 67
+  },
+  "bigdatarpg.com": {
+    "url": "https://bigdatarpg.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/bigdatarpg.com_375w@2x.png",
+    "blurhash": "vsJR~?n#Ribb_3WBfls:~VogbHj@Vroeaza#tSWBa}s,D%oJWBbIkDj]WBj[",
+    "screenshotUpdatedAt": "2022-02-25T12:51:20.196Z",
+    "description": "EXP = Learning + Doing",
+    "backlink": {
+      "rect": "94.359375:23:199.8125:120",
+      "href": "https://webring.wonderful.software/"
+    },
+    "lastUpdated": "2022-02-25T12:51:20.196Z",
+    "number": 68
   }
 }

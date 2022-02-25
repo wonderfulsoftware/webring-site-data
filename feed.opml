@@ -50,6 +50,7 @@
       <outline text="tech.duckfollow.co" title="tech.duckfollow.co" type="rss" xmlUrl="https://tech.duckfollow.co/rss.xml" htmlUrl="https://tech.duckfollow.co"/>
       <outline text="nitpum.com" title="nitpum.com" type="rss" xmlUrl="https://nitpum.com/index.xml" htmlUrl="https://nitpum.com"/>
       <outline text="mesodiar.com" title="mesodiar.com" type="rss" xmlUrl="https://medium.com/feed/mils-blog" htmlUrl="https://mesodiar.com"/>
+      <outline text="bigdatarpg.com" title="bigdatarpg.com" type="rss" xmlUrl="https://bigdatarpg.com/feed/" htmlUrl="https://bigdatarpg.com"/>
     </outline>
   </body>
 </opml>
