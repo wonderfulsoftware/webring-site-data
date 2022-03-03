@@ -60,8 +60,7 @@
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.com_375w@2x.png",
     "screenshotUpdatedAt": "2021-11-15T17:21:16.447Z",
     "lastUpdated": "2022-03-03T00:53:35.202Z",
-    "url": "https://monosor.com",
-    "number": 4
+    "url": "https://monosor.com"
   },
   "chrisza.me": {
     "blurhash": "v7R3Zk00xZRj00Inxu%M00%gW=%M00%2IAIU00xaIUIA0J_N-;R*00%MxuWB",
@@ -861,10 +860,11 @@
     "screenshotUpdatedAt": "2022-02-05T07:46:07.529Z",
     "description": "สมุดบันทึกเรื่องราวแต่ละช่วงเวลาของชีวิตไม่ว่าจะเป็น การทำงาน การเรียน การเดินทาง การท่องเที่ยว ผลงานการถ่ายภาพ ผลงานทำงาน โดยทุกอย่างจะถูกบันทึกไว้ในนี้ ",
     "backlink": {
-      "rect": "20:18:337:8428.15625",
+      "rect": "20:18:337:8673.15625",
       "href": "https://webring.wonderful.software#natdanai.me"
     },
-    "lastUpdated": "2022-03-02T01:05:44.022Z"
+    "lastUpdated": "2022-03-03T16:26:59.457Z",
+    "number": 61
   },
   "siriwatk.dev": {
     "url": "https://siriwatk.dev",
@@ -956,5 +956,18 @@
     },
     "lastUpdated": "2022-03-03T01:07:58.711Z",
     "number": 68
+  },
+  "garden.narze.live": {
+    "url": "https://garden.narze.live",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/garden.narze.live_375w@2x.png",
+    "blurhash": "v3S6JV00xu?bxtRiNGWCxuM{V@t79FxaxuIU?bWCE1xa~q-;RiIV-;x]RkoL",
+    "screenshotUpdatedAt": "2022-03-03T16:26:38.438Z",
+    "description": "My new digital garden, built with Obsidian & Quartz",
+    "backlink": {
+      "rect": "323.765625:44:18.75:854.75",
+      "href": "https://webring.wonderful.software#garden.narze.live"
+    },
+    "lastUpdated": "2022-03-03T16:26:38.438Z",
+    "number": 4
   }
 }
