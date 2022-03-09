@@ -636,7 +636,8 @@
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-03-04T06:11:40.809Z"
+    "lastUpdated": "2022-03-09T11:22:51.438Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -715,14 +716,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25#9Q-?5SM_J5Rhs9R+0cRz=Gog}bt9J-n#+~jKOFS16^oZ,CS6MxNabYxD",
-    "screenshotUpdatedAt": "2022-03-06T01:00:21.183Z",
+    "blurhash": "v25;t0?J5lM_J$V?w^R+0dR#=Zog}bxdK5n#+~nnOFS12moZ+]S6IUNHbExD",
+    "screenshotUpdatedAt": "2022-03-09T11:23:29.511Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:6787.8125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2022-03-06T01:00:21.184Z"
+    "lastUpdated": "2022-03-09T11:23:29.511Z",
+    "number": 51
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -964,5 +966,18 @@
     },
     "lastUpdated": "2022-03-09T00:51:49.775Z",
     "number": 4
+  },
+  "janescience.com": {
+    "url": "https://janescience.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/janescience.com_375w@2x.png",
+    "blurhash": "vFCi~@IV01s7~VD%E2s,D*t6xtRl01-;-oNe00t6%MtRRjRjRj%2-:t8WYV?",
+    "screenshotUpdatedAt": "2022-03-09T11:23:29.781Z",
+    "description": "A starter blog demonstrating what Gatsby can do.",
+    "backlink": {
+      "rect": "20:29:331:601",
+      "href": "https://webring.wonderful.software#janescience.com"
+    },
+    "lastUpdated": "2022-03-09T11:23:29.781Z",
+    "number": 69
   }
 }
