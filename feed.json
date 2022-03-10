@@ -1,5 +1,11 @@
 [
   {
+    "site": "janescience.com",
+    "title": "ลองทำ Liquibase + Spring Boot",
+    "url": "https://janescience.com/db-changelog/",
+    "published": "2022-03-09T22:12:03.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "อธิบายการใช้งาน @InjectMocks",
     "url": "https://www.somkiat.cc/injectmocks-vs-mock-inmockito/",

@@ -51,6 +51,7 @@
       <outline text="nitpum.com" title="nitpum.com" type="rss" xmlUrl="https://nitpum.com/index.xml" htmlUrl="https://nitpum.com"/>
       <outline text="mesodiar.com" title="mesodiar.com" type="rss" xmlUrl="https://medium.com/feed/mils-blog" htmlUrl="https://mesodiar.com"/>
       <outline text="bigdatarpg.com" title="bigdatarpg.com" type="rss" xmlUrl="https://bigdatarpg.com/feed/" htmlUrl="https://bigdatarpg.com"/>
+      <outline text="janescience.com" title="janescience.com" type="rss" xmlUrl="https://janescience.com/rss.xml" htmlUrl="https://janescience.com"/>
     </outline>
   </body>
 </opml>
