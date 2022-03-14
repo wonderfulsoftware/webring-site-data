@@ -1,5 +1,11 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "ทำความเข้าใจ OAuth2.0 คืออะไร?",
+    "url": "https://tech.duckfollow.co/view/oauth2",
+    "published": "2022-03-13T13:00:02.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[MS Cert] บันทึกการสอบ AZ-204",
     "url": "https://naiwaen.debuggingsoft.com/2022/03/microsoft-certification-exam-az-204-note/",
@@ -34,12 +40,6 @@
     "title": "Big Data file formats: ทำความรู้จัก Avro, Parquet และ ORC",
     "url": "https://mesodiar.com/big-data-file-formats-%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81-avro-parquet-%E0%B9%81%E0%B8%A5%E0%B8%B0-orc-1b03d0f4646?source=rss----698ac1e5dc8c---4",
     "published": "2022-03-07T14:23:30.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "อะไรคือ Web Architecture Design?",
-    "url": "https://tech.duckfollow.co/view/web-architecture",
-    "published": "2022-03-06T13:00:02.000Z"
   },
   {
     "site": "suam.wtf",
