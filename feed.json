@@ -1,9 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "การใช้งาน Go workspace ใน Go 1.18",
+    "url": "https://www.somkiat.cc/update-go-workspace-in-go-1-18/",
+    "published": "2022-03-20T06:17:17.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "สรุปงาน Global AI Bootcamp – Thailand 2022",
     "url": "https://naiwaen.debuggingsoft.com/2022/03/global-ai-bootcamp-thailand-2022/",
     "published": "2022-03-19T09:00:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Dev Mountain Tech Fest Notes",
+    "url": "https://garden.narze.live/Dev-Mountain-Tech-Fest-Notes/",
+    "published": "2022-03-18T17:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -22,12 +34,6 @@
     "title": "EMERGENT LEADERSHIP: สิ่งสำคัญที่สุดที่ได้เรียนรู้ตลอด 3 ปีที่ผ่านมา",
     "url": "https://yothinix.com/emergent-leadership/",
     "published": "2022-03-17T05:52:30.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Go 1.18 ตัวเต็มออกมาแล้ววว",
-    "url": "https://www.somkiat.cc/go-1-18-release/",
-    "published": "2022-03-17T05:26:30.000Z"
   },
   {
     "site": "nitpum.com",
