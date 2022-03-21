@@ -1,5 +1,11 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "แบ่งมุมเป็นสามส่วนเท่าด้วยโอริกามิ",
+    "url": "https://neizod.dev/2022/03/20/origami-angle-trisection.html",
+    "published": "2022-03-20T14:42:55.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การใช้งาน Go workspace ใน Go 1.18",
     "url": "https://www.somkiat.cc/update-go-workspace-in-go-1-18/",
@@ -40,12 +46,6 @@
     "title": "เปลี่ยนปุ่ม Caps Lock ให้เป็น Escape",
     "url": "https://nitpum.com/post/remap-capslock-to-escape/",
     "published": "2022-03-14T19:06:36.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "จำนวนเฉพาะและข้อจำกัดของไทป์จุดตรึงใน Haskell",
-    "url": "https://neizod.dev/2022/03/14/primes-and-fixed-point-type-limitation-haskell.html",
-    "published": "2022-03-14T07:07:21.000Z"
   },
   {
     "site": "mikkipastel.com",
