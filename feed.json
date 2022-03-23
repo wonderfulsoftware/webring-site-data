@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[C#] Named Pipe เชื่อม VB6 กับ .NET",
+    "url": "https://naiwaen.debuggingsoft.com/2022/03/c-vb6-app-communicate-with-net-via-named-pipe/",
+    "published": "2022-03-23T00:09:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สรุป Lifelong Journey as a Software Engineer จากงาน Dev Mountain Tech Festival",
     "url": "https://www.mikkipastel.com/lifelong-journey-as-a-software-engineer-dev-mountain-tech-festival/",
@@ -16,12 +22,6 @@
     "title": "การใช้งาน Go workspace ใน Go 1.18",
     "url": "https://www.somkiat.cc/update-go-workspace-in-go-1-18/",
     "published": "2022-03-20T06:17:17.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Global AI Bootcamp – Thailand 2022",
-    "url": "https://naiwaen.debuggingsoft.com/2022/03/global-ai-bootcamp-thailand-2022/",
-    "published": "2022-03-19T09:00:00.000Z"
   },
   {
     "site": "garden.narze.live",
