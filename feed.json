@@ -1,15 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปเรื่องการใช้ภาษา Go ที่ Bit.ly",
+    "url": "https://www.somkiat.cc/golang-at-bitly/",
+    "published": "2022-03-28T10:39:06.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "5 main database genres and CAP theorem",
     "url": "https://mesodiar.com/5-main-database-genres-and-cap-theorem-eee4457d36b0?source=rss----698ac1e5dc8c---4",
     "published": "2022-03-27T10:59:57.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าง ๆ มาติดตั้ง Apache Kafka แบบไม่มี zookeeper แก้เบื่อกัน (KRaft)",
-    "url": "https://www.somkiat.cc/setup-kafka-without-zookeeper-kraft/",
-    "published": "2022-03-27T03:59:58.000Z"
   },
   {
     "site": "tech.duckfollow.co",
