@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาดู Software Architecture and Design InfoQ Trends Report :: April 2022",
+    "url": "https://www.somkiat.cc/software-architecture-and-design-infoq-trends-report-april-2022/",
+    "published": "2022-04-09T04:28:26.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[AZ-204] Develop event-based solutions",
-    "url": "https://naiwaen.debuggingsoft.com/2022/04/az-204-develop-event-based-solutions/",
-    "published": "2022-04-07T15:07:00.000Z"
+    "title": "สรุปงาน Bkk.js #15 Back in business",
+    "url": "https://naiwaen.debuggingsoft.com/2022/04/bkk-js-15-back-in-business/",
+    "published": "2022-04-09T04:25:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -16,12 +22,6 @@
     "title": "Short-lived mutability",
     "url": "https://notes.dt.in.th/20220406T150008Z2912",
     "published": "2022-04-06T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "[Golang] ทำไม JSON message ไม่เรียงตามที่ต้องการ",
-    "url": "https://www.somkiat.cc/json-sorted-keys-in-go/",
-    "published": "2022-04-05T10:42:06.000Z"
   },
   {
     "site": "neizod.dev",
