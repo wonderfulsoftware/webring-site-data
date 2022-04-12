@@ -1,5 +1,11 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "Code Jam 2022: ผลรวมเท่ากัน",
+    "url": "https://neizod.dev/2022/04/12/code-jam-2022-equal-sum.html",
+    "published": "2022-04-12T08:42:27.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[AZ-204] Develop message-based solutions",
     "url": "https://naiwaen.debuggingsoft.com/2022/04/az-204-develop-message-based-solutions/",
@@ -28,12 +34,6 @@
     "title": "Short-lived mutability",
     "url": "https://notes.dt.in.th/20220406T150008Z2912",
     "published": "2022-04-06T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Code Jam 2022 รอบคัดเลือก",
-    "url": "https://neizod.dev/2022/04/03/code-jam-2022-qualification.html",
-    "published": "2022-04-03T07:10:26.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -146,7 +146,7 @@
   {
     "site": "bigdatarpg.com",
     "title": "รีวิวสอบวัดระดับภาษาอังกฤษ",
-    "url": "https://bigdatarpg.com/2022/01/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%aa%e0%b8%ad%e0%b8%9a%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b8%94%e0%b8%b1%e0%b8%9a%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b8%ad%e0%b8%b1/",
+    "url": "https://bigdatarpg.com/2022/01/23/review-duolingo/",
     "published": "2022-01-23T11:49:20.000Z"
   },
   {
