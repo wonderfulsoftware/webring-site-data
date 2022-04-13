@@ -1,5 +1,11 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "Nginx configuration สำหรับผู้เริ่มต้น",
+    "url": "https://tech.duckfollow.co/view/nginx",
+    "published": "2022-04-12T15:00:02.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "Code Jam 2022: ผลรวมเท่ากัน",
     "url": "https://neizod.dev/2022/04/12/code-jam-2022-equal-sum.html",
@@ -22,12 +28,6 @@
     "title": "ว่าด้วยเรื่องของ Design for failure",
     "url": "https://www.somkiat.cc/design-for-failure/",
     "published": "2022-04-10T12:17:42.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "เรื่องของ Password",
-    "url": "https://tech.duckfollow.co/view/password",
-    "published": "2022-04-06T15:00:02.000Z"
   },
   {
     "site": "dt.in.th",
