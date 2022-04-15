@@ -637,7 +637,8 @@
       "rect": "20:24:196:7.5",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2022-04-14T01:15:07.775Z"
+    "lastUpdated": "2022-04-15T06:53:14.548Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -843,7 +844,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#naiwaen.debuggingsoft.com"
     },
-    "lastUpdated": "2022-04-14T01:20:55.442Z"
+    "lastUpdated": "2022-04-15T06:55:28.498Z",
+    "number": 60
   },
   "natdanai.me": {
     "url": "https://natdanai.me",
@@ -997,5 +999,18 @@
     "backlink": null,
     "lastUpdated": "2022-04-15T01:17:32.948Z",
     "number": 71
+  },
+  "microbenz.in.th": {
+    "url": "https://microbenz.in.th",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/microbenz.in.th_375w@2x.png",
+    "blurhash": "v$Lqa~WCxvWCt7bIWBj?oKofj@WBRjofWCWC_NayRjj?M{oea#WVM_s:oLWC",
+    "screenshotUpdatedAt": "2022-04-15T06:55:39.955Z",
+    "description": "เบนซ์เขียนบล็อกนะจ๊ะ",
+    "backlink": {
+      "rect": "32:32:324.25:13.25",
+      "href": "https://webring.wonderful.software#microbenz.in.th"
+    },
+    "lastUpdated": "2022-04-15T06:55:39.955Z",
+    "number": 72
   }
 }
