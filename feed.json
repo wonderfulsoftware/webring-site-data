@@ -1,9 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "สวัสดี Docker Software Bill of Materials (SBOM) CLI plugin",
-    "url": "https://www.somkiat.cc/hello-docker-sbom/",
-    "published": "2022-04-15T06:44:02.000Z"
+    "title": "คำถามที่น่าสนใจ เราควรลบ feature ไหนออกจากระบบงานดี ?",
+    "url": "https://www.somkiat.cc/remove-feature-from-your-product/",
+    "published": "2022-04-15T16:01:44.000Z"
+  },
+  {
+    "site": "tech.duckfollow.co",
+    "title": "PDPA คืออะไร?",
+    "url": "https://tech.duckfollow.co/view/what-is-pdpa",
+    "published": "2022-04-15T15:00:02.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "CircleCI dummy (no-op) config",
+    "url": "https://notes.dt.in.th/20220415T080426Z9497",
+    "published": "2022-04-15T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -24,12 +36,6 @@
     "published": "2022-04-13T04:01:26.000Z"
   },
   {
-    "site": "tech.duckfollow.co",
-    "title": "Nginx configuration สำหรับผู้เริ่มต้น",
-    "url": "https://tech.duckfollow.co/view/nginx",
-    "published": "2022-04-12T15:00:02.000Z"
-  },
-  {
     "site": "neizod.dev",
     "title": "Code Jam 2022: ผลรวมเท่ากัน",
     "url": "https://neizod.dev/2022/04/12/code-jam-2022-equal-sum.html",
@@ -40,12 +46,6 @@
     "title": "ทำความรู้จัก Web 3.0 และ WASM เพิ่มเติมจากงาน \"Bkk.js #14 Back in business\"",
     "url": "https://www.mikkipastel.com/bkk-js-14-back-in-business/",
     "published": "2022-04-11T09:12:24.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Short-lived mutability",
-    "url": "https://notes.dt.in.th/20220406T150008Z2912",
-    "published": "2022-04-06T00:00:00.000Z"
   },
   {
     "site": "adamblog.co",
