@@ -1,5 +1,17 @@
 [
   {
+    "site": "mesodiar.com",
+    "title": "Intro to Apache Kafka Universe: Kafka คืออะไร ?",
+    "url": "https://mesodiar.com/intro-to-apache-kafka-universe-kafka-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-45f652e8233f?source=rss----698ac1e5dc8c---4",
+    "published": "2022-04-17T07:27:59.000Z"
+  },
+  {
+    "site": "bigdatarpg.com",
+    "title": "เพิ่มรายได้จาก Kaggle Survey 2021",
+    "url": "https://bigdatarpg.com/2022/04/17/review-kaggle-survey-2021/",
+    "published": "2022-04-17T06:35:56.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "หนีจาก Azure มาลองเรียน Google Cloud",
     "url": "https://naiwaen.debuggingsoft.com/2022/04/%e0%b8%ab%e0%b8%99%e0%b8%b5%e0%b8%88%e0%b8%b2%e0%b8%81-azure-%e0%b8%a1%e0%b8%b2%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-google-cloud/",
@@ -28,12 +40,6 @@
     "title": "#learntoday",
     "url": "https://yothinix.com/learntoday/",
     "published": "2022-04-13T12:27:49.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "เทคนิคการเรียนรู้ของฉัน (ในการเป็น Data Eng และอื่นๆ)",
-    "url": "https://mesodiar.com/%E0%B9%80%E0%B8%97%E0%B8%84%E0%B8%99%E0%B8%B4%E0%B8%84%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%89%E0%B8%B1%E0%B8%99-%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99-data-eng-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B9%86-fa67f9bfe3c?source=rss----698ac1e5dc8c---4",
-    "published": "2022-04-13T04:01:26.000Z"
   },
   {
     "site": "neizod.dev",
@@ -148,12 +154,6 @@
     "title": "How to manage multiple Git accounts",
     "url": "https://ntsd.dev/git-multiple-accounts/",
     "published": "2022-01-27T17:00:00.000Z"
-  },
-  {
-    "site": "bigdatarpg.com",
-    "title": "รีวิวสอบวัดระดับภาษาอังกฤษ",
-    "url": "https://bigdatarpg.com/2022/01/23/review-duolingo/",
-    "published": "2022-01-23T11:49:20.000Z"
   },
   {
     "site": "chrisza.me",
