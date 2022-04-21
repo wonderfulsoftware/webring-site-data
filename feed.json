@@ -24,6 +24,12 @@
     "published": "2022-04-17T07:27:59.000Z"
   },
   {
+    "site": "edocstudio.info",
+    "title": "RSS/Atom Feeds with Django",
+    "url": "https://edocstudio.info/",
+    "published": "2022-04-16T07:12:47.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "คำถามที่น่าสนใจ เราควรลบ feature ไหนออกจากระบบงานดี ?",
     "url": "https://www.somkiat.cc/remove-feature-from-your-product/",
