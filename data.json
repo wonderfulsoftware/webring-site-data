@@ -1007,5 +1007,18 @@
     },
     "lastUpdated": "2022-04-21T01:24:14.609Z",
     "number": 72
+  },
+  "nuttdam.com": {
+    "url": "https://www.nuttdam.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nuttdam.com_375w@2x.png",
+    "blurhash": "viONB[aeoLay00off6fPM{ofj[fQ?bWVofj[~qR*WVj[-;WBayays:oLoej[",
+    "screenshotUpdatedAt": "2022-04-21T10:04:29.209Z",
+    "description": "ออกตัวก่อนว่าผมเองก็พึ่งได้ลองเล่น MikroTik มาไม่นานนัก และยังไม่ได้เก่ง MikroTik มากขนาดนั้น แต่ก็พอ Config เบื้องต้นได้ ส่วนตัวผมใช้ ZeroTier อยู่ก่อนหน้านี้แล้ว ไว้ลงในอุปกรณ์ต่างๆ ภายในบ้าน เช่น PC, NAS, Home Assistant ทำให้สามารถเข้าถึงอุปกรณ์เหล่านี้ได้จากภายนอกบ้านผ่าน VPN ของ ZeroTier ครับ",
+    "backlink": {
+      "rect": "32:29:327:4.796875",
+      "href": "https://webring.wonderful.software#nuttdam.com"
+    },
+    "lastUpdated": "2022-04-21T10:04:29.209Z",
+    "number": 73
   }
 }

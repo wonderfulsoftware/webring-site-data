@@ -66,6 +66,12 @@
     "published": "2022-04-11T09:12:24.000Z"
   },
   {
+    "site": "nuttdam.com",
+    "title": "เข้าถึง LAN ด้วย ZeroTier บน MikroTik โดยไม่ง้อ Public IP",
+    "url": "https://www.nuttdam.com/2022/04/use-zerotier-on-mikrotik/",
+    "published": "2022-04-04T16:25:27.000Z"
+  },
+  {
     "site": "adamblog.co",
     "title": "Web Application เชื่อมต่อข้อมูลจาก Google Sheet ผ่าน API ด้วย Google Apps Script",
     "url": "https://adamblog.co/google-sheet-api-with-google-apps-script/",
