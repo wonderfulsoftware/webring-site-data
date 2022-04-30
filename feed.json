@@ -1,5 +1,17 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "ความหมายของ HTTP response status codes",
+    "url": "https://tech.duckfollow.co/view/http-response-status-codes",
+    "published": "2022-04-29T16:00:02.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนะนำ KubeOrbit สำหรับการทดสอบระบบบน Kubernetes",
+    "url": "https://www.somkiat.cc/kubeorbit-testing-on-kubernetes/",
+    "published": "2022-04-29T10:47:47.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Simple front-end feature flags",
     "url": "https://notes.dt.in.th/20220427T191347Z4847",
@@ -10,12 +22,6 @@
     "title": "บันทึกอาการที่เกิดขึ้นหลังฉีดวัคซีน Pfizer เข็มที่ 4 (Comirnaty)",
     "url": "https://naiwaen.debuggingsoft.com/2022/04/pfizer-comirnaty-dose4-symptom-log/",
     "published": "2022-04-27T10:24:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "รูปอธิบายเรื่อง Program vs Process vs Thread",
-    "url": "https://www.somkiat.cc/program-vs-process-vs-thread/",
-    "published": "2022-04-26T14:45:51.000Z"
   },
   {
     "site": "neizod.dev",
@@ -58,12 +64,6 @@
     "title": "Intro to Apache Kafka Universe: Kafka คืออะไร ?",
     "url": "https://mesodiar.com/intro-to-apache-kafka-universe-kafka-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-45f652e8233f?source=rss----698ac1e5dc8c---4",
     "published": "2022-04-17T07:27:59.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "PDPA คืออะไร?",
-    "url": "https://tech.duckfollow.co/view/what-is-pdpa",
-    "published": "2022-04-15T15:00:02.000Z"
   },
   {
     "site": "yothinix.com",
