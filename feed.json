@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] Iced Strawberry Mango Jelly Starbuck M:LK Cream Oolong",
-    "url": "https://naiwaen.debuggingsoft.com/2022/05/cr-iced-strawberry-mango-jelly-starbuck-mlk-cream-oolong/",
-    "published": "2022-05-01T14:34:00.000Z"
+    "title": "[DP-900] Short Note",
+    "url": "https://naiwaen.debuggingsoft.com/2022/05/dp-900-short-note/",
+    "published": "2022-05-02T13:06:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนะนำหนังสือ Software Engineering at Google (SWE Book)",
+    "url": "https://www.somkiat.cc/swe-book/",
+    "published": "2022-05-02T10:14:52.000Z"
   },
   {
     "site": "bigdatarpg.com",
@@ -22,12 +28,6 @@
     "title": "ความหมายของ HTTP response status codes",
     "url": "https://tech.duckfollow.co/view/http-response-status-codes",
     "published": "2022-04-29T16:00:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนะนำ KubeOrbit สำหรับการทดสอบระบบบน Kubernetes",
-    "url": "https://www.somkiat.cc/kubeorbit-testing-on-kubernetes/",
-    "published": "2022-04-29T10:47:47.000Z"
   },
   {
     "site": "nitpum.com",
