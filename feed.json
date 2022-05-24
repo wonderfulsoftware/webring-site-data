@@ -1,5 +1,29 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Creating types and values with the same name in TypeScript",
+    "url": "https://notes.dt.in.th/20220523T045945Z2734",
+    "published": "2022-05-24T00:00:00.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "for...in และ for...of ใน Javascript",
+    "url": "https://thiti.dev/blog/123",
+    "published": "2022-05-23T13:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "จะ Mock หรือ ไม่ Mock ดี ?",
+    "url": "https://www.somkiat.cc/mock-or-not/",
+    "published": "2022-05-23T10:15:53.000Z"
+  },
+  {
+    "site": "bigdatarpg.com",
+    "title": "Missing Values คืออะไร",
+    "url": "https://bigdatarpg.com/2022/05/23/missing-values-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/",
+    "published": "2022-05-23T03:32:41.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "ACID ใน database คืออะไร",
     "url": "https://mesodiar.com/acid-%E0%B9%83%E0%B8%99-database-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-f6168f0e1b8a?source=rss----698ac1e5dc8c---4",
@@ -10,12 +34,6 @@
     "title": "บันทึกจากงาน Code in the Wind #1",
     "url": "https://www.mikkipastel.com/diary-of-code-in-the-wind-1/",
     "published": "2022-05-20T07:37:00.000Z"
-  },
-  {
-    "site": "bigdatarpg.com",
-    "title": "พาเพื่อนๆมารู้จักกับ Feature Stores",
-    "url": "https://bigdatarpg.com/2022/05/20/%e0%b8%9e%e0%b8%b2%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b9%86%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-feature-stores/",
-    "published": "2022-05-20T07:00:01.000Z"
   },
   {
     "site": "edocstudio.info",
@@ -36,22 +54,10 @@
     "published": "2022-05-19T07:49:45.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "น่าสนใจกับ CloudNativePG",
-    "url": "https://www.somkiat.cc/hello-cloudnativepg/",
-    "published": "2022-05-19T04:08:42.000Z"
-  },
-  {
     "site": "tech.duckfollow.co",
     "title": "Security Header ตรวจสอบความปลอดภัยของเว็บไซต์",
     "url": "https://tech.duckfollow.co/view/security-header",
     "published": "2022-05-16T11:00:02.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "ปิด Barcode บนหน้าบัตรประชาชนทุกครั้งที่ลง Social Media",
-    "url": "https://thiti.dev/blog/98",
-    "published": "2022-05-07T07:15:40.000Z"
   },
   {
     "site": "llun.me",
@@ -76,12 +82,6 @@
     "title": "ปิด Code Spell Checker ไม่ให้ตรวจภาษาไทย",
     "url": "https://nitpum.com/post/make-cspell-ignore-thai/",
     "published": "2022-04-29T07:26:40.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Simple front-end feature flags",
-    "url": "https://notes.dt.in.th/20220427T191347Z4847",
-    "published": "2022-04-28T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
