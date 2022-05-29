@@ -47,8 +47,9 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
     "screenshotUpdatedAt": "2022-04-03T00:59:40.270Z",
-    "lastUpdated": "2022-05-28T01:04:55.709Z",
-    "url": "https://monosor.dev"
+    "lastUpdated": "2022-05-29T07:08:43.320Z",
+    "url": "https://monosor.dev",
+    "number": 3
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -854,7 +855,8 @@
       "rect": "20:18:337:8475.15625",
       "href": "https://webring.wonderful.software#natdanai.me"
     },
-    "lastUpdated": "2022-05-28T01:17:26.134Z"
+    "lastUpdated": "2022-05-29T07:09:06.905Z",
+    "number": 61
   },
   "siriwatk.dev": {
     "url": "https://siriwatk.dev",
@@ -1017,5 +1019,18 @@
     },
     "lastUpdated": "2022-05-29T01:24:13.028Z",
     "number": 73
+  },
+  "blog.tawanchai.com": {
+    "url": "https://blog.tawanchai.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.tawanchai.com_375w@2x.png",
+    "blurhash": "vAAwVNxs4nj]4.ozxaj=00j^?bR%~WM_E0kD-qxtNFoJVFs;xuV@8{aexuo3",
+    "screenshotUpdatedAt": "2022-05-29T07:09:41.909Z",
+    "description": "The blog of tawanchai",
+    "backlink": {
+      "rect": "32:21:16:2161.90625",
+      "href": "https://webring.wonderful.software#blog.tawanchai.com"
+    },
+    "lastUpdated": "2022-05-29T07:09:41.909Z",
+    "number": 74
   }
 }
