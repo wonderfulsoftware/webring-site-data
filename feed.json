@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "GSP-327: Engineer Data in Google Cloud Note",
+    "url": "https://naiwaen.debuggingsoft.com/2022/05/gsp-327-engineer-data-in-google-cloud-note/",
+    "published": "2022-05-28T14:26:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "ฝึกการ bridge ไป Optimism เพื่อกิจกรรมล่า airdrop ในอนาคต",
     "url": "https://www.mikkipastel.com/bridge-eth-to-optimism-before-airdrop-event/",
@@ -22,12 +28,6 @@
     "title": "ทำการ export user flow จากการ record ใน Google Chrome Recorder มาอยู่ในรูปแบบของ Cypress",
     "url": "https://www.somkiat.cc/cypress-and-chrome-recorder/",
     "published": "2022-05-25T10:15:36.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "AZ-204: Implement secure cloud solutions",
-    "url": "https://naiwaen.debuggingsoft.com/2022/05/az-204-implement-secure-cloud-solutions/",
-    "published": "2022-05-25T02:17:00.000Z"
   },
   {
     "site": "jojoee.com",
