@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำการสร้าง service ง่าย ๆ ด้วย RK-Boot",
+    "url": "https://www.somkiat.cc/create-service-with-rk-boot/",
+    "published": "2022-06-01T05:38:29.000Z"
+  },
+  {
     "site": "bigdatarpg.com",
     "title": "เรียน ML/RL ฟรี โดย AWS",
     "url": "https://bigdatarpg.com/2022/05/31/%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-ml-rl-%e0%b8%9f%e0%b8%a3%e0%b8%b5-%e0%b9%82%e0%b8%94%e0%b8%a2-aws/",
@@ -28,12 +34,6 @@
     "title": "heyfirst.co MDX component demo",
     "url": "https://heyfirst.co/blog/component-demo",
     "published": "2022-05-27T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการ export user flow จากการ record ใน Google Chrome Recorder มาอยู่ในรูปแบบของ Cypress",
-    "url": "https://www.somkiat.cc/cypress-and-chrome-recorder/",
-    "published": "2022-05-25T10:15:36.000Z"
   },
   {
     "site": "jojoee.com",
