@@ -1,5 +1,29 @@
 [
   {
+    "site": "bigdatarpg.com",
+    "title": "MLOps Summit เข้าฟังฟรี",
+    "url": "https://bigdatarpg.com/2022/06/03/mlops-summit-%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%9f%e0%b8%b1%e0%b8%87%e0%b8%9f%e0%b8%a3%e0%b8%b5/",
+    "published": "2022-06-03T00:35:44.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จักกับ Rei Chain เชนน้องใหม่ของคนไทยกันเถอะ",
+    "url": "https://www.mikkipastel.com/introduce-what-is-rei-chain/",
+    "published": "2022-06-02T14:16:00.000Z"
+  },
+  {
+    "site": "nuttdam.com",
+    "title": "รีวิว Keychron K2 Non-Blacklight",
+    "url": "https://www.nuttdam.com/2022/06/review-keychron-k2-non-blacklight/",
+    "published": "2022-06-02T13:57:40.000Z"
+  },
+  {
+    "site": "edocstudio.info",
+    "title": "What is Pylint ?",
+    "url": "https://edocstudio.info/",
+    "published": "2022-06-02T05:03:48.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks-Iced Sunset",
     "url": "https://naiwaen.debuggingsoft.com/2022/06/cr-starbucks-iced-sunset/",
@@ -10,24 +34,6 @@
     "title": "ทำการสร้าง service ง่าย ๆ ด้วย RK-Boot",
     "url": "https://www.somkiat.cc/create-service-with-rk-boot/",
     "published": "2022-06-01T05:38:29.000Z"
-  },
-  {
-    "site": "bigdatarpg.com",
-    "title": "เรียน ML/RL ฟรี โดย AWS",
-    "url": "https://bigdatarpg.com/2022/05/31/%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-ml-rl-%e0%b8%9f%e0%b8%a3%e0%b8%b5-%e0%b9%82%e0%b8%94%e0%b8%a2-aws/",
-    "published": "2022-05-31T13:03:06.000Z"
-  },
-  {
-    "site": "nuttdam.com",
-    "title": "รีวิวปลั๊กอิน Designil PDPA",
-    "url": "https://www.nuttdam.com/2022/05/review-designil-pdpa/",
-    "published": "2022-05-31T09:48:30.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ฝึกการ bridge ไป Optimism เพื่อกิจกรรมล่า airdrop ในอนาคต",
-    "url": "https://www.mikkipastel.com/bridge-eth-to-optimism-before-airdrop-event/",
-    "published": "2022-05-27T05:18:00.000Z"
   },
   {
     "site": "heyfirst.co",
@@ -58,12 +64,6 @@
     "title": "ACID ใน database คืออะไร",
     "url": "https://mesodiar.com/acid-%E0%B9%83%E0%B8%99-database-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-f6168f0e1b8a?source=rss----698ac1e5dc8c---4",
     "published": "2022-05-22T01:38:05.000Z"
-  },
-  {
-    "site": "edocstudio.info",
-    "title": "Hive Story EP.4: Let's See Internal of Hive",
-    "url": "https://edocstudio.info/",
-    "published": "2022-05-19T15:42:40.000Z"
   },
   {
     "site": "blog.kpping.me",
