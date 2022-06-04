@@ -1,5 +1,17 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "camelCase-and-snake_case",
+    "url": "https://tech.duckfollow.co/view/camel-case-and-snake-case",
+    "published": "2022-06-03T11:00:02.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[SC-900] Short Note",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/sc-900-short-note/",
+    "published": "2022-06-03T06:41:00.000Z"
+  },
+  {
     "site": "bigdatarpg.com",
     "title": "MLOps Summit เข้าฟังฟรี",
     "url": "https://bigdatarpg.com/2022/06/03/mlops-summit-%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%9f%e0%b8%b1%e0%b8%87%e0%b8%9f%e0%b8%a3%e0%b8%b5/",
@@ -22,12 +34,6 @@
     "title": "What is Pylint ?",
     "url": "https://edocstudio.info/",
     "published": "2022-06-02T05:03:48.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks-Iced Sunset",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/cr-starbucks-iced-sunset/",
-    "published": "2022-06-01T13:54:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -70,12 +76,6 @@
     "title": "ทำ RAID 1 ด้วย mdadm บน Fedora 35",
     "url": "https://blog.kpping.me/posts/setup-raid1-with-mdadm-in-fedora35/",
     "published": "2022-05-19T07:49:45.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "Security Header ตรวจสอบความปลอดภัยของเว็บไซต์",
-    "url": "https://tech.duckfollow.co/view/security-header",
-    "published": "2022-05-16T11:00:02.000Z"
   },
   {
     "site": "llun.me",
