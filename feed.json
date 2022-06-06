@@ -1,21 +1,27 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "Logic Gates ทำยังไงให้ไฟเปิด",
+    "url": "https://tech.duckfollow.co/view/logic-gates",
+    "published": "2022-06-05T11:00:02.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ปัญหาที่ต้องปรับปรุงในการพัฒนา software",
+    "url": "https://www.somkiat.cc/bottleneck-in-software-development/",
+    "published": "2022-06-05T08:35:50.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[PODMAN] java.security.KeyManagementException: FIPS mode: only SunJSSE TrustManagers may be used",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/podman-java-security-keymanagementexception-fips-mode-only-sunjsse-trustmanagers-may-be-used/",
+    "published": "2022-06-05T04:43:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "วิธีง่ายๆในการดู NFT ที่ได้ ในกระเป๋าของเรา",
     "url": "https://www.mikkipastel.com/how-to-see-my-nft-in-wallet-with-metamask-and-ipfs/",
     "published": "2022-06-04T11:46:30.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[DB2] Restore แบบ WITHOUT ROLLING FORWARD; แล้ว Error SQL1035N",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/db2-restore-%e0%b9%81%e0%b8%9a%e0%b8%9a-without-rolling-forward-%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7-error-sql1035n/",
-    "published": "2022-06-04T07:25:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "camelCase-and-snake_case",
-    "url": "https://tech.duckfollow.co/view/camel-case-and-snake-case",
-    "published": "2022-06-03T11:00:02.000Z"
   },
   {
     "site": "bigdatarpg.com",
@@ -27,19 +33,13 @@
     "site": "nuttdam.com",
     "title": "รีวิว Keychron K2 Non-Blacklight",
     "url": "https://www.nuttdam.com/2022/06/review-keychron-k2-non-blacklight/",
-    "published": "2022-06-02T13:57:40.000Z"
+    "published": "2022-06-02T13:57:24.000Z"
   },
   {
     "site": "edocstudio.info",
     "title": "What is Pylint ?",
     "url": "https://edocstudio.info/",
     "published": "2022-06-02T05:03:48.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการสร้าง service ง่าย ๆ ด้วย RK-Boot",
-    "url": "https://www.somkiat.cc/create-service-with-rk-boot/",
-    "published": "2022-06-01T05:38:29.000Z"
   },
   {
     "site": "heyfirst.co",
