@@ -1,27 +1,45 @@
 [
   {
+    "site": "icez.net",
+    "title": "0253 | update cloudflare ในไทยปี 2022",
+    "url": "https://www.icez.net/blog/167498/0253-cloudflare-in-thailand-2022",
+    "published": "2022-06-06T17:26:15.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Mindmap ของ Microservices patterns",
+    "url": "https://www.somkiat.cc/mindmap-of-microservices-patterns/",
+    "published": "2022-06-06T09:14:03.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "จดสรุป Skooldio x Google Developers - What’s New in Android",
+    "url": "https://www.mikkipastel.com/skooldio-x-google-developers-whats-new-in-android/",
+    "published": "2022-06-06T07:33:00.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "Git คืออะไร",
+    "url": "https://thiti.dev/blog/57",
+    "published": "2022-06-06T07:15:40.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "บันทึกการทำ Line Chat Bot",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/line-chat-bot-note/",
+    "published": "2022-06-06T06:20:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Pointer events tester",
+    "url": "https://notes.dt.in.th/20220606T064142Z5299",
+    "published": "2022-06-06T00:00:00.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "Logic Gates ทำยังไงให้ไฟเปิด",
     "url": "https://tech.duckfollow.co/view/logic-gates",
     "published": "2022-06-05T11:00:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ปัญหาที่ต้องปรับปรุงในการพัฒนา software",
-    "url": "https://www.somkiat.cc/bottleneck-in-software-development/",
-    "published": "2022-06-05T08:35:50.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[PODMAN] java.security.KeyManagementException: FIPS mode: only SunJSSE TrustManagers may be used",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/podman-java-security-keymanagementexception-fips-mode-only-sunjsse-trustmanagers-may-be-used/",
-    "published": "2022-06-05T04:43:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "วิธีง่ายๆในการดู NFT ที่ได้ ในกระเป๋าของเรา",
-    "url": "https://www.mikkipastel.com/how-to-see-my-nft-in-wallet-with-metamask-and-ipfs/",
-    "published": "2022-06-04T11:46:30.000Z"
   },
   {
     "site": "bigdatarpg.com",
@@ -52,18 +70,6 @@
     "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
     "url": "https://jojoee.com/promptpay-shortcode-test/",
     "published": "2022-05-24T16:05:20.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "ปัญหาการใช้งาน async, await ใน Loop ของ Javascript",
-    "url": "https://thiti.dev/blog/124",
-    "published": "2022-05-24T13:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Creating types and values with the same name in TypeScript",
-    "url": "https://notes.dt.in.th/20220523T045945Z2734",
-    "published": "2022-05-24T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -190,12 +196,6 @@
     "title": "เอาเวลาชีวิตของคุณกลับคืนมาด้วย Social Network Detox",
     "url": "https://cwstory.com/%E0%B9%80%E0%B8%AD%E0%B8%B2%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%95%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%81%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B7%E0%B8%99%E0%B8%A1%E0%B8%B2%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-social-network-detox-8f4eecbb4586?source=rss----1f62a4110224---4",
     "published": "2022-02-14T04:54:31.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0252 | ปี 2022 ลง Linux Server ตัวไหนดี…",
-    "url": "https://www.icez.net/blog/167486/0252-linux-server-distro-selection",
-    "published": "2022-02-06T08:07:11.000Z"
   },
   {
     "site": "natdanai.me",
