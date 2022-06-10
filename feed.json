@@ -1,5 +1,11 @@
 [
   {
+    "site": "thiti.dev",
+    "title": "|| และ ?? ใน JavaScript แตกต่างกันอย่างไร",
+    "url": "https://thiti.dev/blog/58",
+    "published": "2022-06-09T07:15:40.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[IIS] ASP.NET Core – HTTP Error 500.19 – Internal Server Error (Error Code 0x8007000d)",
     "url": "https://naiwaen.debuggingsoft.com/2022/06/iss-asp-net-core-http-error-500-19-internal-server-error-error-code-0x8007000d/",
@@ -22,12 +28,6 @@
     "title": "จดสรุป Skooldio x Google Developers - What’s New in Android",
     "url": "https://www.mikkipastel.com/skooldio-x-google-developers-whats-new-in-android/",
     "published": "2022-06-06T07:33:00.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "Git คืออะไร",
-    "url": "https://thiti.dev/blog/57",
-    "published": "2022-06-06T07:15:40.000Z"
   },
   {
     "site": "dt.in.th",
@@ -58,12 +58,6 @@
     "title": "What is Pylint ?",
     "url": "https://edocstudio.info/",
     "published": "2022-06-02T05:03:48.000Z"
-  },
-  {
-    "site": "heyfirst.co",
-    "title": "heyfirst.co MDX component demo",
-    "url": "https://heyfirst.co/blog/component-demo",
-    "published": "2022-05-27T00:00:00.000Z"
   },
   {
     "site": "jojoee.com",
@@ -238,6 +232,12 @@
     "title": "ผ่านมา 5 เดือนที่ Ascend เป็นไงบ้าง",
     "url": "https://kusumotolab.com/5-month-at-ascend/",
     "published": "2021-09-01T15:14:56.000Z"
+  },
+  {
+    "site": "heyfirst.co",
+    "title": "How to use test.todo() in Jest",
+    "url": "https://heyfirst.co/blog/how-to-use-test-todo-in-jest",
+    "published": "2021-08-03T00:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
