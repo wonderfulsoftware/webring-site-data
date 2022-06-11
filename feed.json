@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[SECURITY] Password Spraying คือ อะไร",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/what-is-password-spraying/",
+    "published": "2022-06-10T08:42:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "$S_k(n) = 1^k + 2^k + 3^k + \\cdots + n^k$",
+    "url": "https://neizod.dev/2022/06/10/sum-of-powers.html",
+    "published": "2022-06-10T08:04:36.000Z"
+  },
+  {
     "site": "thiti.dev",
     "title": "|| และ ?? ใน JavaScript แตกต่างกันอย่างไร",
     "url": "https://thiti.dev/blog/58",
     "published": "2022-06-09T07:15:40.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[IIS] ASP.NET Core – HTTP Error 500.19 – Internal Server Error (Error Code 0x8007000d)",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/iss-asp-net-core-http-error-500-19-internal-server-error-error-code-0x8007000d/",
-    "published": "2022-06-08T05:46:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -100,12 +106,6 @@
     "title": "ปิด Code Spell Checker ไม่ให้ตรวจภาษาไทย",
     "url": "https://nitpum.com/post/make-cspell-ignore-thai/",
     "published": "2022-04-29T07:26:40.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Code Jam 2022: ภาวะพองตัวที่ควบคุมได้",
-    "url": "https://neizod.dev/2022/04/25/code-jam-2022-controlled-inflation.html",
-    "published": "2022-04-25T13:42:53.000Z"
   },
   {
     "site": "chrisza.me",
