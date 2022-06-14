@@ -1,5 +1,17 @@
 [
   {
+    "site": "thiti.dev",
+    "title": "การใช้งานคำสั่ง git clone",
+    "url": "https://thiti.dev/blog/60",
+    "published": "2022-06-13T07:15:40.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Spring Boot 2.7 เป็น version สุดท้ายก่อนเข้าสู่ version 3",
+    "url": "https://www.somkiat.cc/spring-boot-2-7/",
+    "published": "2022-06-13T06:49:52.000Z"
+  },
+  {
     "site": "cwstory.com",
     "title": "Day 2/100 — Flutter coding",
     "url": "https://cwstory.com/day-2-100-flutter-coding-8c68e6d4002d?source=rss----1f62a4110224---4",
@@ -16,18 +28,6 @@
     "title": "[CR] Starbucks-Mayongchid Juice",
     "url": "https://naiwaen.debuggingsoft.com/2022/06/cr-starbucks-mayongchid-juice/",
     "published": "2022-06-12T13:02:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Component testing ของ Cypress กันหน่อย",
-    "url": "https://www.somkiat.cc/component-testing-beta-in-cypress/",
-    "published": "2022-06-12T11:31:07.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "การใช้งานคําสั่ง git config",
-    "url": "https://thiti.dev/blog/59",
-    "published": "2022-06-12T07:15:40.000Z"
   },
   {
     "site": "heyfirst.co",
