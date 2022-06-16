@@ -672,8 +672,7 @@
     "screenshotUpdatedAt": "2022-05-28T01:13:42.338Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2022-06-16T01:16:59.015Z",
-    "number": 48
+    "lastUpdated": "2022-06-16T01:16:59.015Z"
   },
   "ntsd.dev": {
     "url": "https://ntsd.dev",
@@ -1044,5 +1043,18 @@
     },
     "lastUpdated": "2022-06-16T01:24:06.000Z",
     "number": 75
+  },
+  "juver.xyz": {
+    "url": "https://www.juver.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/juver.xyz_375w@2x.png",
+    "blurhash": "vORypXWB_4of4nof-=ayXTWBVrj[?wkCITay?cayIUoL-ojtR-axnNkBbway",
+    "screenshotUpdatedAt": "2022-06-16T20:29:00.495Z",
+    "description": "บล็อกของ จูเนียร์(junior)",
+    "backlink": {
+      "rect": "32:48:171.5:396",
+      "href": "https://webring.wonderful.software#juver.xyz"
+    },
+    "lastUpdated": "2022-06-16T20:29:00.495Z",
+    "number": 48
   }
 }

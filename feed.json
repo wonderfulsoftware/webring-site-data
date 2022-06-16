@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[Line] Official Account Bot ไม่ตอบข้อความตามที่ตั้งไว้ใน Auto-response message",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/line-official-account-bot-%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%95%e0%b8%ad%e0%b8%9a%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%95%e0%b8%b2%e0%b8%a1%e0%b8%97%e0%b8%b5%e0%b9%88/",
+    "published": "2022-06-16T03:22:00.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "การใช้งานคำสั่ง git log",
+    "url": "https://thiti.dev/blog/64",
+    "published": "2022-06-15T11:15:40.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สร้างงานสร้างรายได้ เกี่ยวกับการหยุดสนับสนุน Internet Explorer จาก Microsoft",
     "url": "https://www.somkiat.cc/internet-explorer-to-retire/",
@@ -12,22 +24,16 @@
     "published": "2022-06-15T04:42:24.000Z"
   },
   {
+    "site": "mikkipastel.com",
+    "title": "เกมส์ Ni no Kuni: Cross Worlds เกี่ยวกับ Blockchain ยังไง",
+    "url": "https://www.mikkipastel.com/ni-no-kuni-cross-worlds-blockchain-game-airdrop-event/",
+    "published": "2022-06-15T02:40:51.000Z"
+  },
+  {
     "site": "cwstory.com",
     "title": "Day 3/100 — Flutter coding",
     "url": "https://cwstory.com/day-3-100-flutter-coding-29f9ee390354?source=rss----1f62a4110224---4",
     "published": "2022-06-14T15:34:17.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "การใช้งานคำสั่ง git status",
-    "url": "https://thiti.dev/blog/61",
-    "published": "2022-06-14T07:15:40.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[C#] Dapper Error connection assigned to the command is in a pending local transaction.",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/c-dapper-error-connection-assigned-to-the-command-is-in-a-pending-local-transaction/",
-    "published": "2022-06-14T04:51:00.000Z"
   },
   {
     "site": "nuttdam.com",
@@ -52,12 +58,6 @@
     "title": "0253 | update cloudflare ในไทยปี 2022",
     "url": "https://www.icez.net/blog/167498/0253-cloudflare-in-thailand-2022",
     "published": "2022-06-06T17:26:15.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "จดสรุป Skooldio x Google Developers - What’s New in Android",
-    "url": "https://www.mikkipastel.com/skooldio-x-google-developers-whats-new-in-android/",
-    "published": "2022-06-06T07:33:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -186,9 +186,9 @@
     "published": "2022-03-06T07:51:36.000Z"
   },
   {
-    "site": "jungai.me",
+    "site": "juver.xyz",
     "title": "สิ่งที่อยากจะเห็นในปี 2022",
-    "url": "https://jungai.me/blogs/want-to-see-in-2022",
+    "url": "https://juver.xyz/blogs/want-to-see-in-2022",
     "published": "2022-02-22T04:27:44.000Z"
   },
   {
