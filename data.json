@@ -1056,5 +1056,18 @@
     },
     "lastUpdated": "2022-06-16T20:29:00.495Z",
     "number": 48
+  },
+  "gusbell.tech": {
+    "url": "https://gusbell.tech",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/gusbell.tech_375w@2x.png",
+    "blurhash": "v242M3WBM{of?bayayj[00j[xuWBD%j[ofay~qayRjof~qayWBofM{fQj[WB",
+    "screenshotUpdatedAt": "2022-06-17T05:22:23.840Z",
+    "description": "Hi I'm gusbell, Fullstack developer",
+    "backlink": {
+      "rect": "32:32:171.5:369",
+      "href": "https://webring.wonderful.software#gusbell.tech"
+    },
+    "lastUpdated": "2022-06-17T05:22:23.840Z",
+    "number": 76
   }
 }
