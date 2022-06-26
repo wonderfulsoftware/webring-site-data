@@ -1,33 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Azure Native Meetup #1 (DevOps)",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/azure-native-meetup-1-devops/",
+    "published": "2022-06-25T12:15:00.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "การใช้งานคำสั่ง git init",
+    "url": "https://thiti.dev/blog/65",
+    "published": "2022-06-25T11:15:40.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "เจอปัญหา N+1 อีกแล้ว",
+    "url": "https://www.somkiat.cc/no-problem/",
+    "published": "2022-06-25T09:44:55.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "เรียนปูพื้นฐานพร้อมสร้างเหรียญ ใน Discord Naga DAO",
     "url": "https://www.mikkipastel.com/smart-contract-classroom-discord-naga-dao/",
     "published": "2022-06-24T08:10:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปการ generate code จาก sql ด้วย sqlc, DBML และ Taskfile",
-    "url": "https://www.somkiat.cc/generate-go-code-from-sqlc-and-dbml/",
-    "published": "2022-06-24T06:02:51.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[Jenkins] รวม Tools เจ๋งๆ ของ VSCODE ที่มาช่วยจัดการ Jenkinsfile นั้นง่ายขึ้น",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/jenkins-cool-tools-vscode-extensions/",
-    "published": "2022-06-22T13:29:00.000Z"
-  },
-  {
     "site": "tech.duckfollow.co",
     "title": "pagination best practice ที่ดีที่สุดในการดึงข้อมูล",
     "url": "https://tech.duckfollow.co/view/pagination-best-practice",
     "published": "2022-06-17T15:00:02.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "การใช้งานคำสั่ง git log",
-    "url": "https://thiti.dev/blog/64",
-    "published": "2022-06-15T11:15:40.000Z"
   },
   {
     "site": "bigdatarpg.com",
