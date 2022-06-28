@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองสร้าง Golang package server ใช้เอง",
+    "url": "https://www.somkiat.cc/golang-package-server-on-local/",
+    "published": "2022-06-27T16:13:59.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "สรุปงาน Azure Native Meetup #1 (DevOps)",
     "url": "https://naiwaen.debuggingsoft.com/2022/06/azure-native-meetup-1-devops/",
@@ -10,12 +16,6 @@
     "title": "การใช้งานคำสั่ง git init",
     "url": "https://thiti.dev/blog/65",
     "published": "2022-06-25T11:15:40.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "เจอปัญหา N+1 อีกแล้ว",
-    "url": "https://www.somkiat.cc/no-problem/",
-    "published": "2022-06-25T09:44:55.000Z"
   },
   {
     "site": "mikkipastel.com",
