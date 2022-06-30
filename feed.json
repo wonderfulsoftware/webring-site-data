@@ -1,15 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ตรวจสอบ resource limit ใน Kubernetes กันด้วย Kube-capacity",
+    "url": "https://www.somkiat.cc/check-resource-in-kubernetes/",
+    "published": "2022-06-29T06:29:36.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[.NET] เปิด Visual Studio หน้า Design UI ไม่ขึ้น เจอ Error NuGet process crashed and left an inaccessible lock file",
     "url": "https://naiwaen.debuggingsoft.com/2022/06/net-nuget-process-crashed-and-left-an-inaccessible-lock-file/",
     "published": "2022-06-28T13:55:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองสร้าง Golang package server ใช้เอง",
-    "url": "https://www.somkiat.cc/golang-package-server-on-local/",
-    "published": "2022-06-27T16:13:59.000Z"
   },
   {
     "site": "thiti.dev",
@@ -72,6 +72,12 @@
     "published": "2022-06-06T00:00:00.000Z"
   },
   {
+    "site": "nitpum.com",
+    "title": "How to enable bash globstar **",
+    "url": "https://nitpum.com/post/enable-bash-globstar/",
+    "published": "2022-06-02T07:06:35.000Z"
+  },
+  {
     "site": "edocstudio.info",
     "title": "What is Pylint ?",
     "url": "https://edocstudio.info/",
@@ -112,12 +118,6 @@
     "title": "Query smart contract with Web3j in Scala",
     "url": "https://blog.oatto.dev/2022/05/03/web3j.html",
     "published": "2022-05-03T00:00:00.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "ปิด Code Spell Checker ไม่ให้ตรวจภาษาไทย",
-    "url": "https://nitpum.com/post/make-cspell-ignore-thai/",
-    "published": "2022-04-29T07:26:40.000Z"
   },
   {
     "site": "chrisza.me",
