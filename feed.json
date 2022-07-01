@@ -1,15 +1,15 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "ตรวจสอบ resource limit ใน Kubernetes กันด้วย Kube-capacity",
-    "url": "https://www.somkiat.cc/check-resource-in-kubernetes/",
-    "published": "2022-06-29T06:29:36.000Z"
+    "site": "debuggingsoft.com",
+    "title": "[Jenkins] Controller and Agents Architecture",
+    "url": "https://naiwaen.debuggingsoft.com/2022/06/jenkins-controller-and-agents-architecture/",
+    "published": "2022-06-30T11:24:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[.NET] เปิด Visual Studio หน้า Design UI ไม่ขึ้น เจอ Error NuGet process crashed and left an inaccessible lock file",
-    "url": "https://naiwaen.debuggingsoft.com/2022/06/net-nuget-process-crashed-and-left-an-inaccessible-lock-file/",
-    "published": "2022-06-28T13:55:00.000Z"
+    "site": "somkiat.cc",
+    "title": "มาลองเล่น Standalone Component ใน Angular 14 กัน",
+    "url": "https://www.somkiat.cc/angular-standalone-component/",
+    "published": "2022-06-30T09:02:32.000Z"
   },
   {
     "site": "thiti.dev",
