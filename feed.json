@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "การ Refactor code ไม่ควรอยู่ใน backlog ?",
+    "url": "https://www.somkiat.cc/continuous-refactoring/",
+    "published": "2022-07-02T03:58:52.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "เมื่อผมติดโควิด โอไมครอน ชุดตรวจ ATK ไหนบ้าง ที่ตรวจเจอ และไม่เจอ!!",
     "url": "https://myifew.com/6355/review-atk-for-my-covid19-omicron/",
@@ -18,16 +24,10 @@
     "published": "2022-07-01T09:46:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองเล่น Standalone Component ใน Angular 14 กัน",
-    "url": "https://www.somkiat.cc/angular-standalone-component/",
-    "published": "2022-06-30T09:02:32.000Z"
-  },
-  {
     "site": "llun.me",
     "title": "Amsterdam after 3 months",
     "url": "https://www.llun.me/posts/2022-06-29-amsterdam-after-3-months",
-    "published": "2022-06-29T00:00:00.000Z"
+    "published": "2022-06-29T20:52:59.000Z"
   },
   {
     "site": "thiti.dev",
