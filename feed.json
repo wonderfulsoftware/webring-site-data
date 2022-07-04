@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "PL-900 Short Note",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/pl-900-short-note/",
+    "published": "2022-07-03T07:27:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การ Refactor code ไม่ควรอยู่ใน backlog ?",
     "url": "https://www.somkiat.cc/continuous-refactoring/",
@@ -16,12 +22,6 @@
     "title": "👷📚 เล่าให้ฟัง: ย้ายสายจาก Software Engineer มาเป็น Data Engineer สามเดือนแรก",
     "url": "https://yothinix.com/first-three-month-as-data-eng/",
     "published": "2022-07-01T10:12:12.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks-Pomegranate Orange Sparkling",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/cr-starbucks-pomegranate-orange-sparkling/",
-    "published": "2022-07-01T09:46:00.000Z"
   },
   {
     "site": "llun.me",
