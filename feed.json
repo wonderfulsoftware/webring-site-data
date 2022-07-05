@@ -1,15 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองทดสอบกับ Go gin ด้วย test mode",
+    "url": "https://www.somkiat.cc/go-gin-with-test-mode/",
+    "published": "2022-07-04T15:49:54.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "PL-900 Short Note",
     "url": "https://naiwaen.debuggingsoft.com/2022/07/pl-900-short-note/",
     "published": "2022-07-03T07:27:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การ Refactor code ไม่ควรอยู่ใน backlog ?",
-    "url": "https://www.somkiat.cc/continuous-refactoring/",
-    "published": "2022-07-02T03:58:52.000Z"
   },
   {
     "site": "myifew.com",
@@ -22,6 +22,12 @@
     "title": "👷📚 เล่าให้ฟัง: ย้ายสายจาก Software Engineer มาเป็น Data Engineer สามเดือนแรก",
     "url": "https://yothinix.com/first-three-month-as-data-eng/",
     "published": "2022-07-01T10:12:12.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "กาดสวนแก้ว",
+    "url": "https://neizod.dev/2022/06/30/kadsuankaew.html",
+    "published": "2022-06-30T16:12:01.000Z"
   },
   {
     "site": "llun.me",
@@ -70,12 +76,6 @@
     "title": "Let's share your setup in /uses page",
     "url": "https://heyfirst.co/blog/lets-share-your-setup-in-uses-page",
     "published": "2022-06-11T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "$S_k(n) = 1^k + 2^k + 3^k + \\cdots + n^k$",
-    "url": "https://neizod.dev/2022/06/10/sum-of-powers.html",
-    "published": "2022-06-10T08:04:36.000Z"
   },
   {
     "site": "icez.net",
