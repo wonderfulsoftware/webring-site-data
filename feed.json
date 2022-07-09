@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Error 1606 Could access network location xxx \\ASP.NETClientFiles\\ when installing SAP Crystal Reports runtime engine for .NET Framework",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/error-1606-could-access-network-location-v4-0-30319asp-netclientfiles-when-installing-sap-crystal-reports-runtime-engine-for-net-framework/",
+    "published": "2022-07-08T14:17:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ความรู้พื้นฐานที่ควรจะต้องรู้เกี่ยวกับ Database",
     "url": "https://www.somkiat.cc/basic-of-database/",
@@ -10,12 +16,6 @@
     "title": "Projecting 2D elements onto a photo using matrix3d, 2022 edition",
     "url": "https://notes.dt.in.th/20220706T182428Z2438",
     "published": "2022-07-07T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[Jenkins] ลองเพิ่มเครื่อง Agent ที่เป็น Windows",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/jenkins-add-windows-agent-node-to-centos-controller/",
-    "published": "2022-07-05T11:03:00.000Z"
   },
   {
     "site": "edocstudio.info",
