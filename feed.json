@@ -1,8 +1,8 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "ผ่านไปครึ่งปีกับการสอบ Cert Azure",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/cert-azure-exam-in-2022-first-half-year/",
+    "title": "ผ่านไปครึ่งปี 2022 กับการสอบ Azure Certification",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/get-azure-certification-in-half-year-2022/",
     "published": "2022-07-12T15:10:00.000Z"
   },
   {
@@ -84,6 +84,12 @@
     "published": "2022-06-14T15:34:17.000Z"
   },
   {
+    "site": "poolsawat.com",
+    "title": "Robot Framework เริ่มต้น กำหนดโครงสร้างโปรเจค EP2",
+    "url": "https://www.poolsawat.com/robot-project-structure-easy-example-ep2/",
+    "published": "2022-06-13T16:14:00.000Z"
+  },
+  {
     "site": "nuttdam.com",
     "title": "สร้าง Cloud ส่วนตัวง่ายๆ ด้วย ownCloud Server บน Docker",
     "url": "https://www.nuttdam.com/2022/06/install-owncloud-server-in-docker/",
@@ -130,12 +136,6 @@
     "title": "TDD Misconception: Yes, you can write code before test in TDD",
     "url": "https://gatsby-starter-blog-demo.netlify.app/tdd-misconception/",
     "published": "2022-04-23T17:00:00.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Golang Program Flow Control EP5",
-    "url": "https://www.poolsawat.com/golang-program-flow-control-ep5/",
-    "published": "2022-04-20T16:32:58.000Z"
   },
   {
     "site": "blog.tawanchai.com",
