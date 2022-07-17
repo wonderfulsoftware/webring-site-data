@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Localization ใน Robot Framework 5.1 alpha 1",
+    "url": "https://www.somkiat.cc/robot-framework-5-1-alpha-1/",
+    "published": "2022-07-16T15:48:15.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Robot Framework อธิบายการทำงาน EP3",
+    "url": "https://www.poolsawat.com/robot-work-description-ep3/",
+    "published": "2022-07-16T07:15:17.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Fixing SvelteKit problem not able to require pure-ES module packages",
     "url": "https://notes.dt.in.th/20220715T183753Z9898",
     "published": "2022-07-16T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Rocketry :: จัดการ job scheduling แบบง่าย ๆ ด้วยภาษา Python",
-    "url": "https://www.somkiat.cc/rocketry-with-job-scheduling/",
-    "published": "2022-07-15T08:49:46.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -72,6 +78,12 @@
     "published": "2022-06-25T11:15:40.000Z"
   },
   {
+    "site": "wp.curve.in.th",
+    "title": "บันทึกเดินทาง ลากกระเป๋าโซโล Munich ถึง Marseille",
+    "url": "https://chameleontk.github.io/lrec-conference/",
+    "published": "2022-06-24T00:00:00.000Z"
+  },
+  {
     "site": "bigdatarpg.com",
     "title": "หัวข้อออกสอบ Data Scientist",
     "url": "https://bigdatarpg.com/2022/06/15/%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%aa%e0%b8%ad%e0%b8%9a-data-scientist/",
@@ -82,12 +94,6 @@
     "title": "Day 3/100 — Flutter coding",
     "url": "https://cwstory.com/day-3-100-flutter-coding-29f9ee390354?source=rss----1f62a4110224---4",
     "published": "2022-06-14T15:34:17.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Robot Framework เริ่มต้น กำหนดโครงสร้างโปรเจค EP2",
-    "url": "https://www.poolsawat.com/robot-project-structure-easy-example-ep2/",
-    "published": "2022-06-13T16:14:00.000Z"
   },
   {
     "site": "nuttdam.com",
@@ -214,12 +220,6 @@
     "title": "Axelar Network ผู้มาเพื่อเปลี่ยนแปลง",
     "url": "https://doopdip.me/axelar/2022/01/15/axelar-network.html",
     "published": "2022-01-15T00:00:00.000Z"
-  },
-  {
-    "site": "wp.curve.in.th",
-    "title": "Year in Review 2021",
-    "url": "https://chameleontk.github.io/year-in-review-2021/",
-    "published": "2022-01-01T00:00:00.000Z"
   },
   {
     "site": "www.varokas.com",
