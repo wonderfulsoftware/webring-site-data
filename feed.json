@@ -1,9 +1,27 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "うみべの女の子",
+    "url": "https://neizod.dev/2022/07/18/a-girl-on-the-shore.html",
+    "published": "2022-07-17T20:09:46.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[NUGET] dotnet restore error 401",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/nuget-dotnet-restore-error-401/",
+    "published": "2022-07-17T13:46:00.000Z"
+  },
+  {
+    "site": "tech.duckfollow.co",
+    "title": "API Framework [แนะนำ]",
+    "url": "https://tech.duckfollow.co/view/api-framework",
+    "published": "2022-07-17T12:00:02.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Localization ใน Robot Framework 5.1 alpha 1",
-    "url": "https://www.somkiat.cc/robot-framework-5-1-alpha-1/",
-    "published": "2022-07-16T15:48:15.000Z"
+    "title": "Frankenstein API คืออะไร",
+    "url": "https://www.somkiat.cc/frankenstein-api/",
+    "published": "2022-07-17T08:10:58.000Z"
   },
   {
     "site": "poolsawat.com",
@@ -24,22 +42,10 @@
     "published": "2022-07-15T02:53:56.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "ผ่านไปครึ่งปี 2022 กับการสอบ Azure Certification",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/get-azure-certification-in-first-half-of-the-year-2022/",
-    "published": "2022-07-12T15:10:00.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "มาทำ Data Lineage โดยใช้ DataHub กัน ! (พร้อมวิธีทำอย่างละเอียดและตัวอย่าง)",
     "url": "https://mesodiar.com/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3-data-lineage-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-datahub-%E0%B8%81%E0%B8%B1%E0%B8%99-%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A5%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%94%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87-5174c2f06489?source=rss----698ac1e5dc8c---4",
     "published": "2022-07-09T13:29:50.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "Primary Account Number (PAN) คืออะไร",
-    "url": "https://tech.duckfollow.co/view/mark-pan",
-    "published": "2022-07-09T12:00:02.000Z"
   },
   {
     "site": "llun.me",
@@ -64,12 +70,6 @@
     "title": "👷📚 เล่าให้ฟัง: ย้ายสายจาก Software Engineer มาเป็น Data Engineer สามเดือนแรก",
     "url": "https://yothinix.com/first-three-month-as-data-eng/",
     "published": "2022-07-01T10:12:12.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "กาดสวนแก้ว",
-    "url": "https://neizod.dev/2022/06/30/kadsuankaew.html",
-    "published": "2022-06-30T16:12:01.000Z"
   },
   {
     "site": "thiti.dev",
