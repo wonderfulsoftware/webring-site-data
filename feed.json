@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "อ้าวทำไม Text File Pipe มันหายหละ",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/why-my-inrerface-text-file-pipe-lost/",
-    "published": "2022-07-19T13:22:00.000Z"
+    "title": "[MSSQL] สรุปงาน SQL Server Community Thailand Meeting #16",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/ms-sql-server-community-thailand-meeting-16-summary/",
+    "published": "2022-07-20T14:07:00.000Z"
   },
   {
     "site": "somkiat.cc",
     "title": "สวัสดี Github’s CodeQL กัน",
     "url": "https://www.somkiat.cc/github-codeql/",
     "published": "2022-07-19T10:34:41.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Run an X11 display server and noVNC on Codespaces",
+    "url": "https://notes.dt.in.th/20220719T064918Z5905",
+    "published": "2022-07-19T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -28,12 +34,6 @@
     "title": "Robot Framework อธิบายการทำงาน EP3",
     "url": "https://www.poolsawat.com/robot-work-description-ep3/",
     "published": "2022-07-16T07:15:17.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Fixing SvelteKit problem not able to require pure-ES module packages",
-    "url": "https://notes.dt.in.th/20220715T183753Z9898",
-    "published": "2022-07-16T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
