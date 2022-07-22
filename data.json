@@ -1092,5 +1092,18 @@
     },
     "lastUpdated": "2022-07-22T01:34:35.320Z",
     "number": 78
+  },
+  "blog.0002011.xyz": {
+    "url": "https://blog.0002011.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.0002011.xyz_375w@2x.png",
+    "blurhash": "vnLhGGxtkDt5~pRkoLWE_3WBayWVtRoLofj[M^WBRkWBD+t7ofs:s;afs.a}",
+    "screenshotUpdatedAt": "2022-07-22T13:55:28.499Z",
+    "description": "thai northest developer blog",
+    "backlink": {
+      "rect": "32:32:232:139.71875",
+      "href": "https://webring.wonderful.software#blog.0002011.xyz"
+    },
+    "lastUpdated": "2022-07-22T13:55:28.499Z",
+    "number": 79
   }
 }

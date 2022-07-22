@@ -58,6 +58,7 @@
       <outline text="microbenz.in.th" title="microbenz.in.th" type="rss" xmlUrl="https://microbenz.in.th/rss.xml" htmlUrl="https://microbenz.in.th"/>
       <outline text="nuttdam.com" title="nuttdam.com" type="rss" xmlUrl="https://www.nuttdam.com/feed" htmlUrl="https://www.nuttdam.com"/>
       <outline text="blog.tawanchai.com" title="blog.tawanchai.com" type="rss" xmlUrl="https://blog.tawanchai.com/rss.xml" htmlUrl="https://blog.tawanchai.com"/>
+      <outline text="blog.0002011.xyz" title="blog.0002011.xyz" type="rss" xmlUrl="https://blog.0002011.xyz/api/feed/rss" htmlUrl="https://blog.0002011.xyz"/>
     </outline>
   </body>
 </opml>

@@ -1,15 +1,21 @@
 [
   {
+    "site": "icez.net",
+    "title": "A001 | เริ่มต้นกับ Ansible – Inventory",
+    "url": "https://www.icez.net/blog/167503/a001-ansible-introduction-inventory",
+    "published": "2022-07-22T13:23:32.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[VM] แปลงไฟล์ .vdi ไปเป็น .vmdx",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/vm-%e0%b9%81%e0%b8%9b%e0%b8%a5%e0%b8%87%e0%b9%84%e0%b8%9f%e0%b8%a5%e0%b9%8c-vdi-%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99-vmdx/",
+    "published": "2022-07-22T10:15:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ว่าง ๆ มาลองใช้งาน Virtual Threads ใน Java 19 กันดู",
     "url": "https://www.somkiat.cc/virtual-threads-in-java-19/",
     "published": "2022-07-21T13:43:06.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[MSSQL] สรุปงาน SQL Server Community Thailand Meeting #16",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/ms-sql-server-community-thailand-meeting-16-summary/",
-    "published": "2022-07-20T14:07:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -106,12 +112,6 @@
     "title": "Let's share your setup in /uses page",
     "url": "https://heyfirst.co/blog/lets-share-your-setup-in-uses-page",
     "published": "2022-06-11T00:00:00.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0253 | update cloudflare ในไทยปี 2022",
-    "url": "https://www.icez.net/blog/167498/0253-cloudflare-in-thailand-2022",
-    "published": "2022-06-06T17:26:15.000Z"
   },
   {
     "site": "nitpum.com",
