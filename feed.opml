@@ -59,6 +59,7 @@
       <outline text="nuttdam.com" title="nuttdam.com" type="rss" xmlUrl="https://www.nuttdam.com/feed" htmlUrl="https://www.nuttdam.com"/>
       <outline text="blog.tawanchai.com" title="blog.tawanchai.com" type="rss" xmlUrl="https://blog.tawanchai.com/rss.xml" htmlUrl="https://blog.tawanchai.com"/>
       <outline text="blog.0002011.xyz" title="blog.0002011.xyz" type="rss" xmlUrl="https://blog.0002011.xyz/api/feed/rss" htmlUrl="https://blog.0002011.xyz"/>
+      <outline text="katsuragi.detzz.in.th" title="katsuragi.detzz.in.th" type="rss" xmlUrl="https://katsuragi.detzz.in.th/api/rss" htmlUrl="https://katsuragi.detzz.in.th/"/>
     </outline>
   </body>
 </opml>
