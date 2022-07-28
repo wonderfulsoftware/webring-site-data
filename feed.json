@@ -1,9 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "GSP330 Implement DevOps in Google Cloud",
+    "url": "https://naiwaen.debuggingsoft.com/2022/07/gsp330-implement-devops-in-google-cloud/",
+    "published": "2022-07-27T08:39:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปแนวทางเพื่อให้ได้ feedback ที่รวดเร็วขึ้น",
+    "url": "https://www.somkiat.cc/quality-and-fast-feedback/",
+    "published": "2022-07-27T06:13:21.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "เซกเมนต์พาราโบลาแบบอาร์คิมีดีส",
     "url": "https://neizod.dev/2022/07/27/archimedes-parabola-segement.html",
     "published": "2022-07-27T01:21:09.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Cloning private GitHub projects onto a new worker Linux box.",
+    "url": "https://notes.dt.in.th/20220727T072632Z9353",
+    "published": "2022-07-27T00:00:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
@@ -30,18 +48,6 @@
     "published": "2022-07-24T15:00:43.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks-Honey Greek Yogurt",
-    "url": "https://naiwaen.debuggingsoft.com/2022/07/cr-starbucks-honey-greek-yogurt/",
-    "published": "2022-07-24T12:16:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ดูขนาดของ Index ใน MySQL",
-    "url": "https://www.somkiat.cc/mysql-memory-leak/",
-    "published": "2022-07-24T06:30:47.000Z"
-  },
-  {
     "site": "poolsawat.com",
     "title": "Robot Framework แนะนำ Pycharm IDE ช่วยให้เขียน Robot ง่ายยิ่งขึ้น EP4",
     "url": "https://www.poolsawat.com/robot-pycharm-ide-ep4/",
@@ -58,12 +64,6 @@
     "title": "A001 | เริ่มต้นกับ Ansible – Inventory",
     "url": "https://www.icez.net/blog/167503/a001-ansible-introduction-inventory",
     "published": "2022-07-22T13:23:32.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Run an X11 display server and noVNC on Codespaces",
-    "url": "https://notes.dt.in.th/20220719T064918Z5905",
-    "published": "2022-07-19T00:00:00.000Z"
   },
   {
     "site": "llun.me",
