@@ -1,27 +1,39 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "Data Validation?",
+    "url": "https://tech.duckfollow.co/view/data-validation",
+    "published": "2022-07-28T13:00:02.000Z"
+  },
+  {
+    "site": "thanapon.info",
+    "title": "[AWS-IoT] Device Provisioning สำหรับสเกลอุปกรณ์หลายๆตัว ภาค Hardware บ้าง",
+    "url": "https://thanapon.info/aws-iot-device-provisioning-2/",
+    "published": "2022-07-28T09:56:35.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "หนังสือ Cloud Native Go เปิดให้ download ฟรี 3 บท",
+    "url": "https://www.somkiat.cc/download-cloud-native-go-book/",
+    "published": "2022-07-28T03:59:48.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Authenticating as a GitHub App in Octokit.js",
+    "url": "https://notes.dt.in.th/20220728T075738Z6111",
+    "published": "2022-07-28T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "GSP330 Implement DevOps in Google Cloud",
     "url": "https://naiwaen.debuggingsoft.com/2022/07/gsp330-implement-devops-in-google-cloud/",
     "published": "2022-07-27T08:39:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปแนวทางเพื่อให้ได้ feedback ที่รวดเร็วขึ้น",
-    "url": "https://www.somkiat.cc/quality-and-fast-feedback/",
-    "published": "2022-07-27T06:13:21.000Z"
-  },
-  {
     "site": "neizod.dev",
     "title": "เซกเมนต์พาราโบลาแบบอาร์คิมีดีส",
     "url": "https://neizod.dev/2022/07/27/archimedes-parabola-segement.html",
     "published": "2022-07-27T01:21:09.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Cloning private GitHub projects onto a new worker Linux box.",
-    "url": "https://notes.dt.in.th/20220727T072632Z9353",
-    "published": "2022-07-27T00:00:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
@@ -52,12 +64,6 @@
     "title": "Robot Framework แนะนำ Pycharm IDE ช่วยให้เขียน Robot ง่ายยิ่งขึ้น EP4",
     "url": "https://www.poolsawat.com/robot-pycharm-ide-ep4/",
     "published": "2022-07-23T16:43:26.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "k6 load testing tool",
-    "url": "https://tech.duckfollow.co/view/k6",
-    "published": "2022-07-23T13:00:02.000Z"
   },
   {
     "site": "icez.net",
@@ -172,12 +178,6 @@
     "title": "Dev Mountain Tech Fest Notes",
     "url": "https://garden.narze.live/Dev-Mountain-Tech-Fest-Notes/",
     "published": "2022-03-18T17:00:00.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "[AWS-IoT] Device Provisioning สำหรับสเกลอุปกรณ์หลายๆตัว-1",
-    "url": "https://thanapon.info/aws-iot-device-provisioning-1/",
-    "published": "2022-03-17T11:09:30.000Z"
   },
   {
     "site": "pandora.sh",
