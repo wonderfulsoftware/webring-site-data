@@ -1,15 +1,21 @@
 [
   {
+    "site": "llun.me",
+    "title": "NextJS middleware 12.1 vs 12.2",
+    "url": "https://www.llun.me/posts/dev/2022-07-31-nextjs-middleware",
+    "published": "2022-07-31T12:46:58.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Developer Observability คืออะไร",
+    "url": "https://www.somkiat.cc/developer-observability/",
+    "published": "2022-07-31T08:59:35.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "สรุปงาน Best of Build – Thailand 2022",
     "url": "https://naiwaen.debuggingsoft.com/2022/07/best-of-build-thailand-2022/",
     "published": "2022-07-30T16:03:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุป Machine Learning Library สำหรับ JavaScript",
-    "url": "https://www.somkiat.cc/machine-learning-with-javascript/",
-    "published": "2022-07-30T05:02:01.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -70,12 +76,6 @@
     "title": "A001 | เริ่มต้นกับ Ansible – Inventory",
     "url": "https://www.icez.net/blog/167503/a001-ansible-introduction-inventory",
     "published": "2022-07-22T13:23:32.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "First fall in Netherlands",
-    "url": "https://www.llun.me/posts/ride/2022-07-09-fall",
-    "published": "2022-07-09T09:03:08.000Z"
   },
   {
     "site": "myifew.com",
