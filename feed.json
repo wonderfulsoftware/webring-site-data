@@ -1,27 +1,27 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "สรุปเรื่อง Microservices Anti-Patterns",
-    "url": "https://www.somkiat.cc/microservices-anti-patterns/",
-    "published": "2022-08-04T14:58:34.000Z"
+    "site": "debuggingsoft.com",
+    "title": "[ASP.NET CORE] DB2 System.DllNotFoundException ‘libdb2.dylib’",
+    "url": "https://naiwaen.debuggingsoft.com/2022/08/asp-net-core-db2-system-dllnotfoundexception-libdb2-dylib/",
+    "published": "2022-08-05T11:56:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[C#] ทำไม Process มันผิดแค่เดือน 12 นะ",
-    "url": "https://naiwaen.debuggingsoft.com/2022/08/c-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1-process-%e0%b8%a1%e0%b8%b1%e0%b8%99%e0%b8%9c%e0%b8%b4%e0%b8%94%e0%b9%81%e0%b8%84%e0%b9%88%e0%b9%80%e0%b8%94%e0%b8%b7%e0%b8%ad%e0%b8%99-12-%e0%b8%99%e0%b8%b0/",
-    "published": "2022-08-03T14:23:00.000Z"
+    "site": "somkiat.cc",
+    "title": "ขั้นตอนในการพัฒนาและเขียน test",
+    "url": "https://www.somkiat.cc/step-to-develop-and-test/",
+    "published": "2022-08-05T11:19:23.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทดลองทำ generative NFT แบบง่ายๆ แบบไม่ต้องโค้ดกัน บน speedboat",
+    "url": "https://www.mikkipastel.com/try-to-do-geneative-nft-without-coding-by-speedboat/",
+    "published": "2022-08-05T06:53:52.000Z"
   },
   {
     "site": "llun.me",
     "title": "NextJS middleware 12.1 vs 12.2",
     "url": "https://www.llun.me/posts/dev/2022-07-31-nextjs-middleware",
     "published": "2022-07-31T12:46:58.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เล่าเรื่องงาน Crypthon Challenge ของ Stocker DAO",
-    "url": "https://www.mikkipastel.com/crypthon-challenge-stocker-dao/",
-    "published": "2022-07-29T09:22:18.000Z"
   },
   {
     "site": "tech.duckfollow.co",
