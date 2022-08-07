@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[ASP.NET CORE] DB2 System.DllNotFoundException ‘libdb2.dylib’",
-    "url": "https://naiwaen.debuggingsoft.com/2022/08/asp-net-core-db2-system-dllnotfoundexception-libdb2-dylib/",
-    "published": "2022-08-05T11:56:00.000Z"
+    "title": "[ATH2022] สรุปงาน Agile Thailand 2022 (Agile ในชีวิตจริง)",
+    "url": "https://naiwaen.debuggingsoft.com/2022/08/ath2022-agile-thailand-2022-agile-in-real-life/",
+    "published": "2022-08-06T15:52:00.000Z"
+  },
+  {
+    "site": "mesodiar.com",
+    "title": "Humble Inquiry หากเราเลือกที่จะถามและรับฟังอย่างตั้งใจ",
+    "url": "https://mesodiar.com/humble-inquiry-%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%88-cec6faaf1b18?source=rss----698ac1e5dc8c---4",
+    "published": "2022-08-06T09:23:59.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "ขั้นตอนในการพัฒนาและเขียน test",
-    "url": "https://www.somkiat.cc/step-to-develop-and-test/",
-    "published": "2022-08-05T11:19:23.000Z"
+    "title": "Go :: เครื่องมือช่วยจัดเรียง field ใน Struct",
+    "url": "https://www.somkiat.cc/go-struct-field-alignment/",
+    "published": "2022-08-06T04:32:07.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -58,12 +64,6 @@
     "title": "How to install Laravel on Ubuntu",
     "url": "https://edocstudio.info/",
     "published": "2022-07-26T00:22:30.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "แชร์ประสบการณ์เลี้ยงหมาต่างไซส์ ตัวเล็กและตัวใหญ่ในบ้านเดียวกัน",
-    "url": "https://mesodiar.com/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AA%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%89%E0%B8%A2%E0%B8%87%E0%B8%AB%E0%B8%A1%E0%B8%B2%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%8B%E0%B8%AA%E0%B9%8C-%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%80%E0%B8%A5%E0%B9%87%E0%B8%81%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B9%83%E0%B8%AB%E0%B8%8D%E0%B9%88%E0%B9%83%E0%B8%99%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%99-bf1e0910c3cc?source=rss----698ac1e5dc8c---4",
-    "published": "2022-07-24T15:00:43.000Z"
   },
   {
     "site": "poolsawat.com",
