@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "色恋沙汰は全て作図で解決可能であることの証明",
+    "url": "https://neizod.dev/2022/08/07/proof-geometric-construction-can-solve-all-love-affairs.html",
+    "published": "2022-08-07T16:24:25.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "เริ่มไม่ง่ายสำหรับภาษา Carbon",
+    "url": "https://www.somkiat.cc/hello-carbon-language/",
+    "published": "2022-08-07T07:32:21.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[ATH2022] สรุปงาน Agile Thailand 2022 (Agile ในชีวิตจริง)",
     "url": "https://naiwaen.debuggingsoft.com/2022/08/ath2022-agile-thailand-2022-agile-in-real-life/",
@@ -10,12 +22,6 @@
     "title": "Humble Inquiry หากเราเลือกที่จะถามและรับฟังอย่างตั้งใจ",
     "url": "https://mesodiar.com/humble-inquiry-%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%88%E0%B8%B0%E0%B8%96%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%9F%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%83%E0%B8%88-cec6faaf1b18?source=rss----698ac1e5dc8c---4",
     "published": "2022-08-06T09:23:59.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Go :: เครื่องมือช่วยจัดเรียง field ใน Struct",
-    "url": "https://www.somkiat.cc/go-struct-field-alignment/",
-    "published": "2022-08-06T04:32:07.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -46,12 +52,6 @@
     "title": "Authenticating as a GitHub App in Octokit.js",
     "url": "https://notes.dt.in.th/20220728T075738Z6111",
     "published": "2022-07-28T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "เซกเมนต์พาราโบลาแบบอาร์คิมีดีส",
-    "url": "https://neizod.dev/2022/07/27/archimedes-parabola-segement.html",
-    "published": "2022-07-27T01:21:09.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
