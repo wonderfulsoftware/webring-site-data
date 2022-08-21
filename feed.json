@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Microsoft TechFest 2022 x บางกอกวิทยา",
+    "url": "https://naiwaen.debuggingsoft.com/2022/08/microsoft-tech-fest-2022/",
+    "published": "2022-08-20T10:30:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "How to learn hard things in tech",
+    "url": "https://garden.narze.live/1-Projects/tech-long-didnt-read/How-to-learn-hard-things-in-tech/",
+    "published": "2022-08-20T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกเรื่อง Data architecture",
     "url": "https://www.somkiat.cc/note-for-data-architecture/",
     "published": "2022-08-19T05:09:33.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[C#] แก้ปัญหา Could not load file or assembly ‘System.ComponentModel.Annotations, Version=X.Y.0.0",
-    "url": "https://naiwaen.debuggingsoft.com/2022/08/c-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-could-not-load-file-or-assembly-system-componentmodel-annotations-versionx-y-0-0/",
-    "published": "2022-08-19T04:04:00.000Z"
   },
   {
     "site": "edocstudio.info",
@@ -172,12 +178,6 @@
     "title": "2020 - 2021",
     "url": "https://microbenz.in.th2020-and-2021-in-2022/",
     "published": "2022-03-26T07:17:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Dev Mountain Tech Fest Notes",
-    "url": "https://garden.narze.live/Dev-Mountain-Tech-Fest-Notes/",
-    "published": "2022-03-18T17:00:00.000Z"
   },
   {
     "site": "pandora.sh",
