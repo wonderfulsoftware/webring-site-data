@@ -1118,5 +1118,18 @@
     },
     "lastUpdated": "2022-08-22T01:30:58.657Z",
     "number": 80
+  },
+  "patato.live": {
+    "url": "https://patato.live",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/patato.live_375w@2x.png",
+    "blurhash": "vARw|jxt{bIV~7R+vyWB:PoeAKkCy@M|GJxu$doKtmf+4qWV%EWByFs:s$Rj",
+    "screenshotUpdatedAt": "2022-08-22T15:30:08.086Z",
+    "description": "Patato's personal portfolio website made with NextJS & TailwindCSS",
+    "backlink": {
+      "rect": "64:70:0:0",
+      "href": "https://webring.wonderful.software#patato.live"
+    },
+    "lastUpdated": "2022-08-22T15:30:08.086Z",
+    "number": 81
   }
 }
