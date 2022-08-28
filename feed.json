@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks-Black Truffle Flavor",
+    "url": "https://naiwaen.debuggingsoft.com/2022/08/cr-starbucks-black-truffle-flavor/",
+    "published": "2022-08-27T07:55:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกเรื่อง API versioning จาก LinkedIn",
     "url": "https://www.somkiat.cc/api-versioning-from-linkedin/",
@@ -10,12 +16,6 @@
     "title": "UP Skill วันหยุด กับ เขียนเว็บด้วย React",
     "url": "https://cwstory.com/holiday-upskill-with-react-a7a21c145321?source=rss----1f62a4110224---4",
     "published": "2022-08-25T10:39:02.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "PowerShell Script for List File Version & Date Modified",
-    "url": "https://naiwaen.debuggingsoft.com/2022/08/powershell-script-for-list-file-version-date-modified/",
-    "published": "2022-08-25T09:51:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -46,6 +46,12 @@
     "title": "Elapsed Time vs CPU Time",
     "url": "https://edocstudio.info/",
     "published": "2022-08-18T10:21:20.000Z"
+  },
+  {
+    "site": "rayriffy.com",
+    "title": "Visualize your network of friends",
+    "url": "https://blog.rayriffy.com/visualize-your-network-of-friends/",
+    "published": "2022-08-17T18:13:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
