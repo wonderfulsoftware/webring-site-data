@@ -1,5 +1,17 @@
 [
   {
+    "site": "nitpum.com",
+    "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
+    "url": "https://nitpum.com/post/vscode-quick-relative/",
+    "published": "2022-08-30T15:30:11.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ปัญหาเรื่อง Data consistency จากระบบ Event-based driven",
+    "url": "https://www.somkiat.cc/data-consistency-in-event-driven-architecture/",
+    "published": "2022-08-30T06:25:38.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "Hacker Cup 2022 Qualification",
     "url": "https://neizod.dev/2022/08/30/hacker-cup-2022-qualification.html",
@@ -16,12 +28,6 @@
     "title": "สรุปงาน Cloud Native Bangkok 2022",
     "url": "https://naiwaen.debuggingsoft.com/2022/08/cloud-native-bangkok-2022-note/",
     "published": "2022-08-28T09:45:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ตอบคำถามเรื่อง การ tracing ข้อมูล message ที่ส่งเข้า Apache Kafka",
-    "url": "https://www.somkiat.cc/distributed-tracing-with-apache-kafka/",
-    "published": "2022-08-28T07:00:42.000Z"
   },
   {
     "site": "cwstory.com",
@@ -136,12 +142,6 @@
     "title": "Let's share your setup in /uses page",
     "url": "https://heyfirst.co/blog/lets-share-your-setup-in-uses-page",
     "published": "2022-06-11T00:00:00.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "How to enable bash globstar **",
-    "url": "https://nitpum.com/post/enable-bash-globstar/",
-    "published": "2022-06-02T07:06:35.000Z"
   },
   {
     "site": "jojoee.com",
