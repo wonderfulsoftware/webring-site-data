@@ -1,5 +1,17 @@
 [
   {
+    "site": "myifew.com",
+    "title": "มีปัญหากับ Self Esteem และ Self Confidence",
+    "url": "https://myifew.com/6380/my-problem-self-esteem-self-confidence/",
+    "published": "2022-08-31T18:30:07.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "บันทึกงาน Flutter Meetup BKK#1 (Flutter for everyone 2022)",
+    "url": "https://naiwaen.debuggingsoft.com/2022/08/flutter-for-everyone-2022/",
+    "published": "2022-08-31T14:26:00.000Z"
+  },
+  {
     "site": "nitpum.com",
     "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
     "url": "https://nitpum.com/post/vscode-quick-relative/",
@@ -22,12 +34,6 @@
     "title": "แล้วชีวิตคุณจะเปลี่ยนไป [chapter2]",
     "url": "https://tech.duckfollow.co/view/chapter2",
     "published": "2022-08-28T13:59:02.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Cloud Native Bangkok 2022",
-    "url": "https://naiwaen.debuggingsoft.com/2022/08/cloud-native-bangkok-2022-note/",
-    "published": "2022-08-28T09:45:00.000Z"
   },
   {
     "site": "cwstory.com",
@@ -112,12 +118,6 @@
     "title": "A001 | เริ่มต้นกับ Ansible – Inventory",
     "url": "https://www.icez.net/blog/167503/a001-ansible-introduction-inventory",
     "published": "2022-07-22T13:23:32.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เมื่อผมติดโควิด โอไมครอน ชุดตรวจ ATK ไหนบ้าง ที่ตรวจเจอ และไม่เจอ!!",
-    "url": "https://myifew.com/6355/review-atk-for-my-covid19-omicron/",
-    "published": "2022-07-01T10:58:24.000Z"
   },
   {
     "site": "thiti.dev",
