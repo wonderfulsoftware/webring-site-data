@@ -1,5 +1,17 @@
 [
   {
+    "site": "rayriffy.com",
+    "title": "I moved my blog tech stack from NextJS to Astro",
+    "url": "https://blog.rayriffy.com/nextjs-to-astro-migration/",
+    "published": "2022-09-01T15:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึก การทำ cache ของ Apache Maven ใน Docker",
+    "url": "https://www.somkiat.cc/note-improve-maven-in-docker/",
+    "published": "2022-09-01T11:03:33.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "มีปัญหากับ Self Esteem และ Self Confidence",
     "url": "https://myifew.com/6380/my-problem-self-esteem-self-confidence/",
@@ -16,12 +28,6 @@
     "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
     "url": "https://nitpum.com/post/vscode-quick-relative/",
     "published": "2022-08-30T15:30:11.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ปัญหาเรื่อง Data consistency จากระบบ Event-based driven",
-    "url": "https://www.somkiat.cc/data-consistency-in-event-driven-architecture/",
-    "published": "2022-08-30T06:25:38.000Z"
   },
   {
     "site": "neizod.dev",
@@ -58,12 +64,6 @@
     "title": "Elapsed Time vs CPU Time",
     "url": "https://edocstudio.info/",
     "published": "2022-08-18T10:21:20.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Visualize your network of friends",
-    "url": "https://blog.rayriffy.com/visualize-your-network-of-friends/",
-    "published": "2022-08-17T18:13:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
