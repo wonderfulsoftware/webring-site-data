@@ -1,15 +1,27 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "เรื่องมีอยู่ว่า? logging",
+    "url": "https://tech.duckfollow.co/view/logging",
+    "published": "2022-09-03T13:59:02.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ชวนมาเรียนกัน How to Become a Top Performer",
+    "url": "https://naiwaen.debuggingsoft.com/2022/09/key-messsage-from-how-to-become-a-top-performer/",
+    "published": "2022-09-03T08:28:00.000Z"
+  },
+  {
+    "site": "katsuragi.detzz.in.th",
+    "title": "History",
+    "url": "https://katsuragi.detzz.in.th/sharing?id=9",
+    "published": "2022-09-03T06:04:05.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "ลองสร้าง SFTP server ให้ Airflow ไปวางไฟล์ให้หน่อย",
     "url": "https://mesodiar.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-sftp-server-%E0%B9%83%E0%B8%AB%E0%B9%89-airflow-%E0%B9%84%E0%B8%9B%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2-f43f9c6d70d6?source=rss----698ac1e5dc8c---4",
     "published": "2022-09-03T01:11:16.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to setting up filter rules – Zimbra",
-    "url": "https://naiwaen.debuggingsoft.com/2022/09/how-to-setting-up-filter-rules-zimbra/",
-    "published": "2022-09-02T13:33:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -48,12 +60,6 @@
     "published": "2022-08-29T19:24:02.000Z"
   },
   {
-    "site": "tech.duckfollow.co",
-    "title": "แล้วชีวิตคุณจะเปลี่ยนไป [chapter2]",
-    "url": "https://tech.duckfollow.co/view/chapter2",
-    "published": "2022-08-28T13:59:02.000Z"
-  },
-  {
     "site": "cwstory.com",
     "title": "UP Skill วันหยุด กับ เขียนเว็บด้วย React",
     "url": "https://cwstory.com/holiday-upskill-with-react-a7a21c145321?source=rss----1f62a4110224---4",
@@ -76,12 +82,6 @@
     "title": "Elapsed Time vs CPU Time",
     "url": "https://edocstudio.info/",
     "published": "2022-08-18T10:21:20.000Z"
-  },
-  {
-    "site": "katsuragi.detzz.in.th",
-    "title": "codingSyndrome()",
-    "url": "https://katsuragi.detzz.in.th/sharing?id=8",
-    "published": "2022-08-13T17:29:28.000Z"
   },
   {
     "site": "nuttdam.com",
