@@ -1,5 +1,11 @@
 [
   {
+    "site": "garden.narze.live",
+    "title": "Redis Explained",
+    "url": "https://garden.narze.live/1-Projects/tech-long-didnt-read/Redis-Explained/",
+    "published": "2022-09-04T00:00:00.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "เรื่องมีอยู่ว่า? logging",
     "url": "https://tech.duckfollow.co/view/logging",
@@ -70,12 +76,6 @@
     "title": "Audio encoding benchmark with FFmpeg",
     "url": "https://notes.dt.in.th/20220823T063103Z7135",
     "published": "2022-08-23T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "How I Focus While Coding",
-    "url": "https://garden.narze.live/1-Projects/tech-long-didnt-read/How-I-Focus-While-Coding/",
-    "published": "2022-08-21T00:00:00.000Z"
   },
   {
     "site": "edocstudio.info",
