@@ -1,5 +1,23 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "ความจริงของ microservices",
+    "url": "https://tech.duckfollow.co/view/microservices",
+    "published": "2022-09-11T13:59:02.000Z"
+  },
+  {
+    "site": "bigdatarpg.com",
+    "title": "ตำแหน่งอยู่ไม่นาน ตำนานอยู่ตลอดไป",
+    "url": "https://bigdatarpg.com/2022/09/11/%e0%b8%95%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%b2%e0%b8%99-%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99/",
+    "published": "2022-09-11T10:11:58.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Interests",
+    "url": "https://garden.narze.live/Interests/",
+    "published": "2022-09-11T00:00:00.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "A survey of JWT storage locations in client-side app SDKs",
     "url": "https://notes.dt.in.th/JWTStorageInClientSideSDKs",
@@ -34,18 +52,6 @@
     "title": "สรุปการอ่านบทความเรื่อง HTTP Analytics for 6M requests per second using ClickHouse จาก Cloudflare",
     "url": "https://www.somkiat.cc/note-data-pipeline-analytics-from-cloudflare/",
     "published": "2022-09-06T06:31:46.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Redis Explained",
-    "url": "https://garden.narze.live/1-Projects/tech-long-didnt-read/Redis-Explained/",
-    "published": "2022-09-04T00:00:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "เรื่องมีอยู่ว่า? logging",
-    "url": "https://tech.duckfollow.co/view/logging",
-    "published": "2022-09-03T13:59:02.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -130,12 +136,6 @@
     "title": "บันทึกเดินทาง ลากกระเป๋าโซโล Munich ถึง Marseille",
     "url": "https://chameleontk.github.io/lrec-conference/",
     "published": "2022-06-24T00:00:00.000Z"
-  },
-  {
-    "site": "bigdatarpg.com",
-    "title": "หัวข้อออกสอบ Data Scientist",
-    "url": "https://bigdatarpg.com/2022/06/15/%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%82%e0%b9%89%e0%b8%ad%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%aa%e0%b8%ad%e0%b8%9a-data-scientist/",
-    "published": "2022-06-15T04:42:24.000Z"
   },
   {
     "site": "heyfirst.co",
