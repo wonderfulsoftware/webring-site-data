@@ -1,5 +1,23 @@
 [
   {
+    "site": "myifew.com",
+    "title": "ล่องแก่งน้ำว้า + เที่ยวน่านไง",
+    "url": "https://myifew.com/6397/rafting-namwa5-nan/",
+    "published": "2022-09-13T16:47:54.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Golang :: เปลี่ยนมาใช้ zap สำหรับจัดการ logging",
+    "url": "https://www.somkiat.cc/golang-logging-with-zap/",
+    "published": "2022-09-13T10:15:16.000Z"
+  },
+  {
+    "site": "blog.kpping.me",
+    "title": "Long Time No See Twitter",
+    "url": "https://blog.kpping.me/posts/long-time-nosee-twitter/",
+    "published": "2022-09-13T09:10:45.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "มาเล่าหลังไปเรียน MUICT-depa Penetration Testing รุ่น 2",
     "url": "https://naiwaen.debuggingsoft.com/2022/09/key-takeaway-from-muict-depa-penetration-testing-2/",
@@ -48,22 +66,10 @@
     "published": "2022-09-09T02:15:40.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปการอ่านบทความเรื่อง HTTP Analytics for 6M requests per second using ClickHouse จาก Cloudflare",
-    "url": "https://www.somkiat.cc/note-data-pipeline-analytics-from-cloudflare/",
-    "published": "2022-09-06T06:31:46.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "ลองสร้าง SFTP server ให้ Airflow ไปวางไฟล์ให้หน่อย",
     "url": "https://mesodiar.com/%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-sftp-server-%E0%B9%83%E0%B8%AB%E0%B9%89-airflow-%E0%B9%84%E0%B8%9B%E0%B8%A7%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%9F%E0%B8%A5%E0%B9%8C%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B8%99%E0%B9%88%E0%B8%AD%E0%B8%A2-f43f9c6d70d6?source=rss----698ac1e5dc8c---4",
     "published": "2022-09-03T01:11:16.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "มีปัญหากับ Self Esteem และ Self Confidence",
-    "url": "https://myifew.com/6380/my-problem-self-esteem-self-confidence/",
-    "published": "2022-08-31T18:30:07.000Z"
   },
   {
     "site": "nitpum.com",
@@ -148,12 +154,6 @@
     "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
     "url": "https://jojoee.com/promptpay-shortcode-test/",
     "published": "2022-05-24T16:05:20.000Z"
-  },
-  {
-    "site": "blog.kpping.me",
-    "title": "ทำ RAID 1 ด้วย mdadm บน Fedora 35",
-    "url": "https://blog.kpping.me/posts/setup-raid1-with-mdadm-in-fedora35/",
-    "published": "2022-05-19T07:49:45.000Z"
   },
   {
     "site": "blog.oatto.dev",
