@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Client-side-only components in Next.js",
+    "url": "https://notes.dt.in.th/NextClientSideOnly",
+    "published": "2022-09-14T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "ล่องแก่งน้ำว้า + เที่ยวน่านไง",
     "url": "https://myifew.com/6397/rafting-namwa5-nan/",
@@ -40,12 +46,6 @@
     "title": "Interests",
     "url": "https://garden.narze.live/Interests/",
     "published": "2022-09-11T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "A survey of JWT storage locations in client-side app SDKs",
-    "url": "https://notes.dt.in.th/JWTStorageInClientSideSDKs",
-    "published": "2022-09-10T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
