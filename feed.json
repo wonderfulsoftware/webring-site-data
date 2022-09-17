@@ -1,5 +1,11 @@
 [
   {
+    "site": "kusumotolab.com",
+    "title": "How to install RTL8188GU driver on ubuntu linux",
+    "url": "https://kusumotolab.com/how-to-install-rtl8188gu-driver-on-ubuntu-linux/",
+    "published": "2022-09-16T04:09:13.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[Jenkins] Fixed java.nio.charset.UnmappableCharacterException: Input length = 1 on Windows",
     "url": "https://naiwaen.debuggingsoft.com/2022/09/jenkins-fixed-java-nio-charset-unmappablecharacterexception-input-length-1-on-windows/",
@@ -244,12 +250,6 @@
     "title": "ASCIS 2021: Calculate me – not just only programming, but everyone should have money",
     "url": "https://shayennn.com/ascis-2021-calculate-me/",
     "published": "2021-10-09T05:57:25.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "ผ่านมา 5 เดือนที่ Ascend เป็นไงบ้าง",
-    "url": "https://kusumotolab.com/5-month-at-ascend/",
-    "published": "2021-09-01T15:14:56.000Z"
   },
   {
     "site": "jitrak.dev",
