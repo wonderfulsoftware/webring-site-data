@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปจากการอ่านเรื่อง Reducing Database Loading",
+    "url": "https://www.somkiat.cc/note-from-reducing-database-loading/",
+    "published": "2022-09-18T10:59:40.000Z"
+  },
+  {
+    "site": "rayriffy.com",
+    "title": "I reduced AWS billing by 30% by building node-canvas for arm64 as a layer",
+    "url": "https://blog.rayriffy.com/build-my-own-node-canvas-lambda/",
+    "published": "2022-09-18T03:00:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Making a Next.js app a PWA",
+    "url": "https://notes.dt.in.th/NextPWA",
+    "published": "2022-09-18T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "เลือกทริปเที่ยว อย่าดูแค่ราคาถูก",
     "url": "https://myifew.com/6417/cheaper-travel-may-be-poor/",
@@ -10,18 +28,6 @@
     "title": "สรุป Dev Club Meetup #1: Microservices @ Finema",
     "url": "https://naiwaen.debuggingsoft.com/2022/09/dev-club-meetup-1-microservices/",
     "published": "2022-09-17T16:53:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Postman 10 Early access",
-    "url": "https://www.somkiat.cc/postman-10-early-access/",
-    "published": "2022-09-17T06:41:07.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Setting default Next.js development server port",
-    "url": "https://notes.dt.in.th/NextDevPort",
-    "published": "2022-09-17T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
@@ -58,12 +64,6 @@
     "title": "กลับมาอีกครั้งกับงาน LINE THAILAND DEVELOPER CONFERENCE 2022",
     "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2022/",
     "published": "2022-09-09T08:38:50.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Riffy's Adventure to extend iPhone lifespan",
-    "url": "https://blog.rayriffy.com/riffy-adventure-extend-iphone-lifespan/",
-    "published": "2022-09-09T05:00:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
