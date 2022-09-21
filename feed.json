@@ -1,5 +1,11 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "Roots and Rationalize",
+    "url": "https://neizod.dev/2022/09/19/roots-and-rationalize.html",
+    "published": "2022-09-19T16:28:06.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[AZURE] Pricing tier doesn’t match the subscription’s billing model",
     "url": "https://naiwaen.debuggingsoft.com/2022/09/azure-pricing-tier-doesnt-match-the-subscriptions-billing-model/",
@@ -82,12 +88,6 @@
     "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
     "url": "https://nitpum.com/post/vscode-quick-relative/",
     "published": "2022-08-30T15:30:11.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Hacker Cup 2022 Qualification",
-    "url": "https://neizod.dev/2022/08/30/hacker-cup-2022-qualification.html",
-    "published": "2022-08-29T19:24:02.000Z"
   },
   {
     "site": "cwstory.com",
