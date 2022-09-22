@@ -48,6 +48,12 @@
     "published": "2022-09-13T09:10:45.000Z"
   },
   {
+    "site": "blog.oatto.dev",
+    "title": "Build multi platform docker image",
+    "url": "https://blog.oatto.dev/2022/09/12/docker-buildx.html",
+    "published": "2022-09-12T00:00:00.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "ความจริงของ microservices",
     "url": "https://tech.duckfollow.co/view/microservices",
@@ -160,12 +166,6 @@
     "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
     "url": "https://jojoee.com/promptpay-shortcode-test/",
     "published": "2022-05-24T16:05:20.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Query smart contract with Web3j in Scala",
-    "url": "https://blog.oatto.dev/2022/05/03/web3j.html",
-    "published": "2022-05-03T00:00:00.000Z"
   },
   {
     "site": "chrisza.me",
