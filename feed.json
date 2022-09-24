@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "A snippet to install Docker on a Linux machine",
+    "url": "https://notes.dt.in.th/DockerInstall",
+    "published": "2022-09-23T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Huawei Connect 2022@BKK",
     "url": "https://naiwaen.debuggingsoft.com/2022/09/huawei-connect-2022-bangkok/",
@@ -28,12 +34,6 @@
     "title": "I reduced AWS billing by 30% by building node-canvas for arm64 as a layer",
     "url": "https://blog.rayriffy.com/build-my-own-node-canvas-lambda/",
     "published": "2022-09-18T03:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Making a Next.js app a PWA",
-    "url": "https://notes.dt.in.th/NextPWA",
-    "published": "2022-09-18T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
