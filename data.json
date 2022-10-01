@@ -1087,7 +1087,8 @@
       "rect": "32:32:24:24",
       "href": "https://webring.wonderful.software#tinarskii.com"
     },
-    "lastUpdated": "2022-09-24T01:41:06.756Z"
+    "lastUpdated": "2022-10-01T14:46:54.713Z",
+    "number": 78
   },
   "blog.0002011.xyz": {
     "url": "https://blog.0002011.xyz",
@@ -1140,5 +1141,18 @@
     },
     "lastUpdated": "2022-10-01T02:04:18.883Z",
     "number": 82
+  },
+  "th1nkk1d.xyz": {
+    "url": "https://th1nkk1d.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/th1nkk1d.xyz_375w@2x.png",
+    "blurhash": "vKSPb2of~XWBNFj[xvWB?Hj[E1f6s;ayNFofx]WBRPofXljsi_bHV[oLj?WV",
+    "screenshotUpdatedAt": "2022-10-01T14:46:54.786Z",
+    "description": "An indie developer and generalist enthusiasm who value a meaningful impact",
+    "backlink": {
+      "rect": "32:32:171.5:6029",
+      "href": "https://webring.wonderful.software#th1nkk1d.xyz"
+    },
+    "lastUpdated": "2022-10-01T14:46:54.786Z",
+    "number": 83
   }
 }
