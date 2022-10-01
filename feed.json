@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Windows 11 22H2 – 2 Week ผ่านไป",
+    "url": "https://naiwaen.debuggingsoft.com/2022/09/windows-11-22h2-2-week-test/",
+    "published": "2022-09-30T15:10:27.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Golang ทำ CRUD Service APIs (No Database) พร้อมเขียน Test ด้วย",
+    "url": "https://www.poolsawat.com/golang-echo-framework-crud-testing/",
+    "published": "2022-09-30T10:21:18.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "ความสมบูรณ์แบบ?",
     "url": "https://tech.duckfollow.co/view/perfect",
@@ -52,12 +64,6 @@
     "title": "[AWS-IoT] Manage Greengrass ผ่าน Secure Tunneling Component",
     "url": "https://thanapon.info/aws-iot-secure-tunneling/",
     "published": "2022-09-24T13:27:59.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Huawei Connect 2022@BKK",
-    "url": "https://naiwaen.debuggingsoft.com/2022/09/huawei-connect-2022-bangkok/",
-    "published": "2022-09-22T04:00:00.000Z"
   },
   {
     "site": "blog.oatto.dev",
@@ -136,12 +142,6 @@
     "title": "Cyber Combat 2022 (Final) - sql_demo",
     "url": "https://suam.wtf/posts/cyber-combat-2022-final-sql_demo/",
     "published": "2022-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Robot Framework แนะนำ Pycharm IDE ช่วยให้เขียน Robot ง่ายยิ่งขึ้น EP4",
-    "url": "https://www.poolsawat.com/robot-pycharm-ide-ep4/",
-    "published": "2022-07-23T16:43:26.000Z"
   },
   {
     "site": "icez.net",
