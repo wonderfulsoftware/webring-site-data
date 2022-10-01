@@ -620,8 +620,7 @@
       "rect": "32:22:172:24",
       "href": "https://webring.wonderful.software#blog.karnwong.me"
     },
-    "lastUpdated": "2022-10-01T01:54:31.561Z",
-    "number": 44
+    "lastUpdated": "2022-10-01T01:54:31.561Z"
   },
   "thiti.dev": {
     "url": "https://thiti.dev",
@@ -1154,5 +1153,18 @@
     },
     "lastUpdated": "2022-10-01T14:46:54.786Z",
     "number": 83
+  },
+  "karnwong.me": {
+    "url": "https://karnwong.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/karnwong.me_375w@2x.png",
+    "blurhash": "vORMb_IWayxs~kfORkRlt7RnocayRoxsIXayD+Rk%Jaz%FfOM}WExsWCRloe",
+    "screenshotUpdatedAt": "2022-10-01T17:29:17.139Z",
+    "description": "Homepage and blog by Karn Wong",
+    "backlink": {
+      "rect": "32:17:8:2123",
+      "href": "https://webring.wonderful.software#karnwong.me"
+    },
+    "lastUpdated": "2022-10-01T17:29:17.139Z",
+    "number": 44
   }
 }
