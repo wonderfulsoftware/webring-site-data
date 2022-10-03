@@ -1,9 +1,21 @@
 [
   {
+    "site": "llun.me",
+    "title": "Amsterdam after 6 months",
+    "url": "https://www.llun.me/posts/2022-10-02-amsterdam-after-6-months",
+    "published": "2022-10-02T20:22:43.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[MS Cert] บันทึก Renewal for Microsoft Certified: Azure Developer Associate (AZ-204)",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/renewal-for-microsoft-certified-azure-developer-associate-az-204-note/",
-    "published": "2022-10-01T03:40:13.000Z"
+    "title": "ลองใช้ซึ้งนึ่ง แทนไมโครเวฟ",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%8b%e0%b8%b6%e0%b9%89%e0%b8%87%e0%b8%99%e0%b8%b6%e0%b9%88%e0%b8%87-%e0%b9%81%e0%b8%97%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b9%80%e0%b8%a7%e0%b8%9f/",
+    "published": "2022-10-02T13:31:05.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Building CLI apps using @rushstack/ts-command-line library",
+    "url": "https://notes.dt.in.th/TsCommandLine",
+    "published": "2022-10-02T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
@@ -58,12 +70,6 @@
     "title": "ในที่สุดก็ตัดสินใจซื้อ NAS มาใช้ส่วนตัว",
     "url": "https://blog.kpping.me/posts/buying-nas/",
     "published": "2022-09-25T08:27:21.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Minio JavaScript library snippets",
-    "url": "https://notes.dt.in.th/MinioJS",
-    "published": "2022-09-25T00:00:00.000Z"
   },
   {
     "site": "thanapon.info",
@@ -136,12 +142,6 @@
     "title": "ผม custom layout คีย์บอร์ดยังไงบ้าง",
     "url": "https://yothinix.com/custom-keyboard-layout-story/",
     "published": "2022-08-12T00:53:02.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "NextJS middleware 12.1 vs 12.2",
-    "url": "https://www.llun.me/posts/dev/2022-07-31-nextjs-middleware",
-    "published": "2022-07-31T12:46:58.000Z"
   },
   {
     "site": "suam.wtf",
