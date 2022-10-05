@@ -1,9 +1,15 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Deploy static site with branch preview via Cloudflare Pages",
+    "url": "https://www.karnwong.me/posts/2022-10-05-deploy-static-site-with-branch-preview-via-cloudflare-pages/",
+    "published": "2022-10-04T19:23:06.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[C#] Attaching an event handler",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/c-attaching-an-event-handler/",
-    "published": "2022-10-03T13:06:00.000Z"
+    "title": "ลองใช้บริการล้างแอร์จาก SCGHOME",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/clean-air-conditioner-by-scg-home-service/",
+    "published": "2022-10-04T11:34:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -34,12 +40,6 @@
     "title": "แนะนำ Postman CLI",
     "url": "https://www.somkiat.cc/postman-cli-inpostman-10/",
     "published": "2022-09-28T08:16:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Intro to Dagster Cloud",
-    "url": "https://www.karnwong.me/posts/2022-09-27-intro-to-dagster-cloud/",
-    "published": "2022-09-27T10:19:45.000Z"
   },
   {
     "site": "myifew.com",
