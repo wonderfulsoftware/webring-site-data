@@ -1,15 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "แนะนำ Spring Boot Migrator (SBM) สำหรับการ migrate ไปยัง Spring Boot 3",
-    "url": "https://www.somkiat.cc/spring-boot-migrator/",
-    "published": "2022-10-09T16:41:44.000Z"
+    "title": "โครงสร้างการทำงานของ Playwright",
+    "url": "https://www.somkiat.cc/playwright-architecture/",
+    "published": "2022-10-10T14:58:40.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "สรุปงาน Azure Multicloud",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/azure-multicloud-note/",
-    "published": "2022-10-08T10:00:00.000Z"
+    "title": "[Jenkins] ข้อสังเกตุ Jenkins Controller and Agents Architecture",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/jenkins-use-jenkins-controller-and-agents-architecture-after-one-month/",
+    "published": "2022-10-10T05:05:00.000Z"
   },
   {
     "site": "mikkipastel.com",
