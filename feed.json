@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "My VS Code snippets keyboard shortcuts (keybindings)",
+    "url": "https://notes.dt.in.th/VSCodeKeybindings",
+    "published": "2022-10-11T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "โครงสร้างการทำงานของ Playwright",
     "url": "https://www.somkiat.cc/playwright-architecture/",
@@ -28,12 +34,6 @@
     "title": "Deploy static site with branch preview via Cloudflare Pages",
     "url": "https://www.karnwong.me/posts/2022-10-05-deploy-static-site-with-branch-preview-via-cloudflare-pages/",
     "published": "2022-10-04T19:23:06.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Server-side source maps in Next.js",
-    "url": "https://notes.dt.in.th/NextServerSideSourceMaps",
-    "published": "2022-10-03T00:00:00.000Z"
   },
   {
     "site": "llun.me",
