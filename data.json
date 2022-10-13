@@ -39,16 +39,17 @@
     "number": 2
   },
   "monosor.dev": {
-    "blurhash": "vtQcn{WBt7j[~qayRjj[9Ffkofayt7a|j[j[%2jsayj[D%j[ofa|-;WVWBj[",
+    "blurhash": "v4S?DV8_xt%M~WWAE1WCEMbvocniE1R,t7s:=|slWWkWi{xHt7ozInInV[oL",
     "description": null,
     "backlink": {
       "rect": "283:40:-284:440",
       "href": "https://webring.wonderful.software/#monosor.dev"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/monosor.dev_375w@2x.png",
-    "screenshotUpdatedAt": "2022-04-03T00:59:40.270Z",
-    "lastUpdated": "2022-06-08T01:03:03.240Z",
-    "url": "https://monosor.dev"
+    "screenshotUpdatedAt": "2022-10-13T11:51:33.610Z",
+    "lastUpdated": "2022-10-13T11:51:33.610Z",
+    "url": "https://monosor.dev",
+    "number": 3
   },
   "monosor.com": {
     "blurhash": "v39?tN}@0#E2%MFeEMwI;fNGE#t7[oV?F1t7,;$jX8Nct7t7W=R*EMR*s:of",
@@ -361,19 +362,21 @@
       "rect": null,
       "href": "https://webring.wonderful.software#www.varokas.com"
     },
-    "lastUpdated": "2022-10-12T01:53:28.357Z"
+    "lastUpdated": "2022-10-13T11:54:39.122Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v3Qcn|^+_3D$8^E2s.t7004mD*%O4:~WkCM{xCks?aaI%h-oIVR-xY8_M|tS",
-    "screenshotUpdatedAt": "2022-10-11T01:27:47.150Z",
+    "blurhash": "vGPjGd4nM|t7MxWXoej[~p_2xuM{D%jYWBj[4n9FWBxt%Mt7j[WV?b-:kCRj",
+    "screenshotUpdatedAt": "2022-10-13T11:54:25.211Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2022-10-12T01:53:15.222Z"
+    "lastUpdated": "2022-10-13T11:54:25.211Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -385,7 +388,8 @@
       "rect": "40:44:167.5:321",
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2022-10-12T01:53:34.731Z"
+    "lastUpdated": "2022-10-13T11:54:45.408Z",
+    "number": 27
   },
   "dont.works": {
     "url": "https://dont.works",
@@ -410,7 +414,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2022-10-12T01:53:53.043Z"
+    "lastUpdated": "2022-10-13T11:55:01.087Z",
+    "number": 28
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -1159,5 +1164,18 @@
     },
     "lastUpdated": "2022-10-13T01:36:16.766Z",
     "number": 44
+  },
+  "pawaret.dev": {
+    "url": "https://pawaret.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pawaret.dev_375w@2x.png",
+    "blurhash": "vCA]vnf60Lay~9ay9uay9Gay%3ay0iay={j[0jay={j[E3fQ-TfQ%2f6j;j[",
+    "screenshotUpdatedAt": "2022-10-13T11:55:38.186Z",
+    "description": "Pawaret Muengkaew personal portfolio website made with 💖 using Next.js and Taiwlind CSS",
+    "backlink": {
+      "rect": "32:32:303:40",
+      "href": "https://webring.wonderful.software#pawaret.dev"
+    },
+    "lastUpdated": "2022-10-13T11:55:38.187Z",
+    "number": 84
   }
 }

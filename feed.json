@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน JetBrains Fleet กันหน่อย",
+    "url": "https://www.somkiat.cc/hello-jetbrains-fleet/",
+    "published": "2022-10-13T05:54:35.000Z"
+  },
+  {
     "site": "rayriffy.com",
     "title": "I made a web application to show my Apple Music in my GitHub profile (or anywhere)",
     "url": "https://blog.rayriffy.com/apple-music-in-github-profile/",
@@ -10,12 +16,6 @@
     "title": "My VS Code snippets keyboard shortcuts (keybindings)",
     "url": "https://notes.dt.in.th/VSCodeKeybindings",
     "published": "2022-10-11T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "โครงสร้างการทำงานของ Playwright",
-    "url": "https://www.somkiat.cc/playwright-architecture/",
-    "published": "2022-10-10T14:58:40.000Z"
   },
   {
     "site": "debuggingsoft.com",
