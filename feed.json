@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "คูณเมทริกซ์แบบ Strassen",
+    "url": "https://neizod.dev/2022/10/13/strassen-matrix-multiplication.html",
+    "published": "2022-10-13T16:32:23.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทดลองเป็น Creator ฝึกหัด กับเหล่า Skooldio Creator Square ที่ Creators Playground กันจ้า",
+    "url": "https://www.mikkipastel.com/creators-playground-skooldio-creator-camp/",
+    "published": "2022-10-13T15:29:39.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองใช้งาน JetBrains Fleet กันหน่อย",
     "url": "https://www.somkiat.cc/hello-jetbrains-fleet/",
@@ -22,12 +34,6 @@
     "title": "[Jenkins] ข้อสังเกตุ Jenkins Controller and Agents Architecture",
     "url": "https://naiwaen.debuggingsoft.com/2022/10/jenkins-use-jenkins-controller-and-agents-architecture-after-one-month/",
     "published": "2022-10-10T05:05:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สรุป Productive Communication & Personality Improvement จากโครงการ Skooldio Creator Square",
-    "url": "https://www.mikkipastel.com/productive-communication-personality-improvement-skooldio-creator-square/",
-    "published": "2022-10-05T06:04:50.000Z"
   },
   {
     "site": "heyfirst.co",
@@ -100,12 +106,6 @@
     "title": "Build multi platform docker image",
     "url": "https://blog.oatto.dev/2022/09/22/docker-buildx.html",
     "published": "2022-09-22T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Roots and Rationalize",
-    "url": "https://neizod.dev/2022/09/19/roots-and-rationalize.html",
-    "published": "2022-09-19T16:28:06.000Z"
   },
   {
     "site": "kusumotolab.com",
