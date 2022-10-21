@@ -1,5 +1,11 @@
 [
   {
+    "site": "edocstudio.info",
+    "title": "PySpark SQL Recipes EP. 1",
+    "url": "https://edocstudio.info/",
+    "published": "2022-10-20T14:55:55.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาแล้ว Robot Framework 6",
     "url": "https://www.somkiat.cc/thai-in-robot-framework-6/",
@@ -50,7 +56,7 @@
   {
     "site": "karnwong.me",
     "title": "Deploy static site with branch preview via Cloudflare Pages",
-    "url": "https://www.karnwong.me/posts/2022-10-05-deploy-static-site-with-branch-preview-via-cloudflare-pages/",
+    "url": "https://www.karnwong.me/posts/2022/10/deploy-static-site-with-branch-preview-via-cloudflare-pages/",
     "published": "2022-10-04T19:23:06.000Z"
   },
   {
@@ -136,12 +142,6 @@
     "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
     "url": "https://nitpum.com/post/vscode-quick-relative/",
     "published": "2022-08-30T15:30:11.000Z"
-  },
-  {
-    "site": "edocstudio.info",
-    "title": "Elapsed Time vs CPU Time",
-    "url": "https://edocstudio.info/",
-    "published": "2022-08-18T10:21:20.000Z"
   },
   {
     "site": "nuttdam.com",
