@@ -1,9 +1,21 @@
 [
   {
     "site": "mesodiar.com",
-    "title": "MapReduce คืออะไร เข้าใจที่มา Hadoop และในด้าน Distributed Computing",
-    "url": "https://mesodiar.com/mapreduce-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B9%80%E0%B8%82%E0%B9%89%E0%B8%B2%E0%B9%83%E0%B8%88%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2-hadoop-%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%99-distributed-computing-d4312d6b52d7?source=rss----698ac1e5dc8c---4",
-    "published": "2022-10-22T16:12:16.000Z"
+    "title": "ความแตกต่างระหว่าง Parallel Computing และ Distributed Computing",
+    "url": "https://mesodiar.com/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-parallel-computing-%E0%B9%81%E0%B8%A5%E0%B8%B0-distributed-computing-24b6f97faf36?source=rss----698ac1e5dc8c---4",
+    "published": "2022-10-24T00:42:41.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "งานสัปดาห์หนังสือแห่งชาติ ปี 2565 BOOKTOPIA @QSNCC",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/book-fair-2022-back-to-home-qsncc/",
+    "published": "2022-10-23T13:20:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปจากบทความ Choosing the best Node.js Docker image",
+    "url": "https://www.somkiat.cc/note-from-choosing-the-best-node-js-docker-image/",
+    "published": "2022-10-23T05:55:50.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -12,22 +24,10 @@
     "published": "2022-10-21T08:29:53.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "RedHat มีแจก E-book Free นะ",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/redhat-free-e-book/",
-    "published": "2022-10-21T08:15:00.000Z"
-  },
-  {
     "site": "edocstudio.info",
     "title": "PySpark SQL Recipes EP. 1",
     "url": "https://edocstudio.info/",
     "published": "2022-10-20T14:55:55.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาแล้ว Robot Framework 6",
-    "url": "https://www.somkiat.cc/thai-in-robot-framework-6/",
-    "published": "2022-10-19T14:14:16.000Z"
   },
   {
     "site": "kusumotolab.com",
