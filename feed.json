@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "น่าสนใจกับ Tauri :: framework สำหรับการพัฒนา Desktop application",
+    "url": "https://www.somkiat.cc/develop-desktop-app-with-tauri/",
+    "published": "2022-10-24T11:06:14.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำเพจหลักแสน ทำกี่รอบก็ทำได้ โดยพี่เทอร์โบ เพจ Bittoon",
+    "url": "https://www.mikkipastel.com/how-to-get-100000-follower-in-facebook-page-by-turbo-bittoon-dao/",
+    "published": "2022-10-24T10:23:31.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "กราฟและโครงสร้างข้อมูลแบบงูกินหางใน Haskell",
+    "url": "https://neizod.dev/2022/10/24/graph-and-cyclic-structure-haskell.html",
+    "published": "2022-10-24T04:12:13.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "ความแตกต่างระหว่าง Parallel Computing และ Distributed Computing",
     "url": "https://mesodiar.com/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-parallel-computing-%E0%B9%81%E0%B8%A5%E0%B8%B0-distributed-computing-24b6f97faf36?source=rss----698ac1e5dc8c---4",
@@ -10,18 +28,6 @@
     "title": "งานสัปดาห์หนังสือแห่งชาติ ปี 2565 BOOKTOPIA @QSNCC",
     "url": "https://naiwaen.debuggingsoft.com/2022/10/book-fair-2022-back-to-home-qsncc/",
     "published": "2022-10-23T13:20:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปจากบทความ Choosing the best Node.js Docker image",
-    "url": "https://www.somkiat.cc/note-from-choosing-the-best-node-js-docker-image/",
-    "published": "2022-10-23T05:55:50.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มาเพิ่ม Skill ของ Android Developer ด้วยการทำ Android Library กันเถอะ",
-    "url": "https://www.mikkipastel.com/level-up-with-android-library-for-android-developer-android-bangkok-2022/",
-    "published": "2022-10-21T08:29:53.000Z"
   },
   {
     "site": "edocstudio.info",
@@ -40,12 +46,6 @@
     "title": "React Finland 2022: React Alternative (Part 1)",
     "url": "https://heyfirst.co/blog/react-finland-2022-part-1-react-alternative",
     "published": "2022-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "คูณเมทริกซ์แบบ Strassen",
-    "url": "https://neizod.dev/2022/10/13/strassen-matrix-multiplication.html",
-    "published": "2022-10-13T16:32:23.000Z"
   },
   {
     "site": "rayriffy.com",
