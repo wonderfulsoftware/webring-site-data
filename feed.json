@@ -1,9 +1,21 @@
 [
   {
+    "site": "llun.me",
+    "title": "iCloud Photos shared album",
+    "url": "https://www.llun.me/posts/dev/2022-10-25-iCloud-photos-shared-album",
+    "published": "2022-10-25T18:12:38.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "น่าสนใจกับ Tauri :: framework สำหรับการพัฒนา Desktop application",
-    "url": "https://www.somkiat.cc/develop-desktop-app-with-tauri/",
-    "published": "2022-10-24T11:06:14.000Z"
+    "title": "แนะนำ Coverage Gutters ใน VS Code สำหรับ Continuous testing",
+    "url": "https://www.somkiat.cc/coverage-gutters-in-vs-code/",
+    "published": "2022-10-25T08:22:57.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks-Ginger Beer",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/cr-starbucks-ginger-beer/",
+    "published": "2022-10-25T08:19:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -22,12 +34,6 @@
     "title": "ความแตกต่างระหว่าง Parallel Computing และ Distributed Computing",
     "url": "https://mesodiar.com/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-parallel-computing-%E0%B9%81%E0%B8%A5%E0%B8%B0-distributed-computing-24b6f97faf36?source=rss----698ac1e5dc8c---4",
     "published": "2022-10-24T00:42:41.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "งานสัปดาห์หนังสือแห่งชาติ ปี 2565 BOOKTOPIA @QSNCC",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/book-fair-2022-back-to-home-qsncc/",
-    "published": "2022-10-23T13:20:00.000Z"
   },
   {
     "site": "edocstudio.info",
@@ -64,12 +70,6 @@
     "title": "Deploy static site with branch preview via Cloudflare Pages",
     "url": "https://www.karnwong.me/posts/2022/10/deploy-static-site-with-branch-preview-via-cloudflare-pages/",
     "published": "2022-10-04T19:23:06.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "Amsterdam after 6 months",
-    "url": "https://www.llun.me/posts/2022-10-02-amsterdam-after-6-months",
-    "published": "2022-10-02T20:22:43.000Z"
   },
   {
     "site": "poolsawat.com",
