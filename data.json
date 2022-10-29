@@ -459,7 +459,8 @@
       "rect": "24:28.765625:239.5:10.6171875",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2022-10-28T01:31:34.955Z"
+    "lastUpdated": "2022-10-29T11:09:14.357Z",
+    "number": 32
   },
   "pat.chormai.org": {
     "url": "https://pat.chormai.org",
@@ -1076,7 +1077,8 @@
       "rect": "32:32:24:24",
       "href": "https://webring.wonderful.software#tinarskii.com"
     },
-    "lastUpdated": "2022-10-28T01:43:35.720Z"
+    "lastUpdated": "2022-10-29T11:11:34.034Z",
+    "number": 78
   },
   "blog.0002011.xyz": {
     "url": "https://blog.0002011.xyz",
@@ -1165,5 +1167,8 @@
     },
     "lastUpdated": "2022-10-29T01:30:13.580Z",
     "number": 84
+  },
+  "supratouch.dev": {
+    "url": "https://supratouch.dev"
   }
 }
