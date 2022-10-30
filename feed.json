@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุป Hacktoberfest Thailand 2022 (Talk Session)",
+    "url": "https://naiwaen.debuggingsoft.com/2022/10/hacktoberfest-thailand-2022-talk-session-summary/",
+    "published": "2022-10-29T16:53:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการฟัง :: POS/ERP Architecture ของถูกดี",
     "url": "https://www.somkiat.cc/note-pos-architecture-from-td/",
     "published": "2022-10-29T07:33:21.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[.NET] เพิ่ม Version ตอน Build หรือ Pack NuGet //.NET Core",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/add-version-when-build-pack-net-core/",
-    "published": "2022-10-27T09:58:00.000Z"
   },
   {
     "site": "llun.me",
