@@ -1,5 +1,11 @@
 [
   {
+    "site": "nuttdam.com",
+    "title": "รีวิว AirPods Pro (รุ่นที่ 2) เสียงดีขึ้นเยอะ ANC เงียบกริบ ในร่างดีไซน์เดิม",
+    "url": "https://www.nuttdam.com/2022/11/review-airpods-pro-2nd-generation/",
+    "published": "2022-11-01T10:27:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ใช้งาน HTTP Interface ใน Spring framework 6",
     "url": "https://www.somkiat.cc/http-interface-spring-framework-6/",
@@ -142,12 +148,6 @@
     "title": "Vscode Quick Open Relative เปลี่ยนไฟล์เร็วขึ้น ไม่ต้องใช้เมาส์",
     "url": "https://nitpum.com/post/vscode-quick-relative/",
     "published": "2022-08-30T15:30:11.000Z"
-  },
-  {
-    "site": "nuttdam.com",
-    "title": "รีวิว Setapp แหล่งรวมแอพที่จะทำให้การใช้แมคสะดวกมากยิ่งขึ้น",
-    "url": "https://www.nuttdam.com/2022/08/review-setapp/",
-    "published": "2022-08-13T04:11:00.000Z"
   },
   {
     "site": "yothinix.com",
