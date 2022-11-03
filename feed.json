@@ -1,5 +1,11 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "IaC is cool, until someone specified the wrong machine size 💸",
+    "url": "https://www.karnwong.me/posts/2022/11/iac-is-cool-until-someone-specified-the-wrong-machine-size/",
+    "published": "2022-11-02T17:55:31.000Z"
+  },
+  {
     "site": "nuttdam.com",
     "title": "รีวิว AirPods Pro (รุ่นที่ 2) เสียงดีขึ้นเยอะ ANC เงียบกริบ ในร่างดีไซน์เดิม",
     "url": "https://www.nuttdam.com/2022/11/review-airpods-pro-2nd-generation/",
@@ -70,12 +76,6 @@
     "title": "My VS Code snippets keyboard shortcuts (keybindings)",
     "url": "https://notes.dt.in.th/VSCodeKeybindings",
     "published": "2022-10-11T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Deploy static site with branch preview via Cloudflare Pages",
-    "url": "https://www.karnwong.me/posts/2022/10/deploy-static-site-with-branch-preview-via-cloudflare-pages/",
-    "published": "2022-10-04T19:23:06.000Z"
   },
   {
     "site": "poolsawat.com",
