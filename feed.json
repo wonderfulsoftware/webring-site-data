@@ -1,5 +1,23 @@
 [
   {
+    "site": "myifew.com",
+    "title": "ภูวัว จ.บึงกาฬ ถ้าไม่อยากลื่นก็อย่าไปหน้าฝนสิครับ 555",
+    "url": "https://myifew.com/6458/phu-wua-bueng-kan/",
+    "published": "2022-11-03T16:25:50.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ตรวจสอบ License ของ Lib ที่มาจาก NPM Install",
+    "url": "https://naiwaen.debuggingsoft.com/2022/11/check-license-with-npm/",
+    "published": "2022-11-03T14:14:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนะนำหนังสือ Infrastructure as Code, Patterns and Practices",
+    "url": "https://www.somkiat.cc/book-infrastructure-as-code-patterns-and-practices/",
+    "published": "2022-11-03T08:08:37.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "IaC is cool, until someone specified the wrong machine size 💸",
     "url": "https://www.karnwong.me/posts/2022/11/iac-is-cool-until-someone-specified-the-wrong-machine-size/",
@@ -12,22 +30,10 @@
     "published": "2022-11-01T10:27:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน HTTP Interface ใน Spring framework 6",
-    "url": "https://www.somkiat.cc/http-interface-spring-framework-6/",
-    "published": "2022-10-31T16:07:53.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "งานชาว open source เป็นยังไงบ้างนะ? กับงาน Hacktoberfest Thailand 2022",
     "url": "https://www.mikkipastel.com/hacktoberfest-thailand-2022/",
     "published": "2022-10-31T02:17:18.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุป Hacktoberfest Thailand 2022 (Talk Session)",
-    "url": "https://naiwaen.debuggingsoft.com/2022/10/hacktoberfest-thailand-2022-talk-session-summary/",
-    "published": "2022-10-29T16:53:00.000Z"
   },
   {
     "site": "llun.me",
@@ -88,12 +94,6 @@
     "title": "ความสมบูรณ์แบบ?",
     "url": "https://tech.duckfollow.co/view/perfect",
     "published": "2022-09-29T13:59:02.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "สองวันในชุมพร เที่ยว ดอยตาปัง ประตูสวรรค์ชุมพร ตกหมึกท้องตมใหญ่",
-    "url": "https://myifew.com/6429/chumporn-tapang-thongtomyai/",
-    "published": "2022-09-27T05:39:48.000Z"
   },
   {
     "site": "cwstory.com",
