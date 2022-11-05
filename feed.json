@@ -1,5 +1,29 @@
 [
   {
+    "site": "llun.me",
+    "title": "Container Query & overscroll-behavior",
+    "url": "https://www.llun.me/posts/dev/2022-11-04-container-query-and-overscroll-behaviour",
+    "published": "2022-11-04T19:11:19.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Golang :: มาแล้วสำหรับ Proposal: Structured Logging",
+    "url": "https://www.somkiat.cc/golang-proposal-structured-logging/",
+    "published": "2022-11-04T14:36:01.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "5 สิ่งแตกต่าง ที่ Kotlin ดีกว่า Java (ของดีครับน้อนๆ)",
+    "url": "https://www.mikkipastel.com/5-difference-things-kotlin-is-great-than-java/",
+    "published": "2022-11-04T11:57:02.000Z"
+  },
+  {
+    "site": "natdanai.me",
+    "title": "เที่ยวสิงคโปร์ มาเลเซีย รวดเดียว 2 ประเทศ ในปี 2022",
+    "url": "https://natdanai.me/singapore-2022/",
+    "published": "2022-11-03T19:35:52.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "ภูวัว จ.บึงกาฬ ถ้าไม่อยากลื่นก็อย่าไปหน้าฝนสิครับ 555",
     "url": "https://myifew.com/6458/phu-wua-bueng-kan/",
@@ -12,12 +36,6 @@
     "published": "2022-11-03T14:14:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "แนะนำหนังสือ Infrastructure as Code, Patterns and Practices",
-    "url": "https://www.somkiat.cc/book-infrastructure-as-code-patterns-and-practices/",
-    "published": "2022-11-03T08:08:37.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "IaC is cool, until someone specified the wrong machine size 💸",
     "url": "https://www.karnwong.me/posts/2022/11/iac-is-cool-until-someone-specified-the-wrong-machine-size/",
@@ -25,21 +43,9 @@
   },
   {
     "site": "nuttdam.com",
-    "title": "รีวิว AirPods Pro (รุ่นที่ 2) เสียงดีขึ้นเยอะ ANC เงียบกริบ ในร่างดีไซน์เดิม",
+    "title": "รีวิว AirPods Pro (รุ่นที่ 2) เสียง และ ANC ดีขึ้น เคสมีลำโพง แต่ยังใช้ดีไซน์เดิม",
     "url": "https://www.nuttdam.com/2022/11/review-airpods-pro-2nd-generation/",
     "published": "2022-11-01T10:27:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "งานชาว open source เป็นยังไงบ้างนะ? กับงาน Hacktoberfest Thailand 2022",
-    "url": "https://www.mikkipastel.com/hacktoberfest-thailand-2022/",
-    "published": "2022-10-31T02:17:18.000Z"
-  },
-  {
-    "site": "llun.me",
-    "title": "Next.JS 13",
-    "url": "https://www.llun.me/posts/dev/2022-10-26-nextjs13",
-    "published": "2022-10-26T16:57:01.000Z"
   },
   {
     "site": "neizod.dev",
@@ -232,12 +238,6 @@
     "title": "จะสเกลระบบหลักล้านด้วย Cache ต้องพิจารณาอะไรบ้าง",
     "url": "https://www.notaboutcode.com/post/31-caching/",
     "published": "2022-02-19T05:04:02.000Z"
-  },
-  {
-    "site": "natdanai.me",
-    "title": "บริหารพอร์ต Cryptocurrency ยังไง",
-    "url": "https://natdanai.me/management-crypto/",
-    "published": "2022-02-04T16:56:59.000Z"
   },
   {
     "site": "doopdip.me",
