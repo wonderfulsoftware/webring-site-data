@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "#ChaiyoGCP Season 2",
+    "url": "https://naiwaen.debuggingsoft.com/2022/11/chaiyogcp-season2/",
+    "published": "2022-11-08T09:45:00.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "Infinite Scroll",
     "url": "https://www.llun.me/posts/dev/2022-11-07-infinite-scroll",
@@ -10,12 +16,6 @@
     "title": "ทำอย่างไรให้โปรแกรมที่เขียนทำงานได้เร็ว",
     "url": "https://tech.duckfollow.co/view/performance",
     "published": "2022-11-07T16:59:02.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Software Architecture Meetup 2022",
-    "url": "https://naiwaen.debuggingsoft.com/2022/11/%e0%b8%aa%e0%b8%a3%e0%b8%b8%e0%b8%9b%e0%b8%87%e0%b8%b2%e0%b8%99-software-architecture-meetup-2022/",
-    "published": "2022-11-07T16:31:00.000Z"
   },
   {
     "site": "somkiat.cc",
