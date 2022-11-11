@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แก้ไขปัญหา ‘stdlib.h’ file not found ของ Go บน MacOS",
+    "url": "https://www.somkiat.cc/stdlib-file-not-found-on-macos/",
+    "published": "2022-11-10T05:36:28.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[WIN] ถ้าจะปิดจอ Notebook แล้วไปใช้จออื่นๆ ต้องทำอย่างไรนะ",
     "url": "https://naiwaen.debuggingsoft.com/2022/11/win-connect-disconnect-multiple-display/",
@@ -16,12 +22,6 @@
     "title": "ทำอย่างไรให้โปรแกรมที่เขียนทำงานได้เร็ว",
     "url": "https://tech.duckfollow.co/view/performance",
     "published": "2022-11-07T16:59:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนะนำ NCrunch สำหรับ Live Testing ใน .NET",
-    "url": "https://www.somkiat.cc/ncrunch-for-live-testing/",
-    "published": "2022-11-06T05:58:10.000Z"
   },
   {
     "site": "karnwong.me",
