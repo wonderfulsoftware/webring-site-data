@@ -1,5 +1,17 @@
 [
   {
+    "site": "icez.net",
+    "title": "0254 | ต่อ Sofar Inverter HYD 6000-EP เข้า Home Assistant",
+    "url": "https://www.icez.net/blog/167514/0254-integrate-sofar-inverter-hyd-6000-ep-to-home-assistant",
+    "published": "2022-11-12T15:44:19.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Cloud Native Lanna 2022 (DevMountain)",
+    "url": "https://naiwaen.debuggingsoft.com/2022/11/cloud-native-lanna-2022-devmountain/",
+    "published": "2022-11-12T11:31:00.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "#Save โปรแกรมเมอร์",
     "url": "https://tech.duckfollow.co/view/save-programmer",
@@ -10,12 +22,6 @@
     "title": "แก้ไขปัญหา ‘stdlib.h’ file not found ของ Go บน MacOS",
     "url": "https://www.somkiat.cc/stdlib-file-not-found-on-macos/",
     "published": "2022-11-10T05:36:28.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[WIN] ถ้าจะปิดจอ Notebook แล้วไปใช้จออื่นๆ ต้องทำอย่างไรนะ",
-    "url": "https://naiwaen.debuggingsoft.com/2022/11/win-connect-disconnect-multiple-display/",
-    "published": "2022-11-09T12:30:00.000Z"
   },
   {
     "site": "llun.me",
@@ -166,12 +172,6 @@
     "title": "Cyber Combat 2022 (Final) - sql_demo",
     "url": "https://suam.wtf/posts/cyber-combat-2022-final-sql_demo/",
     "published": "2022-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "A001 | เริ่มต้นกับ Ansible – Inventory",
-    "url": "https://www.icez.net/blog/167503/a001-ansible-introduction-inventory",
-    "published": "2022-07-22T13:23:32.000Z"
   },
   {
     "site": "thiti.dev",
