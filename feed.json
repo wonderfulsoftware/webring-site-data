@@ -1,15 +1,21 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "Playwright 101 มาลองเล่นกันแบบเร็ว ๆ (เบื้องต้น)",
+    "url": "https://www.poolsawat.com/playwright-101/",
+    "published": "2022-11-19T14:06:20.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Microsoft Ignite After Party 2022 Thailand",
+    "url": "https://naiwaen.debuggingsoft.com/2022/11/microsoft-ignite-after-party-thailand-2022/",
+    "published": "2022-11-19T11:31:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "บันทึกเกี่ยวกับงาน Dev Mountain Tech Festival ครั้งที่ 2 ที่เชียงใหม่",
     "url": "https://www.mikkipastel.com/dev-mountain-tech-festival-2-chiang-mai/",
     "published": "2022-11-18T12:28:08.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Review การลงทะเบียน NDID",
-    "url": "https://naiwaen.debuggingsoft.com/2022/11/review-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%a5%e0%b8%87%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%99-ndid/",
-    "published": "2022-11-18T07:41:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -100,12 +106,6 @@
     "title": "My VS Code snippets keyboard shortcuts (keybindings)",
     "url": "https://notes.dt.in.th/VSCodeKeybindings",
     "published": "2022-10-11T00:00:00.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Golang ทำ CRUD Service APIs (No Database) พร้อมเขียน Test ด้วย",
-    "url": "https://www.poolsawat.com/golang-echo-framework-crud-testing/",
-    "published": "2022-09-30T10:21:18.000Z"
   },
   {
     "site": "cwstory.com",
