@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Note :: การเปลี่ยนแปลงเรื่อง driver ของ Web browser ใน Robot framework + selenium",
+    "url": "https://www.somkiat.cc/note-rbotframework-mange-web-driver/",
+    "published": "2022-11-21T08:44:27.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Tomcat10 cannot start Jenkins On Windows 11",
+    "url": "https://naiwaen.debuggingsoft.com/2022/11/tomcat10-cannot-start-jenkins-on-windows-11/",
+    "published": "2022-11-21T04:45:00.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "Mastodon server with NextJS",
     "url": "https://www.llun.me/posts/dev/2022-11-20-mastodon-server-with-nextjs",
@@ -12,22 +24,10 @@
     "published": "2022-11-20T10:06:17.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "Spring Boot 3 กับ GraalVM == Native Java",
-    "url": "https://www.somkiat.cc/spring-boot-3-with-native-java/",
-    "published": "2022-11-20T05:25:08.000Z"
-  },
-  {
     "site": "poolsawat.com",
     "title": "Solidity 101 เริ่มต้นเป็นนักพัฒนา Smart Contract on Blockchain (Remix IDE)",
     "url": "https://www.poolsawat.com/solidity-101-smartcontract-on-remix/",
     "published": "2022-11-20T04:30:06.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Microsoft Ignite After Party 2022 Thailand",
-    "url": "https://naiwaen.debuggingsoft.com/2022/11/microsoft-ignite-after-party-thailand-2022/",
-    "published": "2022-11-19T11:31:00.000Z"
   },
   {
     "site": "mikkipastel.com",
