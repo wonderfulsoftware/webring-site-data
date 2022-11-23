@@ -1,9 +1,9 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Note :: การเปลี่ยนแปลงเรื่อง driver ของ Web browser ใน Robot framework + selenium",
-    "url": "https://www.somkiat.cc/note-rbotframework-mange-web-driver/",
-    "published": "2022-11-21T08:44:27.000Z"
+    "title": "การจัดการ Browser Driver ของ Selenium",
+    "url": "https://www.somkiat.cc/browser-driver-manager-in-selenium/",
+    "published": "2022-11-22T14:25:57.000Z"
   },
   {
     "site": "debuggingsoft.com",
