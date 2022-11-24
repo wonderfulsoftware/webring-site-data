@@ -1,9 +1,15 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "ทำความรู้จ้กกับ postman authentication type",
+    "url": "https://tech.duckfollow.co/view/postman-authentication-type",
+    "published": "2022-11-23T15:00:02.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "การจัดการ Browser Driver ของ Selenium",
-    "url": "https://www.somkiat.cc/browser-driver-manager-in-selenium/",
-    "published": "2022-11-22T14:25:57.000Z"
+    "title": "ว่าด้วยเรื่อง Path to Production",
+    "url": "https://www.somkiat.cc/path-to-production-workshop/",
+    "published": "2022-11-23T12:42:48.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -40,12 +46,6 @@
     "title": "0254 | ต่อ Sofar Inverter HYD 6000-EP เข้า Home Assistant",
     "url": "https://www.icez.net/blog/167514/0254-integrate-sofar-inverter-hyd-6000-ep-to-home-assistant",
     "published": "2022-11-12T15:44:19.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "#Save โปรแกรมเมอร์",
-    "url": "https://tech.duckfollow.co/view/save-programmer",
-    "published": "2022-11-11T16:59:02.000Z"
   },
   {
     "site": "natdanai.me",
