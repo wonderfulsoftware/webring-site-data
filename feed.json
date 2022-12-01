@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "NEEDY GIRL OVERDOSE",
+    "url": "https://neizod.dev/2022/11/30/needy-girl-overdose.html",
+    "published": "2022-11-30T14:12:01.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Runtime environment variables in Next.js",
+    "url": "https://notes.dt.in.th/NextRuntimeEnv",
+    "published": "2022-11-30T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองเล่น Docker + Wasm(WebAssembly) Technical Preview กัน",
     "url": "https://www.somkiat.cc/docker-wasm-technical-preview/",
@@ -72,12 +84,6 @@
     "published": "2022-11-01T10:27:00.000Z"
   },
   {
-    "site": "neizod.dev",
-    "title": "กราฟและโครงสร้างข้อมูลแบบงูกินหางใน Haskell",
-    "url": "https://neizod.dev/2022/10/24/graph-and-cyclic-structure-haskell.html",
-    "published": "2022-10-24T04:12:13.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "ความแตกต่างระหว่าง Parallel Computing และ Distributed Computing",
     "url": "https://mesodiar.com/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%81%E0%B8%95%E0%B8%81%E0%B8%95%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A7%E0%B9%88%E0%B8%B2%E0%B8%87-parallel-computing-%E0%B9%81%E0%B8%A5%E0%B8%B0-distributed-computing-24b6f97faf36?source=rss----698ac1e5dc8c---4",
@@ -100,12 +106,6 @@
     "title": "React Finland 2022: React Alternative (Part 1)",
     "url": "https://heyfirst.co/blog/react-finland-2022-part-1-react-alternative",
     "published": "2022-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "My VS Code snippets keyboard shortcuts (keybindings)",
-    "url": "https://notes.dt.in.th/VSCodeKeybindings",
-    "published": "2022-10-11T00:00:00.000Z"
   },
   {
     "site": "cwstory.com",
