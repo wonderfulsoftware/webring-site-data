@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "เขียน PowerShell ผิด กลายเป็นว่า ทำ rm -rf /* แทน !!!!",
+    "url": "https://naiwaen.debuggingsoft.com/2022/12/powershell-rm-rf/",
+    "published": "2022-12-01T10:05:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "NEEDY GIRL OVERDOSE",
     "url": "https://neizod.dev/2022/11/30/needy-girl-overdose.html",
@@ -16,12 +22,6 @@
     "title": "มาลองเล่น Docker + Wasm(WebAssembly) Technical Preview กัน",
     "url": "https://www.somkiat.cc/docker-wasm-technical-preview/",
     "published": "2022-11-29T13:55:09.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลอง Deploy MatterMost บน Azure",
-    "url": "https://naiwaen.debuggingsoft.com/2022/11/mattermost-on-azure/",
-    "published": "2022-11-29T09:43:00.000Z"
   },
   {
     "site": "rayriffy.com",
