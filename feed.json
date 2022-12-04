@@ -1,9 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "เขียน PowerShell ผิด กลายเป็นว่า ทำ rm -rf /* แทน !!!!",
-    "url": "https://naiwaen.debuggingsoft.com/2022/12/powershell-rm-rf/",
-    "published": "2022-12-01T10:05:00.000Z"
+    "title": "[MS Cert] บันทึกการสอบ AZ-400",
+    "url": "https://naiwaen.debuggingsoft.com/2022/12/microsoft-certification-exam-az-400-note/",
+    "published": "2022-12-03T13:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Cross-platform package (+env) management with Nix",
+    "url": "https://www.karnwong.me/posts/2022/12/cross-platform-package-env-management-with-nix/",
+    "published": "2022-12-03T12:45:36.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แก้ไขปัญหาการตรวจสอบ licence ของ Logstash",
+    "url": "https://www.somkiat.cc/logstash-check-licence-problem/",
+    "published": "2022-12-03T02:12:34.000Z"
   },
   {
     "site": "neizod.dev",
@@ -18,22 +30,10 @@
     "published": "2022-11-30T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองเล่น Docker + Wasm(WebAssembly) Technical Preview กัน",
-    "url": "https://www.somkiat.cc/docker-wasm-technical-preview/",
-    "published": "2022-11-29T13:55:09.000Z"
-  },
-  {
     "site": "rayriffy.com",
     "title": "Riffy's bizarre adventure in Singapore 2022",
     "url": "https://blog.rayriffy.com/singapore-adventure-2022/",
     "published": "2022-11-29T02:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Load credentials into your shell via Bitwarden CLI - Fish edition",
-    "url": "https://www.karnwong.me/posts/2022/11/load-credentials-into-your-shell-via-bitwarden-cli---fish-edition/",
-    "published": "2022-11-28T22:59:29.000Z"
   },
   {
     "site": "icez.net",
