@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Spring Boot 3 GA",
+    "url": "https://www.somkiat.cc/spring-boot-3-ga/",
+    "published": "2022-12-04T15:01:20.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[MS Cert] บันทึกการสอบ AZ-400",
     "url": "https://naiwaen.debuggingsoft.com/2022/12/microsoft-certification-exam-az-400-note/",
@@ -10,12 +16,6 @@
     "title": "Cross-platform package (+env) management with Nix",
     "url": "https://www.karnwong.me/posts/2022/12/cross-platform-package-env-management-with-nix/",
     "published": "2022-12-03T12:45:36.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แก้ไขปัญหาการตรวจสอบ licence ของ Logstash",
-    "url": "https://www.somkiat.cc/logstash-check-licence-problem/",
-    "published": "2022-12-03T02:12:34.000Z"
   },
   {
     "site": "neizod.dev",
