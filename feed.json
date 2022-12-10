@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "ลองนั่งรถเมล์สาย 208",
-    "url": "https://naiwaen.debuggingsoft.com/2022/12/try-bus-number-208/",
-    "published": "2022-12-08T05:09:18.000Z"
+    "title": "[Jenkins] Pipeline เดิม พังหลังจาก Update Jenkins หา Path Source ไม่เจอ",
+    "url": "https://naiwaen.debuggingsoft.com/2022/12/jenkins-old-pipeline-brick-after-update-jenkins-and-checkout-code-path-change/",
+    "published": "2022-12-09T23:31:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เรียน \"มือใหม่ทํา [กราฟิก] อย่างไรให้.. ปัง!\" จาก BitToonDAO Learning",
+    "url": "https://www.mikkipastel.com/how-to-do-graphic-from-newbie-bittoon-dao-learning/",
+    "published": "2022-12-09T06:19:19.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -40,12 +46,6 @@
     "title": "0255 | ขับเทสล่าไปเชียงใหม่…",
     "url": "https://www.icez.net/blog/167520/tesla-model-3-lr-roadtrip-to-chiang-mai",
     "published": "2022-11-28T16:19:19.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "5 สิ่งแตกต่าง ที่ Kotlin มีแต่ Java ไม่มี",
-    "url": "https://www.mikkipastel.com/5-difference-things-kotlin-have-but-java-not-have/",
-    "published": "2022-11-28T10:30:47.000Z"
   },
   {
     "site": "poolsawat.com",
