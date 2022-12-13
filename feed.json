@@ -1,5 +1,11 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "SDLC ขั้นตอนการทำซอฟต์แวร์",
+    "url": "https://tech.duckfollow.co/view/sdlc",
+    "published": "2022-12-12T15:00:02.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "A logger module based on pino",
     "url": "https://notes.dt.in.th/PinoLogger",
@@ -52,12 +58,6 @@
     "title": "Lo library (Lodash version Golang) ทดลองทำความเข้าใจ และเริ่มลองใช้งาน",
     "url": "https://www.poolsawat.com/lo-library-lodash-version-golang/",
     "published": "2022-11-26T08:27:42.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "ทำความรู้จ้กกับ postman authentication type",
-    "url": "https://tech.duckfollow.co/view/postman-authentication-type",
-    "published": "2022-11-23T15:00:02.000Z"
   },
   {
     "site": "llun.me",
