@@ -41,8 +41,6 @@
       <outline text="thiti.dev" title="thiti.dev" type="rss" xmlUrl="https://thiti.dev/rss.xml" htmlUrl="https://thiti.dev"/>
       <outline text="blog.kpping.me" title="blog.kpping.me" type="rss" xmlUrl="https://blog.kpping.me/index.xml" htmlUrl="https://blog.kpping.me"/>
       <outline text="myifew.com" title="myifew.com" type="rss" xmlUrl="https://myifew.com/feed/" htmlUrl="https://myifew.com"/>
-      <outline text="juver.xyz" title="juver.xyz" type="rss" xmlUrl="https://juver.xyz/rss/feed.xml" htmlUrl="https://www.juver.xyz"/>
-      <outline text="cwstory.com" title="cwstory.com" type="rss" xmlUrl="https://cwstory.com/rss/" htmlUrl="http://cwstory.com"/>
       <outline text="poolsawat.com" title="poolsawat.com" type="rss" xmlUrl="https://www.poolsawat.com/feed/" htmlUrl="https://www.poolsawat.com"/>
       <outline text="supavitk.com" title="supavitk.com" type="rss" xmlUrl="http://www.supavitk.com/feed.xml" htmlUrl="http://supavitk.com"/>
       <outline text="dmg.st" title="dmg.st" type="rss" xmlUrl="https://dmg.st/feed/" htmlUrl="https://dmg.st"/>
@@ -53,7 +51,6 @@
       <outline text="nitpum.com" title="nitpum.com" type="rss" xmlUrl="https://nitpum.com/index.xml" htmlUrl="https://nitpum.com"/>
       <outline text="mesodiar.com" title="mesodiar.com" type="rss" xmlUrl="https://medium.com/feed/mils-blog" htmlUrl="https://mesodiar.com"/>
       <outline text="bigdatarpg.com" title="bigdatarpg.com" type="rss" xmlUrl="https://bigdatarpg.com/feed/" htmlUrl="https://bigdatarpg.com"/>
-      <outline text="janescience.com" title="janescience.com" type="rss" xmlUrl="https://janescience.com/rss.xml" htmlUrl="https://janescience.com"/>
       <outline text="edocstudio.info" title="edocstudio.info" type="rss" xmlUrl="https://www.edocstudio.info/feeds/release.rss" htmlUrl="https://edocstudio.info"/>
       <outline text="microbenz.in.th" title="microbenz.in.th" type="rss" xmlUrl="https://microbenz.in.th/rss.xml" htmlUrl="https://microbenz.in.th"/>
       <outline text="nuttdam.com" title="nuttdam.com" type="rss" xmlUrl="https://www.nuttdam.com/feed" htmlUrl="https://www.nuttdam.com"/>
