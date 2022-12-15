@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[AZ-400] Development for enterprise DevOps",
-    "url": "https://naiwaen.debuggingsoft.com/2022/12/az-400-development-for-enterprise-devops/",
-    "published": "2022-12-13T11:50:00.000Z"
+    "title": "ตั้ง Server SonarQube ใหม่ มันไม่ Scan Code ใน Git Sub-Module",
+    "url": "https://naiwaen.debuggingsoft.com/2022/12/when-sonarqube-not-scans-code-git-submodules/",
+    "published": "2022-12-14T08:57:00.000Z"
+  },
+  {
+    "site": "chrisza.me",
+    "title": "Simplicity fallacy of \"Just use X (for everything)\"",
+    "url": "https://chrisza.me/not-simple/mistaken-simplicity/",
+    "published": "2022-12-13T17:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -184,12 +190,6 @@
     "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
     "url": "https://jojoee.com/promptpay-shortcode-test/",
     "published": "2022-05-24T16:05:20.000Z"
-  },
-  {
-    "site": "chrisza.me",
-    "title": "TDD Misconception: Yes, you can write code before test in TDD",
-    "url": "https://gatsby-starter-blog-demo.netlify.app/tdd-misconception/",
-    "published": "2022-04-23T17:00:00.000Z"
   },
   {
     "site": "blog.tawanchai.com",
