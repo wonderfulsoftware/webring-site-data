@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ว่าด้วยเรื่องของ Redis architecture ในระบบงาน",
+    "url": "https://www.somkiat.cc/redis-architecture/",
+    "published": "2022-12-15T14:12:04.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Adding OpenTelemetry tracing to a Next.js app with Output File Tracing enabled",
+    "url": "https://notes.dt.in.th/NextOutputFileTracingOTel",
+    "published": "2022-12-15T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ตั้ง Server SonarQube ใหม่ มันไม่ Scan Code ใน Git Sub-Module",
     "url": "https://naiwaen.debuggingsoft.com/2022/12/when-sonarqube-not-scans-code-git-submodules/",
@@ -10,12 +22,6 @@
     "title": "Simplicity fallacy of \"Just use X (for everything)\"",
     "url": "https://chrisza.me/not-simple/mistaken-simplicity/",
     "published": "2022-12-13T17:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Analyzing Next.js bundle size",
-    "url": "https://notes.dt.in.th/NextBundleSize",
-    "published": "2022-12-13T00:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -34,12 +40,6 @@
     "title": "เรียน \"มือใหม่ทํา [กราฟิก] อย่างไรให้.. ปัง!\" จาก BitToonDAO Learning",
     "url": "https://www.mikkipastel.com/how-to-do-graphic-from-newbie-bittoon-dao-learning/",
     "published": "2022-12-09T06:19:19.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "เรื่องที่น่าสนใจจากบทความเรื่อง Postgres: a better message queue than Kafka?",
-    "url": "https://www.somkiat.cc/note-postgres-better-message-queue/",
-    "published": "2022-12-05T13:49:14.000Z"
   },
   {
     "site": "neizod.dev",
