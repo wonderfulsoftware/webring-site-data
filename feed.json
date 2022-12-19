@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน .NET Conf TH 2022",
+    "url": "https://naiwaen.debuggingsoft.com/2022/12/dotnet-conf-th-2022/",
+    "published": "2022-12-18T06:18:00.000Z"
+  },
+  {
     "site": "blog.kpping.me",
     "title": "TP-Link MR600 - LTE Router",
     "url": "https://blog.kpping.me/posts/tp-link-mr-600/",
@@ -12,12 +18,6 @@
     "published": "2022-12-17T08:43:58.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "บันทึกการฉีดวัคซีน COVID-19 #05",
-    "url": "https://naiwaen.debuggingsoft.com/2022/12/covid-vaccinated-04-note-and-symptom-log/",
-    "published": "2022-12-16T21:02:00.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Adding OpenTelemetry tracing to a Next.js app with Output File Tracing enabled",
     "url": "https://notes.dt.in.th/NextOutputFileTracingOTel",
@@ -28,6 +28,12 @@
     "title": "Simplicity fallacy of \"Just use X (for everything)\"",
     "url": "https://chrisza.me/not-simple/mistaken-simplicity/",
     "published": "2022-12-13T17:00:00.000Z"
+  },
+  {
+    "site": "boonsong.dev",
+    "title": "Pattern: Event-driven architecture #2",
+    "url": "https://www.boonsong.dev/pattern-event-driven-architecture-2",
+    "published": "2022-12-12T20:09:13.000Z"
   },
   {
     "site": "tech.duckfollow.co",
