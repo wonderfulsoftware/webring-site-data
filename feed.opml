@@ -59,6 +59,7 @@
       <outline text="blog.0002011.xyz" title="blog.0002011.xyz" type="rss" xmlUrl="https://blog.0002011.xyz/api/feed/rss" htmlUrl="https://blog.0002011.xyz"/>
       <outline text="katsuragi.detzz.in.th" title="katsuragi.detzz.in.th" type="rss" xmlUrl="https://katsuragi.detzz.in.th/api/rss" htmlUrl="https://katsuragi.detzz.in.th/"/>
       <outline text="boonsong.dev" title="boonsong.dev" type="rss" xmlUrl="https://boonsong.dev/rss.xml" htmlUrl="https://boonsong.dev"/>
+      <outline text="lucian.solutions" title="lucian.solutions" type="rss" xmlUrl="https://lucian.solutions/rss/?section=blog" htmlUrl="https://lucian.solutions"/>
     </outline>
   </body>
 </opml>
