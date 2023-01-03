@@ -1,15 +1,21 @@
 [
   {
+    "site": "boonsong.dev",
+    "title": "Event-driven architecture: Message queues, Commands, Events, และ Queries",
+    "url": "https://www.boonsong.dev/pattern-event-driven-architecture-1",
+    "published": "2023-01-02T23:24:13.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "เพิ่งเห็นว่า Text Editor ชื่อ Atom นั้นหยุดพัฒนาไปแล้ว",
+    "url": "https://www.somkiat.cc/bye-bye-atom/",
+    "published": "2023-01-02T14:31:44.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี",
     "url": "https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/",
     "published": "2023-01-01T13:03:01.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการพูดคุยเรื่อง tuning performance กันนิดหน่อย",
-    "url": "https://www.somkiat.cc/note-tuning-performance-2/",
-    "published": "2023-01-01T12:58:47.000Z"
   },
   {
     "site": "garden.narze.live",
@@ -28,12 +34,6 @@
     "title": "เซต Cantor แบบสามส่วน",
     "url": "https://neizod.dev/2022/12/31/cantor-ternary-set.html",
     "published": "2022-12-31T12:34:45.000Z"
-  },
-  {
-    "site": "boonsong.dev",
-    "title": "Domain Logic Patterns : Transaction Script to Active record",
-    "url": "https://www.boonsong.dev/transaction-script-to-active-record",
-    "published": "2022-12-31T11:05:13.000Z"
   },
   {
     "site": "nitpum.com",
