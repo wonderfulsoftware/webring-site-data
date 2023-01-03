@@ -328,7 +328,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#shayennn.com"
     },
-    "lastUpdated": "2023-01-02T01:03:32.707Z"
+    "lastUpdated": "2023-01-03T06:38:41.025Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -349,7 +350,8 @@
       "rect": "32:68:21:224",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-01-02T01:03:45.522Z"
+    "lastUpdated": "2023-01-03T06:38:53.981Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -361,19 +363,21 @@
       "rect": null,
       "href": "https://webring.wonderful.software#www.varokas.com"
     },
-    "lastUpdated": "2023-01-02T01:04:13.492Z"
+    "lastUpdated": "2023-01-03T06:39:19.114Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "vEPZou4TV@t7RiWEofj[_N_3tRM{D%V@WBof4T8{RPxu%g%MWXV[.8tltRRj",
-    "screenshotUpdatedAt": "2023-01-02T01:03:59.597Z",
+    "blurhash": "v4QJium+-pH@4TIWt6xuE1S~T0pI0L?GIVM|H=D*-Arq%h-oRkof_NkqS~S~",
+    "screenshotUpdatedAt": "2023-01-03T06:39:07.585Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-01-02T01:03:59.598Z"
+    "lastUpdated": "2023-01-03T06:39:07.585Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -385,7 +389,8 @@
       "rect": "40:44:167.5:321",
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2023-01-02T01:04:19.564Z"
+    "lastUpdated": "2023-01-03T06:39:26.343Z",
+    "number": 27
   },
   "dont.works": {
     "url": "https://dont.works",
@@ -1193,5 +1198,31 @@
     },
     "lastUpdated": "2023-01-03T01:19:59.516Z",
     "number": 82
+  },
+  "kajame.xyz": {
+    "url": "https://kajame.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/kajame.xyz_375w@2x.png",
+    "blurhash": "vJS6V,Rk%1j[~SfQM}j[IvofWAayIpayaefk?CofflfQ9it7xZay?8ofR-ay",
+    "screenshotUpdatedAt": "2023-01-03T06:43:17.938Z",
+    "description": "เว็บไซต์สำหรับรวมรวบบทความประสบการณ์การทำงานต่าง ๆ,เนื้อหาส่วนใหญ่จะเป็นเกี่ยวกับการเขียนโปรแกรมเน้อครับ,หากคุณผู้อ่านมีส่วนไหนที่สงสัย หรือติดปัญหา สามารถพิมพ์มาสอบถามได้ในช่องทางต่าง ๆ ในหน้า About ได้เลยนะครับ,ในอนาคตเดี๋ยวเจมส์เพิ่มช่องคอมเม้นท์ให้ในบทความนะครับ ตอนนี้ยังไม่มี ฮ่าาาา,หวังว่าบทคว",
+    "backlink": {
+      "rect": "32:32:243:20",
+      "href": "https://webring.wonderful.software#kajame.xyz"
+    },
+    "lastUpdated": "2023-01-03T06:43:17.939Z",
+    "number": 83
+  },
+  "0xchai.io": {
+    "url": "https://0xchai.io",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/0xchai.io_375w@2x.png",
+    "blurhash": "v9SigRRj~qaz%1t7%Mj[?aRj9Fax_2of9Fj[IbayV?WVIUax%Mj[xUof%Nay",
+    "screenshotUpdatedAt": "2023-01-03T06:43:25.306Z",
+    "description": "I'm Software Dev from Thailand. I learn, practice and share Web2/ Web3 stuff",
+    "backlink": {
+      "rect": "32:34.3125:287:42.84375",
+      "href": "https://webring.wonderful.software#0xchai.io"
+    },
+    "lastUpdated": "2023-01-03T06:43:25.306Z",
+    "number": 84
   }
 }

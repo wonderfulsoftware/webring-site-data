@@ -61,6 +61,8 @@
       <outline text="boonsong.dev" title="boonsong.dev" type="rss" xmlUrl="https://boonsong.dev/rss.xml" htmlUrl="https://boonsong.dev"/>
       <outline text="lucian.solutions" title="lucian.solutions" type="rss" xmlUrl="https://lucian.solutions/rss/?section=blog" htmlUrl="https://lucian.solutions"/>
       <outline text="poom.dev" title="poom.dev" type="rss" xmlUrl="https://poom.dev/rss.xml" htmlUrl="https://poom.dev"/>
+      <outline text="kajame.xyz" title="kajame.xyz" type="rss" xmlUrl="https://www.kajame.xyz/feed.xml" htmlUrl="https://kajame.xyz"/>
+      <outline text="0xchai.io" title="0xchai.io" type="rss" xmlUrl="https://0xchai.io/feed.xml" htmlUrl="https://0xchai.io"/>
     </outline>
   </body>
 </opml>

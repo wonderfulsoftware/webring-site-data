@@ -18,6 +18,12 @@
     "published": "2023-01-02T23:24:13.000Z"
   },
   {
+    "site": "kajame.xyz",
+    "title": "บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript)",
+    "url": "https://kajame.xyz/blog/learning-typescript-02",
+    "published": "2023-01-02T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "นั่งรถเมล์ฟรีช่วงปีใหม่สาย 4-41 (57) วงกลมตลิ่งชัน-ธนบุรี",
     "url": "https://naiwaen.debuggingsoft.com/2023/01/%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%a3%e0%b8%96%e0%b9%80%e0%b8%a1%e0%b8%a5%e0%b9%8c%e0%b8%9f%e0%b8%a3%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%9b%e0%b8%b5%e0%b9%83%e0%b8%ab%e0%b8%a1/",
@@ -166,6 +172,12 @@
     "title": "React Finland 2022: React Alternative (Part 1)",
     "url": "https://heyfirst.co/blog/react-finland-2022-part-1-react-alternative",
     "published": "2022-10-15T00:00:00.000Z"
+  },
+  {
+    "site": "0xchai.io",
+    "title": "How to install Sui and Connect to Devnet",
+    "url": "https://0xchai.io/blog/install-sui",
+    "published": "2022-10-08T00:00:00.000Z"
   },
   {
     "site": "katsuragi.detzz.in.th",
