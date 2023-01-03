@@ -1224,5 +1224,18 @@
     },
     "lastUpdated": "2023-01-03T06:43:25.306Z",
     "number": 84
+  },
+  "devahoy.com": {
+    "url": "https://devahoy.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/devahoy.com_375w@2x.png",
+    "blurhash": "vDRD1aa$~oWEs~a$IvV[%Na$RjR+NOWEoGWC^~WC4;WEEAWCxnWXx[WDM|a#",
+    "screenshotUpdatedAt": "2023-01-03T12:57:12.023Z",
+    "description": "บล็อกเกี่ยวกับโปรแกรมมิ่ง, การเขียนโปรแกรม, Web Development และเรื่องอื่นๆ ที่สนใจ",
+    "backlink": {
+      "rect": "94:17:260:9433.5",
+      "href": "https://webring.wonderful.software#devahoy.com"
+    },
+    "lastUpdated": "2023-01-03T12:57:12.023Z",
+    "number": 85
   }
 }
