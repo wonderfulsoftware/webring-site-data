@@ -1,21 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาเขียน code กับ Spring Modulith กันบ้าง",
+    "url": "https://www.somkiat.cc/coding-with-spring-modulith/",
+    "published": "2023-01-06T17:41:57.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks-Milk Pudding",
+    "url": "https://naiwaen.debuggingsoft.com/2023/01/cr-starbucks-milk-pudding/",
+    "published": "2023-01-06T09:56:00.000Z"
+  },
+  {
+    "site": "kajame.xyz",
+    "title": "Redis testing",
+    "url": "https://kajame.xyz/blog/redis-testing",
+    "published": "2023-01-06T00:00:00.000Z"
+  },
+  {
     "site": "devahoy.com",
     "title": "เรียน​ CSS Animation | Day 3 - Simple Hover",
     "url": "https://devahoy.com/tutorials/learn-css-animations/day3-simple-hover",
     "published": "2023-01-05T16:30:20.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZ-400] Design and implement a release strategy",
-    "url": "https://naiwaen.debuggingsoft.com/2023/01/az-400-design-and-implement-a-release-strategy/",
-    "published": "2023-01-05T11:30:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาทำความรู้จักกับ Ephemeral Environment",
-    "url": "https://www.somkiat.cc/ephemeral-environment/",
-    "published": "2023-01-05T08:06:48.000Z"
   },
   {
     "site": "toupawa.com",
@@ -63,12 +69,6 @@
     "site": "wp.curve.in.th",
     "title": "Year in Review 2022",
     "url": "https://chameleontk.github.io/year-in-review-2022/",
-    "published": "2023-01-02T00:00:00.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "บันทึก - เรียนรู้ Typescript (Any กับ Unknow ใน Typescript)",
-    "url": "https://kajame.xyz/blog/learning-typescript-02",
     "published": "2023-01-02T00:00:00.000Z"
   },
   {
