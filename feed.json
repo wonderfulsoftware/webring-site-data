@@ -1,5 +1,17 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "ว่าด้วยเรื่อง cURL ใช้อย่างไรให้ Pro ใช้อย่างไรถึงจะ Cool",
+    "url": "https://www.poolsawat.com/recommended-curl-commands/",
+    "published": "2023-01-18T16:26:20.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "VSCode :: แนะนำ CodeGPT extension",
+    "url": "https://www.somkiat.cc/vscode-codegpt/",
+    "published": "2023-01-18T03:53:36.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "dotnet start webapi error failed to load the dll hostfxr.dll or api-ms-win-crt-runtime-l1-1-0.dll is missing from your computer",
     "url": "https://naiwaen.debuggingsoft.com/2023/01/dotnet-start-webapi-error-failed-to-load-the-dll-hostfxr-dll-or-api-ms-win-crt-runtime-l1-1-0-dll-is-missing-from-your-computer/",
@@ -18,12 +30,6 @@
     "published": "2023-01-17T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ตัวอย่างการทำ ChatGPT มาช่วยจัดการ issue ที่เกิดขึ้นในระบบ",
-    "url": "https://www.somkiat.cc/chatgpt-with-issue-bot/",
-    "published": "2023-01-16T03:46:38.000Z"
-  },
-  {
     "site": "tech.duckfollow.co",
     "title": "SQL Cheatsheet",
     "url": "https://tech.duckfollow.co/view/sql",
@@ -40,12 +46,6 @@
     "title": "ทำงานไม่มีเวลา แล้วจะทำ content ยังไงให้ปัง โดยคุณอิง ดาริน",
     "url": "https://www.mikkipastel.com/creating-kick-ass-content-with-productive-thinking-method/",
     "published": "2023-01-13T09:56:09.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "วิธีการแปลงไฟล์ภาพ JPEG, PNG, GIF เป็น WEBP (brew install)",
-    "url": "https://www.poolsawat.com/converting-images-to-webp/",
-    "published": "2023-01-13T04:51:16.000Z"
   },
   {
     "site": "devahoy.com",
