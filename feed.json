@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "บันทึก SonarQube กับ .NET6",
+    "url": "https://naiwaen.debuggingsoft.com/2023/01/sonarqube-net6-net-core-note/",
+    "published": "2023-01-25T14:35:00.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Configuring tRPC error logging in T3 apps",
     "url": "https://notes.dt.in.th/NextTrpcError",
     "published": "2023-01-24T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZ-400] Manage infrastructure as code using Azure and DSC",
-    "url": "https://naiwaen.debuggingsoft.com/2023/01/az-400-manage-infrastructure-as-code-using-azure-and-dsc/",
-    "published": "2023-01-23T09:47:00.000Z"
   },
   {
     "site": "boonsong.dev",
