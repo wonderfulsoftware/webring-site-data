@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Go 1.20​ :: การใช้งาน multiple error",
+    "url": "https://www.somkiat.cc/go-multiple-error/",
+    "published": "2023-02-05T05:42:48.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[AZ-400] Design and implement a dependency management strategy",
+    "url": "https://naiwaen.debuggingsoft.com/2023/02/az-400-design-and-implement-a-dependency-management-strategy/",
+    "published": "2023-02-05T04:02:00.000Z"
+  },
+  {
     "site": "heyfirst.co",
     "title": "A guide for realistic estimation of project timeline",
     "url": "https://heyfirst.co/blog/realistic-time-estimation-for-project",
     "published": "2023-02-04T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[Azure] Azure Automation Step Note",
-    "url": "https://naiwaen.debuggingsoft.com/2023/02/azure-azure-automation-step-note/",
-    "published": "2023-02-03T10:50:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -28,12 +34,6 @@
     "title": "Unknow Path? เจอแบบนี้โดน hack แน่ๆ",
     "url": "https://tech.duckfollow.co/view/unknow-path",
     "published": "2023-02-02T13:00:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ได้เวลาลองเล่น Postman Flow แล้ว",
-    "url": "https://www.somkiat.cc/what-postman-flow/",
-    "published": "2023-02-01T15:15:10.000Z"
   },
   {
     "site": "garden.narze.live",
