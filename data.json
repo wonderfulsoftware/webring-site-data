@@ -328,7 +328,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#shayennn.com"
     },
-    "lastUpdated": "2023-02-05T20:23:23.160Z"
+    "lastUpdated": "2023-02-07T10:43:28.461Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -940,11 +941,15 @@
   "janescience.com": {
     "url": "https://janescience.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/janescience.com_375w@2x.png",
-    "blurhash": "vvO|b3V@t7kC~paKRij[xbe.aej[4noft7fl?bfiWBf6WXf+kCf6R*bbkCaz",
-    "screenshotUpdatedAt": "2022-06-05T01:24:07.183Z",
+    "blurhash": "vxO:;KV@xaj[~qaeRPkCt7e.f6j[4noeoffR?bfkWVfkbHf+a}fQR*bbofay",
+    "screenshotUpdatedAt": "2023-02-07T10:44:12.356Z",
     "description": "A blog created with Next.js and Tailwind.css",
-    "backlink": null,
-    "lastUpdated": "2022-12-13T01:19:26.607Z"
+    "backlink": {
+      "rect": "18:20:328:2050.75",
+      "href": "https://webring.wonderful.software#janescience.com"
+    },
+    "lastUpdated": "2023-02-07T10:44:12.356Z",
+    "number": 86
   },
   "attomos.dev": {
     "url": "https://attomos.dev",
