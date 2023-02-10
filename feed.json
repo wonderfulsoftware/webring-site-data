@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ลองใช้งาน Virtual Thread ของ Java 19 ใน Spring Boot 3",
-    "url": "https://www.somkiat.cc/virtual-thread-in-spring-boot-3/",
-    "published": "2023-02-08T02:36:26.000Z"
+    "title": "น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest",
+    "url": "https://www.somkiat.cc/observability-driven-development/",
+    "published": "2023-02-09T08:10:27.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Rebuild COM Interop DLL ด้วย VS2022 เจอ Runtime Error 3001 แต่ VS2019 ทำงานได้",
+    "url": "https://naiwaen.debuggingsoft.com/2023/02/com-interop-is-broken-runtime-error-3001-when-using-visual-studio-2022/",
+    "published": "2023-02-09T02:32:00.000Z"
   },
   {
     "site": "edocstudio.info",
@@ -22,12 +28,6 @@
     "title": "สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify",
     "url": "https://janescience.com/blog/node-notify-line",
     "published": "2023-02-07T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to access NPM Private Registry",
-    "url": "https://naiwaen.debuggingsoft.com/2023/02/how-to-access-npm-private-registry/",
-    "published": "2023-02-06T23:24:28.000Z"
   },
   {
     "site": "mikkipastel.com",
