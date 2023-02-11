@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "มาทำ Email Management ฉบับ Getting Thing Done กัน",
+    "url": "https://www.mikkipastel.com/email-management-getting-thing-done/",
+    "published": "2023-02-10T07:52:44.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "น่าสนใจกับ Observability-Driven Development (ODD) ด้วย TraceTest",
     "url": "https://www.somkiat.cc/observability-driven-development/",
@@ -28,12 +34,6 @@
     "title": "สร้างการแจ้งเตือนด้วย Node เข้า LINE ผ่าน LINE Notify",
     "url": "https://janescience.com/blog/node-notify-line",
     "published": "2023-02-07T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มางาน Notion Meetup Thailand 2023 First Love with Notion ที่จัดครั้งแรกในไทย",
-    "url": "https://www.mikkipastel.com/notion-meetup-thailand-2023-first-love-with-notion/",
-    "published": "2023-02-03T03:26:17.000Z"
   },
   {
     "site": "suam.wtf",
