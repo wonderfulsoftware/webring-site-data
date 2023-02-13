@@ -328,7 +328,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#shayennn.com"
     },
-    "lastUpdated": "2023-02-11T01:00:23.303Z"
+    "lastUpdated": "2023-02-13T15:39:23.896Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -349,7 +350,8 @@
       "rect": "32:68:21:224",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-02-12T01:10:31.978Z"
+    "lastUpdated": "2023-02-13T15:39:38.047Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -367,14 +369,15 @@
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v4Qcn|~W.89Z004.oI%L00ITM{t8bd~qozIU-nE2xtoeS%i]D*tRn#R-%LWA",
-    "screenshotUpdatedAt": "2023-02-11T01:00:51.089Z",
+    "blurhash": "v4QJfn$z_NXmDh4:jEs901%KD%MyDNt8.7x]x^-oM{afx@E1V?RP%2xZo}tR",
+    "screenshotUpdatedAt": "2023-02-13T15:39:52.586Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-02-12T01:10:45.669Z"
+    "lastUpdated": "2023-02-13T15:39:52.586Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -934,7 +937,8 @@
       "rect": "323.765625:44:18.75:758",
       "href": "https://webring.wonderful.software#garden.narze.live"
     },
-    "lastUpdated": "2023-02-06T00:58:45.261Z"
+    "lastUpdated": "2023-02-13T15:37:03.463Z",
+    "number": 4
   },
   "janescience.com": {
     "url": "https://janescience.com",
@@ -1247,5 +1251,18 @@
     "backlink": null,
     "lastUpdated": "2023-02-13T01:15:26.444Z",
     "number": 54
+  },
+  "taoisaman.com": {
+    "url": "https://taoisaman.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/taoisaman.com_375w@2x.png",
+    "blurhash": "vMRW9zWB-;of~Wj@Ioj[NGt7oLWBD%WBt7of?HWBNGju4.ofxuWB?HjsM{of",
+    "screenshotUpdatedAt": "2023-02-13T15:41:09.466Z",
+    "description": " เขียน blog ไปเรื่อยเน้นจดให้ตัวเองอ่าน และทุกคนได้อ่าน",
+    "backlink": {
+      "rect": "32:20:116.015625:5617.125",
+      "href": "https://webring.wonderful.software#tao.isaman.com"
+    },
+    "lastUpdated": "2023-02-13T15:41:09.467Z",
+    "number": 87
   }
 }
