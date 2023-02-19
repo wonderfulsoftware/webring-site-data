@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุป National Coding Day 2023#01",
+    "url": "https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/",
+    "published": "2023-02-18T16:50:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ลองใช้งาน Pythagora สำหรับการทำ integration test ของ Node.js และ Express",
     "url": "https://www.somkiat.cc/pythagora-for-integration-test-with-express/",
     "published": "2023-02-17T10:55:42.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[NUGET] error NU1101 + warning NU1801 ตอน Build ผ่าน Jenkins Windows Service",
-    "url": "https://naiwaen.debuggingsoft.com/2023/02/nuget-error-nu1101-warning-nu1801-build-via-jenkins-windows-service/",
-    "published": "2023-02-16T05:48:00.000Z"
   },
   {
     "site": "myifew.com",
