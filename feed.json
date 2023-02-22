@@ -1,21 +1,27 @@
 [
   {
     "site": "taoisaman.com",
-    "title": "รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 1 (System Thinking)",
-    "url": "https://taoisaman.com/2023/02/20/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99/",
-    "published": "2023-02-20T16:29:43.000Z"
+    "title": "รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 2 (Principles)",
+    "url": "https://taoisaman.com/2023/02/21/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-2/",
+    "published": "2023-02-21T15:41:04.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุป National Coding Day 2023#02",
+    "url": "https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/",
+    "published": "2023-02-21T13:30:00.000Z"
+  },
+  {
+    "site": "janescience.com",
+    "title": "สร้าง Excel Timesheet ด้วย Python กับ ChatGPT",
+    "url": "https://janescience.com/blog/timesheet-python-chatgpt",
+    "published": "2023-02-21T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
     "title": "ลองใช้งาน Go Vulnerability Management ในการตรวจสอบเรื่องความปลอดภัย",
     "url": "https://www.somkiat.cc/go-vulnerability-management/",
     "published": "2023-02-20T09:21:23.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุป National Coding Day 2023#01",
-    "url": "https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-01/",
-    "published": "2023-02-18T16:50:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -46,12 +52,6 @@
     "title": "Tesla Thailand และ “กว่าจะส่งมอบ”",
     "url": "https://shayennn.com/tesla-thailand-delivery-process-so-suck/",
     "published": "2023-02-12T06:18:26.000Z"
-  },
-  {
-    "site": "janescience.com",
-    "title": "สร้าง Comments ให้กับ Website ด้วย Giscus",
-    "url": "https://janescience.com/blog/giscus",
-    "published": "2023-02-12T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
