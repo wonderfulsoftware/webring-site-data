@@ -1,5 +1,23 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "JWT ด้วย Node.js",
+    "url": "https://tech.duckfollow.co/view/jwt",
+    "published": "2023-02-24T13:00:02.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "แนะนำ Tripster ทำยังไงให้ mint out ใน 45 นาที",
+    "url": "https://www.mikkipastel.com/introduction-tripster-travel-pass-nft-project/",
+    "published": "2023-02-24T07:40:42.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature]",
+    "url": "https://www.somkiat.cc/single-executable-application-in-nodejs-19/",
+    "published": "2023-02-24T06:24:11.000Z"
+  },
+  {
     "site": "taoisaman.com",
     "title": "รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams)",
     "url": "https://taoisaman.com/2023/02/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-4/",
@@ -10,12 +28,6 @@
     "title": "วิธีแก้ปัญหา unknown at rule ของ tailwind css",
     "url": "https://devahoy.com/blog/vscode-unknown-at-rules-css",
     "published": "2023-02-22T15:30:20.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแก้ปัญหา Cannot read properties of undefined (reading ‘REACT_APP_SC_ATTR’)",
-    "url": "https://www.somkiat.cc/problem-cannot-read-react-app-sc-attr/",
-    "published": "2023-02-22T14:39:03.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -66,12 +78,6 @@
     "published": "2023-02-12T06:18:26.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "มาทำ Email Management ฉบับ Getting Thing Done กัน",
-    "url": "https://www.mikkipastel.com/email-management-getting-thing-done/",
-    "published": "2023-02-10T07:52:44.000Z"
-  },
-  {
     "site": "edocstudio.info",
     "title": "MLflow 101",
     "url": "https://edocstudio.info/",
@@ -88,12 +94,6 @@
     "title": "TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม",
     "url": "https://suam.wtf/posts/tdea-vs-mitm/",
     "published": "2023-02-03T00:00:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "Unknow Path? เจอแบบนี้โดน hack แน่ๆ",
-    "url": "https://tech.duckfollow.co/view/unknow-path",
-    "published": "2023-02-02T13:00:02.000Z"
   },
   {
     "site": "dt.in.th",
@@ -248,7 +248,7 @@
   {
     "site": "thiti.dev",
     "title": "การใช้งานคำสั่ง git init",
-    "url": "https://thiti.dev/blog/65",
+    "url": "https://thiti.dev/blog/65/",
     "published": "2022-06-25T11:15:40.000Z"
   },
   {
