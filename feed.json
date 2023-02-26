@@ -1,5 +1,23 @@
 [
   {
+    "site": "chrisza.me",
+    "title": "Dear Security, be a part of the solution",
+    "url": "https://chrisza.me/security-part-of-solution/",
+    "published": "2023-02-25T17:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Microsoft Thailand Developer Day 2023",
+    "url": "https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/",
+    "published": "2023-02-25T14:34:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Native AOT (Ahead of Time) ของ .NET",
+    "url": "https://www.somkiat.cc/dotnet-with-native-aot/",
+    "published": "2023-02-25T13:38:52.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "JWT ด้วย Node.js",
     "url": "https://tech.duckfollow.co/view/jwt",
@@ -12,12 +30,6 @@
     "published": "2023-02-24T07:40:42.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "Node 19.7.0 สามารถสร้าง Single Executable Application (SEA) ของระบบได้แล้ว [experiment feature]",
-    "url": "https://www.somkiat.cc/single-executable-application-in-nodejs-19/",
-    "published": "2023-02-24T06:24:11.000Z"
-  },
-  {
     "site": "taoisaman.com",
     "title": "รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 4 (Teams)",
     "url": "https://taoisaman.com/2023/02/23/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-4/",
@@ -28,12 +40,6 @@
     "title": "วิธีแก้ปัญหา unknown at rule ของ tailwind css",
     "url": "https://devahoy.com/blog/vscode-unknown-at-rules-css",
     "published": "2023-02-22T15:30:20.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุป National Coding Day 2023#02",
-    "url": "https://naiwaen.debuggingsoft.com/2023/02/national-coding-day-2023-day-02/",
-    "published": "2023-02-21T13:30:00.000Z"
   },
   {
     "site": "garden.narze.live",
@@ -196,12 +202,6 @@
     "title": "TP-Link MR600 - LTE Router",
     "url": "https://blog.kpping.me/posts/tp-link-mr-600/",
     "published": "2022-12-17T15:33:52.000Z"
-  },
-  {
-    "site": "chrisza.me",
-    "title": "Simplicity fallacy of \"Just use X (for everything)\"",
-    "url": "https://chrisza.me/not-simple/mistaken-simplicity/",
-    "published": "2022-12-13T17:00:00.000Z"
   },
   {
     "site": "karnwong.me",
