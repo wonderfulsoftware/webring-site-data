@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปจากบทความเรื่อง Go back to coding, engineering leader",
+    "url": "https://www.somkiat.cc/note-from-go-back-to-coding/",
+    "published": "2023-02-26T08:23:43.000Z"
+  },
+  {
     "site": "chrisza.me",
     "title": "Dear Security, be a part of the solution",
     "url": "https://chrisza.me/security-part-of-solution/",
@@ -7,15 +13,9 @@
   },
   {
     "site": "debuggingsoft.com",
-    "title": "สรุปงาน Microsoft Thailand Developer Day 2023",
+    "title": "สรุปงาน Thailand Developer Day 2023",
     "url": "https://naiwaen.debuggingsoft.com/2023/02/microsoft-thailand-developer-day-2023-summay/",
     "published": "2023-02-25T14:34:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Native AOT (Ahead of Time) ของ .NET",
-    "url": "https://www.somkiat.cc/dotnet-with-native-aot/",
-    "published": "2023-02-25T13:38:52.000Z"
   },
   {
     "site": "tech.duckfollow.co",
