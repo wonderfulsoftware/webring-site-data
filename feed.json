@@ -1,15 +1,39 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Global AI Bootcamp – Thailand 2023",
+    "url": "https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/",
+    "published": "2023-03-04T10:25:00.000Z"
+  },
+  {
+    "site": "yothinix.com",
+    "title": "มือสมัครเล่นเมธอด",
+    "url": "https://yothinix.com/amateur-method/",
+    "published": "2023-03-04T01:27:13.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "VS Code REST Client snippets",
+    "url": "https://notes.dt.in.th/20220907T163410Z4258",
+    "published": "2023-03-04T00:00:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Re-stream Twitch to Facebook Live",
+    "url": "https://garden.narze.live/Re-stream-Twitch-to-Facebook-Live/",
+    "published": "2023-03-04T00:00:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "วันในสัปดาห์",
+    "url": "https://neizod.dev/2023/03/03/day-of-week.html",
+    "published": "2023-03-03T15:44:33.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "แงะ Streamlabs API จนออกมาเป็น Twitch Chat Overlay ให้ใช้",
     "url": "https://lucian.solutions/blog/tw-custom-chat-overlay",
     "published": "2023-03-03T15:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลอง vue –version เจอ windows บอก UnauthorizedAccess",
-    "url": "https://naiwaen.debuggingsoft.com/2023/03/%e0%b8%a5%e0%b8%ad%e0%b8%87-vue-version-on-windows-error-unauthorizedaccess/",
-    "published": "2023-03-03T13:36:11.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -46,12 +70,6 @@
     "title": "วิธีแก้ปัญหา unknown at rule ของ tailwind css",
     "url": "https://devahoy.com/blog/vscode-unknown-at-rules-css",
     "published": "2023-02-22T15:30:20.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "2023",
-    "url": "https://garden.narze.live/Brag/2023/",
-    "published": "2023-02-21T00:00:00.000Z"
   },
   {
     "site": "janescience.com",
@@ -108,12 +126,6 @@
     "published": "2023-02-03T00:00:00.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "`Array.from({ length: 5 }, (_, x) => x)`",
-    "url": "https://notes.dt.in.th/20230128T173333Z1984",
-    "published": "2023-01-28T00:00:00.000Z"
-  },
-  {
     "site": "boonsong.dev",
     "title": "Event-carried state transfer",
     "url": "https://www.boonsong.dev/event-carried-state-transfer",
@@ -162,22 +174,10 @@
     "published": "2023-01-02T00:00:00.000Z"
   },
   {
-    "site": "neizod.dev",
-    "title": "เซต Cantor แบบสามส่วน",
-    "url": "https://neizod.dev/2022/12/31/cantor-ternary-set.html",
-    "published": "2022-12-31T12:34:45.000Z"
-  },
-  {
     "site": "nitpum.com",
     "title": "ดู z-index ง่ายๆ ด้วย 3D View",
     "url": "https://nitpum.com/post/edge-z-index-tool/",
     "published": "2022-12-31T11:01:43.000Z"
-  },
-  {
-    "site": "yothinix.com",
-    "title": "2022",
-    "url": "https://yothinix.com/2022/",
-    "published": "2022-12-31T03:14:16.000Z"
   },
   {
     "site": "rayriffy.com",
