@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "บันทึกการสั่ง Lenovo แบบ Build Your Own Laptop (Custom Spec) / Note ช๊อปดีมีคืน",
+    "url": "https://naiwaen.debuggingsoft.com/2023/03/buy-lenovo-build-your-own-laptop-custom-spec/",
+    "published": "2023-03-07T01:54:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ว่าด้วยเรื่องของ Law of Demeter ในการออกแบบ service",
     "url": "https://www.somkiat.cc/law-of-demeter-with-service/",
@@ -16,12 +22,6 @@
     "title": "ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย",
     "url": "https://thanapon.info/mqtt-with-tls-on-aws-iot-core/",
     "published": "2023-03-05T15:14:16.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Global AI Bootcamp – Thailand 2023",
-    "url": "https://naiwaen.debuggingsoft.com/2023/03/global-ai-bootcamp-thailand-2023/",
-    "published": "2023-03-04T10:25:00.000Z"
   },
   {
     "site": "yothinix.com",
