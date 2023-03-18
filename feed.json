@@ -1,21 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ว่าง ๆ ลองไปถาม ChatGPT ว่า ใน Software development ถามอะไรได้บ้าง ?",
+    "url": "https://www.somkiat.cc/chatgpt-prompt-in-software-development/",
+    "published": "2023-03-17T09:46:24.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "สอนแคปจอจาก Google Chrome แบบจับมือทำ",
+    "url": "https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/",
+    "published": "2023-03-17T08:26:50.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Terraform RDS module with DNS setup",
+    "url": "https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/",
+    "published": "2023-03-17T00:29:30.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[SonarQube] Fixed Exception in thread “Report about progress of Java XML analyzer” java.lang.OutOfMemoryError: Java heap space",
     "url": "https://naiwaen.debuggingsoft.com/2023/03/sonarqube-fixed-exception-in-thread-report-about-progress-of-java-xml-analyzer-java-lang-outofmemoryerror-java-heap-space/",
     "published": "2023-03-16T14:03:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book highlights - Engineering Management for the Rest of Us by Sarah Drasner",
-    "url": "https://www.karnwong.me/posts/2023/03/book-highlights---engineering-management-for-the-rest-of-us-by-sarah-drasner/",
-    "published": "2023-03-16T00:09:24.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาแล้วนะ OWASP Kubernetes Top 10",
-    "url": "https://www.somkiat.cc/owasp-kubernetes-top-10/",
-    "published": "2023-03-15T01:47:40.000Z"
   },
   {
     "site": "neizod.dev",
@@ -58,12 +64,6 @@
     "title": "Wishlist",
     "url": "https://garden.narze.live/Wishlist/",
     "published": "2023-03-11T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สอนแคปจอบน macbook แบบจับมือทำ",
-    "url": "https://www.mikkipastel.com/how-to-capture-macbook-screen/",
-    "published": "2023-03-10T04:44:13.000Z"
   },
   {
     "site": "dt.in.th",
