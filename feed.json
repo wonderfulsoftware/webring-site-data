@@ -1,21 +1,27 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "Illustration - クルミ隊 💛❤️💙",
+    "url": "https://lucian.solutions/blog/kurumi-tai-2023",
+    "published": "2023-03-18T18:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "SecretOps with teller",
+    "url": "https://www.karnwong.me/posts/2023/03/secretops-with-teller/",
+    "published": "2023-03-18T17:57:14.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ว่าง ๆ ลองไปถาม ChatGPT ว่า ใน Software development ถามอะไรได้บ้าง ?",
-    "url": "https://www.somkiat.cc/chatgpt-prompt-in-software-development/",
-    "published": "2023-03-17T09:46:24.000Z"
+    "title": "มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1",
+    "url": "https://www.somkiat.cc/robot-framework-6-1-alpha-1/",
+    "published": "2023-03-18T10:48:33.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "สอนแคปจอจาก Google Chrome แบบจับมือทำ",
     "url": "https://www.mikkipastel.com/how-to-capture-website-from-google-chrome/",
     "published": "2023-03-17T08:26:50.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Terraform RDS module with DNS setup",
-    "url": "https://www.karnwong.me/posts/2023/03/terraform-rds-module-with-dns-setup/",
-    "published": "2023-03-17T00:29:30.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -34,12 +40,6 @@
     "title": "Riffy's trip across Southern Japan within 1 week",
     "url": "https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/",
     "published": "2023-03-14T06:00:00.000Z"
-  },
-  {
-    "site": "janescience.com",
-    "title": "เพิ่มการป้องกัน CSRF ให้กับ Spring Security",
-    "url": "https://janescience.com/blog/csrf-spring-security",
-    "published": "2023-03-14T00:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -84,12 +84,6 @@
     "published": "2023-03-05T15:14:16.000Z"
   },
   {
-    "site": "lucian.solutions",
-    "title": "แงะ Streamlabs API จนออกมาเป็น Twitch Chat Overlay ให้ใช้",
-    "url": "https://lucian.solutions/blog/tw-custom-chat-overlay",
-    "published": "2023-03-03T15:00:00.000Z"
-  },
-  {
     "site": "taoisaman.com",
     "title": "รีวิวคลาสเรียน LeSS (Large-Scale Scrum) at Jago bank ตอนที่ 6 (Product Backlog Refinement)",
     "url": "https://taoisaman.com/2023/02/28/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b8%84%e0%b8%a5%e0%b8%b2%e0%b8%aa%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99-less-large-scale-scrum-at-jago-bank-%e0%b8%95%e0%b8%ad%e0%b8%99-6/",
@@ -100,6 +94,12 @@
     "title": "Dear Security, be a part of the solution",
     "url": "https://chrisza.me/security-part-of-solution/",
     "published": "2023-02-25T17:00:00.000Z"
+  },
+  {
+    "site": "janescience.com",
+    "title": "ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด",
+    "url": "https://janescience.com/blog/vue-warning",
+    "published": "2023-02-24T00:00:00.000Z"
   },
   {
     "site": "devahoy.com",
