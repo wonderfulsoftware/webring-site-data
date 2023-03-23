@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Java 20 GA มาแล้วนะ",
+    "url": "https://www.somkiat.cc/hello-java-20/",
+    "published": "2023-03-22T12:40:23.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks-Lychee Rose Mixed with Pomegranate Juice",
+    "url": "https://naiwaen.debuggingsoft.com/2023/03/cr-starbucks-lychee-rose-mixed-with-pomegranate-juice/",
+    "published": "2023-03-22T04:19:52.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "Resistor Color Code Utility",
     "url": "https://tech.duckfollow.co/view/resistor-color-code-utility",
     "published": "2023-03-20T13:00:02.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "เปิดใช้ Auto Detect Workout บน Huawei Watch FIT",
-    "url": "https://naiwaen.debuggingsoft.com/2023/03/enable-auto-detect-workout-on-huawei-watch-fit/",
-    "published": "2023-03-19T10:49:55.000Z"
+    "site": "dt.in.th",
+    "title": "The HustleGPT challenge",
+    "url": "https://notes.dt.in.th/20230321T132222Z8523",
+    "published": "2023-03-20T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -22,12 +34,6 @@
     "title": "Illustration - クルミ隊 💛❤️💙",
     "url": "https://lucian.solutions/blog/kurumi-tai-2023",
     "published": "2023-03-18T18:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดูความสามารถใหม่ ๆ ใน Robot Framework 6.1 alpha 1",
-    "url": "https://www.somkiat.cc/robot-framework-6-1-alpha-1/",
-    "published": "2023-03-18T10:48:33.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -64,12 +70,6 @@
     "title": "Wishlist",
     "url": "https://garden.narze.live/Wishlist/",
     "published": "2023-03-11T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Disappearing combining marks in Discord (ปัญหาสระกับวรรณยุกต์หาย)",
-    "url": "https://notes.dt.in.th/DiscordThaiCombiningMarks",
-    "published": "2023-03-10T00:00:00.000Z"
   },
   {
     "site": "toupawa.com",
