@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Java 20 GA มาแล้วนะ",
-    "url": "https://www.somkiat.cc/hello-java-20/",
-    "published": "2023-03-22T12:40:23.000Z"
+    "title": "ทำไม SeleniumLibrary 6 ถึงปิด browser ให้อัตโนมัติ ?",
+    "url": "https://www.somkiat.cc/robotframework-auto-close-browser/",
+    "published": "2023-03-23T09:13:50.000Z"
+  },
+  {
+    "site": "suam.wtf",
+    "title": "[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard)",
+    "url": "https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/",
+    "published": "2023-03-23T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -142,12 +148,6 @@
     "title": "micro-dollar: a way to deals with decimal numbers or monetary values",
     "url": "https://heyfirst.co/blog/micro-dollar",
     "published": "2023-02-07T00:00:00.000Z"
-  },
-  {
-    "site": "suam.wtf",
-    "title": "TDEA (3DES) ปลอดภัยกว่า AES-128 จริงไหม",
-    "url": "https://suam.wtf/posts/tdea-vs-mitm/",
-    "published": "2023-02-03T00:00:00.000Z"
   },
   {
     "site": "boonsong.dev",
