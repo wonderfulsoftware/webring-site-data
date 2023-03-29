@@ -1,15 +1,27 @@
 [
   {
+    "site": "toupawa.com",
+    "title": "วิธีการแก้ไขปัญหา Asynchronous Function บน React.js Hook (useEfffect) ด้วยวิธี IIFE",
+    "url": "https://toupawa.com/fix-async-function-error-on-react-useeffect-with-iife/",
+    "published": "2023-03-29T01:00:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "Key Takeaways: “ถ้า Agile มันทำให้ แผนกรอบข้าง ยากนัก กลับมาทำ Waterfall ก็ได้นะครับ”",
+    "url": "https://myifew.com/6501/why-we-should-back-to-waterfall/",
+    "published": "2023-03-28T17:29:54.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนวคิดการสร้างระบบ Ranking ของ Reddit",
+    "url": "https://www.somkiat.cc/note-ranking-system-from-reddit/",
+    "published": "2023-03-28T03:42:56.000Z"
+  },
+  {
     "site": "poolsawat.com",
     "title": "เรียนรู้ และใช้งาน ThaiBuddhistDate บน Java",
     "url": "https://www.poolsawat.com/learning-using-thaibuddhistdate-java/",
     "published": "2023-03-27T10:53:32.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการจำลอง API server ใน JavaScript ด้วย MirageJS",
-    "url": "https://www.somkiat.cc/mocking-api-server-with-miragejs/",
-    "published": "2023-03-27T07:35:09.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -84,12 +96,6 @@
     "published": "2023-03-11T00:00:00.000Z"
   },
   {
-    "site": "toupawa.com",
-    "title": "วิธีสลับ Node.js หลายๆ version ในเครื่องเดียว โดยไม่ต้องลงใหม่ซ้ำๆ (วิธีใช้ n – Interactively Manage Your Node.js Versions)",
-    "url": "https://toupawa.com/how-to-use-the-interactively-manage-your-nodejs-versions-library/",
-    "published": "2023-03-09T02:09:00.000Z"
-  },
-  {
     "site": "thanapon.info",
     "title": "ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย",
     "url": "https://thanapon.info/mqtt-with-tls-on-aws-iot-core/",
@@ -118,12 +124,6 @@
     "title": "วิธีแก้ปัญหา unknown at rule ของ tailwind css",
     "url": "https://devahoy.com/blog/vscode-unknown-at-rules-css",
     "published": "2023-02-22T15:30:20.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "Begin with the end in mind",
-    "url": "https://myifew.com/6487/begin-with-the-end-in-mind/",
-    "published": "2023-02-15T19:31:40.000Z"
   },
   {
     "site": "natdanai.me",
