@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจจากการเปลี่ยนแปลงของ Microsoft Teams",
+    "url": "https://www.somkiat.cc/new-from-microsoft-teams/",
+    "published": "2023-04-02T04:43:02.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "dockerfile สำหรับ .NET6 + DB2",
     "url": "https://naiwaen.debuggingsoft.com/2023/04/dockerfile-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-net6-db2/",
@@ -16,12 +22,6 @@
     "title": "เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ",
     "url": "https://myifew.com/6533/twitter-open-source-algorithm/",
     "published": "2023-04-01T07:38:41.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกเรื่อง Building more efficient Firestore web app",
-    "url": "https://www.somkiat.cc/note-from-building-a-more-efficient-firestore/",
-    "published": "2023-04-01T05:13:30.000Z"
   },
   {
     "site": "mikkipastel.com",
