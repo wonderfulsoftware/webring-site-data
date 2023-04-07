@@ -1,5 +1,29 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "DuckDB vs Polars vs Spark!",
+    "url": "https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/",
+    "published": "2023-04-06T17:19:57.000Z"
+  },
+  {
+    "site": "tech.duckfollow.co",
+    "title": "เมื่อเป็ดไปงาน FirebaseDevDay2023",
+    "url": "https://tech.duckfollow.co/view/duck-x-firebasedevday2023",
+    "published": "2023-04-06T13:00:02.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เปลี่ยนภาษาใน Windows 11",
+    "url": "https://naiwaen.debuggingsoft.com/2023/04/windows-11-change-hot-key-between-language/",
+    "published": "2023-04-06T07:54:55.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Port number randomizer",
+    "url": "https://notes.dt.in.th/RandomPort",
+    "published": "2023-04-05T00:00:00.000Z"
+  },
+  {
     "site": "taoisaman.com",
     "title": "Zero-Shot Prompting การทำให้ LLMs (ChatGPT) ตอบเราได้คำตอบสั้น ๆ ชัด ๆ และ ตรงประเด็น",
     "url": "https://taoisaman.com/2023/04/05/zero-shot-prompting-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89-llms-chatgpt-%e0%b8%95%e0%b8%ad%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b2%e0%b9%84%e0%b8%94%e0%b9%89/",
@@ -12,28 +36,10 @@
     "published": "2023-04-04T15:45:22.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "Building Firebase Realtime Database Security Rules with GPT-4",
-    "url": "https://notes.dt.in.th/20230403T162555Z1842",
-    "published": "2023-04-04T00:00:00.000Z"
-  },
-  {
     "site": "somkiat.cc",
     "title": "สรุป Culture & Methods Trends Report March 2023 จาก InfoQ",
     "url": "https://www.somkiat.cc/infoq-culture-methods-trends-2023/",
     "published": "2023-04-03T10:23:23.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "มาลองเป็น Public Speaker เรื่อง OOAD",
-    "url": "https://naiwaen.debuggingsoft.com/2023/04/my-first-public-speaker-ooad-in-my-work/",
-    "published": "2023-04-03T01:30:43.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Kubernetes with Grafana Cloud",
-    "url": "https://www.karnwong.me/posts/2023/04/kubernetes-with-grafana-cloud/",
-    "published": "2023-04-01T12:22:06.000Z"
   },
   {
     "site": "myifew.com",
@@ -76,12 +82,6 @@
     "title": "[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard)",
     "url": "https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/",
     "published": "2023-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "Resistor Color Code Utility",
-    "url": "https://tech.duckfollow.co/view/resistor-color-code-utility",
-    "published": "2023-03-20T13:00:02.000Z"
   },
   {
     "site": "lucian.solutions",
