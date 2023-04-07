@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ว่าด้วยเรื่องของ Observability บน Grafana + Loki + Tempo",
+    "url": "https://www.somkiat.cc/observability-with-grafana-platform/",
+    "published": "2023-04-07T03:16:48.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "DuckDB vs Polars vs Spark!",
     "url": "https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/",
@@ -34,12 +40,6 @@
     "title": "มาดูพี่ตี๋วิดพื้น เอ้ยย มาอัพเดตของใหม่ ๆ กันในงาน Firebase Dev Day 2023",
     "url": "https://www.mikkipastel.com/firebase-dev-day-2023/",
     "published": "2023-04-04T15:45:22.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุป Culture & Methods Trends Report March 2023 จาก InfoQ",
-    "url": "https://www.somkiat.cc/infoq-culture-methods-trends-2023/",
-    "published": "2023-04-03T10:23:23.000Z"
   },
   {
     "site": "myifew.com",
