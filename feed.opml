@@ -57,7 +57,7 @@
       <outline text="blog.tawanchai.com" title="blog.tawanchai.com" type="rss" xmlUrl="https://blog.tawanchai.com/rss.xml" htmlUrl="https://blog.tawanchai.com"/>
       <outline text="tinarskii.com" title="tinarskii.com" type="rss" xmlUrl="https://tinarskii.com/rss.xml" htmlUrl="https://www.tinarskii.com"/>
       <outline text="blog.0002011.xyz" title="blog.0002011.xyz" type="rss" xmlUrl="https://blog.0002011.xyz/api/feed/rss" htmlUrl="https://blog.0002011.xyz"/>
-      <outline text="katsuragi.detzz.in.th" title="katsuragi.detzz.in.th" type="rss" xmlUrl="https://katsuragi.detzz.in.th/api/rss" htmlUrl="https://katsuragi.detzz.in.th/"/>
+      <outline text="katsuragi.cyou" title="katsuragi.cyou" type="rss" xmlUrl="https://katsuragi.cyou/api/rss" htmlUrl="https://katsuragi.cyou/"/>
       <outline text="boonsong.dev" title="boonsong.dev" type="rss" xmlUrl="https://boonsong.dev/rss.xml" htmlUrl="https://boonsong.dev"/>
       <outline text="lucian.solutions" title="lucian.solutions" type="rss" xmlUrl="https://lucian.solutions/rss/?section=blog" htmlUrl="https://lucian.solutions"/>
       <outline text="poom.dev" title="poom.dev" type="rss" xmlUrl="https://poom.dev/rss.xml" htmlUrl="https://poom.dev"/>
