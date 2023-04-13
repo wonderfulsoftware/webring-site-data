@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "เรื่องของ Noise หรือสิ่งรบกวนที่ส่งผลต่อ Productivity",
+    "url": "https://www.somkiat.cc/noise-is-problem-for-productivity/",
+    "published": "2023-04-13T03:24:15.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks-Raspberry Black Current Frappuccino",
     "url": "https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-raspberry-black-current-frappuccino/",
@@ -22,12 +28,6 @@
     "title": "Illustration - 春のルシア2023 🌸",
     "url": "https://lucian.solutions/blog/lucia-spring-2023",
     "published": "2023-04-09T18:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Observability บน Grafana + Loki + Tempo",
-    "url": "https://www.somkiat.cc/observability-with-grafana-platform/",
-    "published": "2023-04-07T03:16:48.000Z"
   },
   {
     "site": "karnwong.me",
