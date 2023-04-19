@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปชนิดของ Technical Debt จาก Towards an Ontology of Terms on Technical Debt",
+    "url": "https://www.somkiat.cc/note-types-of-technical-debt/",
+    "published": "2023-04-18T14:50:54.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "The mythical ChatOps in action",
+    "url": "https://www.karnwong.me/posts/2023/04/the-mythical-chatops-in-action/",
+    "published": "2023-04-18T09:00:05.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Fixed Node ‘ERR_OSSL_EVP_UNSUPPORTED (0308010C:digital envelope routines::unsupported)",
     "url": "https://naiwaen.debuggingsoft.com/2023/04/fixed-node-error-err_ossl_evp_unsupported-0308010cdigital-envelope-routinesunsupported/",
     "published": "2023-04-18T01:14:33.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Auto-GPT มันเป็นอย่างไร ?",
-    "url": "https://www.somkiat.cc/hello-auto-gpt/",
-    "published": "2023-04-17T16:34:01.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -28,12 +34,6 @@
     "title": "Illustration - 春のルシア2023 🌸",
     "url": "https://lucian.solutions/blog/lucia-spring-2023",
     "published": "2023-04-09T18:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "DuckDB vs Polars vs Spark!",
-    "url": "https://www.karnwong.me/posts/2023/04/duckdb-vs-polars-vs-spark/",
-    "published": "2023-04-06T17:19:57.000Z"
   },
   {
     "site": "tech.duckfollow.co",
