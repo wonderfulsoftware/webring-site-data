@@ -1,5 +1,11 @@
 [
   {
+    "site": "thiti.dev",
+    "title": "ESP32 Series รุ่นต่างๆ",
+    "url": "https://thiti.dev/blog/66/",
+    "published": "2023-04-21T11:15:40.000Z"
+  },
+  {
     "site": "toupawa.com",
     "title": "สร้าง Web Application ด้วย Vite + React และ TypeScript",
     "url": "https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/",
@@ -244,12 +250,6 @@
     "title": "My kubectl commands cheat sheet",
     "url": "https://ntsd.dev/my-kubectl-cheat-sheet/",
     "published": "2022-09-01T17:00:00.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "การใช้งานคำสั่ง git init",
-    "url": "https://thiti.dev/blog/65/",
-    "published": "2022-06-25T11:15:40.000Z"
   },
   {
     "site": "jojoee.com",
