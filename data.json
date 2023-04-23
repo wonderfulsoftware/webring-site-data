@@ -704,14 +704,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25qnz?J9]E0SwRisTaf0wRz,:$+=g%3S~NY]pajOFS1BgX2wIs=56R%s,oe",
-    "screenshotUpdatedAt": "2023-04-22T01:07:37.617Z",
+    "blurhash": "v25qnz?J9]E0SwV?sTaf0wRz,:xb=g%3S~NY]pajOFR*BgX2wIs=56R%s,oe",
+    "screenshotUpdatedAt": "2023-04-23T07:55:33.775Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:5878.15625",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2023-04-22T01:07:37.617Z"
+    "lastUpdated": "2023-04-23T07:55:33.775Z",
+    "number": 50
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -1336,8 +1337,7 @@
       "rect": "45:46.265625:318:581.734375",
       "href": "https://webring.wonderful.software#nayukikuu.xyz"
     },
-    "lastUpdated": "2023-04-23T01:22:22.703Z",
-    "number": 93
+    "lastUpdated": "2023-04-23T01:22:22.703Z"
   },
   "me.kittichdevs.com": {
     "url": "http://me.kittichdevs.com/",
@@ -1364,5 +1364,11 @@
     },
     "lastUpdated": "2023-04-23T01:23:22.954Z",
     "number": 95
+  },
+  "nayuki.cyou": {
+    "url": "https://nayuki.cyou"
+  },
+  "mistertfy64.com": {
+    "url": "https://mistertfy64.com"
   }
 }
