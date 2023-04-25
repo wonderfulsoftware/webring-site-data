@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "บันทึกเรื่อง Architecture ของระบบ Twitch",
-    "url": "https://www.somkiat.cc/note-architecture-journey-from-twitch/",
-    "published": "2023-04-23T06:55:20.000Z"
+    "title": "ว่าด้วยเรื่องของ Vector Database",
+    "url": "https://www.somkiat.cc/what-vector-database/",
+    "published": "2023-04-24T11:06:01.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "How to fix the error “host key verification failed”",
+    "url": "https://naiwaen.debuggingsoft.com/2023/04/how-to-fix-the-error-host-key-verification-failed/",
+    "published": "2023-04-24T03:05:04.000Z"
   },
   {
     "site": "karnwong.me",
@@ -22,12 +28,6 @@
     "title": "สร้าง Web Application ด้วย Vite + React และ TypeScript",
     "url": "https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/",
     "published": "2023-04-21T00:09:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZ-400] Implement security and validate code bases for compliance",
-    "url": "https://naiwaen.debuggingsoft.com/2023/04/az-400-implement-security-and-validate-code-bases-for-compliance/",
-    "published": "2023-04-20T09:55:00.000Z"
   },
   {
     "site": "dt.in.th",
