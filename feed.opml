@@ -63,7 +63,6 @@
       <outline text="poom.dev" title="poom.dev" type="rss" xmlUrl="https://poom.dev/rss.xml" htmlUrl="https://poom.dev"/>
       <outline text="kajame.xyz" title="kajame.xyz" type="rss" xmlUrl="https://www.kajame.xyz/feed.xml" htmlUrl="https://kajame.xyz"/>
       <outline text="0xchai.io" title="0xchai.io" type="rss" xmlUrl="https://0xchai.io/feed.xml" htmlUrl="https://0xchai.io"/>
-      <outline text="devahoy.com" title="devahoy.com" type="rss" xmlUrl="https://devahoy.com/feed.xml" htmlUrl="https://devahoy.com"/>
       <outline text="janescience.com" title="janescience.com" type="rss" xmlUrl="https://janescience.com/feed.xml" htmlUrl="https://janescience.com"/>
       <outline text="taoisaman.com" title="taoisaman.com" type="rss" xmlUrl="https://taoisaman.com/feed.xml" htmlUrl="https://taoisaman.com"/>
     </outline>
