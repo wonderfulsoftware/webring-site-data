@@ -328,7 +328,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2023-04-23T01:07:42.141Z"
+    "lastUpdated": "2023-04-29T18:07:46.549Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -349,7 +350,8 @@
       "rect": "32:68:21:224",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-04-24T01:03:24.867Z"
+    "lastUpdated": "2023-04-29T18:07:59.978Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -358,19 +360,21 @@
     "screenshotUpdatedAt": "2023-02-21T01:09:30.832Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-04-28T01:03:34.587Z"
+    "lastUpdated": "2023-04-29T18:08:23.250Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v5Q9~0ImxaZ$4nE2t5%0=Y?FozK503w%IvNL9X9t$~#lyqy6oG$d~C$kWZJo",
-    "screenshotUpdatedAt": "2023-04-24T01:03:39.258Z",
+    "blurhash": "v5QmFz~W?b9Z00E1o0xa4m4.V@%29G-nIofl?H?v%MIUxZ4oV@xuXU%KR+Rk",
+    "screenshotUpdatedAt": "2023-04-29T18:08:13.951Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-04-24T01:03:39.258Z"
+    "lastUpdated": "2023-04-29T18:08:13.951Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -1381,5 +1385,18 @@
     },
     "lastUpdated": "2023-04-29T01:18:25.992Z",
     "number": 95
+  },
+  "yosiket.xyz": {
+    "url": "https://yosiket.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yosiket.xyz_375w@2x.png",
+    "blurhash": "vHQSlLMK_LD+00xD%fIV.Ox[noR%xvN1jvocM#WFt6oeD%o0xuj]M$aLV]WD",
+    "screenshotUpdatedAt": "2023-04-29T18:09:37.942Z",
+    "description": "สวัสดี! ยินดีต้อนรับที่นี้คือหน้าแนะนำตัวเองของเรา และก็รวมผลงานที่ผมทำไว้บางชิ้น สามารถเรียกผมได้ว่าโยสิเกตุ หรือ Yosiket เริ่มต้นทำเว็บช็อป 2000 บาท",
+    "backlink": {
+      "rect": "100:24:137.5:2672.796875",
+      "href": "https://webring.wonderful.software#yosiket.xyz"
+    },
+    "lastUpdated": "2023-04-29T18:09:37.942Z",
+    "number": 96
   }
 }
