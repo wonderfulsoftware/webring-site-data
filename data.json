@@ -325,8 +325,7 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2023-04-29T18:07:46.549Z",
-    "number": 23
+    "lastUpdated": "2023-04-29T18:07:46.549Z"
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -347,8 +346,7 @@
       "rect": "32:68:21:224",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-04-29T18:07:59.978Z",
-    "number": 24
+    "lastUpdated": "2023-04-29T18:07:59.978Z"
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -357,7 +355,7 @@
     "screenshotUpdatedAt": "2023-02-21T01:09:30.832Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-04-29T18:08:23.250Z",
+    "lastUpdated": "2023-04-30T16:10:00.456Z",
     "number": 26
   },
   "somkiat.cc": {
@@ -370,7 +368,7 @@
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-04-29T18:08:13.951Z",
+    "lastUpdated": "2023-04-30T16:09:51.143Z",
     "number": 25
   },
   "doopdip.me": {
@@ -383,7 +381,8 @@
       "rect": "40:44:167.5:321",
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2023-04-23T01:08:24.978Z"
+    "lastUpdated": "2023-04-30T16:10:06.689Z",
+    "number": 27
   },
   "dont.works": {
     "url": "https://dont.works",
@@ -408,7 +407,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2023-04-28T01:04:00.888Z"
+    "lastUpdated": "2023-04-30T16:10:22.032Z",
+    "number": 28
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -429,7 +429,8 @@
       "rect": "64:48:247.90625:16",
       "href": "https://webring.wonderful.software#pontakorn.dev"
     },
-    "lastUpdated": "2023-04-29T01:02:26.894Z"
+    "lastUpdated": "2023-04-30T16:10:34.766Z",
+    "number": 30
   },
   "wp.curve.in.th": {
     "url": "https://wp.curve.in.th/",
@@ -441,7 +442,8 @@
       "rect": "360:32:7.5:60.5",
       "href": "https://webring.wonderful.software#wp.curve.in.th"
     },
-    "lastUpdated": "2023-04-29T01:02:40.254Z"
+    "lastUpdated": "2023-04-30T16:10:46.567Z",
+    "number": 31
   },
   "adamblog.co": {
     "url": "https://adamblog.co",
@@ -453,7 +455,8 @@
       "rect": "24:28.765625:239.5:10.6171875",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2023-04-29T01:02:51.852Z"
+    "lastUpdated": "2023-04-30T16:10:58.935Z",
+    "number": 32
   },
   "pat.chormai.org": {
     "url": "https://pat.chormai.org",
@@ -465,7 +468,8 @@
       "rect": "66:18:190.890625:3328.734375",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2023-04-29T01:03:01.596Z"
+    "lastUpdated": "2023-04-30T16:11:08.378Z",
+    "number": 33
   },
   "curiousdev.in.th": {
     "url": "https://curiousdev.in.th",
@@ -477,7 +481,8 @@
       "rect": "32:61.1875:282.3125:47",
       "href": "https://webring.wonderful.software#curiousdev.in.th"
     },
-    "lastUpdated": "2023-04-29T01:03:07.994Z"
+    "lastUpdated": "2023-04-30T16:11:15.597Z",
+    "number": 34
   },
   "heyfirst.co": {
     "url": "https://heyfirst.co",
@@ -515,7 +520,8 @@
       "rect": "26:26:177.953125:76.625",
       "href": "https://webring.wonderful.software#llun.me"
     },
-    "lastUpdated": "2023-04-29T01:03:36.041Z"
+    "lastUpdated": "2023-04-30T16:11:28.698Z",
+    "number": 37
   },
   "t6tg.com": {
     "url": "https://t6tg.com",
@@ -524,10 +530,11 @@
     "screenshotUpdatedAt": "2022-08-29T01:31:52.785Z",
     "description": "Thanawat Gulati • CSKMUNTB#32 | t6tg.com | Google Developer Student Clubs Lead | Microsoft Learn Student Ambassador (MLSA)",
     "backlink": {
-      "rect": "42.3045654296875:42.3045654296875:214.34771728515625:350.84771728515625",
+      "rect": "45.199951171875:45.199951171875:212.9000244140625:349.4000244140625",
       "href": "https://webring.wonderful.software#t6tg.com"
     },
-    "lastUpdated": "2023-04-29T01:03:52.593Z"
+    "lastUpdated": "2023-04-30T16:11:43.824Z",
+    "number": 38
   },
   "thanapon.info": {
     "url": "https://thanapon.info",
@@ -564,7 +571,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#suam.wtf"
     },
-    "lastUpdated": "2023-04-29T01:04:39.379Z"
+    "lastUpdated": "2023-04-30T16:12:06.179Z",
+    "number": 41
   },
   "blog.oatto.dev": {
     "url": "https://blog.oatto.dev",
@@ -662,7 +670,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2023-04-28T01:04:08.471Z"
+    "lastUpdated": "2023-04-30T16:10:29.121Z",
+    "number": 29
   },
   "bellmcp.work": {
     "url": "https://bellmcp.work",
@@ -1137,7 +1146,8 @@
       "rect": "32:32:303:41.5",
       "href": "https://webring.wonderful.software#pawaret.dev"
     },
-    "lastUpdated": "2023-04-29T01:14:03.704Z"
+    "lastUpdated": "2023-04-30T16:12:31.725Z",
+    "number": 78
   },
   "supratouch.dev": {
     "url": "https://supratouch.dev"
@@ -1377,14 +1387,27 @@
   "yosiket.xyz": {
     "url": "https://yosiket.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yosiket.xyz_375w@2x.png",
-    "blurhash": "vHQSlLMK_LD+00xD%fIV.Ox[noR%xvN1jvocM#WFt6oeD%o0xuj]M$aLV]WD",
-    "screenshotUpdatedAt": "2023-04-29T18:09:37.942Z",
+    "blurhash": "vHQSlLMK_LD+00xD%fIV.Ox[noRjxvN1jvocM#WFt6oeD%o0xuj]M$aLV]WD",
+    "screenshotUpdatedAt": "2023-04-30T16:13:22.127Z",
     "description": "สวัสดี! ยินดีต้อนรับที่นี้คือหน้าแนะนำตัวเองของเรา และก็รวมผลงานที่ผมทำไว้บางชิ้น สามารถเรียกผมได้ว่าโยสิเกตุ หรือ Yosiket เริ่มต้นทำเว็บช็อป 2000 บาท",
     "backlink": {
       "rect": "100:24:137.5:2672.796875",
       "href": "https://webring.wonderful.software#yosiket.xyz"
     },
-    "lastUpdated": "2023-04-29T18:09:37.942Z",
+    "lastUpdated": "2023-04-30T16:13:22.127Z",
     "number": 96
+  },
+  "pichy.dev": {
+    "url": "https://pichy.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pichy.dev_375w@2x.png",
+    "blurhash": "v4ONtZ~p%2%N%g,-o#E2xvk9$y-p4:bd4.Iq={01o~-S00tRD*jXx]0N=^xZ",
+    "screenshotUpdatedAt": "2023-04-30T16:13:36.118Z",
+    "description": "Pichy's Personal Website✨",
+    "backlink": {
+      "rect": "134:35:120.5:2965.5",
+      "href": "https://webring.wonderful.software#pichy.dev"
+    },
+    "lastUpdated": "2023-04-30T16:13:36.118Z",
+    "number": 97
   }
 }
