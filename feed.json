@@ -1,15 +1,15 @@
 [
   {
+    "site": "kajame.xyz",
+    "title": "การ Custom font ใน React Native",
+    "url": "https://kajame.xyz/blog/%E0%B8%81%E0%B8%B2%E0%B8%A3%20Custom%20font%20%E0%B9%83%E0%B8%99%20React%20Native",
+    "published": "2023-05-01T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks-Skinny Banana Muffin",
     "url": "https://naiwaen.debuggingsoft.com/2023/04/cr-starbucks-skinny-banana-muffin/",
     "published": "2023-04-29T12:45:50.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "แก้ Error \"xcodebuild\" command but it exited with error code 65",
-    "url": "https://kajame.xyz/blog/%E0%B9%81%E0%B8%81%E0%B9%89%20Error%20%22xcodebuild%22%20command%20but%20it%20exited%20with%20error%20code%2065",
-    "published": "2023-04-29T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
