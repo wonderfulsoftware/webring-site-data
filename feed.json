@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] ฮั่วเซ่งฮง ซาลาเปาเผือกแปะก๊วย",
-    "url": "https://naiwaen.debuggingsoft.com/2023/05/cr-hua-seng-hong-taro-paste-with-ginkgo-bun/",
-    "published": "2023-05-02T09:24:11.000Z"
+    "title": "Update ทุก Dependency ของ Package.json",
+    "url": "https://naiwaen.debuggingsoft.com/2023/05/update-each-dependency-in-package-dot-json-to-lasted-version/",
+    "published": "2023-05-04T11:07:00.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "น่าสนใจมาก ๆ Vercel Storage",
-    "url": "https://www.somkiat.cc/hello-vercel-storage/",
-    "published": "2023-05-02T09:18:33.000Z"
+    "title": "สรุปการแบ่งปันเรื่อง ChatGPT ในการทำงานสาย Developer",
+    "url": "https://www.somkiat.cc/sharing-about-chatgpt-and-usecase/",
+    "published": "2023-05-04T09:03:05.000Z"
+  },
+  {
+    "site": "kusumotolab.com",
+    "title": "Refinance คอนโดครั้งแรก",
+    "url": "https://kusumotolab.com/first-time-condo-refinance/",
+    "published": "2023-05-04T06:18:21.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -220,12 +226,6 @@
     "title": "รีวิว AirPods Pro (รุ่นที่ 2) เสียง และ ANC ดีขึ้น เคสมีลำโพง แต่ยังใช้ดีไซน์เดิม",
     "url": "https://www.nuttdam.com/2022/11/review-airpods-pro-2nd-generation/",
     "published": "2022-11-01T10:27:00.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "ลาก่อน MikroTik สวัสดี pfSense",
-    "url": "https://kusumotolab.com/good-bye-mikrotik-hello-pfsense/",
-    "published": "2022-10-15T02:33:28.000Z"
   },
   {
     "site": "0xchai.io",
