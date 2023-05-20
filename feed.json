@@ -1,21 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ChatGPT app บน iOS มาแล้ว (US only)",
+    "url": "https://www.somkiat.cc/chatgpt-app-for-ios/",
+    "published": "2023-05-19T15:54:31.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks-Emperor’s Clouds & Mist Tea",
-    "url": "https://naiwaen.debuggingsoft.com/2023/05/cr-starbucks-emperors-clouds-mist-tea/",
-    "published": "2023-05-18T07:51:47.000Z"
+    "title": "ERROR: CreateProcessEntryCommon:347: getpwuid(0) failed 2 when access wsl",
+    "url": "https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/",
+    "published": "2023-05-19T08:55:45.000Z"
   },
   {
     "site": "nuttdam.com",
-    "title": "AirPlay, HomeKit ข้าม VLAN",
+    "title": "AirPlay, HomeKit ข้าม VLAN ด้วย Avahi",
     "url": "https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/",
     "published": "2023-05-17T14:17:41.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Robot framework :: ปิดการ capture หน้าจอเมื่อเกิด failure ในการทดสอบ สำหรับ Selenium Library",
-    "url": "https://www.somkiat.cc/robot-framework-disable-capture-screen/",
-    "published": "2023-05-15T16:48:32.000Z"
   },
   {
     "site": "garden.narze.live",
