@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "CPU / GPU / TPU คืออะไร",
+    "url": "https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/",
+    "published": "2023-05-23T02:14:00.000Z"
+  },
+  {
     "site": "taoisaman.com",
     "title": "Flutter project structure with Clean Architechture",
     "url": "https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/",
@@ -16,12 +22,6 @@
     "title": "ChatGPT app บน iOS มาแล้ว (US only)",
     "url": "https://www.somkiat.cc/chatgpt-app-for-ios/",
     "published": "2023-05-19T15:54:31.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ERROR: CreateProcessEntryCommon:347: getpwuid(0) failed 2 when access wsl",
-    "url": "https://naiwaen.debuggingsoft.com/2023/05/error-createprocessentrycommon347-getpwuid0-failed-2-when-access-wsl/",
-    "published": "2023-05-19T08:55:45.000Z"
   },
   {
     "site": "nuttdam.com",
@@ -68,7 +68,7 @@
   {
     "site": "karnwong.me",
     "title": "Book highlights - Managing Transitions: Making the Most of Change by William Bridges",
-    "url": "https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/",
+    "url": "https://karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/",
     "published": "2023-04-26T17:18:21.000Z"
   },
   {

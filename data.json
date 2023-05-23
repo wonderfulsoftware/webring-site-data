@@ -358,7 +358,8 @@
     "screenshotUpdatedAt": "2023-05-06T00:59:09.347Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-05-21T01:06:17.676Z"
+    "lastUpdated": "2023-05-23T17:11:33.773Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
@@ -408,7 +409,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2023-05-18T01:03:56.597Z"
+    "lastUpdated": "2023-05-23T17:11:49.121Z",
+    "number": 28
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -491,7 +493,8 @@
       "rect": "16:16:331:20",
       "href": "https://webring.wonderful.software#heyfirst.co"
     },
-    "lastUpdated": "2023-05-21T01:07:42.882Z"
+    "lastUpdated": "2023-05-23T17:11:55.843Z",
+    "number": 35
   },
   "wiennat.com": {
     "url": "https://www.wiennat.com",
@@ -503,7 +506,8 @@
       "rect": "21:31:334.8125:3286.421875",
       "href": "https://webring.wonderful.software#wiennat.com"
     },
-    "lastUpdated": "2023-05-21T01:07:49.199Z"
+    "lastUpdated": "2023-05-23T17:12:04.706Z",
+    "number": 36
   },
   "llun.me": {
     "url": "https://www.llun.me",
@@ -515,7 +519,8 @@
       "rect": "26:26:177.953125:76.625",
       "href": "https://webring.wonderful.software#llun.me"
     },
-    "lastUpdated": "2023-05-21T01:08:02.650Z"
+    "lastUpdated": "2023-05-23T17:12:18.319Z",
+    "number": 37
   },
   "t6tg.com": {
     "url": "https://t6tg.com",
@@ -524,10 +529,11 @@
     "screenshotUpdatedAt": "2023-05-14T01:07:05.235Z",
     "description": "Thanawat Gulati • CSKMUNTB#32 | t6tg.com | Google Developer Student Clubs Lead | Microsoft Learn Student Ambassador (MLSA)",
     "backlink": {
-      "rect": "44.71820068359375:44.71820068359375:213.14089965820312:349.6408996582031",
+      "rect": "43.7476806640625:43.7476806640625:213.62615966796875:350.12615966796875",
       "href": "https://webring.wonderful.software#t6tg.com"
     },
-    "lastUpdated": "2023-05-21T01:08:17.172Z"
+    "lastUpdated": "2023-05-23T17:12:32.880Z",
+    "number": 38
   },
   "thanapon.info": {
     "url": "https://thanapon.info",
@@ -539,19 +545,21 @@
       "rect": "75:62:300:60",
       "href": "https://webring.wonderful.software#thanapon.info"
     },
-    "lastUpdated": "2023-05-21T01:08:39.251Z"
+    "lastUpdated": "2023-05-23T17:12:52.720Z",
+    "number": 39
   },
   "mr.touno.io": {
     "url": "https://mr.touno.io",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mr.touno.io_375w@2x.png",
-    "blurhash": "v8Rfh54U-ot5AIOYxuxarEQ-M{o#_N.8NeRm-V$NMySOXoyDoyMx9Hr]xCR$",
-    "screenshotUpdatedAt": "2023-05-22T01:09:40.764Z",
+    "blurhash": "v8Rfh54U-nt5AIOYxuxarEQ-M{t8_N.8NeRl-V$MMySOXoyDoyMx9Hr^xCR$",
+    "screenshotUpdatedAt": "2023-05-23T17:13:18.944Z",
     "description": "Hey there, My name is Kananek Thongkam and i'm a Full Stack Engineer specialist.",
     "backlink": {
       "rect": "60.796875:17:265.390625:6807.015625",
       "href": "https://webring.wonderful.software#mr.touno.io"
     },
-    "lastUpdated": "2023-05-22T01:09:40.764Z"
+    "lastUpdated": "2023-05-23T17:13:18.944Z",
+    "number": 40
   },
   "suam.wtf": {
     "url": "https://suam.wtf",
@@ -563,7 +571,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#suam.wtf"
     },
-    "lastUpdated": "2023-05-22T01:09:47.354Z"
+    "lastUpdated": "2023-05-23T17:13:26.020Z",
+    "number": 41
   },
   "blog.oatto.dev": {
     "url": "https://blog.oatto.dev",
@@ -575,7 +584,8 @@
       "rect": "32:24:103:105",
       "href": "https://webring.wonderful.software#blog.oatto.dev"
     },
-    "lastUpdated": "2023-05-22T01:09:54.145Z"
+    "lastUpdated": "2023-05-23T17:13:33.981Z",
+    "number": 42
   },
   "toupawa.com": {
     "url": "https://toupawa.com",
@@ -584,10 +594,11 @@
     "screenshotUpdatedAt": "2023-05-06T01:02:24.208Z",
     "description": "Toupawa Blog is a blog space for sharing an experience of software development.",
     "backlink": {
-      "rect": "32:32:219:6273",
+      "rect": "32:32:219:6629",
       "href": "https://webring.wonderful.software#toupawa.com"
     },
-    "lastUpdated": "2023-05-22T01:10:15.537Z"
+    "lastUpdated": "2023-05-23T17:13:57.228Z",
+    "number": 43
   },
   "blog.karnwong.me": {
     "url": "https://blog.karnwong.me",
@@ -605,13 +616,14 @@
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
     "blurhash": "vaD]}GaxDij]_4f6V@WB$xWBtRfR-ma#o#jZ?vWWWBj?.8WBWBj[%Mayofay",
-    "screenshotUpdatedAt": "2023-05-22T01:10:57.469Z",
+    "screenshotUpdatedAt": "2023-05-23T17:14:35.984Z",
     "description": "My name is Thiti, I'm a Software Engineer.",
     "backlink": {
-      "rect": "20:20:355:2540",
+      "rect": "20:20:355:2228",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2023-05-22T01:10:57.469Z"
+    "lastUpdated": "2023-05-23T17:14:35.984Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -623,7 +635,8 @@
       "rect": "16:21:16:5214.65625",
       "href": "https://webring.wonderful.software#blog.kpping.me"
     },
-    "lastUpdated": "2023-05-22T01:11:11.226Z"
+    "lastUpdated": "2023-05-23T17:14:50.256Z",
+    "number": 46
   },
   "myifew.com": {
     "url": "https://myifew.com",
@@ -837,8 +850,7 @@
     "screenshotUpdatedAt": "2023-05-23T01:07:58.413Z",
     "description": "This domain may be for sale!",
     "backlink": null,
-    "lastUpdated": "2023-05-23T01:07:58.413Z",
-    "number": 58
+    "lastUpdated": "2023-05-23T01:07:58.413Z"
   },
   "yothinix.com": {
     "url": "https://yothinix.com",
@@ -1119,7 +1131,8 @@
       "rect": "32:23:277.4375:435.5",
       "href": "https://webring.wonderful.software#karnwong.me"
     },
-    "lastUpdated": "2023-05-22T01:10:31.566Z"
+    "lastUpdated": "2023-05-23T17:14:10.151Z",
+    "number": 44
   },
   "pawaret.dev": {
     "url": "https://pawaret.dev",
@@ -1413,5 +1426,18 @@
     },
     "lastUpdated": "2023-05-23T01:16:55.741Z",
     "number": 99
+  },
+  "anuwataravis.dev": {
+    "url": "https://anuwataravis.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/anuwataravis.dev_375w@2x.png",
+    "blurhash": "vESF;Lay~qt7xuWBWBof~qay9FofM{ayM{j[IUj[t7ayRjj[%Mj[ayfQt7ay",
+    "screenshotUpdatedAt": "2023-05-23T17:15:22.716Z",
+    "description": "anuwataravis.dev share my blog , my note, my art, etc.",
+    "backlink": {
+      "rect": "48:52:28:118",
+      "href": "https://webring.wonderful.software#anuwataravis.dev"
+    },
+    "lastUpdated": "2023-05-23T17:15:22.716Z",
+    "number": 58
   }
 }
