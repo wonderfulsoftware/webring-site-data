@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาดูว่ามีอะไรที่น่าสนใจใน Spring Boot 3.1.0",
+    "url": "https://www.somkiat.cc/spring-boot-3-1-0/",
+    "published": "2023-05-24T02:43:54.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "CPU / GPU / TPU คืออะไร",
     "url": "https://naiwaen.debuggingsoft.com/2023/05/cpu-gpu-tpu-comparison/",
@@ -16,12 +22,6 @@
     "title": "ข้อความภาษาไทยใน Discord ยาวเท่าไหร่ วรรณยุกต์ถึงไม่หาย",
     "url": "https://notes.dt.in.th/DiscordThaiMessage",
     "published": "2023-05-20T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ChatGPT app บน iOS มาแล้ว (US only)",
-    "url": "https://www.somkiat.cc/chatgpt-app-for-ios/",
-    "published": "2023-05-19T15:54:31.000Z"
   },
   {
     "site": "nuttdam.com",
