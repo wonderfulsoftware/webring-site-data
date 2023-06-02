@@ -1,21 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Jenkins-Git Parameter Filter Branch Name",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/",
+    "published": "2023-06-01T14:06:33.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Rust ถูก fork ออกมาในชื่อว่า CrabLang",
-    "url": "https://www.somkiat.cc/rust-forked-to-crablang/",
-    "published": "2023-05-31T08:59:16.000Z"
+    "title": "ว่าด้วยเรื่อง Project CRaC กับ Spring framework",
+    "url": "https://www.somkiat.cc/project-crac-with-spring-framework/",
+    "published": "2023-06-01T08:00:57.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "ทดลองใช้ AI generate ภาพ แบบ text-to-image จากเว็บไซต์ต่าง ๆ",
     "url": "https://www.mikkipastel.com/trial-generate-ai-text-to-image-website/",
     "published": "2023-05-31T08:13:16.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เปลี่ยน docker มาใช้ ubuntu wsl แทน",
-    "url": "https://naiwaen.debuggingsoft.com/2023/05/%e0%b9%80%e0%b8%9b%e0%b8%a5%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%99-docker-%e0%b8%a1%e0%b8%b2%e0%b9%83%e0%b8%8a%e0%b9%89-ubuntu-wsl-%e0%b9%81%e0%b8%97%e0%b8%99/",
-    "published": "2023-05-31T05:21:00.000Z"
   },
   {
     "site": "taoisaman.com",
