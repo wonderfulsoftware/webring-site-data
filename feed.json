@@ -1,15 +1,21 @@
 [
   {
+    "site": "kusumotolab.com",
+    "title": "สรุปเรื่อง Domain Driven Design ที่ AWS Thailand",
+    "url": "https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/",
+    "published": "2023-06-03T13:06:22.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "มาฟังงาน Level Up with GitHub Codespaces and Copilot: Thailand",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/level-up-with-github-codespaces-and-copilot-thailand/",
+    "published": "2023-06-03T09:01:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Robot framework​ :: การจัดการ notificationใน browser",
     "url": "https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/",
     "published": "2023-06-02T09:24:27.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Jenkins-Git Parameter Filter Branch Name",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/jenkins-git-parameter-filter-branch-name/",
-    "published": "2023-06-01T14:06:33.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -40,12 +46,6 @@
     "title": "Typing Guide",
     "url": "https://garden.narze.live/2-Areas/Keyboard-Typing/Typing-Guide/",
     "published": "2023-05-11T00:00:00.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "เมื่อพยายามจะ Migrate Data จาก MongoDB (DocumentDB) ไปยัง On-Premise MongoDB โดยบังคับต้องมี Condition ในการ Migrate",
-    "url": "https://kusumotolab.com/try-to-migrate-document-db-to-mongodb-with-condition/",
-    "published": "2023-05-08T12:08:27.000Z"
   },
   {
     "site": "janescience.com",
