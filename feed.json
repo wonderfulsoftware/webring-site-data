@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปจากบทความเรื่อง The SPACE of Developer Productivity",
+    "url": "https://www.somkiat.cc/note-the-space-of-developer-productivity/",
+    "published": "2023-06-06T09:25:48.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "รู้จัก Stable Diffusion เบื้องต้น ฉบับยังไม่ลองทำ",
     "url": "https://www.mikkipastel.com/introduction-stable-diffusion-101/",
@@ -16,12 +22,6 @@
     "title": "สรุปเรื่อง Domain Driven Design ที่ AWS Thailand",
     "url": "https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/",
     "published": "2023-06-03T13:06:22.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Robot framework​ :: การจัดการ notificationใน browser",
-    "url": "https://www.somkiat.cc/robot-framework-disabled-notification-in-web-browser/",
-    "published": "2023-06-02T09:24:27.000Z"
   },
   {
     "site": "taoisaman.com",
