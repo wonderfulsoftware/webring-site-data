@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ปัญหา Robot Framework + Selenium 4.10",
+    "url": "https://www.somkiat.cc/problem-robot-framework-with-selenium-library/",
+    "published": "2023-06-08T06:03:28.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[VS2022] แก้ไขปัญหา There is no project properties provider for “Persistence = ProjectFileWithInterceptionViaSnapshot”. Projects are not loaded",
     "url": "https://naiwaen.debuggingsoft.com/2023/06/vs2022-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-there-is-no-project-properties-provider-for-persistence-projectfilewithinterceptionviasnapshot/",
@@ -10,12 +16,6 @@
     "title": "Line Stickers - Lucian Solutions",
     "url": "https://lucian.solutions/blog/line-stickers-lucian-solutions",
     "published": "2023-06-07T08:50:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Robot Framework 6.1 rc 1 ออกมาแล้ว",
-    "url": "https://www.somkiat.cc/robot-framework-6-1-rc-1/",
-    "published": "2023-06-07T07:17:02.000Z"
   },
   {
     "site": "mikkipastel.com",
