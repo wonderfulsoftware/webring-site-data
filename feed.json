@@ -1,15 +1,21 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Hassle-free Kubernetes monitoring with Coroot",
+    "url": "https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/",
+    "published": "2023-06-09T13:05:23.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Access AlmaLinux 9 via RDP",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/access-almalinux-9-via-rdp/",
+    "published": "2023-06-09T02:44:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ปัญหา Robot Framework + Selenium 4.10",
     "url": "https://www.somkiat.cc/problem-robot-framework-with-selenium-library/",
     "published": "2023-06-08T06:03:28.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[VS2022] แก้ไขปัญหา There is no project properties provider for “Persistence = ProjectFileWithInterceptionViaSnapshot”. Projects are not loaded",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/vs2022-%e0%b9%81%e0%b8%81%e0%b9%89%e0%b9%84%e0%b8%82%e0%b8%9b%e0%b8%b1%e0%b8%8d%e0%b8%ab%e0%b8%b2-there-is-no-project-properties-provider-for-persistence-projectfilewithinterceptionviasnapshot/",
-    "published": "2023-06-07T14:17:41.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -70,12 +76,6 @@
     "title": "ทำ Login with Facebook ใน React Native (ios)",
     "url": "https://kajame.xyz/blog/react-native-using-login-with-facebook",
     "published": "2023-05-07T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book highlights - Managing Transitions: Making the Most of Change by William Bridges",
-    "url": "https://www.karnwong.me/posts/2023/04/book-highlights---managing-transitions-making-the-most-of-change-by-william-bridges/",
-    "published": "2023-04-26T17:18:21.000Z"
   },
   {
     "site": "mesodiar.com",
