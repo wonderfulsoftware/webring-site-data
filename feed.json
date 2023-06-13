@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Robot Framework 6.1 ตัวเต็มออกมาแล้ว",
+    "url": "https://www.somkiat.cc/robot-framework-6-1-released/",
+    "published": "2023-06-12T16:40:08.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เมื่อ DEV ลองไป Workshop Azure monitoring, security and compliance",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/developer-take-workshop-azure-monitoring-security-and-compliance/",
+    "published": "2023-06-11T21:37:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "นายเองก็ใช้ markdown บน discord ได้นะ!",
     "url": "https://www.mikkipastel.com/how-to-use-markdown-on-discord/",
     "published": "2023-06-11T12:34:40.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลองมาฟัง AWS Auto Scaling EC2 & Spot Instance",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/aws-auto-scaling-ec2-spot-instance/",
-    "published": "2023-06-10T06:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -22,12 +28,6 @@
     "title": "Hassle-free Kubernetes monitoring with Coroot",
     "url": "https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/",
     "published": "2023-06-09T13:05:23.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ปัญหา Robot Framework + Selenium 4.10",
-    "url": "https://www.somkiat.cc/problem-robot-framework-with-selenium-library/",
-    "published": "2023-06-08T06:03:28.000Z"
   },
   {
     "site": "lucian.solutions",
