@@ -1,27 +1,33 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "น่าสนใจกับ Chrome for Testing (CfT)",
-    "url": "https://www.somkiat.cc/hello-chrome-for-testing/",
-    "published": "2023-06-15T18:51:42.000Z"
+    "site": "dt.in.th",
+    "title": "HDR QR Code",
+    "url": "https://notes.dt.in.th/HDRQRCode",
+    "published": "2023-06-18T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "How to change/redirect Apache Tomcat port number",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/how-to-change-redirect-apache-tomcat-port-number/",
-    "published": "2023-06-14T14:01:00.000Z"
+    "title": "มาฟัง Agile Thailand 2023 #ATH2023",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/",
+    "published": "2023-06-17T18:20:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย",
+    "url": "https://www.somkiat.cc/hello-agile-thailand-2023/",
+    "published": "2023-06-17T05:29:40.000Z"
+  },
+  {
+    "site": "mesodiar.com",
+    "title": "เล่าให้ฟัง FinOps: BigQuery Query Cost Monitoring",
+    "url": "https://mesodiar.com/%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%9F%E0%B8%B1%E0%B8%87-finops-bigquery-query-cost-monitoring-3b9d5e685d5?source=rss----698ac1e5dc8c---4",
+    "published": "2023-06-17T01:43:45.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "นายเองก็ใช้ markdown บน discord ได้นะ!",
     "url": "https://www.mikkipastel.com/how-to-use-markdown-on-discord/",
     "published": "2023-06-11T12:34:40.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using Google Cloud Service Accounts to authenticate between your own services",
-    "url": "https://notes.dt.in.th/GoogleCloudServiceAccountIdToken",
-    "published": "2023-06-10T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -82,12 +88,6 @@
     "title": "ทำ Login with Facebook ใน React Native (ios)",
     "url": "https://kajame.xyz/blog/react-native-using-login-with-facebook",
     "published": "2023-05-07T00:00:00.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "IWD 2023: Protect sensitive data in pipeline with Tink and Cloud KMS as Envelope Encryption",
-    "url": "https://mesodiar.com/iwd-2023-protect-sensitive-data-in-pipeline-with-tink-and-cloud-kms-as-envelope-encryption-70b87b755ba1?source=rss----698ac1e5dc8c---4",
-    "published": "2023-04-25T13:05:04.000Z"
   },
   {
     "site": "thiti.dev",
