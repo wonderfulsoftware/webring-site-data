@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ผลจากการ review code ในภาษา Go",
+    "url": "https://www.somkiat.cc/note-review-code-with-go/",
+    "published": "2023-06-18T07:51:16.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "HDR QR Code",
     "url": "https://notes.dt.in.th/HDRQRCode",
@@ -10,12 +16,6 @@
     "title": "มาฟัง Agile Thailand 2023 #ATH2023",
     "url": "https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/",
     "published": "2023-06-17T18:20:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปเรื่องที่เข้าฟังในงาน Agile Thailand 2023 ช่วงเช้านิดหน่อย",
-    "url": "https://www.somkiat.cc/hello-agile-thailand-2023/",
-    "published": "2023-06-17T05:29:40.000Z"
   },
   {
     "site": "mesodiar.com",
