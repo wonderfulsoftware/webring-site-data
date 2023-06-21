@@ -1,21 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ผลจากการ review code ในภาษา Go",
-    "url": "https://www.somkiat.cc/note-review-code-with-go/",
-    "published": "2023-06-18T07:51:16.000Z"
+    "title": "ลองใช้งาน Structured Logging ใน Go 1.21 rc1",
+    "url": "https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/",
+    "published": "2023-06-20T14:47:22.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[AZURE] ลองมาใช้ Translation Service",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/",
+    "published": "2023-06-20T02:33:00.000Z"
   },
   {
     "site": "dt.in.th",
     "title": "HDR QR Code",
     "url": "https://notes.dt.in.th/HDRQRCode",
     "published": "2023-06-18T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "มาฟัง Agile Thailand 2023 #ATH2023",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/agile-thailand-2023-ath2023/",
-    "published": "2023-06-17T18:20:00.000Z"
   },
   {
     "site": "mesodiar.com",
