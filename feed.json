@@ -1,5 +1,11 @@
 [
   {
+    "site": "icez.net",
+    "title": "0257 | Peer กับ Content Provider ต่างประเทศในไทยบน Internet Exchange “ในไทย”",
+    "url": "https://www.icez.net/blog/167530/local-peering-with-global-content-provider-in-thailand-on-internet-exchange",
+    "published": "2023-06-21T17:47:41.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ลองใช้งาน Structured Logging ใน Go 1.21 rc1",
     "url": "https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/",
@@ -208,12 +214,6 @@
     "title": "ดู z-index ง่ายๆ ด้วย 3D View",
     "url": "https://nitpum.com/post/edge-z-index-tool/",
     "published": "2022-12-31T11:01:43.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0256 | คำถามที่โดนถามบ่อยกับรถยนต์ไฟฟ้า",
-    "url": "https://www.icez.net/blog/167526/0256-ev-frequency-asked-question",
-    "published": "2022-12-26T10:44:16.000Z"
   },
   {
     "site": "microbenz.in.th",
