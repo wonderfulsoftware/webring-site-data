@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ Headless Chrome ทำ ScreenShot",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-chrome-headless-%e0%b8%97%e0%b8%b3-screenshot/",
+    "published": "2023-06-22T07:57:51.000Z"
+  },
+  {
     "site": "icez.net",
     "title": "0257 | Peer กับ Content Provider ต่างประเทศในไทยบน Internet Exchange “ในไทย”",
     "url": "https://www.icez.net/blog/167530/local-peering-with-global-content-provider-in-thailand-on-internet-exchange",
@@ -10,12 +16,6 @@
     "title": "ลองใช้งาน Structured Logging ใน Go 1.21 rc1",
     "url": "https://www.somkiat.cc/structured-logging-in-go-1-21-rc1/",
     "published": "2023-06-20T14:47:22.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZURE] ลองมาใช้ Translation Service",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/try-azure-translation-service/",
-    "published": "2023-06-20T02:33:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -226,6 +226,12 @@
     "title": "TP-Link MR600 - LTE Router",
     "url": "https://blog.kpping.me/posts/tp-link-mr-600/",
     "published": "2022-12-17T15:33:52.000Z"
+  },
+  {
+    "site": "dmg.st",
+    "title": "นกแอร์เลานจ์ (NokAir Lounge) หมุดหมายที่นั่งรอขึ้นเครื่องใหม่ ที่ไม่ได้มีดีแค่ความสบาย",
+    "url": "https://dmg.st/nokair-lounge/",
+    "published": "2022-12-16T02:04:18.000Z"
   },
   {
     "site": "0xchai.io",
