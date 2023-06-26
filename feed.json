@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ปัญหา port = 5000 ใน MacOS Ventura",
+    "url": "https://www.somkiat.cc/macos-problem-with-port-5000-airdrop/",
+    "published": "2023-06-25T15:56:45.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "What is Apache Iceberg: Iceberg คืออะไร ทำอะไรได้บ้าง ?",
     "url": "https://mesodiar.com/what-is-apache-iceberg-iceberg-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-%E0%B8%97%E0%B8%B3%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%87-19e5ba6edcae?source=rss----698ac1e5dc8c---4",
@@ -10,12 +16,6 @@
     "title": "สรุปจากงาน Web 3.0, The Future of Decentralization",
     "url": "https://www.mikkipastel.com/web-3-0-the-future-of-decentralization/",
     "published": "2023-06-23T07:58:54.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดู feature ใหม่ ๆ ใน Docker 24.0.2",
-    "url": "https://www.somkiat.cc/new-features-in-docker-24-0-2/",
-    "published": "2023-06-23T04:08:53.000Z"
   },
   {
     "site": "dt.in.th",
