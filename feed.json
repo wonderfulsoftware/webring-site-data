@@ -1,7 +1,13 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "เป็ดไปงาน React Meetup มาด้วยนะ",
+    "url": "https://tech.duckfollow.co/view/react-meetup",
+    "published": "2023-06-29T13:00:02.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "Coverage คือ อะไร และสำคัญยังไง ?",
+    "title": "Code Coverage คือ อะไร และสำคัญยังไง ?",
     "url": "https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/",
     "published": "2023-06-28T13:55:42.000Z"
   },
@@ -112,12 +118,6 @@
     "title": "สร้าง Web Application ด้วย Vite + React และ TypeScript",
     "url": "https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/",
     "published": "2023-04-21T00:09:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "เมื่อเป็ดไปงาน FirebaseDevDay2023",
-    "url": "https://tech.duckfollow.co/view/duck-x-firebasedevday2023",
-    "published": "2023-04-06T13:00:02.000Z"
   },
   {
     "site": "myifew.com",
