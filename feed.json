@@ -1,15 +1,21 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "แก้ระบบสมการเชิงเส้นด้วยดีเทอร์มิแนนต์",
+    "url": "https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html",
+    "published": "2023-06-30T14:21:21.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks-green tea red bean cake",
+    "url": "https://naiwaen.debuggingsoft.com/2023/06/cr-starbucks-green-tea-red-bean-cake/",
+    "published": "2023-06-30T13:28:02.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "เป็ดไปงาน React Meetup มาด้วยนะ",
     "url": "https://tech.duckfollow.co/view/react-meetup",
     "published": "2023-06-29T13:00:02.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Code Coverage คือ อะไร และสำคัญยังไง ?",
-    "url": "https://naiwaen.debuggingsoft.com/2023/06/what-is-code-coverage/",
-    "published": "2023-06-28T13:55:42.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -64,12 +70,6 @@
     "title": "สรุปเรื่อง Domain Driven Design ที่ AWS Thailand",
     "url": "https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/",
     "published": "2023-06-03T13:06:22.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "ThursTech #17: คณิตศาสตร์ในการรีดประสิทธิภาพโค้ด",
-    "url": "https://neizod.dev/2023/06/01/thurstech-math-in-code-optimization.html",
-    "published": "2023-06-01T16:59:59.000Z"
   },
   {
     "site": "taoisaman.com",
