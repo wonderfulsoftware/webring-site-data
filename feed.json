@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Setting up CORS in Caddy",
+    "url": "https://notes.dt.in.th/CaddyCORS",
+    "published": "2023-07-02T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch",
     "url": "https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/",
@@ -10,12 +16,6 @@
     "title": "เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา",
     "url": "https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4",
     "published": "2023-07-01T06:03:12.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Backing up a Linux cloud server with Restic",
-    "url": "https://notes.dt.in.th/ResticBackup",
-    "published": "2023-07-01T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
