@@ -1,5 +1,11 @@
 [
   {
+    "site": "garden.narze.live",
+    "title": "55 - garden-astro - Move website & add RSS feed",
+    "url": "https://garden.narze.live/100daysofcode-r3-55-garden-astro/",
+    "published": "2023-07-04T00:00:00.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Setting up CORS in Caddy",
     "url": "https://notes.dt.in.th/CaddyCORS",
@@ -82,12 +88,6 @@
     "title": "AirPlay, HomeKit ข้าม VLAN ด้วย Avahi",
     "url": "https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/",
     "published": "2023-05-17T14:17:41.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "VS Code Shortcuts in 15 minutes",
-    "url": "https://garden.narze.live/VS-Code-Shortcuts-in-15-minutes/",
-    "published": "2023-05-10T00:00:00.000Z"
   },
   {
     "site": "janescience.com",
