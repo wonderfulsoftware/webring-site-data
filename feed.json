@@ -1,21 +1,33 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Book Highlights - Build by Tony Fadell",
+    "url": "https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/",
+    "published": "2023-07-06T07:35:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ทำให้ตัว ICONV support TIS-620",
+    "url": "https://naiwaen.debuggingsoft.com/2023/07/make-iconv-support-tis-620/",
+    "published": "2023-07-06T02:56:00.000Z"
+  },
+  {
     "site": "garden.narze.live",
-    "title": "56 - puppeteer rabbit hole",
-    "url": "https://garden.narze.live/100daysofcode-r3-56-puppeteer-rabbit-hole/",
-    "published": "2023-07-05T00:00:00.000Z"
+    "title": "Fallback fonts in VSCode",
+    "url": "https://garden.narze.live/fallback-fonts-in-vscode/",
+    "published": "2023-07-06T00:00:00.000Z"
+  },
+  {
+    "site": "ntsd.dev",
+    "title": "Persistent store for Cross-platform React applications with Recoil and Capacitor Preferences",
+    "url": "https://ntsd.dev/recoil-persistent-with-capacitor-preferences/",
+    "published": "2023-07-05T17:00:00.000Z"
   },
   {
     "site": "dt.in.th",
     "title": "Setting up CORS in Caddy",
     "url": "https://notes.dt.in.th/CaddyCORS",
     "published": "2023-07-02T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Fixed Jenkins build error MSB4018: System.InvalidOperationException: Unable to set permission while creating /tmp/NuGetScratch",
-    "url": "https://naiwaen.debuggingsoft.com/2023/07/fixed-jenkin-build-error-msb4018-system-invalidoperationexception-unable-to-set-permission-while-creating-tmp-nugetscratch/",
-    "published": "2023-07-01T14:40:02.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -58,12 +70,6 @@
     "title": "0257 | Peer กับ Content Provider ต่างประเทศในไทยบน Internet Exchange “ในไทย”",
     "url": "https://www.icez.net/blog/167530/local-peering-with-global-content-provider-in-thailand-on-internet-exchange",
     "published": "2023-06-21T17:47:41.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Hassle-free Kubernetes monitoring with Coroot",
-    "url": "https://www.karnwong.me/posts/2023/06/hassle-free-kubernetes-monitoring-with-coroot/",
-    "published": "2023-06-09T13:05:23.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -244,12 +250,6 @@
     "title": "ตำแหน่งอยู่ไม่นาน ตำนานอยู่ตลอดไป",
     "url": "https://bigdatarpg.com/2022/09/11/%e0%b8%95%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%87%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%b2%e0%b8%99-%e0%b8%95%e0%b8%b3%e0%b8%99%e0%b8%b2%e0%b8%99/",
     "published": "2022-09-11T10:11:58.000Z"
-  },
-  {
-    "site": "ntsd.dev",
-    "title": "My kubectl commands cheat sheet",
-    "url": "https://ntsd.dev/my-kubectl-cheat-sheet/",
-    "published": "2022-09-01T17:00:00.000Z"
   },
   {
     "site": "jojoee.com",
