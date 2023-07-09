@@ -1,15 +1,27 @@
 [
   {
+    "site": "taoisaman.com",
+    "title": "ลอง Clone ChatGPT ด้วย ChatGPT",
+    "url": "https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/",
+    "published": "2023-07-08T13:13:40.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ปัญหาของ WebClient ใน Spring Boot 3",
-    "url": "https://www.somkiat.cc/spring-boot-webclient-tracing-problem/",
-    "published": "2023-07-07T16:12:17.000Z"
+    "title": "สรุปการแบ่งปันเรื่อง Microservices ตั้งแต่ design -> develop -> testing -> deploy",
+    "url": "https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/",
+    "published": "2023-07-08T05:28:57.000Z"
   },
   {
     "site": "debuggingsoft.com",
     "title": "ซ่อมบ้าน-ทาสีกันซึมดาดฟ้า",
     "url": "https://naiwaen.debuggingsoft.com/2023/07/fixed-water-leak-in-my-house/",
-    "published": "2023-07-07T15:32:12.000Z"
+    "published": "2023-07-08T01:32:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Git - fatal: detected dubious ownership in repository",
+    "url": "https://garden.narze.live/git-fatal-detected-dubious-ownership-in-repository/",
+    "published": "2023-07-08T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -28,12 +40,6 @@
     "title": "Book Highlights - Build by Tony Fadell",
     "url": "https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/",
     "published": "2023-07-06T07:35:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Fallback fonts in VSCode",
-    "url": "https://garden.narze.live/fallback-fonts-in-vscode/",
-    "published": "2023-07-06T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -82,12 +88,6 @@
     "title": "สรุปเรื่อง Domain Driven Design ที่ AWS Thailand",
     "url": "https://kusumotolab.com/recap-domain-driven-design-from-aws-thailand/",
     "published": "2023-06-03T13:06:22.000Z"
-  },
-  {
-    "site": "taoisaman.com",
-    "title": "Flutter project structure with Clean Architecture",
-    "url": "https://taoisaman.com/2023/05/20/flutter-project-structure-with-clean-architechture/",
-    "published": "2023-05-20T14:34:01.000Z"
   },
   {
     "site": "nuttdam.com",
