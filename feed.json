@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "จดบันทึกเรื่องของ การเขียน Automated Test",
+    "url": "https://www.somkiat.cc/note-from-sharing-automated-test/",
+    "published": "2023-07-10T10:11:19.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Accessing user ID in NextAuth.js with JWT session",
+    "url": "https://notes.dt.in.th/NextAuthUserIdInSession",
+    "published": "2023-07-10T00:00:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "59 - ChatOS",
+    "url": "https://garden.narze.live/100daysofcode-r3-59-chatos/",
+    "published": "2023-07-10T00:00:00.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา \"remote: 'Check CRC failed'\"",
     "url": "https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/",
@@ -7,27 +25,15 @@
   },
   {
     "site": "debuggingsoft.com",
-    "title": "[NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ",
+    "title": "[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ",
     "url": "https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/",
     "published": "2023-07-09T07:53:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "58 - garden-astro - use hashtags",
-    "url": "https://garden.narze.live/100daysofcode-r3-58-garden-astro-use-hashtags/",
-    "published": "2023-07-09T00:00:00.000Z"
   },
   {
     "site": "taoisaman.com",
     "title": "ลอง Clone ChatGPT ด้วย ChatGPT",
     "url": "https://taoisaman.com/2023/07/08/%e0%b8%a5%e0%b8%ad%e0%b8%87-clone-chatgpt-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt/",
     "published": "2023-07-08T13:13:40.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการแบ่งปันเรื่อง Microservices ตั้งแต่ design -> develop -> testing -> deploy",
-    "url": "https://www.somkiat.cc/note-microservices-sharing-at-skooldio-13/",
-    "published": "2023-07-08T05:28:57.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -46,12 +52,6 @@
     "title": "Book Highlights - Build by Tony Fadell",
     "url": "https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/",
     "published": "2023-07-06T07:35:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Setting up CORS in Caddy",
-    "url": "https://notes.dt.in.th/CaddyCORS",
-    "published": "2023-07-02T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
