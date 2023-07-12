@@ -1,5 +1,11 @@
 [
   {
+    "site": "garden.narze.live",
+    "title": "60 - Setup Linux VM on Digitalocean",
+    "url": "https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/",
+    "published": "2023-07-11T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "จดบันทึกเรื่องของ การเขียน Automated Test",
     "url": "https://www.somkiat.cc/note-from-sharing-automated-test/",
@@ -9,12 +15,6 @@
     "site": "dt.in.th",
     "title": "Accessing user ID in NextAuth.js with JWT session",
     "url": "https://notes.dt.in.th/NextAuthUserIdInSession",
-    "published": "2023-07-10T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "59 - ChatOS",
-    "url": "https://garden.narze.live/100daysofcode-r3-59-chatos/",
     "published": "2023-07-10T00:00:00.000Z"
   },
   {
