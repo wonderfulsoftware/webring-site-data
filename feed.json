@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Install OpenSSH Server on Windows 11/10",
+    "url": "https://naiwaen.debuggingsoft.com/2023/07/install-openssh-server-on-windows-11-10/",
+    "published": "2023-07-12T10:25:32.000Z"
+  },
+  {
     "site": "garden.narze.live",
-    "title": "60 - Setup Linux VM on Digitalocean",
-    "url": "https://garden.narze.live/100daysofcode-r3-60-setup-linux-vm-on-digitalocean/",
-    "published": "2023-07-11T00:00:00.000Z"
+    "title": "61 - garden-astro",
+    "url": "https://garden.narze.live/100daysofcode-r3-61-garden-astro/",
+    "published": "2023-07-12T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -22,12 +28,6 @@
     "title": "แก้ปัญหาเมื่อ Flash stock ROM มือถือ Xiaomi แล้วเจอปัญหา \"remote: 'Check CRC failed'\"",
     "url": "https://kusumotolab.com/how-to-resolve-flash-xiaomi-stock-rom-error-remove-check-crc-failed/",
     "published": "2023-07-09T09:51:25.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[.NET] บันทึกการจัดการ NuGet ที่ต้องแยกเฉพาะตาม Platform ครับ",
-    "url": "https://naiwaen.debuggingsoft.com/2023/07/dotnet-how-to-handle-different-nuget-package-based-on-operating-system-platform/",
-    "published": "2023-07-09T07:53:00.000Z"
   },
   {
     "site": "taoisaman.com",
