@@ -1,21 +1,33 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "Illustration - ❌ Uncaught TypeError",
+    "url": "https://lucian.solutions/blog/lucia-uncaught-typeerror",
+    "published": "2023-07-15T18:45:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกเรื่อง CDC (Change Data Capture) และ Outbox pattern",
+    "url": "https://www.somkiat.cc/change-data-capture-and-outbox-pattern-with-debezium/",
+    "published": "2023-07-15T05:26:34.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "63 - Linux VM - Deploy containers on MicroK8s",
+    "url": "https://garden.narze.live/100daysofcode-r3-63-linux-vm-deploy-containers-on-microk8s/",
+    "published": "2023-07-15T00:00:00.000Z"
+  },
+  {
+    "site": "blog.oatto.dev",
+    "title": "Format code via GitHub Actions",
+    "url": "https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html",
+    "published": "2023-07-15T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF",
     "url": "https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/",
     "published": "2023-07-14T08:59:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปจาก The Way Of Testivus",
-    "url": "https://www.somkiat.cc/note-from-the-way-of-testivus/",
-    "published": "2023-07-14T08:42:32.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "62 - garden-astro - add tests",
-    "url": "https://garden.narze.live/100daysofcode-r3-62-garden-astro-add-tests/",
-    "published": "2023-07-14T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -84,12 +96,6 @@
     "published": "2023-06-21T17:47:41.000Z"
   },
   {
-    "site": "lucian.solutions",
-    "title": "Line Stickers - Lucian Solutions",
-    "url": "https://lucian.solutions/blog/line-stickers-lucian-solutions",
-    "published": "2023-06-07T08:50:00.000Z"
-  },
-  {
     "site": "nuttdam.com",
     "title": "AirPlay, HomeKit ข้าม VLAN ด้วย Avahi",
     "url": "https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/",
@@ -100,12 +106,6 @@
     "title": "ใช้ Cron Jobs บน Vercel ด้วย Node",
     "url": "https://janescience.com/blog/cron-job-vercel",
     "published": "2023-05-08T00:00:00.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Migrate from CRA to Vite.js",
-    "url": "https://blog.oatto.dev/2023/05/07/migrate-from-cra-to-vitejs.html",
-    "published": "2023-05-07T00:00:00.000Z"
   },
   {
     "site": "kajame.xyz",
