@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ",
+    "url": "https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/",
+    "published": "2023-07-19T14:57:06.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "ปัญหาดิสก์ปิดครอบเล็กที่สุด",
+    "url": "https://neizod.dev/2023/07/19/smallest-enclosing-disk.html",
+    "published": "2023-07-19T05:37:48.000Z"
+  },
+  {
     "site": "garden.narze.live",
     "title": "Glob import modules with Vite",
     "url": "https://garden.narze.live/glob-import-modules-with-vite/",
@@ -10,12 +22,6 @@
     "title": "DB2 Driver งงไปหมดด",
     "url": "https://naiwaen.debuggingsoft.com/2023/07/db2-driver/",
     "published": "2023-07-18T02:53:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การใช้งาน EventPublisher ใน Spring Boot app",
-    "url": "https://www.somkiat.cc/note-event-publisher-spring-boot-app/",
-    "published": "2023-07-17T09:21:29.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -76,12 +82,6 @@
     "title": "เราไป Google I/O Connect 2023 ที่ Bengaluru ประเทศอินเดียมา",
     "url": "https://mesodiar.com/%E0%B9%80%E0%B8%A3%E0%B8%B2%E0%B9%84%E0%B8%9B-google-i-o-connect-2023-%E0%B8%97%E0%B8%B5%E0%B9%88-bengaluru-%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%B2-219b534c374d?source=rss----698ac1e5dc8c---4",
     "published": "2023-07-01T06:03:12.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "แก้ระบบสมการเชิงเส้นด้วยดีเทอร์มิแนนต์",
-    "url": "https://neizod.dev/2023/06/30/solve-system-of-linear-equation-with-determinant.html",
-    "published": "2023-06-30T14:21:21.000Z"
   },
   {
     "site": "tinarskii.com",
