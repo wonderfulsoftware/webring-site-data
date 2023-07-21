@@ -1,21 +1,27 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "pglogical setup",
+    "url": "https://www.karnwong.me/posts/2023/07/pglogical-setup/",
+    "published": "2023-07-20T15:16:29.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "สรุปเรื่องที่น่าสนใจจาก DevOps and Cloud Trend July 2023 จาก InfoQ",
-    "url": "https://www.somkiat.cc/note-devops-and-cloud-trend-july-2023-from-infoq/",
-    "published": "2023-07-19T14:57:06.000Z"
+    "title": "K6 :: ว่าด้วยเรื่องของ Result output ของการทดสอบ",
+    "url": "https://www.somkiat.cc/k6-with-result-output/",
+    "published": "2023-07-20T05:10:07.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Side Projects",
+    "url": "https://garden.narze.live/projects/",
+    "published": "2023-07-20T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
     "title": "ปัญหาดิสก์ปิดครอบเล็กที่สุด",
     "url": "https://neizod.dev/2023/07/19/smallest-enclosing-disk.html",
     "published": "2023-07-19T05:37:48.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Glob import modules with Vite",
-    "url": "https://garden.narze.live/glob-import-modules-with-vite/",
-    "published": "2023-07-19T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -70,12 +76,6 @@
     "title": "Separate critical CSS and non-critical CSS for faster page load",
     "url": "https://ntsd.dev/extract-cricital-css/",
     "published": "2023-07-06T17:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book Highlights - Build by Tony Fadell",
-    "url": "https://www.karnwong.me/posts/2023/07/book-highlights---build--by-tony-fadell/",
-    "published": "2023-07-06T07:35:00.000Z"
   },
   {
     "site": "mesodiar.com",
