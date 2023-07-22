@@ -1,5 +1,23 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "Jam",
+    "url": "https://jitrak.dev/posts/post-15-jam-dev/",
+    "published": "2023-07-21T17:10:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จัก Progressive Web Apps",
+    "url": "https://www.mikkipastel.com/what-is-progressive-web-apps/",
+    "published": "2023-07-21T10:14:25.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Side Projects Talk",
+    "url": "https://garden.narze.live/side-projects-talk/",
+    "published": "2023-07-21T00:00:00.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "pglogical setup",
     "url": "https://www.karnwong.me/posts/2023/07/pglogical-setup/",
@@ -10,12 +28,6 @@
     "title": "K6 :: ว่าด้วยเรื่องของ Result output ของการทดสอบ",
     "url": "https://www.somkiat.cc/k6-with-result-output/",
     "published": "2023-07-20T05:10:07.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Side Projects",
-    "url": "https://garden.narze.live/projects/",
-    "published": "2023-07-20T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -46,12 +58,6 @@
     "title": "Format code via GitHub Actions",
     "url": "https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html",
     "published": "2023-07-15T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สุ่มผู้โชคดีในโลก web3 ด้วย Chainlink VRF",
-    "url": "https://www.mikkipastel.com/random-lucky-winners-web3-chainlink-vrf/",
-    "published": "2023-07-14T08:59:02.000Z"
   },
   {
     "site": "dt.in.th",
@@ -316,12 +322,6 @@
     "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
     "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
     "published": "2021-01-25T12:47:49.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Bitwise C# [3/3] Apply Bitwise",
-    "url": "https://jitrak.dev/bitwise-csharp-3-in-3-apply-bitwise/",
-    "published": "2020-01-10T03:00:00.000Z"
   },
   {
     "site": "unnawut.com",
