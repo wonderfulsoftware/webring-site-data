@@ -1,5 +1,17 @@
 [
   {
+    "site": "garden.narze.live",
+    "title": "69 - garden-astro - Replace Degit with Octokit",
+    "url": "https://garden.narze.live/100daysofcode-r3-69-garden-astro-replace-degit-with-octokit/",
+    "published": "2023-07-22T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุป OWASP Top 10 CI/CD Security Risks",
+    "url": "https://naiwaen.debuggingsoft.com/2023/07/owasp-top-10-ci-cd-security-risks/",
+    "published": "2023-07-21T19:38:00.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "Jam",
     "url": "https://jitrak.dev/posts/post-15-jam-dev/",
@@ -10,12 +22,6 @@
     "title": "ทำความรู้จัก Progressive Web Apps",
     "url": "https://www.mikkipastel.com/what-is-progressive-web-apps/",
     "published": "2023-07-21T10:14:25.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Side Projects Talk",
-    "url": "https://garden.narze.live/side-projects-talk/",
-    "published": "2023-07-21T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -34,12 +40,6 @@
     "title": "ปัญหาดิสก์ปิดครอบเล็กที่สุด",
     "url": "https://neizod.dev/2023/07/19/smallest-enclosing-disk.html",
     "published": "2023-07-19T05:37:48.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "DB2 Driver งงไปหมดด",
-    "url": "https://naiwaen.debuggingsoft.com/2023/07/db2-driver/",
-    "published": "2023-07-18T02:53:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
