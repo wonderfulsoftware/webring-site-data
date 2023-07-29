@@ -1,27 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ",
+    "url": "https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/",
+    "published": "2023-07-28T09:16:18.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch",
+    "url": "https://www.mikkipastel.com/create-new-pwa-project-by-glitch/",
+    "published": "2023-07-28T08:52:55.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ NativePHP กันหน่อย",
-    "url": "https://www.somkiat.cc/hello-nativephp/",
-    "published": "2023-07-27T15:00:14.000Z"
+    "title": "สวัสดี Hono",
+    "url": "https://www.somkiat.cc/hello-hono/",
+    "published": "2023-07-28T03:05:27.000Z"
   },
   {
     "site": "garden.narze.live",
     "title": "Extract Saved Wi-Fi password on macOS",
     "url": "https://garden.narze.live/extract-saved-wifi-password-on-macos/",
     "published": "2023-07-27T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Configuring Network between Host and Guest VM in VirtualBox",
-    "url": "https://naiwaen.debuggingsoft.com/2023/07/configuring-network-between-host-and-guest-vm-in-virtualbox/",
-    "published": "2023-07-26T10:34:30.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ถอดเคล็ดลับ Futures Trader เทรดยังไงให้มีเงินกินหมูกระทะ",
-    "url": "https://www.mikkipastel.com/bittoon-dao-learning-cryptoteller-tips-from-futures-trader-take/",
-    "published": "2023-07-25T15:36:40.000Z"
   },
   {
     "site": "neizod.dev",
