@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Atlas สำหรับทำ Database migration",
+    "url": "https://www.somkiat.cc/database-migration-with-atlas-go/",
+    "published": "2023-07-29T17:26:33.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ",
     "url": "https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/",
@@ -10,12 +16,6 @@
     "title": "ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch",
     "url": "https://www.mikkipastel.com/create-new-pwa-project-by-glitch/",
     "published": "2023-07-28T08:52:55.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Hono",
-    "url": "https://www.somkiat.cc/hello-hono/",
-    "published": "2023-07-28T03:05:27.000Z"
   },
   {
     "site": "garden.narze.live",
