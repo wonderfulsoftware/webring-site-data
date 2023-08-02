@@ -1,21 +1,27 @@
 [
   {
-    "site": "garden.narze.live",
-    "title": "73 - ChatOS - Firestore (cont.)",
-    "url": "https://garden.narze.live/100daysofcode-r3-73-chatos-firestore-cont/",
-    "published": "2023-07-31T00:00:00.000Z"
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go",
+    "url": "https://www.somkiat.cc/try-gonew/",
+    "published": "2023-08-01T13:59:44.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Atlas สำหรับทำ Database migration",
-    "url": "https://www.somkiat.cc/database-migration-with-atlas-go/",
-    "published": "2023-07-29T17:26:33.000Z"
+    "site": "karnwong.me",
+    "title": "Create Kubernetes service accounts with Terraform",
+    "url": "https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/",
+    "published": "2023-08-01T12:49:07.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "ลองมาเพิ่ม Merge Request Template ใน GitLab กันครับ",
-    "url": "https://naiwaen.debuggingsoft.com/2023/07/try-merge-request-template-in-gitlab/",
-    "published": "2023-07-28T09:16:18.000Z"
+    "title": "บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน",
+    "url": "https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/",
+    "published": "2023-08-01T09:09:56.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "74 - ChatOS - Merge guest chat logs",
+    "url": "https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/",
+    "published": "2023-08-01T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -40,12 +46,6 @@
     "title": "Jam",
     "url": "https://jitrak.dev/posts/post-15-jam-dev/",
     "published": "2023-07-21T17:10:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "pglogical setup",
-    "url": "https://www.karnwong.me/posts/2023/07/pglogical-setup/",
-    "published": "2023-07-20T15:16:29.000Z"
   },
   {
     "site": "tech.duckfollow.co",
