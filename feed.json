@@ -1,5 +1,17 @@
 [
   {
+    "site": "boonsong.dev",
+    "title": "Technical Debt กับ Scrum Teams",
+    "url": "https://www.boonsong.dev/technical-debt-and-scrum-teams",
+    "published": "2023-08-02T08:26:13.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "75 - ChatOS - Debug app on iPad",
+    "url": "https://garden.narze.live/100daysofcode-r3-75-chatos-debug-app-on-ipad/",
+    "published": "2023-08-02T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go",
     "url": "https://www.somkiat.cc/try-gonew/",
@@ -16,12 +28,6 @@
     "title": "บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน",
     "url": "https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/",
     "published": "2023-08-01T09:09:56.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "74 - ChatOS - Merge guest chat logs",
-    "url": "https://garden.narze.live/100daysofcode-r3-74-chatos-merge-guest-chat-logs/",
-    "published": "2023-08-01T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -208,12 +214,6 @@
     "title": "micro-dollar: a way to deals with decimal numbers or monetary values",
     "url": "https://heyfirst.co/blog/micro-dollar",
     "published": "2023-02-07T00:00:00.000Z"
-  },
-  {
-    "site": "boonsong.dev",
-    "title": "Event-carried state transfer",
-    "url": "https://www.boonsong.dev/event-carried-state-transfer",
-    "published": "2023-01-22T13:53:13.000Z"
   },
   {
     "site": "wp.curve.in.th",
