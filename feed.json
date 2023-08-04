@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR]ลิ้มอ่วงซุย (Linn) เจริญรัถ-ลาดหญ้า",
+    "url": "https://naiwaen.debuggingsoft.com/2023/08/cr%e0%b8%a5%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%ad%e0%b9%88%e0%b8%a7%e0%b8%87%e0%b8%8b%e0%b8%b8%e0%b8%a2-linn-%e0%b9%80%e0%b8%88%e0%b8%a3%e0%b8%b4%e0%b8%8d%e0%b8%a3%e0%b8%b1%e0%b8%96-%e0%b8%a5/",
+    "published": "2023-08-04T13:15:20.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนะนำ Postbot เป็น AI assistant สำหรับการเขียน test ใน Postman",
+    "url": "https://www.somkiat.cc/hello-postbot-in-postman/",
+    "published": "2023-08-04T07:26:24.000Z"
+  },
+  {
     "site": "boonsong.dev",
     "title": "Technical Debt กับ Scrum Teams",
     "url": "https://www.boonsong.dev/technical-debt-and-scrum-teams",
@@ -12,22 +24,10 @@
     "published": "2023-08-03T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน gonew สำหรับการสร้าง project ของภาษา Go",
-    "url": "https://www.somkiat.cc/try-gonew/",
-    "published": "2023-08-01T13:59:44.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Create Kubernetes service accounts with Terraform",
     "url": "https://www.karnwong.me/posts/2023/08/create-kubernetes-service-accounts-with-terraform/",
     "published": "2023-08-01T12:49:07.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "บันทึกการแก้ไขปัญหา SonarQube C# ทำงานนานน",
-    "url": "https://naiwaen.debuggingsoft.com/2023/08/csharp-sonar-scanner-has-started-to-take-too-much-time-to-run-analysis/",
-    "published": "2023-08-01T09:09:56.000Z"
   },
   {
     "site": "mikkipastel.com",

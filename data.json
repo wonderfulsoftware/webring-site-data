@@ -328,7 +328,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2023-08-03T01:02:34.091Z"
+    "lastUpdated": "2023-08-04T13:48:09.487Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -358,19 +359,21 @@
     "screenshotUpdatedAt": "2023-05-06T00:59:09.347Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-08-03T01:03:07.795Z"
+    "lastUpdated": "2023-08-04T13:48:51.573Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v8Ps@j0|b^nNH?V[oJof}X^5xGOE57kqR+n%5Q58baxG=y-TaLR+-pxGt7WV",
-    "screenshotUpdatedAt": "2023-08-02T01:00:04.191Z",
+    "blurhash": "v4Qcn{=t?bE1009at6xt0K9]NHxZD%~VRjNG=ERQ%1bbTLbuNHn+pJNbX8ni",
+    "screenshotUpdatedAt": "2023-08-04T13:48:39.721Z",
     "description": null,
     "backlink": {
       "rect": "32:14:230.5:42",
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-08-03T01:02:55.189Z"
+    "lastUpdated": "2023-08-04T13:48:39.721Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -452,7 +455,8 @@
       "rect": "24:28.765625:239.5:10.6171875",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2023-08-03T01:03:55.496Z"
+    "lastUpdated": "2023-08-04T13:49:54.677Z",
+    "number": 32
   },
   "pat.chormai.org": {
     "url": "https://pat.chormai.org",
@@ -1448,5 +1452,8 @@
   },
   "nsys.site": {
     "url": "https://nsys.site"
+  },
+  "phurit.de": {
+    "url": "https://phurit.de"
   }
 }
