@@ -1,9 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "[Atlas] ทำการสร้าง ER diagram จาก GORM model",
-    "url": "https://www.somkiat.cc/gorm-er-diagram-with-atlas/",
-    "published": "2023-08-08T15:45:41.000Z"
+    "title": "การเปลี่ยนแปลงของ Chrome Driver สำหรับ Google Chrome 115 ขึ้นไป",
+    "url": "https://www.somkiat.cc/update-chrome-driver/",
+    "published": "2023-08-09T11:24:38.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "81 - garden-astro - Update front page",
+    "url": "https://garden.narze.live/100daysofcode-r3-81-garden-astro-update-front-page/",
+    "published": "2023-08-09T00:00:00.000Z"
+  },
+  {
+    "site": "kajame.xyz",
+    "title": "Tip! การใช้ ssh โดยใช้ชื่อ host",
+    "url": "https://kajame.xyz/blog/ssh-with-host",
+    "published": "2023-08-09T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -12,10 +24,10 @@
     "published": "2023-08-08T08:15:42.000Z"
   },
   {
-    "site": "garden.narze.live",
-    "title": "78 - ChatOS - Encrypt message with TweetNaCl.js",
-    "url": "https://garden.narze.live/100daysofcode-r3-78-chatos-encrypt-message-with-tweetnacl-js/",
-    "published": "2023-08-06T22:00:00.000Z"
+    "site": "neizod.dev",
+    "title": "ความเร็วแบบ polylog",
+    "url": "https://neizod.dev/2023/08/08/polylog-complexity.html",
+    "published": "2023-08-07T17:00:00.000Z"
   },
   {
     "site": "boonsong.dev",
@@ -34,12 +46,6 @@
     "title": "ทำโปรเจกต์ PWA แบบไม่ต้อง setup project เยอะ โดยใช้ Glitch",
     "url": "https://www.mikkipastel.com/create-new-pwa-project-by-glitch/",
     "published": "2023-07-28T08:52:55.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "ทรงกลมในมิติสูง และการย่อ/ขยายมิติดีเทอร์มิแนนต์",
-    "url": "https://neizod.dev/2023/07/25/hypersphere-and-resizing-determinant-dimension.html",
-    "published": "2023-07-25T15:31:42.000Z"
   },
   {
     "site": "taoisaman.com",
@@ -118,12 +124,6 @@
     "title": "ใช้ Cron Jobs บน Vercel ด้วย Node",
     "url": "https://janescience.com/blog/cron-job-vercel",
     "published": "2023-05-08T00:00:00.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "ทำ Login with Facebook ใน React Native (ios)",
-    "url": "https://kajame.xyz/blog/react-native-using-login-with-facebook",
-    "published": "2023-05-07T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
