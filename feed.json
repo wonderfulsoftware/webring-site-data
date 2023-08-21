@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปจากการอ่านบทความ How Quora scaled MySQL to 100k+ Queries Per Second ?",
+    "url": "https://www.somkiat.cc/note-from-how-quora-scaled-mysql/",
+    "published": "2023-08-20T03:40:11.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "How to launch Chrome for Testing",
+    "url": "https://notes.dt.in.th/LaunchingChromeForTesting",
+    "published": "2023-08-20T00:00:00.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "SOPS: Secrets OPerationS",
     "url": "https://jitrak.dev/posts/post-16-sops/",
@@ -10,12 +22,6 @@
     "title": "บันทึกการปรับ format data ที่ใช้รับส่งผ่าน TCP จาก BinaryFormatter มาเป็น JSON แทน",
     "url": "https://naiwaen.debuggingsoft.com/2023/08/change-data-format-binaryformatter-to-json-via-tcp-protocal/",
     "published": "2023-08-19T01:42:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "OKLCH Color Scale Plotter",
-    "url": "https://notes.dt.in.th/OklchPlot",
-    "published": "2023-08-19T00:00:00.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -34,12 +40,6 @@
     "title": "ดึง transaction ของ contract ลง Google Sheet แบบง่าย ๆ ใคร ๆ ก็ทำได้ ไม่ต้องโค้ดเอง",
     "url": "https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/",
     "published": "2023-08-18T12:24:14.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Google Chrome 117 สามารถทำการ mock XHR/fetch request ได้แล้ว",
-    "url": "https://www.somkiat.cc/google-chrome-117-mock-api/",
-    "published": "2023-08-17T12:01:40.000Z"
   },
   {
     "site": "thiti.dev",
