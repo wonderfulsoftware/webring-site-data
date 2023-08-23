@@ -1,5 +1,17 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023",
+    "url": "https://www.mikkipastel.com/google-io-extended-2023/",
+    "published": "2023-08-22T15:08:26.000Z"
+  },
+  {
+    "site": "jitrak.dev",
+    "title": "Pair programming",
+    "url": "https://jitrak.dev/posts/post-17-pair-programming/",
+    "published": "2023-08-22T05:40:00.000Z"
+  },
+  {
     "site": "poolsawat.com",
     "title": "การใช้งาน Spring Reactive ร่วมกับ WebClient พร้อมทำ Request, Response Logging",
     "url": "https://www.poolsawat.com/how-to-configuration-spring-webclient-request-response-logging/",
@@ -13,15 +25,9 @@
   },
   {
     "site": "dt.in.th",
-    "title": "How to launch Chrome for Testing",
-    "url": "https://notes.dt.in.th/LaunchingChromeForTesting",
-    "published": "2023-08-20T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "SOPS: Secrets OPerationS",
-    "url": "https://jitrak.dev/posts/post-16-sops/",
-    "published": "2023-08-19T19:00:00.000Z"
+    "title": "Getting a long-lived access token for a Facebook page",
+    "url": "https://notes.dt.in.th/FacebookPageLongLivedAccessToken",
+    "published": "2023-08-21T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -40,12 +46,6 @@
     "title": "Hint the Hidden Heirloom",
     "url": "https://neizod.dev/2023/08/19/hint-hidden-heirloom.html",
     "published": "2023-08-18T23:48:23.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ดึง transaction ของ contract ลง Google Sheet แบบง่าย ๆ ใคร ๆ ก็ทำได้ ไม่ต้องโค้ดเอง",
-    "url": "https://www.mikkipastel.com/how-to-get-transaction-from-contract-to-google-sheet/",
-    "published": "2023-08-18T12:24:14.000Z"
   },
   {
     "site": "thiti.dev",
