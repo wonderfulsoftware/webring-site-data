@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "บันทึกหลังดู Live QA Meetup @LSEG",
+    "url": "https://naiwaen.debuggingsoft.com/2023/08/qa-meetup-at-lseg-note/",
+    "published": "2023-08-23T16:56:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ทาง GitHub บังคับให้ต้องใช้งาน Two-factor authentication (2FA) ก่อนสิ้นปี 2023",
+    "url": "https://www.somkiat.cc/github-two-factor-authentication/",
+    "published": "2023-08-23T02:14:56.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "เปิดประสบการณ์ใหม่ กับงานเทคในโรงหนัง กับ Google IO Extended 2023",
     "url": "https://www.mikkipastel.com/google-io-extended-2023/",
@@ -18,22 +30,10 @@
     "published": "2023-08-21T16:52:24.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปการใช้งาน Structured Log ของ Go กัน",
-    "url": "https://www.somkiat.cc/go-with-slog/",
-    "published": "2023-08-21T11:18:24.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Getting a long-lived access token for a Facebook page",
     "url": "https://notes.dt.in.th/FacebookPageLongLivedAccessToken",
     "published": "2023-08-21T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "บันทึกการปรับ format data ที่ใช้รับส่งผ่าน TCP จาก BinaryFormatter มาเป็น JSON แทน",
-    "url": "https://naiwaen.debuggingsoft.com/2023/08/change-data-format-binaryformatter-to-json-via-tcp-protocal/",
-    "published": "2023-08-19T01:42:00.000Z"
   },
   {
     "site": "kajame.xyz",
