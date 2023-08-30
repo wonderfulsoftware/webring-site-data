@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Redis 7.2 มี feature ใหม่ ๆ เพียบ",
+    "url": "https://www.somkiat.cc/hello-redis-7-2/",
+    "published": "2023-08-29T16:32:00.000Z"
+  },
+  {
     "site": "icez.net",
     "title": "0258 | EV FAQ",
     "url": "https://www.icez.net/blog/167533/0258-ev-faq",
@@ -22,12 +28,6 @@
     "title": "Mermaid",
     "url": "https://jitrak.dev/posts/post-18-mermaid/",
     "published": "2023-08-27T14:44:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Spring Modulith 1.0 GA ออกมาแล้ว",
-    "url": "https://www.somkiat.cc/spring-modulith-1-ga/",
-    "published": "2023-08-27T08:58:51.000Z"
   },
   {
     "site": "karnwong.me",
