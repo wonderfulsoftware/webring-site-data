@@ -1,9 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ลาก่อน Visual Studio for Mac !!",
-    "url": "https://www.somkiat.cc/goodbye-visual-studio-for-mac/",
-    "published": "2023-08-31T02:05:10.000Z"
+    "title": "เพิ่งเห็น Resource Saver Mode ใน Docker Destop",
+    "url": "https://www.somkiat.cc/resource-saver-mode-in-docker-destop/",
+    "published": "2023-09-01T13:49:13.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลบ Line ข้อมูล Chat พวกรูป/วิดีโอ/ไฟล์ เพื่อคืนพื้นที่ให้เครื่อง",
+    "url": "https://naiwaen.debuggingsoft.com/2023/09/reclaim-your-smartphone-space-by-delete-line-chat/",
+    "published": "2023-09-01T08:10:43.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "content stack 2023- ทำ content ต้องใช้เครี่องมืออะไรบ้าง",
+    "url": "https://www.mikkipastel.com/content-stack-2023/",
+    "published": "2023-09-01T03:58:26.000Z"
   },
   {
     "site": "icez.net",
@@ -42,12 +54,6 @@
     "published": "2023-08-26T18:30:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Azure Develop Day 2023 @SEVEN PEAKS",
-    "url": "https://naiwaen.debuggingsoft.com/2023/08/azure-develop-day-2023/",
-    "published": "2023-08-26T18:01:00.000Z"
-  },
-  {
     "site": "poolsawat.com",
     "title": "สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker",
     "url": "https://www.poolsawat.com/create-monitoring-springboot-prometheus-grafana-with-docker/",
@@ -58,12 +64,6 @@
     "title": "[Tutorial] Setting up Budget Alert in GCP — English ver.",
     "url": "https://mesodiar.com/tutorial-setting-up-budget-alert-in-gcp-english-ver-f134bf21da92?source=rss----698ac1e5dc8c---4",
     "published": "2023-08-26T08:46:42.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "รีวิวงาน Bitcoin Addict Meetup 2023 ที่เมืองมังกรกัน",
-    "url": "https://www.mikkipastel.com/bitcoin-addict-meetup-2023/",
-    "published": "2023-08-24T13:29:33.000Z"
   },
   {
     "site": "dt.in.th",
