@@ -1466,5 +1466,18 @@
     },
     "lastUpdated": "2023-09-05T01:06:15.754Z",
     "number": 100
+  },
+  "anuwong.com": {
+    "url": "https://www.anuwong.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/anuwong.com_375w@2x.png",
+    "blurhash": "vAQ9[*WBIUof4nRjofWBM{oft7WB4nxuR*WB%gRjRjj[_NRjofR*xuofM{ay",
+    "screenshotUpdatedAt": "2023-09-05T11:31:41.346Z",
+    "description": "later is never, now is the time.",
+    "backlink": {
+      "rect": "32:32:323:1460",
+      "href": "https://webring.wonderful.software#www.anuwong.com"
+    },
+    "lastUpdated": "2023-09-05T11:31:41.346Z",
+    "number": 101
   }
 }
