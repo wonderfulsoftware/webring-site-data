@@ -1,5 +1,23 @@
 [
   {
+    "site": "mesodiar.com",
+    "title": "สิ่งที่ฉันเรียนรู้จาก GDG SEA SUMMIT 2023 — Thai ver.",
+    "url": "https://mesodiar.com/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-gdg-sea-summit-2023-thai-ver-2a96946e6703?source=rss----698ac1e5dc8c---4",
+    "published": "2023-09-06T14:13:03.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "How to show hidden files in WinSCP",
+    "url": "https://naiwaen.debuggingsoft.com/2023/09/how-to-show-hidden-files-in-winscp/",
+    "published": "2023-09-06T02:37:02.000Z"
+  },
+  {
+    "site": "janescience.com",
+    "title": "สร้างแอป Android รับข้อมูลจากการแจ้งเตือน",
+    "url": "https://janescience.com/blog/android-trigger-notification",
+    "published": "2023-09-06T00:00:00.000Z"
+  },
+  {
     "site": "anuwong.com",
     "title": "หาไฟล์และโฟลเดอร์แบบโคตรแรงด้วย fd ⚡️",
     "url": "https://www.anuwong.com/blog/how-to-find-files-with-fd/",
@@ -12,22 +30,10 @@
     "published": "2023-09-04T02:38:33.000Z"
   },
   {
-    "site": "janescience.com",
-    "title": "เมื่ออยากมี Tools ส่วนตัวใช้ในชีวิตประจำวันผ่าน LINE",
-    "url": "https://janescience.com/blog/personal-tool-line",
-    "published": "2023-09-04T00:00:00.000Z"
-  },
-  {
     "site": "somkiat.cc",
     "title": "คำถาม fmt.Println() ต่างจาก println() อย่างไร ?",
     "url": "https://www.somkiat.cc/go-print-vs-fmt-print/",
     "published": "2023-09-03T05:53:22.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] ข้าวหมูย่างเกลือของดีประจำ 711",
-    "url": "https://naiwaen.debuggingsoft.com/2023/09/cr-%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%81%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%94%e0%b8%b5/",
-    "published": "2023-09-02T11:57:12.000Z"
   },
   {
     "site": "garden.narze.live",
@@ -70,12 +76,6 @@
     "title": "สร้างระบบ Monitoring Springboot + Prometheus + Grafana ด้วย Docker",
     "url": "https://www.poolsawat.com/create-monitoring-springboot-prometheus-grafana-with-docker/",
     "published": "2023-08-26T17:06:40.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "[Tutorial] Setting up Budget Alert in GCP — English ver.",
-    "url": "https://mesodiar.com/tutorial-setting-up-budget-alert-in-gcp-english-ver-f134bf21da92?source=rss----698ac1e5dc8c---4",
-    "published": "2023-08-26T08:46:42.000Z"
   },
   {
     "site": "dt.in.th",
