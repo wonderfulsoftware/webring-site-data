@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำเข้าใจง่ายดี Go 1.21 All You Need to Know",
+    "url": "https://www.somkiat.cc/go-1-21-all-you-need-to-know/",
+    "published": "2023-09-07T08:20:56.000Z"
+  },
+  {
+    "site": "jitrak.dev",
+    "title": "Winget",
+    "url": "https://jitrak.dev/posts/post-19-winget/",
+    "published": "2023-09-07T07:00:00.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "สิ่งที่ฉันเรียนรู้จาก GDG SEA SUMMIT 2023 — Thai ver.",
     "url": "https://mesodiar.com/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-gdg-sea-summit-2023-thai-ver-2a96946e6703?source=rss----698ac1e5dc8c---4",
@@ -30,12 +42,6 @@
     "published": "2023-09-04T02:38:33.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "คำถาม fmt.Println() ต่างจาก println() อย่างไร ?",
-    "url": "https://www.somkiat.cc/go-print-vs-fmt-print/",
-    "published": "2023-09-03T05:53:22.000Z"
-  },
-  {
     "site": "garden.narze.live",
     "title": "96-100 - 10k planner",
     "url": "https://garden.narze.live/100daysofcode-r3-96-100-10k-planner/",
@@ -52,12 +58,6 @@
     "title": "API Architecture Styles",
     "url": "https://tech.duckfollow.co/flow/api-architecture",
     "published": "2023-08-27T18:00:02.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Mermaid",
-    "url": "https://jitrak.dev/posts/post-18-mermaid/",
-    "published": "2023-08-27T14:44:00.000Z"
   },
   {
     "site": "karnwong.me",
