@@ -1475,5 +1475,18 @@
     },
     "lastUpdated": "2023-09-08T01:06:55.633Z",
     "number": 101
+  },
+  "techtransthai.org": {
+    "url": "https://www.techtransthai.org",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/techtransthai.org_375w@2x.png",
+    "blurhash": "v8RpB{IU^%t700of^%ofEnj?-oWBNLxuxZRjV=t7WXj[^$IoIpt7~ARjE2js",
+    "screenshotUpdatedAt": "2023-09-08T16:37:56.495Z",
+    "description": null,
+    "backlink": {
+      "rect": "122.65625:35:-0.484375:335.3125",
+      "href": "https://webring.wonderful.software#techtransthai.org"
+    },
+    "lastUpdated": "2023-09-08T16:37:56.495Z",
+    "number": 102
   }
 }
