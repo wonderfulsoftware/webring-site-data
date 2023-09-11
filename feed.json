@@ -1,27 +1,33 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "VSCode :: ใช้งาน Built-in port forwarding",
-    "url": "https://www.somkiat.cc/vscode-built-in-port-forwarding/",
-    "published": "2023-09-09T05:33:04.000Z"
+    "title": "สรุปจากการแบ่งปันใน Tester’s Day 2023 – Everything You Can Test",
+    "url": "https://www.somkiat.cc/tester-day-2023-everything-you-can-test/",
+    "published": "2023-09-10T11:18:45.000Z"
+  },
+  {
+    "site": "anuwong.com",
+    "title": "สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion",
+    "url": "https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/",
+    "published": "2023-09-10T06:00:21.000Z"
+  },
+  {
+    "site": "mesodiar.com",
+    "title": "What I learned from GDG SEA SUMMIT 2023 — Eng ver.",
+    "url": "https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4",
+    "published": "2023-09-10T05:50:19.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "A URL to a blank file on IPFS",
+    "url": "https://notes.dt.in.th/IpfsBlankFileUrl",
+    "published": "2023-09-10T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
     "title": "Data Engineering Resources",
     "url": "https://www.karnwong.me/posts/2023/09/data-engineering-resources/",
     "published": "2023-09-09T03:53:16.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "How to retag a Docker image on a remote registry without pulling the image to local machine",
-    "url": "https://notes.dt.in.th/DockerRetagImage",
-    "published": "2023-09-09T00:00:00.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "หัดเขียน iOS App ด้วย SwiftUI ตอนที่ 1",
-    "url": "https://www.anuwong.com/blog/swiftui-101/",
-    "published": "2023-09-08T13:04:18.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -34,12 +40,6 @@
     "title": "Winget",
     "url": "https://jitrak.dev/posts/post-19-winget/",
     "published": "2023-09-07T07:00:00.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "สิ่งที่ฉันเรียนรู้จาก GDG SEA SUMMIT 2023 — Thai ver.",
-    "url": "https://mesodiar.com/%E0%B8%AA%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%89%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B2%E0%B8%81-gdg-sea-summit-2023-thai-ver-2a96946e6703?source=rss----698ac1e5dc8c---4",
-    "published": "2023-09-06T14:13:03.000Z"
   },
   {
     "site": "janescience.com",
