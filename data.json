@@ -1337,14 +1337,15 @@
   "yuttakhanb.dev": {
     "url": "https://www.yuttakhanb.dev/",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yuttakhanb.dev_375w@2x.png",
-    "blurhash": "v34xxlo$Q.adwNaebbbF4TRhx[bcB~XNrsaL^,oNRPe-]Yn9Sfbs9?X4s:ah",
-    "screenshotUpdatedAt": "2023-09-14T01:04:34.328Z",
+    "blurhash": "v24xrVrdMebs#=X8a#ad00S]x[WCBgV?wfX8~XoOMyi_}vohRkbX5OV?xtX8",
+    "screenshotUpdatedAt": "2023-09-15T13:47:08.186Z",
     "description": null,
     "backlink": {
       "rect": "29.203125:29.203125:325.796875:20",
       "href": "https://webring.wonderful.software#yuttakhanb.dev"
     },
-    "lastUpdated": "2023-09-14T01:04:34.328Z"
+    "lastUpdated": "2023-09-15T13:47:08.186Z",
+    "number": 93
   },
   "nayuki.cyou": {
     "url": "https://nayuki.cyou",
@@ -1505,13 +1506,27 @@
   "hnaxny.xyz": {
     "url": "https://hnaxny.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/hnaxny.xyz_375w@2x.png",
-    "blurhash": "v6SPX~D*~p%L%DIVRjxtMkRQM|t6Tajus:of}^a|E1oL.Ok8e=af%docRRRk",
-    "screenshotUpdatedAt": "2023-09-14T01:06:50.688Z",
+    "blurhash": "v6SPX~D*~px[sjICRjxtnBRQM|t6K1f8s.of~Ej[E1oL.4bEahaf%dovRRRk",
+    "screenshotUpdatedAt": "2023-09-15T13:47:16.381Z",
     "description": "มารู้จักเราดีกว่า | ประวัติส่วนตัวของ ธีรภัทร์ ถาวัง",
     "backlink": {
       "rect": "32:32:8:8",
       "href": "https://webring.wonderful.software#hnaxny.xyz"
     },
-    "lastUpdated": "2023-09-14T01:06:50.688Z"
+    "lastUpdated": "2023-09-15T13:47:16.381Z",
+    "number": 104
+  },
+  "profile.mwn99.com": {
+    "url": "https://profile.mwn99.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/profile.mwn99.com_375w@2x.png",
+    "blurhash": "vSFr;,IRs;s;IcRgozt900R#j?of~qWVRPoMV[W9ohoN9FohkCWU?aj]WEa$",
+    "screenshotUpdatedAt": "2023-09-15T13:47:16.540Z",
+    "description": "MMAWIN99 Profile, Project, Social Media.",
+    "backlink": {
+      "rect": "28:28:321.5:170",
+      "href": "https://webring.wonderful.software#profile.mwn99.com"
+    },
+    "lastUpdated": "2023-09-15T13:47:16.540Z",
+    "number": 105
   }
 }

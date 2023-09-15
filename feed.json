@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาดู Spring Boot 3.2 กัน",
+    "url": "https://www.somkiat.cc/spring-boot-3-2-m2/",
+    "published": "2023-09-15T13:27:53.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "มือใหม่จะล่า airdrop ต้องรู้อะไรบ้าง?",
+    "url": "https://www.mikkipastel.com/how-to-crypto-airdrop-for-beginner/",
+    "published": "2023-09-15T07:08:45.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] ข้าวหมูทอด เฮียวงค์ (BTS วงเวียนใหญ่)",
     "url": "https://naiwaen.debuggingsoft.com/2023/09/deep-fried-pork-here-wong-bts-wongwian-yai/",
@@ -10,12 +22,6 @@
     "title": "Spark on Kubernetes",
     "url": "https://www.karnwong.me/posts/2023/09/spark-on-kubernetes/",
     "published": "2023-09-12T13:04:38.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการใช้งาน Bun ในการพัฒนาระบบงาน",
-    "url": "https://www.somkiat.cc/bun-development-tools/",
-    "published": "2023-09-12T06:08:14.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -46,12 +52,6 @@
     "title": "สร้างแอป Android รับข้อมูลจากการแจ้งเตือน",
     "url": "https://janescience.com/blog/android-trigger-notification",
     "published": "2023-09-06T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มาเรียนรู้ NFT บน Internet Computer Protocol กัน กับงาน ICP World NFT",
-    "url": "https://www.mikkipastel.com/icp_world_nft_gm_club/",
-    "published": "2023-09-04T02:38:33.000Z"
   },
   {
     "site": "garden.narze.live",
