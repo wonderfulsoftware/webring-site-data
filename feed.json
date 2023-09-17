@@ -1,5 +1,23 @@
 [
   {
+    "site": "anuwong.com",
+    "title": "Go Testing Part 3 - จัดระเบียบ Test Case ด้วย testify/suite",
+    "url": "https://www.anuwong.com/blog/golang-testing-part-3-test-suite/",
+    "published": "2023-09-16T13:32:10.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "How to install HoloCure on Apple Silicon MacBook",
+    "url": "https://garden.narze.live/how-to-install-holocure-on-apple-silicon-macbook/",
+    "published": "2023-09-16T00:00:00.000Z"
+  },
+  {
+    "site": "tinarskii.com",
+    "title": "แชร์ประสบการณ์ การเรียนรู้เกือบทุกสิ่ง ฉบับนอกห้องเรียน",
+    "url": "https://tinarskii.com/articles/learn/",
+    "published": "2023-09-16T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาดู Spring Boot 3.2 กัน",
     "url": "https://www.somkiat.cc/spring-boot-3-2-m2/",
@@ -30,12 +48,6 @@
     "published": "2023-09-11T14:02:00.000Z"
   },
   {
-    "site": "anuwong.com",
-    "title": "สร้างเลขาส่วนตัวด้วย Telegram Bot API และ Notion",
-    "url": "https://www.anuwong.com/blog/personal-assistant-bot-with-telegram-and-notion/",
-    "published": "2023-09-10T06:00:21.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "What I learned from GDG SEA SUMMIT 2023 — Eng ver.",
     "url": "https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4",
@@ -52,12 +64,6 @@
     "title": "สร้างแอป Android รับข้อมูลจากการแจ้งเตือน",
     "url": "https://janescience.com/blog/android-trigger-notification",
     "published": "2023-09-06T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "96-100 - 10k planner",
-    "url": "https://garden.narze.live/100daysofcode-r3-96-100-10k-planner/",
-    "published": "2023-09-02T00:00:00.000Z"
   },
   {
     "site": "icez.net",
@@ -136,12 +142,6 @@
     "title": "Separate critical CSS and non-critical CSS for faster page load",
     "url": "https://ntsd.dev/extract-cricital-css/",
     "published": "2023-07-06T17:00:00.000Z"
-  },
-  {
-    "site": "tinarskii.com",
-    "title": "ยังคงโง่และบัดซบ กับงาน Stupid Hackathon in Thailand 7",
-    "url": "https://tinarskii.com/articles/shit7",
-    "published": "2023-06-26T00:00:00.000Z"
   },
   {
     "site": "nuttdam.com",
