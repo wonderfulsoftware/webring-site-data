@@ -611,14 +611,15 @@
   "thiti.dev": {
     "url": "https://thiti.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thiti.dev_375w@2x.png",
-    "blurhash": "veDvZhWBt6og-;ayRjWBxvbHRjae~qWBofof?bf5f6WB%MazWCj[-;WCj[kC",
-    "screenshotUpdatedAt": "2023-09-23T00:55:45.935Z",
+    "blurhash": "vgD]h?aeoyof-;ayRjWBtRWWRjay~qWCkCof?bf5f6WB%Mazafj[-;WCj[kC",
+    "screenshotUpdatedAt": "2023-09-25T13:49:05.753Z",
     "description": "My name is Thiti, I'm a Software Engineer.",
     "backlink": {
-      "rect": "20:24:355:2324",
+      "rect": "20:24:355:4030",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2023-09-23T00:55:45.935Z"
+    "lastUpdated": "2023-09-25T13:49:05.753Z",
+    "number": 45
   },
   "blog.kpping.me": {
     "url": "https://blog.kpping.me",
@@ -1532,5 +1533,18 @@
     },
     "lastUpdated": "2023-09-25T01:08:46.930Z",
     "number": 105
+  },
+  "guitarpawat.me": {
+    "url": "https://guitarpawat.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/guitarpawat.me_375w@2x.png",
+    "blurhash": "v09HImog00kC~qj[IUbG00fQ~qof00WB%gs;00fk%MWB00kC.8Rjofj[M{WB",
+    "screenshotUpdatedAt": "2023-09-25T13:49:39.314Z",
+    "description": null,
+    "backlink": {
+      "rect": "24:44:222.515625:215.09375",
+      "href": "https://webring.wonderful.software#guitarpawat.me"
+    },
+    "lastUpdated": "2023-09-25T13:49:39.314Z",
+    "number": 106
   }
 }
