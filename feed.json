@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection.",
+    "url": "https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/",
+    "published": "2023-09-29T07:50:09.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "XConf Thailand 2023",
+    "url": "https://garden.narze.live/xconf-thailand-2023/",
+    "published": "2023-09-29T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "น่าสนใจดีนะ Unit Tests Generator น่าสนใจดีนะ",
     "url": "https://www.somkiat.cc/unit-tests-generator-from-ai/",
     "published": "2023-09-28T10:42:14.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Optimize Container image size",
-    "url": "https://naiwaen.debuggingsoft.com/2023/09/optimize-container-image-size/",
-    "published": "2023-09-26T09:08:00.000Z"
   },
   {
     "site": "thiti.dev",
@@ -40,12 +46,6 @@
     "title": "(น่าจะสุดท้ายละมั้งนะ) Network ในคอนโด เวอร์ชัน 2023 ปรับแล้วปรับอีก ไม่จบสักที",
     "url": "https://kusumotolab.com/network-diagram-in-my-condo-2023/",
     "published": "2023-09-17T04:01:07.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "How to install HoloCure on Apple Silicon MacBook",
-    "url": "https://garden.narze.live/how-to-install-holocure-on-apple-silicon-macbook/",
-    "published": "2023-09-16T00:00:00.000Z"
   },
   {
     "site": "tinarskii.com",
