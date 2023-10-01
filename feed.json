@@ -1,21 +1,33 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "Npm package for write jest easy",
+    "url": "https://jitrak.dev/posts/post-21-npm-package-for-write-jest-easy/",
+    "published": "2023-09-30T16:05:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "DB2 fixed an unpredictable hang/take a lot of time when create a DB Connection.",
-    "url": "https://naiwaen.debuggingsoft.com/2023/09/db2-fixed-an-unpredictable-hang-take-a-lot-of-time-when-create-a-db-connection/",
-    "published": "2023-09-29T07:50:09.000Z"
+    "title": "Git Command 101",
+    "url": "https://naiwaen.debuggingsoft.com/2023/09/git-command-101/",
+    "published": "2023-09-30T14:22:06.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการแบ่งปันเรื่อง Mobile testing ด้วย Appium",
+    "url": "https://www.somkiat.cc/sharing-mobile-testing-with-appium/",
+    "published": "2023-09-30T13:02:34.000Z"
+  },
+  {
+    "site": "kajame.xyz",
+    "title": "ทำ API ให้แสดงไฟล์ PDF บน Express",
+    "url": "https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express",
+    "published": "2023-09-30T00:00:00.000Z"
   },
   {
     "site": "garden.narze.live",
     "title": "XConf Thailand 2023",
     "url": "https://garden.narze.live/xconf-thailand-2023/",
     "published": "2023-09-29T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "น่าสนใจดีนะ Unit Tests Generator น่าสนใจดีนะ",
-    "url": "https://www.somkiat.cc/unit-tests-generator-from-ai/",
-    "published": "2023-09-28T10:42:14.000Z"
   },
   {
     "site": "thiti.dev",
@@ -60,12 +72,6 @@
     "published": "2023-09-12T13:04:38.000Z"
   },
   {
-    "site": "jitrak.dev",
-    "title": "Test double",
-    "url": "https://jitrak.dev/posts/post-20-test-double/",
-    "published": "2023-09-11T14:02:00.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "What I learned from GDG SEA SUMMIT 2023 — Eng ver.",
     "url": "https://mesodiar.com/what-i-learned-from-gdg-sea-summit-2023-eng-ver-f1f9dc1d8310?source=rss----698ac1e5dc8c---4",
@@ -106,12 +112,6 @@
     "title": "[Presentation] Universal Motor",
     "url": "https://siravijbb.me/blog/universal-motor-presentation/",
     "published": "2023-08-21T11:00:00.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "ลองสร้าง Project Laravel ใส่ใน Nginx ใน Docker",
-    "url": "https://kajame.xyz/blog/how-to-create-docker-container-nginx-and-laravel-project",
-    "published": "2023-08-19T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
