@@ -1,27 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Generative AI with MongoDB Atlas",
+    "url": "https://www.somkiat.cc/generative-api-with-mongodb-atlas/",
+    "published": "2023-10-05T14:19:38.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "XConf Thailand 2023",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/xconf-thailand-2023/",
-    "published": "2023-10-02T13:27:06.000Z"
+    "title": "AZ-104: Prerequisites for Azure administrators",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/az-104-prerequisites-for-azure-administrators/",
+    "published": "2023-10-05T09:57:23.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง",
+    "url": "https://www.mikkipastel.com/basic-graphic-before-advance-level/",
+    "published": "2023-10-05T09:08:31.000Z"
   },
   {
     "site": "jitrak.dev",
     "title": "Manage multiple Git account in machine",
     "url": "https://jitrak.dev/posts/post-22-manage-multiple-git-account-in-machine/",
     "published": "2023-10-01T16:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "งาน LINE Conference Thailand 2023 มีอะไรบ้าง ไปดูกัน",
-    "url": "https://www.mikkipastel.com/line-conference-thailand-2023/",
-    "published": "2023-10-01T07:05:13.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันเรื่อง Mobile testing ด้วย Appium",
-    "url": "https://www.somkiat.cc/sharing-mobile-testing-with-appium/",
-    "published": "2023-09-30T13:02:34.000Z"
   },
   {
     "site": "kajame.xyz",
