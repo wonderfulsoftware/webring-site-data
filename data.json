@@ -342,14 +342,15 @@
   "jitrak.dev": {
     "url": "https://jitrak.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jitrak.dev_375w@2x.png",
-    "blurhash": "v26Rfao_00R7pAIm%3%3JN9Y%M%3OlIoRQs;-;-;D%InM{?bt7IU00-=~qNF",
-    "screenshotUpdatedAt": "2023-10-04T00:54:52.250Z",
+    "blurhash": "v16kkxtj00H[Eb9X~W?IpV9Ys;xv.RInDiw}00%M%MRj~W~qD%4-00^,~qM_",
+    "screenshotUpdatedAt": "2023-10-07T17:58:10.435Z",
     "description": null,
     "backlink": {
       "rect": "32:96:318.59375:0",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-10-05T00:55:25.750Z"
+    "lastUpdated": "2023-10-07T17:58:10.435Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -1539,5 +1540,18 @@
     },
     "lastUpdated": "2023-10-07T01:07:45.079Z",
     "number": 106
+  },
+  "thammarith.dev": {
+    "url": "https://thammarith.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thammarith.dev_375w@2x.png",
+    "blurhash": "vYL#5[j[WBfQ00t7Rjayofayayj[~qfQayayxuofWBfQD%ofWBayj[j[ayWB",
+    "screenshotUpdatedAt": "2023-10-07T17:59:38.766Z",
+    "description": "Thammarith’s personal website and blog",
+    "backlink": {
+      "rect": "32:32:171.5:1873",
+      "href": "https://webring.wonderful.software#thammarith.dev"
+    },
+    "lastUpdated": "2023-10-07T17:59:38.766Z",
+    "number": 107
   }
 }

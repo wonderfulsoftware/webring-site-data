@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ตอบคำถามเกี่ยวกับ Selinium Grid 4 และ Appium",
+    "url": "https://www.somkiat.cc/selinium-grid-4-and-appium/",
+    "published": "2023-10-07T05:49:06.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "RubyConf TH 2023",
+    "url": "https://garden.narze.live/rubyconf-th-2023/",
+    "published": "2023-10-07T00:00:00.000Z"
+  },
+  {
+    "site": "thammarith.dev",
+    "title": "วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่",
+    "url": "https://thammarith.dev/blog/classical-music-concert-guide/",
+    "published": "2023-10-07T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Windows11/10 OpenSSH Server Public Key authentication",
     "url": "https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/",
     "published": "2023-10-06T10:25:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ตอนนี้ Google Chrome แสดงการใช้งาน memory ในแต่ละ tab ให้แล้ว",
-    "url": "https://www.somkiat.cc/google-chrome-show-memory-in-tab/",
-    "published": "2023-10-06T04:00:01.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -28,12 +40,6 @@
     "title": "ทำ API ให้แสดงไฟล์ PDF บน Express",
     "url": "https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express",
     "published": "2023-09-30T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "XConf Thailand 2023",
-    "url": "https://garden.narze.live/xconf-thailand-2023/",
-    "published": "2023-09-29T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
