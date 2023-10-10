@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#04 (Agile)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/",
+    "published": "2023-10-09T03:00:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "“ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น",
+    "url": "https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/",
+    "published": "2023-10-09T02:54:39.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี",
     "url": "https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/",
@@ -28,18 +40,6 @@
     "title": "วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่",
     "url": "https://thammarith.dev/blog/classical-music-concert-guide/",
     "published": "2023-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Windows11/10 OpenSSH Server Public Key authentication",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/windows11-10-openssh-server-public-key-authentication/",
-    "published": "2023-10-06T10:25:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มาเรียนรู้ mindset การทำ graphic แบบเริ่มต้น ก่อนทำงานจริง",
-    "url": "https://www.mikkipastel.com/basic-graphic-before-advance-level/",
-    "published": "2023-10-05T09:08:31.000Z"
   },
   {
     "site": "kajame.xyz",
