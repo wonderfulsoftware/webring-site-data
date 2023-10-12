@@ -1,21 +1,21 @@
 [
   {
+    "site": "kusumotolab.com",
+    "title": "How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15",
+    "url": "https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/",
+    "published": "2023-10-11T16:21:24.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#04 (Agile)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week04-agile/",
-    "published": "2023-10-09T03:00:00.000Z"
+    "title": "Software Telemetry คือ อะไร",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/",
+    "published": "2023-10-11T13:29:21.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "“ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น",
     "url": "https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/",
     "published": "2023-10-09T02:54:39.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "อยาก Re-Install OS เครื่องบน Cloud ใหม่ แต่ไม่อยาก Terminate เครื่องทิ้ง ทำไงดี",
-    "url": "https://kusumotolab.com/how-to-re-install-os-on-cloub-without-terminate-instance/",
-    "published": "2023-10-08T08:21:55.000Z"
   },
   {
     "site": "somkiat.cc",
