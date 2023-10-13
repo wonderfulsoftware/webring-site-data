@@ -1,27 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ใช้งาน Go Toolchains สำหรับจัดการ version ของ Go",
+    "url": "https://www.somkiat.cc/go-toolchains/",
+    "published": "2023-10-12T13:29:34.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[C#] ลองใช้งานตัว DebuggerDisplayAttribute",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/",
+    "published": "2023-10-12T07:04:14.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15",
     "url": "https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/",
     "published": "2023-10-11T16:21:24.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "Software Telemetry คือ อะไร",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/software-telemetry-%e0%b8%84%e0%b8%b7%e0%b8%ad-%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3/",
-    "published": "2023-10-11T13:29:21.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "“ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น",
     "url": "https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/",
     "published": "2023-10-09T02:54:39.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Docker Tips :: การสร้าง image แบบ multi-architecture",
-    "url": "https://www.somkiat.cc/docker-tips-multi-architecture-image/",
-    "published": "2023-10-08T08:16:24.000Z"
   },
   {
     "site": "jitrak.dev",
