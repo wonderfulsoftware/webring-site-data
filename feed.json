@@ -1,21 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] MOM’S TOUCH @ICS",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/cr-moms-touch-ics/",
+    "published": "2023-10-14T10:20:25.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่มักเจอบ่อย ๆ ใน CI/CD",
+    "url": "https://www.somkiat.cc/mistakes-in-ci-cd/",
+    "published": "2023-10-14T02:41:49.000Z"
+  },
+  {
+    "site": "kajame.xyz",
+    "title": "ทำความรู้จัก .pipe() ใน Node.js",
+    "url": "https://kajame.xyz/blog/what-is-pipe-in-node-js",
+    "published": "2023-10-14T00:00:00.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "Bebe Fit Routine: เล่า Journey การออกกำลังกายตามคอร์สเบเบ้",
     "url": "https://mesodiar.com/bebe-fit-routine-%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2-journey-%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AD%E0%B8%AD%E0%B8%81%E0%B8%81%E0%B8%B3%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A2%E0%B8%95%E0%B8%B2%E0%B8%A1%E0%B8%84%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA%E0%B9%80%E0%B8%9A%E0%B9%80%E0%B8%9A%E0%B9%89-ba6798a2535e?source=rss----698ac1e5dc8c---4",
     "published": "2023-10-13T15:13:06.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน Go Toolchains สำหรับจัดการ version ของ Go",
-    "url": "https://www.somkiat.cc/go-toolchains/",
-    "published": "2023-10-12T13:29:34.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[C#] ลองใช้งานตัว DebuggerDisplayAttribute",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/customize-object-displays-in-the-visual-studio-by-usingdebuggerdisplayattribute/",
-    "published": "2023-10-12T07:04:14.000Z"
   },
   {
     "site": "kusumotolab.com",
@@ -46,12 +52,6 @@
     "title": "วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่",
     "url": "https://thammarith.dev/blog/classical-music-concert-guide/",
     "published": "2023-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "ทำ API ให้แสดงไฟล์ PDF บน Express",
-    "url": "https://kajame.xyz/blog/create-an-api-to-display-pdf-files-with-express",
-    "published": "2023-09-30T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
