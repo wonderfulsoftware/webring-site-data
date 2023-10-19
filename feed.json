@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": ".NET 8 :: Native AOT ใช้ได้ใน ASP.NET Core แล้ว",
+    "url": "https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/",
+    "published": "2023-10-18T16:30:13.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "Distroless Container Images",
     "url": "https://jitrak.dev/posts/post-25-distroless-container-images/",
@@ -10,12 +16,6 @@
     "title": "The Cloud Camp Week#05 (docker compose)",
     "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/",
     "published": "2023-10-16T01:00:47.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่มักเจอบ่อย ๆ ใน CI/CD",
-    "url": "https://www.somkiat.cc/mistakes-in-ci-cd/",
-    "published": "2023-10-14T02:41:49.000Z"
   },
   {
     "site": "kajame.xyz",
