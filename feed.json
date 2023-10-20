@@ -1,21 +1,27 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "เข้าค่าย Compose Camp ชาว Android Developer กัน (ช่วงเช้า)",
+    "url": "https://www.mikkipastel.com/th-compose-camp-first-half/",
+    "published": "2023-10-19T15:29:26.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": ".NET 8 :: Native AOT ใช้ได้ใน ASP.NET Core แล้ว",
-    "url": "https://www.somkiat.cc/net-8-native-aot-with-aspnet-core/",
-    "published": "2023-10-18T16:30:13.000Z"
+    "title": "สวัสดี Node.js 21",
+    "url": "https://www.somkiat.cc/nodejs-21/",
+    "published": "2023-10-19T07:38:29.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[micro-learning] สรุป Verbal to Visual Note Taking",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/verbal-to-visual/",
+    "published": "2023-10-19T02:33:00.000Z"
   },
   {
     "site": "jitrak.dev",
     "title": "Distroless Container Images",
     "url": "https://jitrak.dev/posts/post-25-distroless-container-images/",
     "published": "2023-10-17T19:19:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#05 (docker compose)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week05-docker-compose/",
-    "published": "2023-10-16T01:00:47.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -34,12 +40,6 @@
     "title": "How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15",
     "url": "https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/",
     "published": "2023-10-11T16:21:24.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "“ความลับที่คนประสบความสำเร็จไม่เคยบอกคุณ” ที่รู้แล้ว ย่นเวลาให้เราประสบความสำเร็จเร็วขึ้น",
-    "url": "https://www.mikkipastel.com/the-secret-of-enterpreneurial-success/",
-    "published": "2023-10-09T02:54:39.000Z"
   },
   {
     "site": "garden.narze.live",
@@ -80,7 +80,7 @@
   {
     "site": "karnwong.me",
     "title": "Spark on Kubernetes",
-    "url": "https://www.karnwong.me/posts/2023/09/spark-on-kubernetes/",
+    "url": "https://karnwong.me/posts/2023/09/spark-on-kubernetes/",
     "published": "2023-09-12T13:04:38.000Z"
   },
   {
