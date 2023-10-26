@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "LVM คือ อะไร ?",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/what-is-logical-volume-manager-lvm/",
+    "published": "2023-10-25T11:03:55.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ตอบคำถามเรื่อง การทดสอบ Mobile app กับระบบ network",
-    "url": "https://www.somkiat.cc/mock-api-server-in-mobile-testing/",
-    "published": "2023-10-24T18:17:08.000Z"
+    "title": "ทำความรู้จักกับ Kamal หรือ MRSK ของ 37Signals",
+    "url": "https://www.somkiat.cc/hello-kamal/",
+    "published": "2023-10-25T07:07:24.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -12,10 +18,10 @@
     "published": "2023-10-23T02:05:51.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#06 (K8S Part1)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week06-k8s-p1/",
-    "published": "2023-10-23T00:25:00.000Z"
+    "site": "garden.narze.live",
+    "title": "Workstation Popcorn",
+    "url": "https://garden.narze.live/workstation-popcorn/",
+    "published": "2023-10-23T00:00:00.000Z"
   },
   {
     "site": "janescience.com",
@@ -70,12 +76,6 @@
     "title": "How to fix cannot boot when change EC2 instance type from Xen to Nitro for SUSE Linux Enterprise for SAP 15",
     "url": "https://kusumotolab.com/how-to-fix-cannot-boot-when-change-ec2-instance-type-from-xen-to-nitro-for-suse-linux-enterprise-for-sap-15/",
     "published": "2023-10-11T16:21:24.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "RubyConf TH 2023",
-    "url": "https://garden.narze.live/rubyconf-th-2023/",
-    "published": "2023-10-07T00:00:00.000Z"
   },
   {
     "site": "thammarith.dev",
