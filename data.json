@@ -357,19 +357,21 @@
     "screenshotUpdatedAt": "2023-05-06T00:59:09.347Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-10-23T04:15:17.810Z"
+    "lastUpdated": "2023-10-29T17:26:30.162Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "v4Qcn|~V?bD%8^E2s.xt00DhD*%N4nozxuRj_3?vxtM{WYadRkog-U4os:xu",
-    "screenshotUpdatedAt": "2023-10-23T04:15:03.097Z",
+    "blurhash": "v3QmCr-.-=4n00IWxu%L004nRP?a4:~pIpE1?GNfxtjY%gnhof%MtTaJM{NG",
+    "screenshotUpdatedAt": "2023-10-29T17:26:13.221Z",
     "description": null,
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-10-23T04:15:03.097Z"
+    "lastUpdated": "2023-10-29T17:26:13.221Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -1328,14 +1330,15 @@
   "yuttakhanb.dev": {
     "url": "https://yuttakhanb.dev/",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yuttakhanb.dev_375w@2x.png",
-    "blurhash": "v8QTQ7=otRt6~Sozf6aexGniWBkC?bozM{ofWAaeWBWBoKj[fkj]R*bHWBWB",
-    "screenshotUpdatedAt": "2023-10-26T01:09:52.435Z",
+    "blurhash": "v8QTQ7=otRt6~Sozf6aexGniWBkC?bozM{ofWAaeWBWBoKj[fkj]R*bHWBae",
+    "screenshotUpdatedAt": "2023-10-29T17:28:11.504Z",
     "description": "Personal site and journal.",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software/#/yuttakhanb.dev"
     },
-    "lastUpdated": "2023-10-27T01:10:54.402Z"
+    "lastUpdated": "2023-10-29T17:28:11.504Z",
+    "number": 93
   },
   "nayuki.cyou": {
     "url": "https://nayuki.cyou",
@@ -1360,19 +1363,21 @@
       "rect": "16:19:18:527.8125",
       "href": "https://webring.wonderful.software#mistertfy64.com"
     },
-    "lastUpdated": "2023-10-27T01:11:05.669Z"
+    "lastUpdated": "2023-10-29T17:28:21.528Z",
+    "number": 94
   },
   "yosiket.xyz": {
     "url": "https://yosiket.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yosiket.xyz_375w@2x.png",
     "blurhash": "vIOg7?00~CVX000}xZVrLgKQads8EMi{wcW=o~%KRjXT$*$|NtS%s+r?WYNe",
-    "screenshotUpdatedAt": "2023-10-27T01:11:20.519Z",
+    "screenshotUpdatedAt": "2023-10-29T17:28:38.269Z",
     "description": "สวัสดี! ยินดีต้อนรับที่นี้คือหน้าแนะนำตัวเองของเรา และก็รวมผลงานที่ผมทำไว้บางชิ้น สามารถเรียกผมได้ว่าโยสิเกตุ หรือ Yosiket เริ่มต้นทำเว็บช็อป 2000 บาท",
     "backlink": {
       "rect": "100:24:137.5:2800.796875",
       "href": "https://webring.wonderful.software#yosiket.xyz"
     },
-    "lastUpdated": "2023-10-27T01:11:20.519Z"
+    "lastUpdated": "2023-10-29T17:28:38.269Z",
+    "number": 95
   },
   "pichy.dev": {
     "url": "https://pichy.dev",
@@ -1384,7 +1389,8 @@
       "rect": "134:35:120.5:2965.5",
       "href": "https://webring.wonderful.software#pichy.dev"
     },
-    "lastUpdated": "2023-10-28T01:08:15.691Z"
+    "lastUpdated": "2023-10-29T17:28:52.196Z",
+    "number": 96
   },
   "pinpong.co": {
     "url": "https://pinpong.co",
@@ -1396,7 +1402,8 @@
       "rect": "28:22:226:124",
       "href": "https://webring.wonderful.software/#/pinpong.co"
     },
-    "lastUpdated": "2023-10-28T01:08:21.158Z"
+    "lastUpdated": "2023-10-29T17:28:58.115Z",
+    "number": 97
   },
   "worathon.space": {
     "url": "https://worathon.space",
@@ -1499,7 +1506,8 @@
       "rect": "32:32:8:8",
       "href": "https://webring.wonderful.software#hnaxny.xyz"
     },
-    "lastUpdated": "2023-10-27T01:13:03.992Z"
+    "lastUpdated": "2023-10-29T17:29:08.884Z",
+    "number": 104
   },
   "profile.mwn99.com": {
     "url": "https://profile.mwn99.com",
@@ -1552,5 +1560,18 @@
     },
     "lastUpdated": "2023-10-29T01:19:27.102Z",
     "number": 108
+  },
+  "anewlife.dev": {
+    "url": "https://anewlife.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/anewlife.dev_375w@2x.png",
+    "blurhash": "vNR3Wgt6ofbc~qM{ayt700a$s;oe?ct6RjRkMxt7ofRj%NflNGoJM_f5oyWC",
+    "screenshotUpdatedAt": "2023-10-29T17:29:19.446Z",
+    "description": "Share insights and experiences through a blog that compiles knowledge gained from my personal journey.",
+    "backlink": {
+      "rect": "32:32:20:24",
+      "href": "https://webring.wonderful.software#anewlife.dev"
+    },
+    "lastUpdated": "2023-10-29T17:29:19.446Z",
+    "number": 109
   }
 }

@@ -54,6 +54,12 @@
     "published": "2023-10-19T15:29:26.000Z"
   },
   {
+    "site": "anewlife.dev",
+    "title": "มาลองสร้าง Cloud Workstations โดยใช้ gcloud CLI กัน",
+    "url": "https://www.anewlife.dev/post/lets-create-cloud-workstations/",
+    "published": "2023-10-18T17:00:00.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "Distroless Container Images",
     "url": "https://jitrak.dev/posts/post-25-distroless-container-images/",

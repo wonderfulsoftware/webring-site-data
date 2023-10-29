@@ -70,6 +70,7 @@
       <outline text="siravijbb.me" title="siravijbb.me" type="rss" xmlUrl="https://siravijbb.me/feed.rss" htmlUrl="https://siravijbb.me"/>
       <outline text="guitarpawat.me" title="guitarpawat.me" type="rss" xmlUrl="https://guitarpawat.me/posts/index.xml" htmlUrl="https://guitarpawat.me"/>
       <outline text="thammarith.dev" title="thammarith.dev" type="rss" xmlUrl="https://thammarith.dev/rss.xml" htmlUrl="https://thammarith.dev"/>
+      <outline text="anewlife.dev" title="anewlife.dev" type="rss" xmlUrl="https://anewlife.dev/rss.xml" htmlUrl="https://anewlife.dev"/>
     </outline>
   </body>
 </opml>
