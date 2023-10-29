@@ -1,5 +1,11 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม",
+    "url": "https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/",
+    "published": "2023-10-28T08:37:28.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "Cloud services for my personal projects in 2023",
     "url": "https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023",
@@ -40,12 +46,6 @@
     "title": "ลองใช้ Built-in env file ใน Node 20",
     "url": "https://www.anuwong.com/blog/node-20-env-with-confident/",
     "published": "2023-10-21T17:24:49.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "การสร้าง Coroutine Task in Python",
-    "url": "https://www.poolsawat.com/how-to-create-coroutine-task-in-python/",
-    "published": "2023-10-21T02:06:30.000Z"
   },
   {
     "site": "mikkipastel.com",
