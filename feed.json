@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#07 (K8S Part2)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/10/the-cloud-camp-week07-k8s-part2/",
+    "published": "2023-10-30T03:00:00.000Z"
+  },
+  {
+    "site": "tinarskii.com",
+    "title": "แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023",
+    "url": "https://tinarskii.com/articles/htbf2023/",
+    "published": "2023-10-30T00:00:00.000Z"
+  },
+  {
     "site": "poolsawat.com",
     "title": "สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม",
     "url": "https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/",
@@ -10,12 +22,6 @@
     "title": "Cloud services for my personal projects in 2023",
     "url": "https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023",
     "published": "2023-10-27T14:28:38.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to setup GIT with SSH Authenication",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/how-to-setup-git-with-ssh-authenication/",
-    "published": "2023-10-26T23:25:06.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -100,12 +106,6 @@
     "title": "Why your Quarkus reactive codes are not executing?",
     "url": "https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/",
     "published": "2023-09-17T17:13:00.000Z"
-  },
-  {
-    "site": "tinarskii.com",
-    "title": "แชร์ประสบการณ์ การเรียนรู้เกือบทุกสิ่ง ฉบับนอกห้องเรียน",
-    "url": "https://tinarskii.com/articles/learn/",
-    "published": "2023-09-16T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
