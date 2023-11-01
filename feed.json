@@ -102,10 +102,22 @@
     "published": "2023-10-07T00:00:00.000Z"
   },
   {
+    "site": "rayriffy.com",
+    "title": "Connect SSH hostname with different address",
+    "url": "https://rayriffy.com/garden/ssh-hostname-multi-address/",
+    "published": "2023-10-02T12:41:00.000Z"
+  },
+  {
     "site": "thiti.dev",
     "title": "Bun คืออะไร?",
     "url": "https://thiti.dev/blog/105/",
     "published": "2023-09-24T08:00:00.000Z"
+  },
+  {
+    "site": "ntsd.dev",
+    "title": "Deploy Astro Hybrid rendering site on Clouldflare Pages",
+    "url": "https://ntsd.dev/deploy-astro-on-clouflare-page/",
+    "published": "2023-09-21T17:00:00.000Z"
   },
   {
     "site": "guitarpawat.me",
@@ -168,12 +180,6 @@
     "published": "2023-07-15T00:00:00.000Z"
   },
   {
-    "site": "ntsd.dev",
-    "title": "Separate critical CSS and non-critical CSS for faster page load",
-    "url": "https://ntsd.dev/extract-cricital-css/",
-    "published": "2023-07-06T17:00:00.000Z"
-  },
-  {
     "site": "nuttdam.com",
     "title": "AirPlay, HomeKit ข้าม VLAN ด้วย Avahi",
     "url": "https://www.nuttdam.com/2023/05/airplay-homekit-across-vlan/",
@@ -202,12 +208,6 @@
     "title": "[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard)",
     "url": "https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/",
     "published": "2023-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Riffy's trip across Southern Japan within 1 week",
-    "url": "https://blog.rayriffy.com/riffy-japan-idolmaster-trip-2023/",
-    "published": "2023-03-14T06:00:00.000Z"
   },
   {
     "site": "yothinix.com",

@@ -327,7 +327,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2023-10-23T04:14:39.661Z"
+    "lastUpdated": "2023-11-01T09:06:54.946Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -348,7 +349,8 @@
       "rect": "32:96:318.59375:0",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-10-23T04:14:52.431Z"
+    "lastUpdated": "2023-11-01T09:07:07.827Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -357,7 +359,8 @@
     "screenshotUpdatedAt": "2023-05-06T00:59:09.347Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2023-10-30T18:48:54.376Z"
+    "lastUpdated": "2023-11-01T09:07:29.952Z",
+    "number": 26
   },
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
@@ -369,7 +372,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-10-30T18:48:41.925Z"
+    "lastUpdated": "2023-11-01T09:07:18.707Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -381,7 +385,8 @@
       "rect": "40:44:167.5:321",
       "href": "https://webring.wonderful.software#doopdip.me"
     },
-    "lastUpdated": "2023-10-30T18:49:01.570Z"
+    "lastUpdated": "2023-11-01T09:07:34.973Z",
+    "number": 27
   },
   "dont.works": {
     "url": "https://dont.works",
@@ -1330,14 +1335,15 @@
   "yuttakhanb.dev": {
     "url": "https://yuttakhanb.dev/",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yuttakhanb.dev_375w@2x.png",
-    "blurhash": "v8QTQ7=otRt6~Sozf6aexGniWBkC?bozM{ofWAaeWBWBoKj[fkj]R*bHWBWB",
-    "screenshotUpdatedAt": "2023-10-31T01:10:28.573Z",
+    "blurhash": "v8QTQ7=otRt6~Sozf6aexGniWBkC?bozM{ofWAaeWBWBoKj[fkj]R*bHWBae",
+    "screenshotUpdatedAt": "2023-11-01T09:11:18.954Z",
     "description": "Personal site and journal.",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software/#/yuttakhanb.dev"
     },
-    "lastUpdated": "2023-10-31T01:10:28.573Z"
+    "lastUpdated": "2023-11-01T09:11:18.954Z",
+    "number": 93
   },
   "nayuki.cyou": {
     "url": "https://nayuki.cyou",
@@ -1362,7 +1368,8 @@
       "rect": "16:19:18:527.8125",
       "href": "https://webring.wonderful.software#mistertfy64.com"
     },
-    "lastUpdated": "2023-10-30T18:53:46.025Z"
+    "lastUpdated": "2023-11-01T09:11:29.220Z",
+    "number": 94
   },
   "yosiket.xyz": {
     "url": "https://yosiket.xyz",
@@ -1413,7 +1420,8 @@
       "rect": "20:17:177.5:5210.625",
       "href": "https://webring.wonderful.software#worathon.space"
     },
-    "lastUpdated": "2023-10-30T18:54:37.703Z"
+    "lastUpdated": "2023-11-01T09:11:42.022Z",
+    "number": 98
   },
   "anuwataravis.dev": {
     "url": "https://anuwataravis.dev",
