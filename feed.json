@@ -1,15 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "bcdedit enum options",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/bcdedit-enum-options/",
+    "published": "2023-11-02T10:26:07.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "ระบบติดตามพัสดุของบริษัทขนส่งทั่วประเทศ",
+    "url": "https://www.poolsawat.com/parcel-tracking/",
+    "published": "2023-11-02T09:56:31.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Playwright 1.39 !!",
+    "url": "https://www.somkiat.cc/hello-playwright-1-39/",
+    "published": "2023-11-02T06:25:22.000Z"
+  },
+  {
+    "site": "nitpum.com",
+    "title": "Use nanoid in WeChat Mini Program",
+    "url": "https://nitpum.com/post/wechat-miniprogram-nanoid/",
+    "published": "2023-11-02T03:25:06.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - Thanks for playing DPC2023!",
     "url": "https://lucian.solutions/blog/thanks-for-playing-dpc2023",
     "published": "2023-10-31T15:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Fixed DevExpress.XtraPrinting Throw PlatformNotSupportedException",
-    "url": "https://naiwaen.debuggingsoft.com/2023/10/fixed-devexpress-error/",
-    "published": "2023-10-31T14:39:25.000Z"
   },
   {
     "site": "tinarskii.com",
@@ -18,22 +36,10 @@
     "published": "2023-10-30T00:00:00.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม",
-    "url": "https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/",
-    "published": "2023-10-28T08:37:28.000Z"
-  },
-  {
     "site": "llun.me",
     "title": "Cloud services for my personal projects in 2023",
     "url": "https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023",
     "published": "2023-10-27T14:28:38.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Kamal หรือ MRSK ของ 37Signals",
-    "url": "https://www.somkiat.cc/hello-kamal/",
-    "published": "2023-10-25T07:07:24.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -256,12 +262,6 @@
     "title": "Year in Review 2022",
     "url": "https://chameleontk.github.io/year-in-review-2022/",
     "published": "2023-01-02T00:00:00.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "ดู z-index ง่ายๆ ด้วย 3D View",
-    "url": "https://nitpum.com/post/edge-z-index-tool/",
-    "published": "2022-12-31T11:01:43.000Z"
   },
   {
     "site": "microbenz.in.th",
