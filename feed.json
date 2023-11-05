@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "การทดสอบ Flutter app",
+    "url": "https://www.somkiat.cc/testing-your-flutter-app/",
+    "published": "2023-11-05T10:57:24.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - City of Light 2024 🌃",
     "url": "https://lucian.solutions/blog/city-of-light-2024",
@@ -22,12 +28,6 @@
     "title": "Sine/cosine to the odd powers",
     "url": "https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html",
     "published": "2023-11-04T04:19:34.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ตอบคำถามการนำ Redis มาใช้งาน",
-    "url": "https://www.somkiat.cc/redis-usecase/",
-    "published": "2023-11-04T03:48:55.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -166,12 +166,6 @@
     "title": "API Architecture Styles",
     "url": "https://tech.duckfollow.co/flow/api-architecture",
     "published": "2023-08-27T18:00:02.000Z"
-  },
-  {
-    "site": "siravijbb.me",
-    "title": "[Presentation] Universal Motor",
-    "url": "https://siravijbb.me/blog/universal-motor-presentation/",
-    "published": "2023-08-21T11:00:00.000Z"
   },
   {
     "site": "boonsong.dev",
