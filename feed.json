@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#08 (K8S Part3: Store Data)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week08-k8s-part3/",
+    "published": "2023-11-06T03:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การทดสอบ Flutter app",
     "url": "https://www.somkiat.cc/testing-your-flutter-app/",
@@ -28,12 +34,6 @@
     "title": "Sine/cosine to the odd powers",
     "url": "https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html",
     "published": "2023-11-04T04:19:34.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "DB2 Data Type DECFLOAT แล้ว SQL Server ใช้อะไร ?",
-    "url": "https://naiwaen.debuggingsoft.com/2023/11/db2-decfloat-data-type-mapping-to-azure-sql-server/",
-    "published": "2023-11-03T02:34:47.000Z"
   },
   {
     "site": "poolsawat.com",
