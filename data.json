@@ -327,7 +327,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2023-11-05T00:59:23.725Z"
+    "lastUpdated": "2023-11-07T09:26:50.195Z",
+    "number": 23
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -348,7 +349,8 @@
       "rect": "32:96:318.59375:0",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2023-11-05T00:59:35.369Z"
+    "lastUpdated": "2023-11-07T09:27:09.008Z",
+    "number": 24
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -363,14 +365,15 @@
   "somkiat.cc": {
     "url": "https://www.somkiat.cc",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/somkiat.cc_375w@2x.png",
-    "blurhash": "vBPQ8700IU%Mxa%Nt7WB_M?ux[RQIW%La}S10000M_%M~q-;t7Rj%h%fWXRk",
-    "screenshotUpdatedAt": "2023-11-05T00:59:46.427Z",
+    "blurhash": "vGPZu=4mRjxuMxWCoLoL~q_3xuM{E1t6WCbH4T9FRjxut7j[j[ay_3-;ofRj",
+    "screenshotUpdatedAt": "2023-11-07T09:27:23.193Z",
     "description": null,
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2023-11-05T00:59:46.427Z"
+    "lastUpdated": "2023-11-07T09:27:23.193Z",
+    "number": 25
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -544,7 +547,8 @@
       "rect": "75:62:300:60",
       "href": "https://webring.wonderful.software#thanapon.info"
     },
-    "lastUpdated": "2023-11-06T00:59:48.702Z"
+    "lastUpdated": "2023-11-07T09:27:40.404Z",
+    "number": 39
   },
   "mr.touno.io": {
     "url": "https://mr.touno.io",
@@ -668,7 +672,8 @@
       "rect": "24:28:241.5:264",
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2023-11-04T00:56:07.682Z"
+    "lastUpdated": "2023-11-07T09:27:29.929Z",
+    "number": 29
   },
   "bellmcp.work": {
     "url": "https://bellmcp.work",
@@ -1588,5 +1593,8 @@
     },
     "lastUpdated": "2023-11-07T01:11:25.254Z",
     "number": 103
+  },
+  "tantatorn.xyz": {
+    "url": "https://tantatorn.xyz"
   }
 }

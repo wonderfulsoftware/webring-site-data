@@ -36,10 +36,10 @@
     "published": "2023-11-04T04:19:34.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "ระบบติดตามพัสดุของบริษัทขนส่งทั่วประเทศ",
-    "url": "https://www.poolsawat.com/parcel-tracking/",
-    "published": "2023-11-02T09:56:31.000Z"
+    "site": "tantatorn.xyz",
+    "title": "About this blog",
+    "url": "https://tantatorn.xyz/posts/about-this-blog/",
+    "published": "2023-11-04T00:00:00.000Z"
   },
   {
     "site": "nitpum.com",
@@ -52,6 +52,12 @@
     "title": "แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023",
     "url": "https://tinarskii.com/articles/htbf2023/",
     "published": "2023-10-30T00:00:00.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "สร้างเว็บด้วย Laravel 9 + Vue 3 + Inertiajs + bootstrap5 ทำงานได้ดีเยี่ยม",
+    "url": "https://www.poolsawat.com/create-spa-web-app-with-laravel9-vue3-inertiajs-bootstrap5/",
+    "published": "2023-10-28T08:37:28.000Z"
   },
   {
     "site": "llun.me",
