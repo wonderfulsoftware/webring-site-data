@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "มาอัพเดตเทคกับงาน DevFest Bangkok 2023",
+    "url": "https://www.mikkipastel.com/devfest-bangkok-2023/",
+    "published": "2023-11-07T12:44:38.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "The Cloud Camp Week#08 (K8S Part3: Store Data)",
     "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week08-k8s-part3/",
@@ -88,12 +94,6 @@
     "title": "ลองใช้ Built-in env file ใน Node 20",
     "url": "https://www.anuwong.com/blog/node-20-env-with-confident/",
     "published": "2023-10-21T17:24:49.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เข้าค่าย Compose Camp ชาว Android Developer กัน (ช่วงเช้า)",
-    "url": "https://www.mikkipastel.com/th-compose-camp-first-half/",
-    "published": "2023-10-19T15:29:26.000Z"
   },
   {
     "site": "anewlife.dev",
