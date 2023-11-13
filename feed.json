@@ -1,15 +1,21 @@
 [
   {
+    "site": "thanapon.info",
+    "title": "[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s",
+    "url": "https://thanapon.info/aws-eks-cluster-autoscaler/",
+    "published": "2023-11-12T10:09:14.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/",
+    "published": "2023-11-12T03:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาดูการเปลี่ยนแปลงใน Robot Framework 7.0 alpha 1",
     "url": "https://www.somkiat.cc/chnage-robot-framework-7-0-alpha-1/",
     "published": "2023-11-10T03:00:59.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Ubuntu: Extend your LVM (Disk) space",
-    "url": "https://naiwaen.debuggingsoft.com/2023/11/ubuntu-extend-your-lvm-disk-space/",
-    "published": "2023-11-09T13:08:23.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -220,12 +226,6 @@
     "title": "[Write-up] Cyber Apocalypse 2023 - UnEarthly Shop (hard)",
     "url": "https://suam.wtf/posts/write-up-cyber-apocalypse-2023-unearthly-shop/",
     "published": "2023-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "ทำความเข้าใจ “MQTT with TLS” ใน AWS IoT Core สักหน่อย",
-    "url": "https://thanapon.info/mqtt-with-tls-on-aws-iot-core/",
-    "published": "2023-03-05T15:14:16.000Z"
   },
   {
     "site": "chrisza.me",
