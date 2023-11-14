@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "การใช้งาน Docker compose watch สำหรับ Vite",
+    "url": "https://www.somkiat.cc/docker-compose-watch-with-vite/",
+    "published": "2023-11-13T17:33:45.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "$\\exists V {\\subseteq} \\lbrace v_1, \\dots, v_n \\rbrace \\colon \\sum V \\equiv 0 \\pmod{n}$",
+    "url": "https://neizod.dev/2023/11/13/subset-sum-on-modular-arithmetic.html",
+    "published": "2023-11-13T09:06:46.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s",
     "url": "https://thanapon.info/aws-eks-cluster-autoscaler/",
@@ -7,15 +19,9 @@
   },
   {
     "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#09 (K8S Part4: Resource/Health/Scale/Scheduler)",
+    "title": "The Cloud Camp Week#09 (K8S Part4: Resource/HealthCheck/Scale/Scheduler)",
     "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/",
     "published": "2023-11-12T03:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดูการเปลี่ยนแปลงใน Robot Framework 7.0 alpha 1",
-    "url": "https://www.somkiat.cc/chnage-robot-framework-7-0-alpha-1/",
-    "published": "2023-11-10T03:00:59.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -40,12 +46,6 @@
     "title": "แชร์ประสบการณ์การเดินทางสู่ DIY Car Detailer ตลอด 1 ปีที่ผ่านมา",
     "url": "https://yothinix.com/detailing-journey/",
     "published": "2023-11-04T07:54:39.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Sine/cosine to the odd powers",
-    "url": "https://neizod.dev/2023/11/04/sine-cosine-to-the-odd-power.html",
-    "published": "2023-11-04T04:19:34.000Z"
   },
   {
     "site": "tantatorn.xyz",
