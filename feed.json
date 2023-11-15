@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "บันทึก Migrate .NET Framework > .NET6",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/",
+    "published": "2023-11-14T01:30:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การใช้งาน Docker compose watch สำหรับ Vite",
     "url": "https://www.somkiat.cc/docker-compose-watch-with-vite/",
@@ -16,12 +22,6 @@
     "title": "[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s",
     "url": "https://thanapon.info/aws-eks-cluster-autoscaler/",
     "published": "2023-11-12T10:09:14.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#09 (K8S Part4: Resource/HealthCheck/Scale/Scheduler)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week09-k8s-part4/",
-    "published": "2023-11-12T03:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -282,12 +282,6 @@
     "published": "2022-09-11T10:11:58.000Z"
   },
   {
-    "site": "jojoee.com",
-    "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
-    "url": "https://jojoee.com/promptpay-shortcode-test/",
-    "published": "2022-05-24T16:05:20.000Z"
-  },
-  {
     "site": "blog.tawanchai.com",
     "title": "รีวิววิศวะคอม ม.เกษตร (บางเขน) ในปี 2022",
     "url": "https://blog.tawanchai.com/cpe-ku-review-2022",
@@ -340,6 +334,12 @@
     "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
     "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
     "published": "2021-01-25T12:47:49.000Z"
+  },
+  {
+    "site": "jojoee.com",
+    "title": "คาถาบูชาชูชก (พ่อปู่ชูชก)",
+    "url": "https://jojoee.com/%e0%b8%84%e0%b8%b2%e0%b8%96%e0%b8%b2%e0%b8%9a%e0%b8%b9%e0%b8%8a%e0%b8%b2%e0%b8%8a%e0%b8%b9%e0%b8%8a%e0%b8%81-%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%9b%e0%b8%b9%e0%b9%88%e0%b8%8a%e0%b8%b9%e0%b8%8a%e0%b8%81/",
+    "published": "2020-10-15T06:46:48.000Z"
   },
   {
     "site": "unnawut.com",
