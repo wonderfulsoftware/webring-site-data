@@ -1,15 +1,21 @@
 [
   {
-    "site": "debuggingsoft.com",
-    "title": "บันทึก Migrate .NET Framework > .NET6",
-    "url": "https://naiwaen.debuggingsoft.com/2023/11/migrate-net-framework-to-net-core-net6-note/",
-    "published": "2023-11-14T01:30:00.000Z"
+    "site": "somkiat.cc",
+    "title": "สวัสดี .NET Aspire",
+    "url": "https://www.somkiat.cc/hello-dotnet-aspire/",
+    "published": "2023-11-15T11:43:28.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "การใช้งาน Docker compose watch สำหรับ Vite",
-    "url": "https://www.somkiat.cc/docker-compose-watch-with-vite/",
-    "published": "2023-11-13T17:33:45.000Z"
+    "site": "debuggingsoft.com",
+    "title": "สรุป Software Architecture Meetup 2023",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/software-architecture-meetup-2023/",
+    "published": "2023-11-15T04:56:18.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Using Apache Iceberg to reduce data lake operations overhead",
+    "url": "https://karnwong.me/posts/2023/11/using-apache-iceberg-to-reduce-data-lake-operations-overhead/",
+    "published": "2023-11-15T04:50:38.000Z"
   },
   {
     "site": "neizod.dev",
@@ -34,12 +40,6 @@
     "title": "Postcard - City of Light 2024 🌃",
     "url": "https://lucian.solutions/blog/city-of-light-2024",
     "published": "2023-11-04T18:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Reduce operational costs with terraform",
-    "url": "https://karnwong.me/posts/2023/11/reduce-operational-costs-with-terraform/",
-    "published": "2023-11-04T11:52:45.000Z"
   },
   {
     "site": "yothinix.com",
@@ -282,6 +282,12 @@
     "published": "2022-09-11T10:11:58.000Z"
   },
   {
+    "site": "jojoee.com",
+    "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
+    "url": "https://jojoee.com/promptpay-shortcode-test/",
+    "published": "2022-05-24T16:05:20.000Z"
+  },
+  {
     "site": "blog.tawanchai.com",
     "title": "รีวิววิศวะคอม ม.เกษตร (บางเขน) ในปี 2022",
     "url": "https://blog.tawanchai.com/cpe-ku-review-2022",
@@ -334,12 +340,6 @@
     "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
     "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
     "published": "2021-01-25T12:47:49.000Z"
-  },
-  {
-    "site": "jojoee.com",
-    "title": "คาถาบูชาชูชก (พ่อปู่ชูชก)",
-    "url": "https://jojoee.com/%e0%b8%84%e0%b8%b2%e0%b8%96%e0%b8%b2%e0%b8%9a%e0%b8%b9%e0%b8%8a%e0%b8%b2%e0%b8%8a%e0%b8%b9%e0%b8%8a%e0%b8%81-%e0%b8%9e%e0%b9%88%e0%b8%ad%e0%b8%9b%e0%b8%b9%e0%b9%88%e0%b8%8a%e0%b8%b9%e0%b8%8a%e0%b8%81/",
-    "published": "2020-10-15T06:46:48.000Z"
   },
   {
     "site": "unnawut.com",
