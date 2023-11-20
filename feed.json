@@ -1,15 +1,21 @@
 [
   {
-    "site": "debuggingsoft.com",
-    "title": "สรุป Backend Meetup 2023",
-    "url": "https://naiwaen.debuggingsoft.com/2023/11/summary-backend-meetup-2023/",
-    "published": "2023-11-15T22:42:00.000Z"
+    "site": "yuttakhanb.dev",
+    "title": "Vendor code splitting in Vite",
+    "url": "https://yuttakhanb.dev/posts/vendor-code-splitting-vite/",
+    "published": "2023-11-19T11:20:51.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "สวัสดี .NET Aspire",
-    "url": "https://www.somkiat.cc/hello-dotnet-aspire/",
-    "published": "2023-11-15T11:43:28.000Z"
+    "title": "ว่าด้วยเรื่องของ EventCatalog",
+    "url": "https://www.somkiat.cc/hello-eventcatalog/",
+    "published": "2023-11-19T07:33:48.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#10 (CI/CD – GitHub Action)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/11/the-cloud-camp-week10-ci-cd/",
+    "published": "2023-11-19T04:58:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -76,12 +82,6 @@
     "title": "Cloud services for my personal projects in 2023",
     "url": "https://www.llun.me/posts/dev/2023-10-27-cloud-services-in-2023",
     "published": "2023-10-27T14:28:38.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "Short note from book \"metamorphosis\"",
-    "url": "https://yuttakhanb.dev/posts/short-note-from-book-metamorphosis/",
-    "published": "2023-10-23T02:05:51.000Z"
   },
   {
     "site": "garden.narze.live",
