@@ -90,12 +90,6 @@
     "published": "2023-10-23T00:00:00.000Z"
   },
   {
-    "site": "janescience.com",
-    "title": "Deploy Spring-Boot Application to Kubernetes(Minikube) with Jenkins CI/CD Pipeline",
-    "url": "https://janescience.com/blog/jenkins-docker-kubernetes",
-    "published": "2023-10-23T00:00:00.000Z"
-  },
-  {
     "site": "anuwong.com",
     "title": "ลองใช้ Built-in env file ใน Node 20",
     "url": "https://www.anuwong.com/blog/node-20-env-with-confident/",
@@ -232,6 +226,12 @@
     "title": "Dear Security, be a part of the solution",
     "url": "https://chrisza.me/security-part-of-solution/",
     "published": "2023-02-25T17:00:00.000Z"
+  },
+  {
+    "site": "janescience.com",
+    "title": "ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด",
+    "url": "https://janescience.com/blog/vue-warning",
+    "published": "2023-02-24T00:00:00.000Z"
   },
   {
     "site": "shayennn.com",
