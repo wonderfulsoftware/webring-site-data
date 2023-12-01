@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "ทวิภาวะ จุด-เส้นตรง",
+    "url": "https://neizod.dev/2023/11/30/point-line-duality.html",
+    "published": "2023-11-30T14:45:52.000Z"
+  },
+  {
+    "site": "boonsong.dev",
+    "title": "Pattern: Strangler Fig Application #1",
+    "url": "https://www.boonsong.dev/strangler-fig-application-1",
+    "published": "2023-11-30T01:10:51.767Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Serverless real-time machine learning inference with AWS",
     "url": "https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/",
@@ -34,12 +46,6 @@
     "title": "Summary of hacktoberfest 2023",
     "url": "https://yuttakhanb.dev/posts/summary-hacktoberfest-2023/",
     "published": "2023-11-24T09:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "ฟิสิกส์พื้นฐานของการแล่นเรือใบ",
-    "url": "https://neizod.dev/2023/11/22/simple-physics-of-sailing.html",
-    "published": "2023-11-22T05:21:12.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -172,12 +178,6 @@
     "title": "API Architecture Styles",
     "url": "https://tech.duckfollow.co/flow/api-architecture",
     "published": "2023-08-27T18:00:02.000Z"
-  },
-  {
-    "site": "boonsong.dev",
-    "title": "Technical Debt กับ Scrum Teams",
-    "url": "https://www.boonsong.dev/technical-debt-and-scrum-teams",
-    "published": "2023-08-03T10:26:13.000Z"
   },
   {
     "site": "taoisaman.com",
