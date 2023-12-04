@@ -1,15 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Distroless image",
-    "url": "https://www.somkiat.cc/distroless-image/",
-    "published": "2023-12-03T16:04:55.000Z"
+    "title": "การเปิดโปรแกรม IntelliJ IDEA CE แบบสวย ๆ บน Mac",
+    "url": "https://www.somkiat.cc/unzip-and-open-intellij-idea-ce-on-mac/",
+    "published": "2023-12-04T15:11:55.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#12 (Observability#1)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week12-observability-part1/",
-    "published": "2023-12-03T06:00:00.000Z"
+    "title": "Robocopy ERROR 3 (0x00000003) Accessing Source Directory C:\\172.1.0.56\\gen\\",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/robocopy-error-3-0x00000003-accessing-source-directory-c172-1-0-56gen/",
+    "published": "2023-12-04T09:10:00.000Z"
+  },
+  {
+    "site": "anewlife.dev",
+    "title": "มา install ArgoCD บน GKE Cluster กัน",
+    "url": "https://www.anewlife.dev/post/install-argocd-on-gke-cluster/",
+    "published": "2023-12-03T17:00:00.000Z"
+  },
+  {
+    "site": "p4perf4ce.me",
+    "title": "New Blog | บ้านใหม่",
+    "url": "https://p4perf4ce.me/articles/23/new-home",
+    "published": "2023-12-02T21:27:00.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -72,10 +84,10 @@
     "published": "2023-11-04T07:54:39.000Z"
   },
   {
-    "site": "anewlife.dev",
-    "title": "มา install ArgoCD บน GKE Cluster กัน",
-    "url": "https://www.anewlife.dev/post/install-argocd-on-gke-cluster/",
-    "published": "2023-11-03T17:00:00.000Z"
+    "site": "blog.oatto.dev",
+    "title": "Short note from DevFest Bangkok 2023",
+    "url": "https://blog.oatto.dev/2023/11/04/short-note-devfest-2023.html",
+    "published": "2023-11-04T00:00:00.000Z"
   },
   {
     "site": "nitpum.com",
@@ -184,12 +196,6 @@
     "title": "SEO คืออะไร ? และจะทำ SEO ได้อย่างไร",
     "url": "https://taoisaman.com/2023/07/23/seo-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b8%97%e0%b8%b3-seo-%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b9%88/",
     "published": "2023-07-23T16:07:20.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Format code via GitHub Actions",
-    "url": "https://blog.oatto.dev/2023/07/15/format-code-via-github-actions.html",
-    "published": "2023-07-15T00:00:00.000Z"
   },
   {
     "site": "nuttdam.com",
