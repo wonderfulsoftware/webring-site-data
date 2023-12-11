@@ -70,6 +70,7 @@
       <outline text="anewlife.dev" title="anewlife.dev" type="rss" xmlUrl="https://anewlife.dev/rss.xml" htmlUrl="https://anewlife.dev"/>
       <outline text="tantatorn.xyz" title="tantatorn.xyz" type="rss" xmlUrl="https://tantatorn.xyz/rss.xml" htmlUrl="https://tantatorn.xyz"/>
       <outline text="p4perf4ce.me" title="p4perf4ce.me" type="rss" xmlUrl="https://p4perf4ce.me/feed.xml" htmlUrl="https://p4perf4ce.me"/>
+      <outline text="trwkc.dev" title="trwkc.dev" type="rss" xmlUrl="https://trwkc.dev/rss" htmlUrl="https://trwkc.dev"/>
     </outline>
   </body>
 </opml>

@@ -18,6 +18,12 @@
     "published": "2023-12-09T00:00:00.000Z"
   },
   {
+    "site": "trwkc.dev",
+    "title": "ลบชื่อ Server ออกจาก response header (Nginx)",
+    "url": "https://trwkc.dev/remove-server-detail-nginx/",
+    "published": "2023-12-07T17:32:42.000Z"
+  },
+  {
     "site": "anewlife.dev",
     "title": "มา install ArgoCD บน GKE Cluster กัน",
     "url": "https://www.anewlife.dev/post/install-argocd-on-gke-cluster/",
