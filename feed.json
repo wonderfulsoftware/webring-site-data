@@ -1,5 +1,11 @@
 [
   {
+    "site": "kajame.xyz",
+    "title": "ทำ Strapi ให้อยู่บน Docker",
+    "url": "https://kajame.xyz/blog/strapi-on-docker",
+    "published": "2023-12-11T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "The Cloud Camp Week#13 (Observability#2)",
     "url": "https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week13-observability-part2/",
@@ -64,12 +70,6 @@
     "title": "Serverless real-time machine learning inference with AWS",
     "url": "https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/",
     "published": "2023-11-28T08:34:31.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "เรียนรู้การใช้งาน migrate-mongo",
-    "url": "https://kajame.xyz/blog/migration-mongo",
-    "published": "2023-11-26T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
