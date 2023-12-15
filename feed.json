@@ -1,15 +1,21 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "แนะนำการใช้งาน Distributed Tracing ใน Spring Boot 3.2",
-    "url": "https://www.somkiat.cc/distributed-tracing-in-spring-boot-3-2/",
-    "published": "2023-12-13T04:07:46.000Z"
+    "site": "anewlife.dev",
+    "title": "วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager",
+    "url": "https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/",
+    "published": "2023-12-14T17:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "Alfresco: Edit in Microsoft Office problem not working",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/alfresco-edit-in-microsoft-office-not-working/",
-    "published": "2023-12-12T07:56:00.000Z"
+    "title": "How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/",
+    "published": "2023-12-14T10:07:03.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Gemini Pro มาลองเขียน code กันนิดนึง",
+    "url": "https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/",
+    "published": "2023-12-14T02:07:44.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -28,12 +34,6 @@
     "title": "ลบชื่อ Server ออกจาก response header (Nginx)",
     "url": "https://trwkc.dev/remove-server-detail-nginx/",
     "published": "2023-12-07T17:32:42.000Z"
-  },
-  {
-    "site": "anewlife.dev",
-    "title": "มา install ArgoCD บน GKE Cluster กัน",
-    "url": "https://www.anewlife.dev/post/install-argocd-on-gke-cluster/",
-    "published": "2023-12-03T17:00:00.000Z"
   },
   {
     "site": "p4perf4ce.me",
