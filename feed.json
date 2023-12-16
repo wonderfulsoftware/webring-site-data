@@ -1,5 +1,11 @@
 [
   {
+    "site": "garden.narze.live",
+    "title": "How I install Python on macOS - 2023 edition",
+    "url": "https://garden.narze.live/how-i-install-python-in-2023/",
+    "published": "2023-12-15T00:00:00.000Z"
+  },
+  {
     "site": "anewlife.dev",
     "title": "วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager",
     "url": "https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/",
@@ -22,12 +28,6 @@
     "title": "ทำ Strapi ให้อยู่บน Docker",
     "url": "https://kajame.xyz/blog/strapi-on-docker",
     "published": "2023-12-11T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "How to hide Qwerty layout from macOS",
-    "url": "https://garden.narze.live/how-to-hide-qwerty-layout-from-macos/",
-    "published": "2023-12-09T00:00:00.000Z"
   },
   {
     "site": "trwkc.dev",
