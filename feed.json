@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุป Java Trends เดือนพฤศจิกายน 2023 จาก InfoQ",
+    "url": "https://www.somkiat.cc/java-trends-november-2023-from-infoq/",
+    "published": "2023-12-16T13:41:56.000Z"
+  },
+  {
     "site": "garden.narze.live",
     "title": "How I install Python on macOS - 2023 edition",
     "url": "https://garden.narze.live/how-i-install-python-in-2023/",
@@ -16,12 +22,6 @@
     "title": "How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater",
     "url": "https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/",
     "published": "2023-12-14T10:07:03.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Gemini Pro มาลองเขียน code กันนิดนึง",
-    "url": "https://www.somkiat.cc/hello-gemini-pro-in-google-ai-studio/",
-    "published": "2023-12-14T02:07:44.000Z"
   },
   {
     "site": "kajame.xyz",
