@@ -1,5 +1,17 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Things to watch out for GCP SSL with Cloudflare DNS",
+    "url": "https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/",
+    "published": "2023-12-18T08:53:25.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "The Cloud Camp Week#14 (Recap + Q&A)",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/",
+    "published": "2023-12-18T03:50:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สรุปจากการอ่านหนังสือ Tidy First",
     "url": "https://www.somkiat.cc/note-from-tidy-first-book/",
@@ -16,12 +28,6 @@
     "title": "วิธีการสร้าง SSL Certificate โดยใช้ Cert Manager",
     "url": "https://www.anewlife.dev/post/create-a-ssl-certificate-with-cert-manager/",
     "published": "2023-12-14T17:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to Fixed: Feature ‘raw string literals’ is not available. Please use language version 11.0 or greater",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/how-to-fixed-feature-raw-string-literals-is-not-available-please-use-language-version-11-0-or-greater/",
-    "published": "2023-12-14T10:07:03.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -64,12 +70,6 @@
     "title": "Pattern: Strangler Fig Application #1",
     "url": "https://www.boonsong.dev/strangler-fig-application-1",
     "published": "2023-11-30T01:10:51.767Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Serverless real-time machine learning inference with AWS",
-    "url": "https://karnwong.me/posts/2023/11/serverless-real-time-machine-learning-inference-with-aws/",
-    "published": "2023-11-28T08:34:31.000Z"
   },
   {
     "site": "yuttakhanb.dev",
