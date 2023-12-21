@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "How to get output from dotnet test",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/how-to-get-output-from-dotnet-test/",
+    "published": "2023-12-20T23:03:41.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "อะไรมันซ่อนอยู่ใน CloudWatch กันนะ ทำไมมันกินเงินไปเรื่อยๆเลย",
     "url": "https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/",
@@ -10,12 +16,6 @@
     "title": "Things to watch out for GCP SSL with Cloudflare DNS",
     "url": "https://karnwong.me/posts/2023/12/things-to-watch-out-for-gcp-ssl-with-cloudflare-dns/",
     "published": "2023-12-18T08:53:25.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#14 (Recap + Q&A)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week14-recap-qa/",
-    "published": "2023-12-18T03:50:00.000Z"
   },
   {
     "site": "somkiat.cc",
