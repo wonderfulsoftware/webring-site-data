@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "NET6 Error System.NotSupportedException: No data is available for encoding 874 …",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/net6-error-system-notsupportedexception-no-data-is-available-for-encoding-874/",
+    "published": "2023-12-26T03:08:27.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "เริ่มต้นพัฒนาระบบด้วยภาษา Go ในปี 2023",
     "url": "https://www.somkiat.cc/start-with-go-2023/",
@@ -16,12 +22,6 @@
     "title": "#DevFestCloudBangkok2023. Introducing Data Lakehouse: Apache Iceberg — Slides!",
     "url": "https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4",
     "published": "2023-12-23T02:58:30.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The Cloud Camp Week#15 (NET Aspire / How to Build OBS / Project Pitch)",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/the-cloud-camp-week15-net-aspire-how-to-obs-project/",
-    "published": "2023-12-23T02:09:00.000Z"
   },
   {
     "site": "kusumotolab.com",
