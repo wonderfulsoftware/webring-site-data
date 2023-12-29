@@ -1,27 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping)",
+    "url": "https://www.somkiat.cc/database-sql-or-orm/",
+    "published": "2023-12-28T07:39:33.000Z"
+  },
+  {
+    "site": "mesodiar.com",
+    "title": "แชร์การเตรียมตัวและคำแนะนำในการสอบ Google Cloud Certification: Data Engineer ปี 2024…",
+    "url": "https://mesodiar.com/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A-google-cloud-certification-data-engineer-%E0%B8%9B%E0%B8%B5-2024-2c98dc639c67?source=rss----698ac1e5dc8c---4",
+    "published": "2023-12-28T02:48:33.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox",
     "url": "https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/",
     "published": "2023-12-27T09:14:18.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "เริ่มต้นพัฒนาระบบด้วยภาษา Go ในปี 2023",
-    "url": "https://www.somkiat.cc/start-with-go-2023/",
-    "published": "2023-12-25T09:44:12.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Setting up Postgres locally, what could go wrong?",
     "url": "https://karnwong.me/posts/2023/12/setting-up-postgres-locally/",
     "published": "2023-12-23T12:30:59.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "#DevFestCloudBangkok2023. Introducing Data Lakehouse: Apache Iceberg — Slides!",
-    "url": "https://mesodiar.com/devfestcloudbangkok2023-introducing-data-lakehouse-apache-iceberg-slides-f4bad96bba7d?source=rss----698ac1e5dc8c---4",
-    "published": "2023-12-23T02:58:30.000Z"
   },
   {
     "site": "kusumotolab.com",
@@ -48,6 +48,12 @@
     "published": "2023-12-11T00:00:00.000Z"
   },
   {
+    "site": "neizod.dev",
+    "title": "บทนำสู่ปัญหาการค้นหาบนพิสัย",
+    "url": "https://neizod.dev/2023/12/08/introduction-range-searching.html",
+    "published": "2023-12-08T08:26:48.000Z"
+  },
+  {
     "site": "trwkc.dev",
     "title": "ลบชื่อ Server ออกจาก response header (Nginx)",
     "url": "https://trwkc.dev/remove-server-detail-nginx/",
@@ -70,12 +76,6 @@
     "title": "มาเรียนรู้การเทรดเบื้องต้น กับ Bittoon Trading Club",
     "url": "https://www.mikkipastel.com/beginner-trading-bittoon-trading-club/",
     "published": "2023-12-01T05:12:39.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "ทวิภาวะ จุด-เส้นตรง",
-    "url": "https://neizod.dev/2023/11/30/point-line-duality.html",
-    "published": "2023-11-30T14:45:52.000Z"
   },
   {
     "site": "boonsong.dev",
