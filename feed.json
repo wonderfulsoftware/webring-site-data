@@ -1,15 +1,15 @@
 [
   {
-    "site": "debuggingsoft.com",
-    "title": "ลองใช้ Talos สร้าง K8S Cluster",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/%e0%b8%a5%e0%b8%ad%e0%b8%87%e0%b9%83%e0%b8%8a%e0%b9%89-talos-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87-k8s-cluster/",
-    "published": "2023-12-29T14:38:49.000Z"
+    "site": "karnwong.me",
+    "title": "Should data scientists deploy models to production?",
+    "url": "https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/",
+    "published": "2023-12-30T15:56:27.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "ตอบคำถามเรื่อง การใช้งาน ORM (Object-Relational Mapping)",
-    "url": "https://www.somkiat.cc/database-sql-or-orm/",
-    "published": "2023-12-28T07:39:33.000Z"
+    "title": "สรุปเกี่ยวกับแนวทางของการสร้าง Unique Id",
+    "url": "https://www.somkiat.cc/solution-to-generate-unique-id/",
+    "published": "2023-12-30T14:17:37.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -18,10 +18,10 @@
     "published": "2023-12-28T02:48:33.000Z"
   },
   {
-    "site": "karnwong.me",
-    "title": "Setting up Postgres locally, what could go wrong?",
-    "url": "https://karnwong.me/posts/2023/12/setting-up-postgres-locally/",
-    "published": "2023-12-23T12:30:59.000Z"
+    "site": "debuggingsoft.com",
+    "title": "รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/",
+    "published": "2023-12-27T09:14:18.000Z"
   },
   {
     "site": "nuttdam.com",
