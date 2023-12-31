@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "2023 การเปลี่ยนแปลง",
+    "url": "https://naiwaen.debuggingsoft.com/2023/12/2023-year-in-review/",
+    "published": "2023-12-31T03:00:00.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Should data scientists deploy models to production?",
     "url": "https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/",
@@ -16,12 +22,6 @@
     "title": "แชร์การเตรียมตัวและคำแนะนำในการสอบ Google Cloud Certification: Data Engineer ปี 2024…",
     "url": "https://mesodiar.com/%E0%B9%81%E0%B8%8A%E0%B8%A3%E0%B9%8C%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%95%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AA%E0%B8%AD%E0%B8%9A%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B3%E0%B9%81%E0%B8%99%E0%B8%B0%E0%B8%99%E0%B8%B3%E0%B9%83%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%AD%E0%B8%9A-google-cloud-certification-data-engineer-%E0%B8%9B%E0%B8%B5-2024-2c98dc639c67?source=rss----698ac1e5dc8c---4",
     "published": "2023-12-28T02:48:33.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "รีวิว The Cloud Camp รุ่นที่ 1 ของ JumpBox",
-    "url": "https://naiwaen.debuggingsoft.com/2023/12/review-the-cloud-camp-1-by-jumpbox/",
-    "published": "2023-12-27T09:14:18.000Z"
   },
   {
     "site": "nuttdam.com",
