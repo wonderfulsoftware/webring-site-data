@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikelopster.dev",
+    "title": "Astro และ Static site generator",
+    "url": "https://mikelopster.dev/posts/astro-basic/",
+    "published": "2024-01-03T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ว่าด้วยเรื่องของ Product Developer",
     "url": "https://www.somkiat.cc/product-developer/",
