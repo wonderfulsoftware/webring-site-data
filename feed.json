@@ -1,5 +1,11 @@
 [
   {
+    "site": "yuttakhanb.dev",
+    "title": "2023",
+    "url": "https://yuttakhanb.dev/posts/2023-year-review/",
+    "published": "2024-01-05T16:00:00.000Z"
+  },
+  {
     "site": "poom.dev",
     "title": "Generating TypeScript types for Rust enums",
     "url": "https://poom.dev/generating-typescript-types-for-rust-enums/",
@@ -118,12 +124,6 @@
     "title": "Pattern: Strangler Fig Application #1",
     "url": "https://www.boonsong.dev/strangler-fig-application-1",
     "published": "2023-11-30T01:10:51.767Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "Summary of hacktoberfest 2023",
-    "url": "https://yuttakhanb.dev/posts/summary-hacktoberfest-2023/",
-    "published": "2023-11-24T09:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
