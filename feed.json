@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikelopster.dev",
+    "title": "มารู้จักการเขียน code แบบ clean code กัน (ฉบับ Javascript)",
+    "url": "https://mikelopster.dev/posts/clean-code-js/",
+    "published": "2024-01-08T00:00:00.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮",
     "url": "https://www.llun.me/posts/2024-01-07-campervan-slovenia",
@@ -28,12 +34,6 @@
     "title": "Generating TypeScript types for Rust enums",
     "url": "https://poom.dev/generating-typescript-types-for-rust-enums/",
     "published": "2024-01-03T18:26:01.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "Astro และ Static site generator",
-    "url": "https://mikelopster.dev/posts/astro-basic/",
-    "published": "2024-01-03T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
