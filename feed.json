@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สร้าง K8S Cluster ด้วย Proxmox+Talos",
+    "url": "https://naiwaen.debuggingsoft.com/2024/01/create-k8s-cluster-by-proxmo-and-talos/",
+    "published": "2024-01-09T03:00:00.000Z"
+  },
+  {
     "site": "mikelopster.dev",
     "title": "มารู้จักการเขียน code แบบ clean code กัน (ฉบับ Javascript)",
     "url": "https://mikelopster.dev/posts/clean-code-js/",
@@ -10,12 +16,6 @@
     "title": "Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮",
     "url": "https://www.llun.me/posts/2024-01-07-campervan-slovenia",
     "published": "2024-01-07T15:39:47.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[commitlint] SyntaxError: Invalid or unexpected token on Windows",
-    "url": "https://naiwaen.debuggingsoft.com/2024/01/commitlint-syntaxerror-invalid-or-unexpected-token-on-windows/",
-    "published": "2024-01-06T13:33:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
