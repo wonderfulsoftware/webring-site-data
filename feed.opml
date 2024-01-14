@@ -73,6 +73,7 @@
       <outline text="trwkc.dev" title="trwkc.dev" type="rss" xmlUrl="https://trwkc.dev/rss" htmlUrl="https://trwkc.dev"/>
       <outline text="annibuliful-lab.dev" title="annibuliful-lab.dev" type="rss" xmlUrl="https://annibuliful-lab.dev/rss.xml" htmlUrl="https://annibuliful-lab.dev/"/>
       <outline text="mikelopster.dev" title="mikelopster.dev" type="rss" xmlUrl="https://www.mikelopster.dev/rss.xml" htmlUrl="https://mikelopster.dev"/>
+      <outline text="blog.ninprd.com" title="blog.ninprd.com" type="rss" xmlUrl="https://blog.ninprd.com/rss.xml" htmlUrl="https://blog.ninprd.com"/>
     </outline>
   </body>
 </opml>

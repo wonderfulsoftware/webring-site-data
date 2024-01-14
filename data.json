@@ -545,7 +545,8 @@
       "rect": "75:62:300:60",
       "href": "https://webring.wonderful.software#thanapon.info"
     },
-    "lastUpdated": "2024-01-13T01:00:16.963Z"
+    "lastUpdated": "2024-01-14T05:26:47.190Z",
+    "number": 37
   },
   "mr.touno.io": {
     "url": "https://mr.touno.io",
@@ -860,14 +861,15 @@
   "tech.duckfollow.co": {
     "url": "https://tech.duckfollow.co",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/tech.duckfollow.co_375w@2x.png",
-    "blurhash": "vPB|HZj?9YfR4mj[WCj@x[j[?Hj@4nfPoej[~pjsM|j[IAj[M{fP%Nj@xtfR",
-    "screenshotUpdatedAt": "2024-01-11T01:07:32.664Z",
+    "blurhash": "vOB|HZj@9Fj[4Tj[WCfPx[j[?Hay4nj?odj[~pj[M|j[IAj[M{ay%gj@xufR",
+    "screenshotUpdatedAt": "2024-01-14T05:27:07.372Z",
     "description": "เทคโนโลยี อนิเมะ หนัง เรื่องราวน่าสนใจ",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#yothinix.com"
     },
-    "lastUpdated": "2024-01-11T01:07:32.664Z"
+    "lastUpdated": "2024-01-14T05:27:07.372Z",
+    "number": 57
   },
   "nitpum.com": {
     "url": "https://nitpum.com",
@@ -1504,7 +1506,8 @@
       "rect": "32:32:8:8",
       "href": "https://webring.wonderful.software#hnaxny.xyz"
     },
-    "lastUpdated": "2024-01-13T01:13:45.910Z"
+    "lastUpdated": "2024-01-14T05:27:41.646Z",
+    "number": 94
   },
   "profile.mwn99.com": {
     "url": "https://profile.mwn99.com",
@@ -1661,5 +1664,8 @@
     },
     "lastUpdated": "2024-01-14T01:20:30.912Z",
     "number": 105
+  },
+  "blog.ninprd.com": {
+    "url": "https://blog.ninprd.com"
   }
 }
