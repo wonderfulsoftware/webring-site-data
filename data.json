@@ -1666,6 +1666,19 @@
     "number": 105
   },
   "blog.ninprd.com": {
-    "url": "https://blog.ninprd.com"
+    "url": "https://blog.ninprd.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.ninprd.com_375w@2x.png",
+    "blurhash": "vRR{Y[Rh%MogROo#ozWApyadRPkCu6WYRjj?Z}j@ofj[n2aeoeofxvbIayax",
+    "screenshotUpdatedAt": "2024-01-14T19:45:14.656Z",
+    "description": "Experience Sharing and totally random thoughts on web development, design, and tech on blog.ninprd.",
+    "backlink": {
+      "rect": "32:32:167:20",
+      "href": "https://webring.wonderful.software#blog.ninprd.com"
+    },
+    "lastUpdated": "2024-01-14T19:45:14.656Z",
+    "number": 106
+  },
+  "nicekun.dev": {
+    "url": "https://nicekun.dev"
   }
 }
