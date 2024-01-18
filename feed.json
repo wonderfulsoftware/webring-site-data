@@ -1,15 +1,15 @@
 [
   {
-    "site": "kusumotolab.com",
-    "title": "จัดการพวก E-Tax Invoice ใน E-mail แบบ geek geek กัน!!",
-    "url": "https://kusumotolab.com/how-to-manage-e-tax-invoice-in-email-style-geek-geek/",
-    "published": "2024-01-16T16:11:45.000Z"
+    "site": "rayriffy.com",
+    "title": "Stress-less web server with Caddy",
+    "url": "https://rayriffy.com/garden/caddy-easy-config/",
+    "published": "2024-01-17T12:03:00.000Z"
   },
   {
     "site": "dt.in.th",
-    "title": "A data dictionary that describes itself",
-    "url": "https://notes.dt.in.th/DataDictionary",
-    "published": "2024-01-16T00:00:00.000Z"
+    "title": "Faster PostgreSQL during development",
+    "url": "https://notes.dt.in.th/PostgresDevConfig",
+    "published": "2024-01-17T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -102,6 +102,12 @@
     "published": "2023-12-21T09:22:02.000Z"
   },
   {
+    "site": "kusumotolab.com",
+    "title": "อะไรมันซ่อนอยู่ใน CloudWatch กันนะ ทำไมมันกินเงินไปเรื่อยๆเลย",
+    "url": "https://kusumotolab.com/how-to-investigate-hidden-cost-by-cost-explorer/",
+    "published": "2023-12-19T15:16:27.000Z"
+  },
+  {
     "site": "garden.narze.live",
     "title": "How I install Python on macOS - 2023 edition",
     "url": "https://garden.narze.live/how-i-install-python-in-2023/",
@@ -190,12 +196,6 @@
     "title": "วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่",
     "url": "https://thammarith.dev/blog/classical-music-concert-guide/",
     "published": "2023-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Connect SSH hostname with different address",
-    "url": "https://rayriffy.com/garden/ssh-hostname-multi-address/",
-    "published": "2023-10-02T12:41:00.000Z"
   },
   {
     "site": "thiti.dev",
