@@ -1,5 +1,23 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Collaboration model for data science projects",
+    "url": "https://karnwong.me/posts/2024/01/collaboration-model-for-data-science-projects/",
+    "published": "2024-01-20T07:16:53.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Microsoft Ignite Cloud Skills Challenge 2023",
+    "url": "https://naiwaen.debuggingsoft.com/2024/01/microsoft-ignite-cloud-skills-challenge-2023/",
+    "published": "2024-01-20T02:07:00.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "มือใหม่หัด Estimate",
+    "url": "https://blog.ninprd.com/blog/estimation-newbie/",
+    "published": "2024-01-20T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "มาทำความรู้จัก Growth Mindset กัน",
     "url": "https://www.mikkipastel.com/what-is-growth-mindset/",
@@ -22,12 +40,6 @@
     "title": "หนังสือ Learning Go 2nd edition ออกมาแล้ว",
     "url": "https://www.somkiat.cc/learning-go-2nd-edition/",
     "published": "2024-01-18T08:44:37.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Create a gitignore file with dotnet cli",
-    "url": "https://naiwaen.debuggingsoft.com/2024/01/create-a-gitignore-file-with-dotnet-cli/",
-    "published": "2024-01-18T01:33:59.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -66,12 +78,6 @@
     "published": "2024-01-07T15:39:47.000Z"
   },
   {
-    "site": "blog.ninprd.com",
-    "title": "ย้าย CMS ไป WordPress แล้วจ้า",
-    "url": "https://blog.ninprd.com/blog/move-cms-to-wordpress/",
-    "published": "2024-01-07T00:00:00.000Z"
-  },
-  {
     "site": "yuttakhanb.dev",
     "title": "2023",
     "url": "https://yuttakhanb.dev/posts/2023-year-review/",
@@ -100,12 +106,6 @@
     "title": "Recap 2023",
     "url": "https://blog.oatto.dev/2024/01/01/recap-2023.html",
     "published": "2024-01-01T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Should data scientists deploy models to production?",
-    "url": "https://karnwong.me/posts/2023/12/should-data-scientists-deploy-models-to-production/",
-    "published": "2023-12-30T15:56:27.000Z"
   },
   {
     "site": "mesodiar.com",
