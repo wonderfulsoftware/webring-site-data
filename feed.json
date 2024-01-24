@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองเล่นกับ Bun Shell",
+    "url": "https://www.somkiat.cc/hello-bun-shell/",
+    "published": "2024-01-23T07:19:37.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Install Excalidraw Self-hosted (Docker)",
     "url": "https://naiwaen.debuggingsoft.com/2024/01/install-excalidraw-self-hosted-docker/",
@@ -10,12 +16,6 @@
     "title": "รู้จักกับ Web Vitals guideline การสร้าง UX ที่ดีออกมากัน",
     "url": "https://mikelopster.dev/posts/web-vitals/",
     "published": "2024-01-22T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี AHA Stack",
-    "url": "https://www.somkiat.cc/hello-aha-stack/",
-    "published": "2024-01-21T17:03:13.000Z"
   },
   {
     "site": "karnwong.me",
