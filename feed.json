@@ -1,5 +1,17 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "หนังซีรีย์ที่สตาร์ทอัพควรดู(เอง)?",
+    "url": "https://tech.duckfollow.co/view/movie-series",
+    "published": "2024-01-26T01:00:00.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "มาลองเล่น Gemini Pro กัน",
+    "url": "https://mikelopster.dev/posts/gemini-prompt/",
+    "published": "2024-01-25T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองใช้งาน Docker Build Cloud กัน",
     "url": "https://www.somkiat.cc/docker-build-cloud/",
@@ -10,12 +22,6 @@
     "title": "How to Setup the Date Timezone and NTP for Ubuntu 22.04 LTS",
     "url": "https://naiwaen.debuggingsoft.com/2024/01/how-to-setup-the-date-timezone-and-ntp-for-ubuntu-22-04-lts/",
     "published": "2024-01-24T08:10:36.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "รู้จักกับ Web Vitals guideline การสร้าง UX ที่ดีออกมากัน",
-    "url": "https://mikelopster.dev/posts/web-vitals/",
-    "published": "2024-01-22T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -220,12 +226,6 @@
     "title": "0258 | EV FAQ",
     "url": "https://www.icez.net/blog/167533/0258-ev-faq",
     "published": "2023-08-28T16:26:44.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "API Architecture Styles",
-    "url": "https://tech.duckfollow.co/flow/api-architecture",
-    "published": "2023-08-27T18:00:02.000Z"
   },
   {
     "site": "taoisaman.com",
