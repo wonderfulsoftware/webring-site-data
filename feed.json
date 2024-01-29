@@ -1,5 +1,11 @@
 [
   {
+    "site": "yuttakhanb.dev",
+    "title": "Screenplay Pattern Testing with Serenity.js",
+    "url": "https://yuttakhanb.dev/posts/screenplay-serenity/",
+    "published": "2024-01-28T07:30:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สรุปการแบ่งปันเรื่อง JavaScript Testing (every day) จากงาน BKK.JS #19: Into the New Year",
     "url": "https://www.somkiat.cc/sharing-javascript-testing-every-day/",
@@ -82,12 +88,6 @@
     "title": "Campervan to Slovenia 2024 🇳🇱🇩🇪🇦🇹🇸🇮",
     "url": "https://www.llun.me/posts/2024-01-07-campervan-slovenia",
     "published": "2024-01-07T15:39:47.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "2023",
-    "url": "https://yuttakhanb.dev/posts/2023-year-review/",
-    "published": "2024-01-05T16:00:00.000Z"
   },
   {
     "site": "nitpum.com",
