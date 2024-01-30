@@ -1,5 +1,29 @@
 [
   {
+    "site": "anuwong.com",
+    "title": "ทำ Transaction ใน redis ด้วย MULTI และ WATCH",
+    "url": "https://www.anuwong.com/blog/2024-01-29-redis-watch/",
+    "published": "2024-01-29T11:50:59.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Breeze Starter Kids SPA Vue3 Integrate with Laravel9 ใน 5 นาที",
+    "url": "https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/",
+    "published": "2024-01-29T08:35:10.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Modifying the alpha channel of a color using CSS",
+    "url": "https://notes.dt.in.th/CSSChangeColorOpacity",
+    "published": "2024-01-29T00:00:00.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "มาเรียนรู้พื้นฐาน Diagram แต่ละประเภทของงาน development กัน",
+    "url": "https://mikelopster.dev/posts/diagram-basic/",
+    "published": "2024-01-29T00:00:00.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "Screenplay Pattern Testing with Serenity.js",
     "url": "https://yuttakhanb.dev/posts/screenplay-serenity/",
@@ -36,12 +60,6 @@
     "published": "2024-01-26T01:00:00.000Z"
   },
   {
-    "site": "mikelopster.dev",
-    "title": "มาลองเล่น Gemini Pro กัน",
-    "url": "https://mikelopster.dev/posts/gemini-prompt/",
-    "published": "2024-01-25T00:00:00.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "What is platform engineering?",
     "url": "https://karnwong.me/posts/2024/01/what-is-platform-engineering/",
@@ -54,22 +72,10 @@
     "published": "2024-01-20T00:00:00.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "Docker-Compose for Laravel8, MySQL, phpMyAdmin",
-    "url": "https://www.poolsawat.com/docker-compose-for-laravel8-mysql-phpmyadmin/",
-    "published": "2024-01-18T09:56:08.000Z"
-  },
-  {
     "site": "rayriffy.com",
     "title": "Stress-less web server with Caddy",
     "url": "https://rayriffy.com/garden/caddy-easy-config/",
     "published": "2024-01-17T12:03:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Faster PostgreSQL during development",
-    "url": "https://notes.dt.in.th/PostgresDevConfig",
-    "published": "2024-01-17T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -186,12 +192,6 @@
     "published": "2023-10-30T00:00:00.000Z"
   },
   {
-    "site": "anuwong.com",
-    "title": "ลองใช้ Built-in env file ใน Node 20",
-    "url": "https://www.anuwong.com/blog/node-20-env-with-confident/",
-    "published": "2023-10-21T17:24:49.000Z"
-  },
-  {
     "site": "jitrak.dev",
     "title": "Distroless Container Images",
     "url": "https://jitrak.dev/posts/post-25-distroless-container-images/",
@@ -304,6 +304,12 @@
     "title": "นกแอร์เลานจ์ (NokAir Lounge) หมุดหมายที่นั่งรอขึ้นเครื่องใหม่ ที่ไม่ได้มีดีแค่ความสบาย",
     "url": "https://dmg.st/nokair-lounge/",
     "published": "2022-12-16T02:04:18.000Z"
+  },
+  {
+    "site": "blog.0002011.xyz",
+    "title": "สภาพหลังดูจบ คืนฝันก่อนฉันลืมเธอ",
+    "url": "https://blog.0002011.xyz/2022-11-22-sekakoi-movie-review",
+    "published": "2022-11-21T17:00:00.000Z"
   },
   {
     "site": "0xchai.io",
