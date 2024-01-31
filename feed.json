@@ -1,21 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[K8S] kubectl enable autocomplete",
+    "url": "https://naiwaen.debuggingsoft.com/2024/01/k8s-kubectl-enable-autocomplete/",
+    "published": "2024-01-30T12:33:12.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Web Test Runner ใน Angular 17.1",
+    "url": "https://www.somkiat.cc/web-test-runner-in-angular-17/",
+    "published": "2024-01-30T03:24:14.000Z"
+  },
+  {
     "site": "anuwong.com",
-    "title": "ทำ Transaction ใน redis ด้วย MULTI และ WATCH",
-    "url": "https://www.anuwong.com/blog/2024-01-29-redis-watch/",
-    "published": "2024-01-29T11:50:59.000Z"
+    "title": "ประหยัดเงินค่า Coding Assistant ด้วย TabbyML",
+    "url": "https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/",
+    "published": "2024-01-30T03:05:22.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Auto-merging dependabot PRs",
+    "url": "https://notes.dt.in.th/DependabotAutoMerge",
+    "published": "2024-01-30T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
     "title": "Breeze Starter Kids SPA Vue3 Integrate with Laravel9 ใน 5 นาที",
     "url": "https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/",
     "published": "2024-01-29T08:35:10.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Modifying the alpha channel of a color using CSS",
-    "url": "https://notes.dt.in.th/CSSChangeColorOpacity",
-    "published": "2024-01-29T00:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -30,22 +42,10 @@
     "published": "2024-01-28T07:30:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปการแบ่งปันเรื่อง JavaScript Testing (every day) จากงาน BKK.JS #19: Into the New Year",
-    "url": "https://www.somkiat.cc/sharing-javascript-testing-every-day/",
-    "published": "2024-01-27T09:50:03.000Z"
-  },
-  {
     "site": "kajame.xyz",
     "title": "เรียนรู้การใช้งาน Strapi เบื้องต้น (Population)",
     "url": "https://kajame.xyz/blog/2024/strapi-on-docker-ep3",
     "published": "2024-01-27T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุป DevClub#2: Databases @AWS",
-    "url": "https://naiwaen.debuggingsoft.com/2024/01/devclub2-databases-at-aws-note/",
-    "published": "2024-01-26T18:10:00.000Z"
   },
   {
     "site": "mikkipastel.com",
