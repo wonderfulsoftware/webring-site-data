@@ -1,5 +1,17 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "Barcode Scanners (hardware device) รับค่าบาร์โค๊ดจากเครื่องอ่านบาร์โค๊ดด้วย โค๊ด javascript",
+    "url": "https://www.poolsawat.com/barcode-scanners-hardware-device-get-barcode-text-with-javascript-code/",
+    "published": "2024-02-03T04:39:30.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "ทุกงานสำคัญหมด แต่งานไหนสำคัญกว่า",
+    "url": "https://blog.ninprd.com/blog/prioritzing-tasks/",
+    "published": "2024-02-03T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ลอง Microsoft Applied Skills Credentials",
     "url": "https://naiwaen.debuggingsoft.com/2024/02/try-microsoft-applied-skills-credentials-assessment/",
@@ -30,12 +42,6 @@
     "published": "2024-01-30T00:00:00.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "Breeze Starter Kids SPA Vue3 Integrate with Laravel9 ใน 5 นาที",
-    "url": "https://www.poolsawat.com/breeze-starter-kids-spa-vue3-integrate-with-laravel9-in-5-minutes/",
-    "published": "2024-01-29T08:35:10.000Z"
-  },
-  {
     "site": "yuttakhanb.dev",
     "title": "Screenplay Pattern Testing with Serenity.js",
     "url": "https://yuttakhanb.dev/posts/screenplay-serenity/",
@@ -64,12 +70,6 @@
     "title": "What is platform engineering?",
     "url": "https://karnwong.me/posts/2024/01/what-is-platform-engineering/",
     "published": "2024-01-21T12:43:14.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "มือใหม่หัด Estimate",
-    "url": "https://blog.ninprd.com/blog/estimation-newbie/",
-    "published": "2024-01-20T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
