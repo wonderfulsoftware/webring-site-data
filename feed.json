@@ -1,5 +1,29 @@
 [
   {
+    "site": "trwkc.dev",
+    "title": "มาลองสร้าง Helm Chart กัน",
+    "url": "https://trwkc.dev/create-helm-chart-101/",
+    "published": "2024-02-12T13:00:30.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "OpenRewrite :: สำหรับการ migrate ไปยัง Spring Boot 3.2",
+    "url": "https://www.somkiat.cc/openrewrite-migrate-to-spring-boot-3/",
+    "published": "2024-02-12T10:48:13.000Z"
+  },
+  {
+    "site": "anuwong.com",
+    "title": "guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี",
+    "url": "https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/",
+    "published": "2024-02-12T08:42:40.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "รู้จักกับ Design Pattern - Structural (Part 2/3)",
+    "url": "https://mikelopster.dev/posts/design-pattern-structural/",
+    "published": "2024-02-12T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "TME2024: Xiaomi 13T Pro",
     "url": "https://naiwaen.debuggingsoft.com/2024/02/tme2024-xiaomi-13t-pro/",
@@ -16,18 +40,6 @@
     "title": "Illustration - ルシア👒龍の年",
     "url": "https://lucian.solutions/blog/202402-chinese-new-year-lucia",
     "published": "2024-02-10T11:30:00.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "Redux และ React",
-    "url": "https://mikelopster.dev/posts/react-redux/",
-    "published": "2024-02-08T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Cell-Based Architecture มันเป็นอย่างไร ?",
-    "url": "https://www.somkiat.cc/cell-based-architecture/",
-    "published": "2024-02-07T16:00:34.000Z"
   },
   {
     "site": "llun.me",
@@ -58,12 +70,6 @@
     "title": "ค้นหาบนพิสัยผ่านทวิภาวะจุด-เส้นตรง",
     "url": "https://neizod.dev/2024/02/02/duality-and-cutting-tree-for-range-searching.html",
     "published": "2024-02-02T12:21:55.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "ประหยัดเงินค่า Coding Assistant ด้วย TabbyML",
-    "url": "https://www.anuwong.com/blog/%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%AB%E0%B8%A2%E0%B8%B1%E0%B8%94%E0%B9%80%E0%B8%87%E0%B8%B4%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B2-coding-assistant-%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2-tabbyml/",
-    "published": "2024-01-30T03:05:22.000Z"
   },
   {
     "site": "dt.in.th",
@@ -154,12 +160,6 @@
     "title": "Build IMSI catcher with single computer and hackrf One",
     "url": "https://annibuliful-lab.dev/story/imsi-catcher",
     "published": "2023-12-13T00:00:00.000Z"
-  },
-  {
-    "site": "trwkc.dev",
-    "title": "ลบชื่อ Server ออกจาก response header (Nginx)",
-    "url": "https://trwkc.dev/remove-server-detail-nginx/",
-    "published": "2023-12-07T17:32:42.000Z"
   },
   {
     "site": "p4perf4ce.me",
