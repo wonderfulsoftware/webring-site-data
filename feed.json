@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปจากการอ่านเรื่อง Value-Driven Design (VDD)",
+    "url": "https://www.somkiat.cc/note-value-driven-design/",
+    "published": "2024-02-26T08:55:52.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เมื่อ DEV ลองไป Workshop Business Continuity Planning and Disaster Recovery for Azure Workload",
+    "url": "https://naiwaen.debuggingsoft.com/2024/02/developer-take-workshop-business-continuity-planning-and-disaster-recovery-for-azure-workload/",
+    "published": "2024-02-25T18:34:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "บวกเลขโดยไม่ใช้เครื่องหมายบวก",
     "url": "https://neizod.dev/2024/02/25/adding-without-plus-sign.html",
@@ -22,18 +34,6 @@
     "title": "อัพเดตเทรนคริปโตกับงาน Digital Assets Navigator ของ Bitkub",
     "url": "https://www.mikkipastel.com/digital-assets-navigator-bitkub/",
     "published": "2024-02-23T11:58:30.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Backstage สำหรับทำ software catalog",
-    "url": "https://www.somkiat.cc/service-catalog-with-backstage/",
-    "published": "2024-02-23T06:10:09.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Croque Monsieur",
-    "url": "https://naiwaen.debuggingsoft.com/2024/02/cr-starbucks-croque-monsieur/",
-    "published": "2024-02-22T09:54:18.000Z"
   },
   {
     "site": "kajame.xyz",
