@@ -1,9 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองมา Mentor เรื่อง Database ให้กับน้องๆนักศึกษา",
+    "url": "https://naiwaen.debuggingsoft.com/2024/03/database-mentor-for-kru-com-student-atthailand-cultural-centre/",
+    "published": "2024-03-02T12:48:57.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "รูปแบบของการออกแบบ Service ที่แปลก ๆ",
     "url": "https://www.somkiat.cc/antipattern-architecture/",
     "published": "2024-03-02T06:46:07.000Z"
+  },
+  {
+    "site": "kajame.xyz",
+    "title": "ย้าย Repository ไปที่ใหม่โดยเอา commit ไปด้วย",
+    "url": "https://kajame.xyz/blog/2024/move-repository",
+    "published": "2024-03-02T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -16,12 +28,6 @@
     "title": "เล่าประสบการณ์การทำ Github Actions ของงาน Compose Battle",
     "url": "https://www.mikkipastel.com/github-action-android-compose-battle/",
     "published": "2024-03-01T07:29:46.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to fix current branch xxx has no upstream branch.",
-    "url": "https://naiwaen.debuggingsoft.com/2024/03/how-to-fix-current-branch-xxx-has-no-upstream-branch/",
-    "published": "2024-03-01T06:09:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -52,12 +58,6 @@
     "title": "gql.tada ชีวิตไม่ง้อ codegen",
     "url": "https://tantatorn.xyz/posts/gql-tada/",
     "published": "2024-02-24T00:00:00.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "ทำ Rate limit ใน express ด้วย express-rate-limit",
-    "url": "https://kajame.xyz/blog/2024/express-rate-limit",
-    "published": "2024-02-22T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
