@@ -1,21 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Bruno สำหรับทดสอบ REST APIs แทน Postman กัน",
-    "url": "https://www.somkiat.cc/try-bruno-for-rest-api-testing/",
-    "published": "2024-03-10T15:20:06.000Z"
+    "title": "สวัสดี Shittier มาจัด format code แบบแย่ ๆ กัน",
+    "url": "https://www.somkiat.cc/hello-shittier/",
+    "published": "2024-03-11T10:47:36.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "Web For Impact #02 (Question / My Mistake / Check List)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/03/web-for-impact-02-question-my-mistake-check-list/",
-    "published": "2024-03-10T14:08:27.000Z"
+    "title": "[KBTG-GO#02] Software Design",
+    "url": "https://naiwaen.debuggingsoft.com/2024/03/kbtg-go02-software-design/",
+    "published": "2024-03-11T02:32:00.000Z"
   },
   {
     "site": "lucian.solutions",
     "title": "Illustration - ハナエ",
     "url": "https://lucian.solutions/blog/202403-hanae",
     "published": "2024-03-09T19:00:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "สนุกกับอุปนัย: ตัดแบ่งปริภูมิได้กี่ชิ้น?",
+    "url": "https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html",
+    "published": "2024-03-09T12:26:04.000Z"
   },
   {
     "site": "llun.me",
@@ -46,12 +52,6 @@
     "title": "Tutorial: สร้าง Blog ด้วย WordPress.com",
     "url": "https://blog.ninprd.com/blog/tutorial-blogging-with-wordpress-com/",
     "published": "2024-03-02T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "สร้างวงจร XOR จาก NAND เพียงแค่สี่ตัว",
-    "url": "https://neizod.dev/2024/02/29/xor-from-4-nands.html",
-    "published": "2024-02-29T03:27:48.000Z"
   },
   {
     "site": "anewlife.dev",
