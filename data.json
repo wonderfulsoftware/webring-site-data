@@ -1235,8 +1235,7 @@
       "rect": "32:21:334:608",
       "href": "https://webring.wonderful.software/#/khet.tech"
     },
-    "lastUpdated": "2024-03-13T01:08:51.715Z",
-    "number": 78
+    "lastUpdated": "2024-03-13T01:08:51.715Z"
   },
   "me.nsys.site": {
     "url": "https://me.nsys.site",
@@ -1372,7 +1371,8 @@
       "rect": "134:35:120.5:2965.5",
       "href": "https://webring.wonderful.software#pichy.dev"
     },
-    "lastUpdated": "2024-03-12T01:11:35.679Z"
+    "lastUpdated": "2024-03-13T19:01:42.489Z",
+    "number": 87
   },
   "pinpong.co": {
     "url": "https://pinpong.co",
@@ -1384,7 +1384,8 @@
       "rect": "28:22:226:124",
       "href": "https://webring.wonderful.software/#/pinpong.co"
     },
-    "lastUpdated": "2024-03-12T01:11:50.411Z"
+    "lastUpdated": "2024-03-13T19:01:50.646Z",
+    "number": 88
   },
   "worathon.space": {
     "url": "https://worathon.space",
@@ -1673,5 +1674,8 @@
     },
     "lastUpdated": "2024-03-13T00:59:32.956Z",
     "number": 38
+  },
+  "khet.me": {
+    "url": "https://khet.me"
   }
 }
