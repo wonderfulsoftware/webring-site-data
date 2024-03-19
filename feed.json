@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[KBTG-GO#03] Software Testing",
+    "url": "https://naiwaen.debuggingsoft.com/2024/03/kbtg-golang-software-testing/",
+    "published": "2024-03-18T06:41:29.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Dataframe write performance to Postgres",
     "url": "https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/",
@@ -22,12 +28,6 @@
     "title": "มาลองใช้งาน Docker image จากทาง Grafana คือ grafana/otel-lgtm",
     "url": "https://www.somkiat.cc/use-docker-grafana-otel-lgtm/",
     "published": "2024-03-15T13:49:21.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆ จาก Software Architecture Meetup 2024#01",
-    "url": "https://naiwaen.debuggingsoft.com/2024/03/note-from-software-architecture-meetup-202401/",
-    "published": "2024-03-15T00:35:00.000Z"
   },
   {
     "site": "mikelopster.dev",
