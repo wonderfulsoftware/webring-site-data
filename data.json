@@ -405,7 +405,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2024-03-27T00:55:50.864Z"
+    "lastUpdated": "2024-03-30T13:45:38.042Z",
+    "number": 26
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -1494,7 +1495,8 @@
       "rect": "32:32:8:8",
       "href": "https://webring.wonderful.software#hnaxny.xyz"
     },
-    "lastUpdated": "2024-03-29T01:11:44.261Z"
+    "lastUpdated": "2024-03-30T13:46:20.594Z",
+    "number": 94
   },
   "profile.mwn99.com": {
     "url": "https://profile.mwn99.com",
@@ -1697,5 +1699,18 @@
     },
     "lastUpdated": "2024-03-30T01:07:25.080Z",
     "number": 78
+  },
+  "nattawatt.com": {
+    "url": "https://nattawatt.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nattawatt.com_375w@2x.png",
+    "blurhash": "vBATi;-.?wM{~p-=xsWE?cxpt8WA-.xwoba#%Ns+ogaxxta$WAofj?WAWCoe",
+    "screenshotUpdatedAt": "2024-03-30T13:46:37.359Z",
+    "description": "Nattawatt Webpage & Portfolio",
+    "backlink": {
+      "rect": "32:32:200:358.046875",
+      "href": "https://webring.wonderful.software#nattawatt.com"
+    },
+    "lastUpdated": "2024-03-30T13:46:37.359Z",
+    "number": 108
   }
 }
