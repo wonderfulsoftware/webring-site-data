@@ -1,21 +1,27 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "Resource: Secure storage for Azure Files and Azure Blob Storage (MS Applied Skills)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/04/resource-secure-storage-for-azure-files-and-azure-blob-storage-ms-applied-skills/",
-    "published": "2024-04-03T01:01:59.000Z"
+    "title": "[KBTG-GO#05] DevOps",
+    "url": "https://naiwaen.debuggingsoft.com/2024/04/kbtg-golang-devops/",
+    "published": "2024-04-03T23:45:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "การแปลงสัมพรรค",
+    "url": "https://neizod.dev/2024/04/03/affine-transformation.html",
+    "published": "2024-04-03T16:46:11.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Runme :: เมื่อไฟล์ Markdown สามารถ execute ได้",
+    "url": "https://www.somkiat.cc/use-runme-markdown/",
+    "published": "2024-04-03T03:44:36.000Z"
   },
   {
     "site": "blog.kpping.me",
     "title": "iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ",
     "url": "https://blog.kpping.me/posts/iphone-running-hot/",
     "published": "2024-04-02T09:33:20.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการตรวจสอบ xz (liblzma 5.6.1) บนเครื่อง Mac กันหน่อย",
-    "url": "https://www.somkiat.cc/macos-downgrade-xz-liblzma/",
-    "published": "2024-04-01T15:23:34.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -58,12 +64,6 @@
     "title": "Dataframe write performance to Postgres",
     "url": "https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/",
     "published": "2024-03-17T08:03:55.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "สนุกกับอุปนัย: ตัดแบ่งปริภูมิได้กี่ชิ้น?",
-    "url": "https://neizod.dev/2024/03/09/fun-with-induction-dividing-space.html",
-    "published": "2024-03-09T12:26:04.000Z"
   },
   {
     "site": "llun.me",
