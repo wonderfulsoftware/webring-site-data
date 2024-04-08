@@ -1,5 +1,11 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Faster spark workloads with comet",
+    "url": "https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/",
+    "published": "2024-04-07T07:55:28.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "ไม่จำเป็นต้องมี Solution ให้ทุกอย่างก็ได้",
     "url": "https://blog.ninprd.com/blog/we-dont-have-to-have-solution-for-everything/",
@@ -58,12 +64,6 @@
     "title": "OAuth คืออะไร ?",
     "url": "https://mikelopster.dev/posts/oauth-basic/",
     "published": "2024-03-21T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Dataframe write performance to Postgres",
-    "url": "https://karnwong.me/posts/2024/03/dataframe-write-performance-to-postgres/",
-    "published": "2024-03-17T08:03:55.000Z"
   },
   {
     "site": "llun.me",
