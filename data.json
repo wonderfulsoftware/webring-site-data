@@ -410,7 +410,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2024-04-08T00:57:08.060Z"
+    "lastUpdated": "2024-04-09T15:26:59.097Z",
+    "number": 26
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -464,7 +465,8 @@
       "rect": "66:18:190.890625:3328.734375",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2024-04-08T00:57:55.413Z"
+    "lastUpdated": "2024-04-09T15:27:54.921Z",
+    "number": 31
   },
   "curiousdev.in.th": {
     "url": "https://curiousdev.in.th",
@@ -660,7 +662,8 @@
       "rect": "24:28:241.5:304",
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2024-04-08T00:57:13.544Z"
+    "lastUpdated": "2024-04-09T15:27:04.849Z",
+    "number": 27
   },
   "bellmcp.work": {
     "url": "https://bellmcp.work",
@@ -1726,5 +1729,18 @@
     },
     "lastUpdated": "2024-04-09T01:16:28.053Z",
     "number": 109
+  },
+  "nokkaew.com": {
+    "url": "https://nokkaew.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nokkaew.com_375w@2x.png",
+    "blurhash": "v7Pst?Rj~pIU?bIU9G%M%i%Mt5IU_4M{M|%M-=kCM{M{_3RjRj%M-=off6M{",
+    "screenshotUpdatedAt": "2024-04-09T15:28:44.442Z",
+    "description": "A glasses man who builds websites with over 10 years of CMS, involves SEO and analytics-driven content.",
+    "backlink": {
+      "rect": "32:50:320:87",
+      "href": "https://webring.wonderful.software#nokkaew.com"
+    },
+    "lastUpdated": "2024-04-09T15:28:44.442Z",
+    "number": 110
   }
 }
