@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนะนำ DrawDB เครื่องมือออกแบบสำหรับ Relational Database แบบ online",
+    "url": "https://www.somkiat.cc/drawdb-for-design-database/",
+    "published": "2024-04-10T07:46:43.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "Entity type IdentityUserLogin requires a primary key",
-    "url": "https://naiwaen.debuggingsoft.com/2024/04/entity-type-identityuserlogin-requires-a-primary-key/",
-    "published": "2024-04-09T02:54:44.000Z"
+    "title": "[WP] How to Fix the “There Has Been a Critical Error on Your Website” Error?",
+    "url": "https://naiwaen.debuggingsoft.com/2024/04/wp-how-to-fix-the-there-has-been-a-critical-error-on-your-website-errorwp-fixed-error/",
+    "published": "2024-04-10T05:25:14.000Z"
   },
   {
     "site": "neizod.dev",
@@ -34,12 +40,6 @@
     "title": "ไม่จำเป็นต้องมี Solution ให้ทุกอย่างก็ได้",
     "url": "https://blog.ninprd.com/blog/we-dont-have-to-have-solution-for-everything/",
     "published": "2024-04-06T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 30",
-    "url": "https://www.somkiat.cc/technology-radar-2024-volume-30/",
-    "published": "2024-04-05T15:28:02.000Z"
   },
   {
     "site": "blog.kpping.me",
