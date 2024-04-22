@@ -1,21 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Web สรุป Architecture Antipatterns ไว้ให้ครบ",
+    "url": "https://www.somkiat.cc/architecture-antipatterns/",
+    "published": "2024-04-21T10:45:05.000Z"
+  },
+  {
+    "site": "wawasabii.com",
+    "title": "สถิติหวย 30 ปีเมื่อความเชื่อก้าวข้ามขีดจำกัดของความน่าจะเป็น",
+    "url": "https://wawasabii.com/blog/thailand-lottery-statistic-30-years/",
+    "published": "2024-04-21T04:50:02.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Drawing low resolution monochrome text with freetype-wasm",
+    "url": "https://notes.dt.in.th/FreeTypeJSBlackWhiteText",
+    "published": "2024-04-21T00:00:00.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - FateAura",
     "url": "https://lucian.solutions/blog/202404-fateaura",
     "published": "2024-04-20T20:17:07.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน bld",
-    "url": "https://www.somkiat.cc/use-bld-to-build-java-project/",
-    "published": "2024-04-20T04:41:29.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Getting Tailwind CSS 4 (alpha 14) to run in the browser",
-    "url": "https://notes.dt.in.th/TailwindCSS4Alpha14Notes",
-    "published": "2024-04-20T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -43,15 +49,9 @@
   },
   {
     "site": "mesodiar.com",
-    "title": "เทคนิคการเตรียมตัวสำหรับ Speaker มือใหม่",
+    "title": "เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่",
     "url": "https://mesodiar.com/2024/04/13/speaker-newbie-technique/",
     "published": "2024-04-13T03:35:48.000Z"
-  },
-  {
-    "site": "wawasabii.com",
-    "title": "XLOOKUP ใช้ ยังไงให้เจ๋ง? เพิ่มประสิทธิภาพด้วย Binary Search",
-    "url": "https://wawasabii.com/blog/xlookup-vs-vlookup-part2-xlookup-binary-search/",
-    "published": "2024-04-08T04:03:50.000Z"
   },
   {
     "site": "karnwong.me",
@@ -133,7 +133,7 @@
   },
   {
     "site": "boonsong.dev",
-    "title": "Pattern: Strangler Fig Application #1",
+    "title": "SSO Authentication ด้วย Sidecar Containers",
     "url": "https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers",
     "published": "2024-01-09T01:10:51.767Z"
   },
