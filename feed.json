@@ -1,5 +1,11 @@
 [
   {
+    "site": "boonsong.dev",
+    "title": "Integrating EDA with Legacy systems",
+    "url": "https://www.boonsong.dev/integrating-eda-with-legacy-systems",
+    "published": "2024-04-22T06:57:51.767Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Web สรุป Architecture Antipatterns ไว้ให้ครบ",
     "url": "https://www.somkiat.cc/architecture-antipatterns/",
@@ -130,12 +136,6 @@
     "title": "หนังซีรีย์ที่สตาร์ทอัพควรดู(เอง)?",
     "url": "https://tech.duckfollow.co/view/movie-series",
     "published": "2024-01-26T01:00:00.000Z"
-  },
-  {
-    "site": "boonsong.dev",
-    "title": "SSO Authentication ด้วย Sidecar Containers",
-    "url": "https://www.boonsong.dev/sso-authentication-with-sidecar-ontainers",
-    "published": "2024-01-09T01:10:51.767Z"
   },
   {
     "site": "nitpum.com",
