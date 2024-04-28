@@ -1,5 +1,11 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว",
+    "url": "https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/",
+    "published": "2024-04-27T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Dark Chocolate with Custard Bun",
     "url": "https://naiwaen.debuggingsoft.com/2024/04/cr-starbucks-dark-chocolate-with-custard-bun/",
@@ -24,6 +30,12 @@
     "published": "2024-04-25T06:44:45.000Z"
   },
   {
+    "site": "blog.oatto.dev",
+    "title": "How to find live partner not prom date",
+    "url": "https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html",
+    "published": "2024-04-23T00:00:00.000Z"
+  },
+  {
     "site": "boonsong.dev",
     "title": "Integrating EDA with Legacy systems",
     "url": "https://www.boonsong.dev/integrating-eda-with-legacy-systems",
@@ -46,12 +58,6 @@
     "title": "Illustration - FateAura",
     "url": "https://lucian.solutions/blog/202404-fateaura",
     "published": "2024-04-20T20:17:07.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "พร้อมแค่ไหนถึงจะยื่นสมัครงาน?",
-    "url": "https://blog.ninprd.com/blog/how-ready-you-have-to-be-before-applying-for-jobs/",
-    "published": "2024-04-20T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -148,12 +154,6 @@
     "title": "Generating TypeScript types for Rust enums",
     "url": "https://poom.dev/generating-typescript-types-for-rust-enums/",
     "published": "2024-01-03T18:26:01.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Recap 2023",
-    "url": "https://blog.oatto.dev/2024/01/01/recap-2023.html",
-    "published": "2024-01-01T00:00:00.000Z"
   },
   {
     "site": "nuttdam.com",
