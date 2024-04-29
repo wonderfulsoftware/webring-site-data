@@ -1,5 +1,11 @@
 [
   {
+    "site": "kajame.xyz",
+    "title": "ทำ Dark mode ใน Next.js แบบ (App Directory)",
+    "url": "https://kajame.xyz/blog/2024/dark-mode-next-js",
+    "published": "2024-04-28T00:00:00.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "อย่าเสียดายหัวข้อ Blog ที่เราไม่ผูกพันแล้ว",
     "url": "https://blog.ninprd.com/blog/dont-regret-to-delete-some-blog/",
@@ -76,12 +82,6 @@
     "title": "iPhone เครื่องร้อน ? ลองเปลี่ยนค่ายสัญญาณมือถือดูสิ",
     "url": "https://blog.kpping.me/posts/iphone-running-hot/",
     "published": "2024-04-02T09:33:20.000Z"
-  },
-  {
-    "site": "kajame.xyz",
-    "title": "เรียนรู้ - useCallback",
-    "url": "https://kajame.xyz/blog/2024/react-use-callback",
-    "published": "2024-03-24T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
