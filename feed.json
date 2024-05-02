@@ -1,15 +1,27 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "Spring Framework 6.2.0-M1 :: มาใช้งาน @TestBean ใน test กัน",
-    "url": "https://www.somkiat.cc/spring-framework-testbean/",
-    "published": "2024-04-29T15:44:20.000Z"
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Microsoft Build: AI Day @QSNCC",
+    "url": "https://naiwaen.debuggingsoft.com/2024/05/microsoft-build-ai-day-qsncc-note/",
+    "published": "2024-05-01T16:54:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "VMware Disk Note",
-    "url": "https://naiwaen.debuggingsoft.com/2024/04/vmware-disk-note/",
-    "published": "2024-04-29T01:45:00.000Z"
+    "site": "lucian.solutions",
+    "title": "Illustration - Seeker",
+    "url": "https://lucian.solutions/blog/202404-seeker",
+    "published": "2024-05-01T15:30:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Hoppscotch",
+    "url": "https://www.somkiat.cc/hello-hoppscotch/",
+    "published": "2024-05-01T10:54:48.000Z"
+  },
+  {
+    "site": "anuwong.com",
+    "title": "จัดการ dotfiles ด้วย chezmoi",
+    "url": "https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/",
+    "published": "2024-05-01T08:27:48.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -58,12 +70,6 @@
     "title": "Drawing low resolution monochrome text with freetype-wasm",
     "url": "https://notes.dt.in.th/FreeTypeJSBlackWhiteText",
     "published": "2024-04-21T00:00:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - FateAura",
-    "url": "https://lucian.solutions/blog/202404-fateaura",
-    "published": "2024-04-20T20:17:07.000Z"
   },
   {
     "site": "mesodiar.com",
@@ -124,12 +130,6 @@
     "title": "มาลองสร้าง Helm Chart กัน",
     "url": "https://trwkc.dev/create-helm-chart-101/",
     "published": "2024-02-12T13:00:30.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "guregu/null เวอร์ชั่นใหม่หลังจากไม่มีการเคลื่อนไหวกว่า 4 ปี",
-    "url": "https://www.anuwong.com/blog/guregu-null-v5-%E0%B8%9B%E0%B8%A5%E0%B9%88%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7/",
-    "published": "2024-02-12T08:42:40.000Z"
   },
   {
     "site": "yuttakhanb.dev",
