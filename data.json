@@ -411,7 +411,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2024-05-12T01:03:07.263Z"
+    "lastUpdated": "2024-05-13T10:53:27.811Z",
+    "number": 26
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -432,7 +433,8 @@
       "rect": "40:40:211.5:275.8125",
       "href": "https://webring.wonderful.software#pontakorn.dev"
     },
-    "lastUpdated": "2024-05-11T00:58:21.031Z"
+    "lastUpdated": "2024-05-13T10:53:52.332Z",
+    "number": 28
   },
   "wp.curve.in.th": {
     "url": "https://wp.curve.in.th/",
@@ -441,7 +443,8 @@
     "screenshotUpdatedAt": "2023-08-27T00:55:40.511Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2024-05-11T00:58:24.255Z"
+    "lastUpdated": "2024-05-13T10:53:56.646Z",
+    "number": 29
   },
   "adamblog.co": {
     "url": "https://adamblog.co",
@@ -453,7 +456,8 @@
       "rect": "24:28.765625:239.5:10.6171875",
       "href": "https://webring.wonderful.software#adamblog.co"
     },
-    "lastUpdated": "2024-05-10T00:59:33.971Z"
+    "lastUpdated": "2024-05-13T10:54:13.399Z",
+    "number": 30
   },
   "pat.chormai.org": {
     "url": "https://pat.chormai.org",
@@ -465,7 +469,8 @@
       "rect": "66:18:190.890625:3328.734375",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2024-05-12T01:03:52.626Z"
+    "lastUpdated": "2024-05-13T10:54:21.750Z",
+    "number": 31
   },
   "curiousdev.in.th": {
     "url": "https://curiousdev.in.th",
@@ -490,7 +495,8 @@
       "rect": "16:16:331:20",
       "href": "https://webring.wonderful.software#heyfirst.co"
     },
-    "lastUpdated": "2024-05-12T01:04:06.648Z"
+    "lastUpdated": "2024-05-13T10:54:30.474Z",
+    "number": 33
   },
   "wiennat.com": {
     "url": "https://www.wiennat.com",
@@ -662,7 +668,8 @@
       "rect": "24:28:241.5:304",
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2024-05-12T01:03:13.107Z"
+    "lastUpdated": "2024-05-13T10:53:38.545Z",
+    "number": 27
   },
   "bellmcp.work": {
     "url": "https://bellmcp.work",
@@ -1771,5 +1778,18 @@
     },
     "lastUpdated": "2024-05-13T01:20:09.872Z",
     "number": 113
+  },
+  "faystarnext.studio": {
+    "url": "https://faystarnext.studio",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/faystarnext.studio_375w@2x.png",
+    "blurhash": "vYE:rlofR-WW.AWBaeof^gj[xaf5_1oJNGWV_3aes:jZ%Lj[ayWU?Gjafka#",
+    "screenshotUpdatedAt": "2024-05-13T10:54:48.965Z",
+    "description": "Hi 👋 My name is FAY",
+    "backlink": {
+      "rect": "26:26:66.9375:19",
+      "href": "https://webring.wonderful.software#faystarnext.studio"
+    },
+    "lastUpdated": "2024-05-13T10:54:48.965Z",
+    "number": 114
   }
 }
