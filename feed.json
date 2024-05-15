@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการแบ่งปันใน course Full Stack Automation Testing #1 ที่ Skooldio",
+    "url": "https://www.somkiat.cc/sharing-course-full-stack-automation-testing-at-skooldio/",
+    "published": "2024-05-14T12:17:42.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[KBTG-GO] แบ่งปันประสบการณ์งาน Go Intensive Workshop (11-12 May 2024)",
     "url": "https://naiwaen.debuggingsoft.com/2024/05/kbtg-go-share-experiance-go-intensive-workshop-11-12-may-2024/",
@@ -28,12 +34,6 @@
     "title": "ต่อให้ไม่มีเรา บริษัทก็อยู่ได้",
     "url": "https://blog.ninprd.com/blog/even-though-im-not-here-company-still-running-properly/",
     "published": "2024-05-11T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกเรื่องการเปลี่ยนมาใช้งาน TypeScript ของ Figma",
-    "url": "https://www.somkiat.cc/note-figma-change-to-typescript/",
-    "published": "2024-05-10T14:33:52.000Z"
   },
   {
     "site": "blog.kpping.me",
