@@ -1,5 +1,11 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "What is Yoda conditions?",
+    "url": "https://jitrak.dev/posts/post-26-yoda-conditions/",
+    "published": "2024-05-15T04:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการแบ่งปันใน course Full Stack Automation Testing #1 ที่ Skooldio",
     "url": "https://www.somkiat.cc/sharing-course-full-stack-automation-testing-at-skooldio/",
@@ -208,12 +214,6 @@
     "title": "แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023",
     "url": "https://tinarskii.com/articles/htbf2023/",
     "published": "2023-10-30T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Distroless Container Images",
-    "url": "https://jitrak.dev/posts/post-25-distroless-container-images/",
-    "published": "2023-10-17T19:19:00.000Z"
   },
   {
     "site": "thammarith.dev",
