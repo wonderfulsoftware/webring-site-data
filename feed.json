@@ -1,15 +1,33 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Tips :: การใช้งาน profile ใน Docker compose",
+    "url": "https://www.somkiat.cc/tips-use-profile-in-docker-compose/",
+    "published": "2024-05-20T14:57:39.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "เปลี่ยนขยะเป็นเงิน",
+    "url": "https://thiti.dev/blog/67/",
+    "published": "2024-05-20T11:15:40.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[C#] Array Spread",
+    "url": "https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/",
+    "published": "2024-05-20T05:53:20.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "iCreator Camp 2024 วันแรกกับ Storytelling & Creativity",
+    "url": "https://www.mikkipastel.com/icreator-camp-2024-week1-storytelling-and-creativity/",
+    "published": "2024-05-20T05:08:06.000Z"
+  },
+  {
     "site": "wawasabii.com",
     "title": "7 คำแนะนำ First Jobbers 101 จาก Gen Z ด้วยกันก่อนเริ่มทำงาน",
     "url": "https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/",
     "published": "2024-05-19T11:18:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ตอบคำถามเรื่อง แนวทางในการ shared code",
-    "url": "https://www.somkiat.cc/tips-shared-code/",
-    "published": "2024-05-19T05:04:05.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -22,12 +40,6 @@
     "title": "พูดไม่รู้เรื่อง จริงหรือเปล่าน้า (ฉบับ DevDev)",
     "url": "https://blog.ninprd.com/blog/do-we-talk-incoherent/",
     "published": "2024-05-18T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[C#] ทำ Unit Test กับ XML ครับ",
-    "url": "https://naiwaen.debuggingsoft.com/2024/05/c-sharp-how-to-unit-test-xml/",
-    "published": "2024-05-16T04:30:00.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -52,12 +64,6 @@
     "title": "รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++",
     "url": "https://blog.kpping.me/posts/long-term-review-cx-5/",
     "published": "2024-05-08T08:20:32.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มารับความรู้ฝั่ง web3 developer กับงาน Sui Workshop",
-    "url": "https://www.mikkipastel.com/sui-workshop-contribution-dao/",
-    "published": "2024-05-05T11:08:12.000Z"
   },
   {
     "site": "bigdatarpg.com",
@@ -220,12 +226,6 @@
     "title": "วิธีฟังดนตรีคลาสสิก ฉบับมือใหม่",
     "url": "https://thammarith.dev/blog/classical-music-concert-guide/",
     "published": "2023-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "Bun คืออะไร?",
-    "url": "https://thiti.dev/blog/105/",
-    "published": "2023-09-24T08:00:00.000Z"
   },
   {
     "site": "ntsd.dev",
