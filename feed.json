@@ -1,21 +1,27 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "บันทึกการนำแนวคิด 12-factors มาใช้ในการพัฒนาระบบงานด้วยภาษา Go",
-    "url": "https://www.somkiat.cc/summary-12-factors-with-go-and-docker/",
-    "published": "2024-05-21T09:54:18.000Z"
+    "site": "tech.duckfollow.co",
+    "title": "แต่ก่อน ส่งข้อมูลกันอย่างไร?",
+    "url": "https://tech.duckfollow.co/view/send-data",
+    "published": "2024-05-23T01:00:00.000Z"
   },
   {
     "site": "thiti.dev",
-    "title": "เปลี่ยนขยะเป็นเงิน",
-    "url": "https://thiti.dev/blog/67/",
-    "published": "2024-05-20T11:15:40.000Z"
+    "title": "แก้ปัญหาสแกน QR Code ของ EV Station PluZ ไม่ได้",
+    "url": "https://thiti.dev/blog/68/",
+    "published": "2024-05-22T11:15:40.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "[C#] Array Spread",
-    "url": "https://naiwaen.debuggingsoft.com/2024/05/c-array-spread/",
-    "published": "2024-05-20T05:53:20.000Z"
+    "title": "[PostgreSQL] How to Fixed, FATAL: database locale is incompatible with operating system(LC_COLLATE “th_TH.UTF-8”)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/05/postgresfatal-database-locale-is-incompatible-with-operating-system/",
+    "published": "2024-05-22T07:55:38.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน HTTPie for Web and Desktop กัน",
+    "url": "https://www.somkiat.cc/hello-httpie-for-web-and-desktop/",
+    "published": "2024-05-22T06:03:02.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -46,12 +52,6 @@
     "title": "What is Yoda conditions?",
     "url": "https://jitrak.dev/posts/post-26-yoda-conditions/",
     "published": "2024-05-15T04:00:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "เมื่อผู้ใช้คลิกซ้ำๆ จะต้องทำยังไง?",
-    "url": "https://tech.duckfollow.co/view/uc",
-    "published": "2024-05-13T01:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
