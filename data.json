@@ -462,7 +462,8 @@
       "rect": "66:18:190.890625:3328.734375",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2024-05-19T01:04:22.297Z"
+    "lastUpdated": "2024-05-23T19:31:02.848Z",
+    "number": 31
   },
   "curiousdev.in.th": {
     "url": "https://curiousdev.in.th",
@@ -474,7 +475,8 @@
       "rect": "32:61.1875:282.3125:47",
       "href": "https://webring.wonderful.software#curiousdev.in.th"
     },
-    "lastUpdated": "2024-05-22T01:00:58.607Z"
+    "lastUpdated": "2024-05-23T19:31:10.299Z",
+    "number": 32
   },
   "heyfirst.co": {
     "url": "https://heyfirst.co",
@@ -486,7 +488,8 @@
       "rect": "16:16:331:20",
       "href": "https://webring.wonderful.software#heyfirst.co"
     },
-    "lastUpdated": "2024-05-22T01:01:06.056Z"
+    "lastUpdated": "2024-05-23T19:31:18.338Z",
+    "number": 33
   },
   "wiennat.com": {
     "url": "https://www.wiennat.com",
@@ -498,7 +501,8 @@
       "rect": "21:31:334.8125:3561.765625",
       "href": "https://webring.wonderful.software#wiennat.com"
     },
-    "lastUpdated": "2024-05-22T01:01:14.675Z"
+    "lastUpdated": "2024-05-23T19:31:29.278Z",
+    "number": 34
   },
   "llun.me": {
     "url": "https://www.llun.me",
@@ -1782,5 +1786,18 @@
     },
     "lastUpdated": "2024-05-23T01:18:29.033Z",
     "number": 114
+  },
+  "sujamess.com": {
+    "url": "https://sujamess.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/sujamess.com_375w@2x.png",
+    "blurhash": "v6S~x5ay_3t7ayWBfQof~qWB4.j[RjWBfQj[4nWB-;ofM{WBt7of-;ayIUj[",
+    "screenshotUpdatedAt": "2024-05-23T19:31:37.693Z",
+    "description": "Creative space of Sujames. Writing anything that comes to mind.",
+    "backlink": {
+      "rect": "20:20:187.5:22",
+      "href": "https://webring.wonderful.software#sujamess.com"
+    },
+    "lastUpdated": "2024-05-23T19:31:37.693Z",
+    "number": 115
   }
 }
