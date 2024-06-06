@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[DB2] Backup offline/online and database logs",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/db2-backup-log-and-archive/",
-    "published": "2024-06-04T04:35:58.000Z"
+    "title": "AZ-104: Deploy and manage Azure compute resources",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/",
+    "published": "2024-06-05T09:14:20.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "นิลเล่า: WordPress Basic II",
+    "url": "https://blog.ninprd.com/blog/wordpress-basic-ii/",
+    "published": "2024-06-05T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -16,12 +22,6 @@
     "title": "เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3",
     "url": "https://www.mikkipastel.com/icreator-camp-2024-week3-design-and-visual/",
     "published": "2024-06-02T15:38:46.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "นิลเล่า: WordPress Basic I",
-    "url": "https://blog.ninprd.com/blog/wordpress-basic-i/",
-    "published": "2024-05-25T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
