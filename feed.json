@@ -1,21 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ความสามารถที่น่าสนใจของ NodeJS",
+    "url": "https://www.somkiat.cc/features-of-nodejs/",
+    "published": "2024-06-06T15:05:54.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "AZ-104: Deploy and manage Azure compute resources",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/az-104-deploy-and-manage-azure-compute-resources/",
-    "published": "2024-06-05T09:14:20.000Z"
+    "title": "bcdedit enum options",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/bcdedit-enum-options/",
+    "published": "2024-06-06T10:26:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
     "title": "นิลเล่า: WordPress Basic II",
     "url": "https://blog.ninprd.com/blog/wordpress-basic-ii/",
     "published": "2024-06-05T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Ophiuchi สำหรับสร้าง SSL for localhost",
-    "url": "https://www.somkiat.cc/try-ophiuchi-to-create-ssl-for-localhost/",
-    "published": "2024-06-03T15:17:49.000Z"
   },
   {
     "site": "mikkipastel.com",
