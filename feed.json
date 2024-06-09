@@ -1,9 +1,15 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "Illustration - ルシア👒Into the dreamlike city🌃",
+    "url": "https://lucian.solutions/blog/202406-LuciaSathorn",
+    "published": "2024-06-08T17:50:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาลองเขียน comment รูปแบบ Markdown ใน Java 23 กัน",
-    "url": "https://www.somkiat.cc/java-23-markdown-comment/",
-    "published": "2024-06-08T05:09:23.000Z"
+    "title": "ทำความรู้จักกับ Grafana Alloy",
+    "url": "https://www.somkiat.cc/grafana-alloy/",
+    "published": "2024-06-08T16:04:49.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -58,12 +64,6 @@
     "title": "7 คำแนะนำ First Jobbers 101 จาก Gen Z ด้วยกันก่อนเริ่มทำงาน",
     "url": "https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/",
     "published": "2024-05-19T11:18:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - キララ",
-    "url": "https://lucian.solutions/blog/202405-kirara",
-    "published": "2024-05-18T18:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
