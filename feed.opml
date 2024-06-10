@@ -76,6 +76,7 @@
       <outline text="blog.ninprd.com" title="blog.ninprd.com" type="rss" xmlUrl="https://blog.ninprd.com/rss.xml" htmlUrl="https://blog.ninprd.com"/>
       <outline text="wawasabii.com" title="wawasabii.com" type="rss" xmlUrl="https://wawasabii.com/blog/feed/" htmlUrl="https://wawasabii.com"/>
       <outline text="sujamess.com" title="sujamess.com" type="rss" xmlUrl="https://sujamess.com/rss" htmlUrl="https://sujamess.com"/>
+      <outline text="punn.dev" title="punn.dev" type="rss" xmlUrl="https://punn.dev/api/feed" htmlUrl="https://punn.dev"/>
     </outline>
   </body>
 </opml>
