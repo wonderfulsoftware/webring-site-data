@@ -1,33 +1,39 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform",
+    "url": "https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/",
+    "published": "2024-06-09T16:24:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "The CloudCamp Open House 2024",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/",
+    "published": "2024-06-09T16:14:39.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Thoughts on summarization service's system design",
+    "url": "https://karnwong.me/posts/2024/06/thoughts-on-summarization-service/",
+    "published": "2024-06-09T15:10:56.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "MSTest 3.4 สนับสนุน WinUI และ Playwright แล้ว",
+    "url": "https://www.somkiat.cc/mstest-3-4-with-playwright/",
+    "published": "2024-06-09T05:12:12.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - ルシア👒Into the dreamlike city🌃",
     "url": "https://lucian.solutions/blog/202406-LuciaSathorn",
     "published": "2024-06-08T17:50:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Grafana Alloy",
-    "url": "https://www.somkiat.cc/grafana-alloy/",
-    "published": "2024-06-08T16:04:49.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "แก้ปัญหา Bluetooth to 3.5 Jack ชอบปิดตัวเอง",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/fixed-bluetooth-to-3-5-jack-auto-close-when-change-new-track/",
-    "published": "2024-06-08T00:22:51.000Z"
-  },
-  {
     "site": "blog.ninprd.com",
     "title": "นิลเล่า: WordPress Basic II",
     "url": "https://blog.ninprd.com/blog/wordpress-basic-ii/",
     "published": "2024-06-05T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เรียนรู้ Design & Visual ในการสร้าง content ให้จับใจคน กับ iCreator Camp 2024 สัปดาห์ที่ 3",
-    "url": "https://www.mikkipastel.com/icreator-camp-2024-week3-design-and-visual/",
-    "published": "2024-06-02T15:38:46.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -130,12 +136,6 @@
     "title": "เทคนิคการฝึกพูด present และ public speaking สำหรับมือใหม่",
     "url": "https://mesodiar.com/2024/04/13/speaker-newbie-technique/",
     "published": "2024-04-13T03:35:48.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Faster spark workloads with comet",
-    "url": "https://karnwong.me/posts/2024/04/faster-spark-workloads-with-comet/",
-    "published": "2024-04-07T07:55:28.000Z"
   },
   {
     "site": "poolsawat.com",
