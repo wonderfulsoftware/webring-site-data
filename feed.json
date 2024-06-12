@@ -1,21 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "สรุปจากการอ่านบทความเรื่อง Redesigning Pinterest’s Ad Serving Systems with Zero Downtime",
-    "url": "https://www.somkiat.cc/note-redesigning-pinterests/",
-    "published": "2024-06-10T05:12:20.000Z"
+    "title": "Tips :: การจัดการ tab ใน web browser ด้วย Cypress",
+    "url": "https://www.somkiat.cc/tips-cypress-manage-browser-tab/",
+    "published": "2024-06-11T09:02:18.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "HTML in JSX/TSX",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/html-in-jsx-tsx/",
+    "published": "2024-06-11T02:27:00.000Z"
+  },
+  {
+    "site": "punn.dev",
+    "title": "Let's Create Sequence Diagram via Mermaid",
+    "url": "https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid",
+    "published": "2024-06-10T18:03:30.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform",
     "url": "https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/",
     "published": "2024-06-09T16:24:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The CloudCamp Open House 2024",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/the-cloudcamp-open-house-2024/",
-    "published": "2024-06-09T16:14:39.000Z"
   },
   {
     "site": "karnwong.me",
@@ -28,12 +34,6 @@
     "title": "Illustration - ルシア👒Into the dreamlike city🌃",
     "url": "https://lucian.solutions/blog/202406-LuciaSathorn",
     "published": "2024-06-08T17:50:00.000Z"
-  },
-  {
-    "site": "punn.dev",
-    "title": "Hello (blog) World!",
-    "url": "https://punn.dev/blog/hello-blog-world",
-    "published": "2024-06-07T16:43:31.000Z"
   },
   {
     "site": "blog.ninprd.com",
