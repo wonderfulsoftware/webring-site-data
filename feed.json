@@ -1,9 +1,15 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "รู้หรือไม่? เดี๋ยวนี้กล้องมี chip AI แยกแล้วนะ!",
+    "url": "https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/",
+    "published": "2024-06-13T11:00:22.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "JSX Component",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/jsx-component/",
-    "published": "2024-06-12T06:53:37.000Z"
+    "title": "AZ-104: Configure and manage virtual networks for Azure administrators",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/az-104-configure-and-manage-virtual-networks-for-azure-administrators/",
+    "published": "2024-06-13T08:27:59.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -16,12 +22,6 @@
     "title": "Let's Create Sequence Diagram via Mermaid",
     "url": "https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid",
     "published": "2024-06-10T18:03:30.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สัปดาห์การเรียนสุดท้าย ค่าย iCreator Camp 2024 กับเรื่อง Production & Platform",
-    "url": "https://www.mikkipastel.com/creator-camp-2024-week4-production-and-platform/",
-    "published": "2024-06-09T16:24:00.000Z"
   },
   {
     "site": "karnwong.me",
