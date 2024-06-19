@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "JSX Conditional Rendering",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/jsx-conditional-rendering/",
-    "published": "2024-06-17T13:07:59.000Z"
+    "title": "Install github.com/mattn/go-sqlite3 on Windows",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/install-github-com-mattn-go-sqlite3-on-windows/",
+    "published": "2024-06-18T22:01:13.000Z"
+  },
+  {
+    "site": "punn.dev",
+    "title": "How to implement cross-tab communication",
+    "url": "https://punn.dev/blog/how-to-implement-cross-tab-communication",
+    "published": "2024-06-18T15:31:31.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "ใช้งาน PostgreSQL สำหรับการทดสอบ ใน Spring Boot",
-    "url": "https://www.somkiat.cc/embedded-postgresql-in-spring-boot/",
-    "published": "2024-06-16T13:20:52.000Z"
+    "title": "Docker Desktop :: เพิ่งเห็น extension ชื่อว่า Disk usage",
+    "url": "https://www.somkiat.cc/docker-desktop-with-disk-usage/",
+    "published": "2024-06-18T14:20:35.000Z"
   },
   {
     "site": "kajame.xyz",
@@ -28,12 +34,6 @@
     "title": "รู้หรือไม่? เดี๋ยวนี้กล้องมี chip AI แยกแล้วนะ!",
     "url": "https://www.mikkipastel.com/icreator-camp-2024-sony-alpha-7c-ii/",
     "published": "2024-06-13T11:00:22.000Z"
-  },
-  {
-    "site": "punn.dev",
-    "title": "Let's Create Sequence Diagram via Mermaid",
-    "url": "https://punn.dev/blog/let-s-create-sequence-diagram-via-mermaid",
-    "published": "2024-06-10T18:03:30.000Z"
   },
   {
     "site": "karnwong.me",
