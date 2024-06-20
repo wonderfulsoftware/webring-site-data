@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Tips :: เปลี่ยน version ของ .NET",
+    "url": "https://www.somkiat.cc/tips-manage-version-of-dotnet/",
+    "published": "2024-06-19T06:00:02.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Install github.com/mattn/go-sqlite3 on Windows",
     "url": "https://naiwaen.debuggingsoft.com/2024/06/install-github-com-mattn-go-sqlite3-on-windows/",
@@ -10,12 +16,6 @@
     "title": "How to implement cross-tab communication",
     "url": "https://punn.dev/blog/how-to-implement-cross-tab-communication",
     "published": "2024-06-18T15:31:31.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Docker Desktop :: เพิ่งเห็น extension ชื่อว่า Disk usage",
-    "url": "https://www.somkiat.cc/docker-desktop-with-disk-usage/",
-    "published": "2024-06-18T14:20:35.000Z"
   },
   {
     "site": "kajame.xyz",
