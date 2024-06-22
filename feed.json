@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "docker / podman cp note",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/docker-podman-cp-note/",
-    "published": "2024-06-20T20:45:56.000Z"
+    "title": "[MS Cert] บันทึกการสอบ AI-102",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/",
+    "published": "2024-06-21T13:30:00.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "นิลเล่า: WordPress Basic III",
+    "url": "https://blog.ninprd.com/blog/wordpress-basic-iii/",
+    "published": "2024-06-21T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -46,12 +52,6 @@
     "title": "Illustration - ルシア👒Into the dreamlike city🌃",
     "url": "https://lucian.solutions/blog/202406-LuciaSathorn",
     "published": "2024-06-08T17:50:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "นิลเล่า: WordPress Basic II",
-    "url": "https://blog.ninprd.com/blog/wordpress-basic-ii/",
-    "published": "2024-06-05T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
