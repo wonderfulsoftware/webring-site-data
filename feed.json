@@ -1,5 +1,23 @@
 [
   {
+    "site": "mikelopster.dev",
+    "title": "สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24)",
+    "url": "https://mikelopster.dev/posts/gemini-gio-2024/",
+    "published": "2024-06-26T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลบ node_modules ในเครื่องด้วย NPKILL",
+    "url": "https://www.somkiat.cc/delete-node-modules-with-npkill/",
+    "published": "2024-06-25T15:56:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Parse JSON in command line",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/",
+    "published": "2024-06-25T09:40:53.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "วันสุดท้าย ที่เป็นแค่จุดเริ่มต้น กับค่าย iCreator Camp 2024",
     "url": "https://www.mikkipastel.com/icreator-camp-2024-final-day/",
@@ -12,22 +30,10 @@
     "published": "2024-06-23T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[MS Cert] บันทึกการสอบ AI-102",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/microsoft-certification-exam-ai-102-note/",
-    "published": "2024-06-21T13:30:00.000Z"
-  },
-  {
     "site": "blog.ninprd.com",
     "title": "นิลเล่า: WordPress Basic III",
     "url": "https://blog.ninprd.com/blog/wordpress-basic-iii/",
     "published": "2024-06-21T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ TypeSpec สำหรับการออกแบบ API",
-    "url": "https://www.somkiat.cc/intro-typespec-for-api-design/",
-    "published": "2024-06-20T15:01:03.000Z"
   },
   {
     "site": "punn.dev",
@@ -154,12 +160,6 @@
     "title": "ถูกใจสาย Go สร้าง Concurrency limiting goroutine pool ด้วย workerpool แบบเข้าใจง่าย ๆ",
     "url": "https://www.poolsawat.com/create-a-concurrency-limiting-goroutine-pool-with-workerpool/",
     "published": "2024-03-23T13:56:10.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "OAuth คืออะไร ?",
-    "url": "https://mikelopster.dev/posts/oauth-basic/",
-    "published": "2024-03-21T00:00:00.000Z"
   },
   {
     "site": "llun.me",
