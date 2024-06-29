@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว",
+    "url": "https://www.somkiat.cc/playwright-with-clock-api/",
+    "published": "2024-06-28T16:25:30.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "สภาพแวดล้อมที่เหมาะสม",
     "url": "https://tech.duckfollow.co/view/env",
@@ -10,12 +16,6 @@
     "title": "สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24)",
     "url": "https://mikelopster.dev/posts/gemini-gio-2024/",
     "published": "2024-06-26T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลบ node_modules ในเครื่องด้วย NPKILL",
-    "url": "https://www.somkiat.cc/delete-node-modules-with-npkill/",
-    "published": "2024-06-25T15:56:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
