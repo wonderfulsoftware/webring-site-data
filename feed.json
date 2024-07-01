@@ -1,5 +1,17 @@
 [
   {
+    "site": "wawasabii.com",
+    "title": "Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ",
+    "url": "https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/",
+    "published": "2024-06-30T13:41:21.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน Code Mania 1011: AI for Developers",
+    "url": "https://naiwaen.debuggingsoft.com/2024/06/recap-code-mania-1011-ai-for-developers/",
+    "published": "2024-06-29T16:56:00.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - yyoruu 🦊",
     "url": "https://lucian.solutions/blog/202406-yyoruu",
@@ -28,12 +40,6 @@
     "title": "สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24)",
     "url": "https://mikelopster.dev/posts/gemini-gio-2024/",
     "published": "2024-06-26T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to Parse JSON in command line",
-    "url": "https://naiwaen.debuggingsoft.com/2024/06/parse-json-in-command-line/",
-    "published": "2024-06-25T09:40:53.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -88,12 +94,6 @@
     "title": "ใช้ React Compiler คู่กับ Next.js กัน",
     "url": "https://sujamess.com/blog/20240522-nextjs-with-react-compiler",
     "published": "2024-05-22T00:00:00.000Z"
-  },
-  {
-    "site": "wawasabii.com",
-    "title": "7 คำแนะนำ First Jobbers 101 จาก Gen Z ด้วยกันก่อนเริ่มทำงาน",
-    "url": "https://wawasabii.com/blog/gen-z-to-gen-z-first-jobbers-101/",
-    "published": "2024-05-19T11:18:00.000Z"
   },
   {
     "site": "jitrak.dev",
