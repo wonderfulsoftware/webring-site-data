@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Go :: ความแตกต่างระหว่าง go mod tidy กับ go mod download",
+    "url": "https://www.somkiat.cc/go-mod-tidy-vs-download/",
+    "published": "2024-07-02T01:44:20.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "AZ-104: Monitor and back up Azure resources",
     "url": "https://naiwaen.debuggingsoft.com/2024/07/az-104-monitor-and-back-up-azure-resources/",
@@ -22,12 +28,6 @@
     "title": "เรียนรู้ Go - compile อัตโนมัติ ด้วย Air บน Docker",
     "url": "https://kajame.xyz/blog/2024/go-learning-ep-03",
     "published": "2024-06-29T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Playwright 1.45 เพิ่ม Clock API เข้ามาแล้ว",
-    "url": "https://www.somkiat.cc/playwright-with-clock-api/",
-    "published": "2024-06-28T16:25:30.000Z"
   },
   {
     "site": "tech.duckfollow.co",
