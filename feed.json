@@ -12,6 +12,12 @@
     "published": "2024-07-06T14:29:26.000Z"
   },
   {
+    "site": "pontakorn.dev",
+    "title": "ใช้ SQLBoiler กับ Go",
+    "url": "https://pontakorn.dev/posts/use-database-with-sqlboiler/",
+    "published": "2024-07-05T12:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "ทำนามบัตรแจกคนทั้งโลก ในงบหลักสิบ ด้วย NFC card",
     "url": "https://www.mikkipastel.com/how-to-create-nfc-name-card-with-3-steps/",
