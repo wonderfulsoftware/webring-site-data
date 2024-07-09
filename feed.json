@@ -1,15 +1,15 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "แนะนำการใช้งาน tRPC",
-    "url": "https://www.somkiat.cc/introduction-to-trpc/",
-    "published": "2024-07-07T17:10:37.000Z"
+    "site": "debuggingsoft.com",
+    "title": "The Way of Testivus",
+    "url": "https://naiwaen.debuggingsoft.com/2024/07/the-way-of-testivus/",
+    "published": "2024-07-08T09:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Talk ถอดรหัสเอไอผ่านมุมมอง F1 กับพี่ชัยผู้อยู่ในทีมวิจัยที่สร้างโมเดล Phi-3 และ AI ใน Windows",
-    "url": "https://naiwaen.debuggingsoft.com/2024/07/recap-ai-panel-discussion-with-khun-chun-phi3-ai-plarform-team/",
-    "published": "2024-07-06T14:29:26.000Z"
+    "site": "somkiat.cc",
+    "title": "Tips :: ทำการ wrap Error ในภาษา Go",
+    "url": "https://www.somkiat.cc/tips-wrap-error-in-go/",
+    "published": "2024-07-08T07:31:57.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -28,6 +28,12 @@
     "title": "Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ",
     "url": "https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/",
     "published": "2024-06-30T13:41:21.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "LLM กับข้อสอบ O-NET ม.6",
+    "url": "https://notes.dt.in.th/ThaiLanguageLLMBenchmark",
+    "published": "2024-06-30T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -148,12 +154,6 @@
     "title": "Integrating EDA with Legacy systems",
     "url": "https://www.boonsong.dev/integrating-eda-with-legacy-systems",
     "published": "2024-04-22T06:57:51.767Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Drawing low resolution monochrome text with freetype-wasm",
-    "url": "https://notes.dt.in.th/FreeTypeJSBlackWhiteText",
-    "published": "2024-04-21T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
