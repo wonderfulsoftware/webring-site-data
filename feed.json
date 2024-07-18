@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร",
+    "url": "https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/",
+    "published": "2024-07-17T03:24:39.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Food Review - บ้านเสือหิว",
     "url": "https://lucian.solutions/blog/foodreview-hungrytiger",
@@ -40,12 +46,6 @@
     "title": "OpenTelemetry for NextJS and Google Cloud Trace",
     "url": "https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs",
     "published": "2024-07-13T10:27:41.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เป็นโควิดครั้งแรก! เป็นยังไงบ้างนะ?",
-    "url": "https://www.mikkipastel.com/covid-19-first-time-2024/",
-    "published": "2024-07-11T12:57:54.000Z"
   },
   {
     "site": "pontakorn.dev",
