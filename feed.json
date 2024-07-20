@@ -1,5 +1,23 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "เรามาลอง Transition, Commit และ Rollback ใน SQL",
+    "url": "https://tech.duckfollow.co/view/tcl",
+    "published": "2024-07-20T01:00:00.000Z"
+  },
+  {
+    "site": "lucian.solutions",
+    "title": "Food Review - plan a.",
+    "url": "https://lucian.solutions/blog/foodreview-plan-a-kyoto",
+    "published": "2024-07-19T05:40:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module",
+    "url": "https://www.somkiat.cc/better-modular/",
+    "published": "2024-07-19T04:05:52.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "How to add Podman as an Agent in Portainer",
     "url": "https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/",
@@ -12,22 +30,10 @@
     "published": "2024-07-18T10:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน sqlite ใน Node v22.5 ที่กำลังจะออกมา",
-    "url": "https://www.somkiat.cc/nodejs-with-sqlite/",
-    "published": "2024-07-18T01:51:51.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร",
     "url": "https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/",
     "published": "2024-07-17T03:24:39.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Food Review - บ้านเสือหิว",
-    "url": "https://lucian.solutions/blog/foodreview-hungrytiger",
-    "published": "2024-07-16T07:45:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -58,12 +64,6 @@
     "title": "Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ",
     "url": "https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/",
     "published": "2024-06-30T13:41:21.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "สภาพแวดล้อมที่เหมาะสม",
-    "url": "https://tech.duckfollow.co/view/env",
-    "published": "2024-06-27T01:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
