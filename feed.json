@@ -1,5 +1,17 @@
 [
   {
+    "site": "thanapon.info",
+    "title": "[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets",
+    "url": "https://thanapon.info/ci-platform-io-semantic-release/",
+    "published": "2024-07-21T16:32:29.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจากงาน Agile Thailand 2024 #ATH2024",
+    "url": "https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/",
+    "published": "2024-07-21T00:30:00.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "เรามาลอง Transition, Commit และ Rollback ใน SQL",
     "url": "https://tech.duckfollow.co/view/tcl",
@@ -22,12 +34,6 @@
     "title": "ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module",
     "url": "https://www.somkiat.cc/better-modular/",
     "published": "2024-07-19T04:05:52.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to add Podman as an Agent in Portainer",
-    "url": "https://naiwaen.debuggingsoft.com/2024/07/how-to-add-podman-as-an-agent-in-portainer/",
-    "published": "2024-07-18T13:35:30.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -226,12 +232,6 @@
     "title": "New Blog | บ้านใหม่",
     "url": "https://p4perf4ce.me/articles/23/new-home",
     "published": "2023-12-02T21:27:00.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "[AWS EKS] ลองใช้ Cluster autoscaler สำหรับ Scale K8s",
-    "url": "https://thanapon.info/aws-eks-cluster-autoscaler/",
-    "published": "2023-11-12T10:09:14.000Z"
   },
   {
     "site": "yothinix.com",
