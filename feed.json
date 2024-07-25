@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Google Mesop กันดู",
+    "url": "https://www.somkiat.cc/google-mesop-ui-framework/",
+    "published": "2024-07-24T08:42:35.000Z"
+  },
+  {
+    "site": "tinarskii.com",
+    "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
+    "url": "https://tinarskii.com/articles/shit8/",
+    "published": "2024-07-24T00:00:00.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets",
     "url": "https://thanapon.info/ci-platform-io-semantic-release/",
@@ -28,12 +40,6 @@
     "title": "Food Review - plan a.",
     "url": "https://lucian.solutions/blog/foodreview-plan-a-kyoto",
     "published": "2024-07-19T05:40:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง Module",
-    "url": "https://www.somkiat.cc/better-modular/",
-    "published": "2024-07-19T04:05:52.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -238,12 +244,6 @@
     "title": "แชร์ประสบการณ์การเดินทางสู่ DIY Car Detailer ตลอด 1 ปีที่ผ่านมา",
     "url": "https://yothinix.com/detailing-journey/",
     "published": "2023-11-04T07:54:39.000Z"
-  },
-  {
-    "site": "tinarskii.com",
-    "title": "แหกแล้วได้เสื้อ กับการแชร์ประสบการณ์ Hacktoberfest Thailand 2023",
-    "url": "https://tinarskii.com/articles/htbf2023/",
-    "published": "2023-10-30T00:00:00.000Z"
   },
   {
     "site": "ntsd.dev",
