@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ได้คอมบริษัทในรอบเกือบๆ 9 ปี",
+    "url": "https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/",
+    "published": "2024-07-25T12:56:37.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Google Mesop กันดู",
-    "url": "https://www.somkiat.cc/google-mesop-ui-framework/",
-    "published": "2024-07-24T08:42:35.000Z"
+    "title": "Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ?",
+    "url": "https://www.somkiat.cc/software-developer-learn-from-bsod/",
+    "published": "2024-07-25T08:09:42.000Z"
   },
   {
     "site": "tinarskii.com",
@@ -16,12 +22,6 @@
     "title": "[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets",
     "url": "https://thanapon.info/ci-platform-io-semantic-release/",
     "published": "2024-07-21T16:32:29.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน Agile Thailand 2024 #ATH2024",
-    "url": "https://naiwaen.debuggingsoft.com/2024/07/my-agile-thailand-2024-note-ath2024/",
-    "published": "2024-07-21T00:30:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
