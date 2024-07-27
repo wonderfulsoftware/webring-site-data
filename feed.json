@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "ได้คอมบริษัทในรอบเกือบๆ 9 ปี",
-    "url": "https://naiwaen.debuggingsoft.com/2024/07/i-have-received-a-computer-from-the-company-in-almost-9-years/",
-    "published": "2024-07-25T12:56:37.000Z"
+    "title": "Event Sourcing Pattern",
+    "url": "https://naiwaen.debuggingsoft.com/2024/07/event-sourcing-pattern/",
+    "published": "2024-07-26T22:59:32.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "Software Developer ได้เรียนรู้อะไรจากเหตุการณ์จาก CrowdStrike บ้าง ?",
-    "url": "https://www.somkiat.cc/software-developer-learn-from-bsod/",
-    "published": "2024-07-25T08:09:42.000Z"
+    "title": "ทำการสร้าง API mocking และ Testing ด้วย Microcks กัน",
+    "url": "https://www.somkiat.cc/api-mocking-with-microcks/",
+    "published": "2024-07-26T08:59:19.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1",
+    "url": "https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/",
+    "published": "2024-07-26T06:49:12.000Z"
   },
   {
     "site": "tinarskii.com",
@@ -46,12 +52,6 @@
     "title": "Stupid Hackathon 8 และเบื้องหลัง Nokorun",
     "url": "https://pontakorn.dev/posts/nokorun-stupid-hack-8/",
     "published": "2024-07-18T10:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เรียนรู้ 20 บทเรียน เมื่อต้องเป็น Speaker! จาก speaker มือโปร",
-    "url": "https://www.mikkipastel.com/speaker-101-bitton-dao-learning-20-lesson-for-speaker/",
-    "published": "2024-07-17T03:24:39.000Z"
   },
   {
     "site": "dt.in.th",
