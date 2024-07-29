@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Skip tool :: พัฒนา iOS และ Android app ด้วย SwiftUI",
+    "url": "https://www.somkiat.cc/skip-tool-to-develop-mobile-app/",
+    "published": "2024-07-28T06:24:47.000Z"
+  },
+  {
+    "site": "punn.dev",
+    "title": "Enhance OAuth 2.0 Token Security with Demonstration of Proof-of-Possession (DPoP)",
+    "url": "https://punn.dev/blog/enhance-oauth-2-0-token-security-with-dpop",
+    "published": "2024-07-28T04:15:10.000Z"
+  },
+  {
     "site": "bigdatarpg.com",
     "title": "My 2022 Achivements",
     "url": "https://bigdatarpg.com/2024/07/28/my-2022-achivements/",
@@ -22,12 +34,6 @@
     "title": "Event Sourcing Pattern",
     "url": "https://naiwaen.debuggingsoft.com/2024/07/event-sourcing-pattern/",
     "published": "2024-07-26T22:59:32.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการสร้าง API mocking และ Testing ด้วย Microcks กัน",
-    "url": "https://www.somkiat.cc/api-mocking-with-microcks/",
-    "published": "2024-07-26T08:59:19.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -106,12 +112,6 @@
     "title": "สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24)",
     "url": "https://mikelopster.dev/posts/gemini-gio-2024/",
     "published": "2024-06-26T00:00:00.000Z"
-  },
-  {
-    "site": "punn.dev",
-    "title": "How to implement cross-tab communication",
-    "url": "https://punn.dev/blog/how-to-implement-cross-tab-communication",
-    "published": "2024-06-18T15:31:31.000Z"
   },
   {
     "site": "tantatorn.xyz",
