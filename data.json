@@ -408,7 +408,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2024-08-01T01:10:21.068Z"
+    "lastUpdated": "2024-08-02T16:55:07.532Z",
+    "number": 26
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -1854,5 +1855,18 @@
     },
     "lastUpdated": "2024-08-02T01:23:34.986Z",
     "number": 112
+  },
+  "zartre.com": {
+    "url": "https://zartre.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/zartre.com_375w@2x.png",
+    "blurhash": "v9Sry9j[~qofM{ayM{WVIUayt7ayM{ayofj[M|ayxaj[?bj[M{j[~qj[D%j[",
+    "screenshotUpdatedAt": "2024-08-02T16:55:18.625Z",
+    "description": null,
+    "backlink": {
+      "rect": "32:32:198:856",
+      "href": "https://webring.wonderful.software#zartre.com"
+    },
+    "lastUpdated": "2024-08-02T16:55:18.625Z",
+    "number": 119
   }
 }

@@ -1,9 +1,21 @@
 [
   {
+    "site": "zartre.com",
+    "title": "Oma is my first Svelte app – use it to track days since",
+    "url": "https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/",
+    "published": "2024-08-02T15:19:38.000Z"
+  },
+  {
+    "site": "wawasabii.com",
+    "title": "สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย",
+    "url": "https://wawasabii.com/blog/new-gen-investor-event-summary/",
+    "published": "2024-08-02T12:13:02.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Developer survey 2024 จาก StackOverflow ออกมาแล้ว",
-    "url": "https://www.somkiat.cc/developer-survey-2024-from-stackoverflow/",
-    "published": "2024-08-01T12:38:17.000Z"
+    "title": "สวัสดี FastHTML",
+    "url": "https://www.somkiat.cc/hello-fasthtml/",
+    "published": "2024-08-02T10:12:06.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -106,12 +118,6 @@
     "title": "OpenTelemetry for NextJS and Google Cloud Trace",
     "url": "https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs",
     "published": "2024-07-13T10:27:41.000Z"
-  },
-  {
-    "site": "wawasabii.com",
-    "title": "Dashboard คืออะไร? 7 คำแนะนำที่คนสร้างแดชบอร์ดอยากบอกคุณ",
-    "url": "https://wawasabii.com/blog/what-is-a-dashboard-and-how-to-use-it-better/",
-    "published": "2024-06-30T13:41:21.000Z"
   },
   {
     "site": "mikelopster.dev",
