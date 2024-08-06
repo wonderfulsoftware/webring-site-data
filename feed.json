@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการแบ่งปันเรื่อง Automated Testing with Cypress",
+    "url": "https://www.somkiat.cc/note-automated-testing-with-cypress/",
+    "published": "2024-08-05T13:00:09.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Reasons why you shouldn't use programming languages for IaC",
+    "url": "https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/",
+    "published": "2024-08-05T10:38:13.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลง ingress-nginx ผิด พังยาวเลย",
+    "url": "https://naiwaen.debuggingsoft.com/2024/08/helm-install-wrong-ingress-nginx-version/",
+    "published": "2024-08-05T10:01:36.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "infra อะไรยังไง?",
     "url": "https://tech.duckfollow.co/view/infrastructure",
@@ -12,12 +30,6 @@
     "published": "2024-08-04T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "ลอง Tim Hortons ครั้งแรก",
-    "url": "https://naiwaen.debuggingsoft.com/2024/08/tim-hortons-first-time/",
-    "published": "2024-08-03T07:58:38.000Z"
-  },
-  {
     "site": "zartre.com",
     "title": "Oma is my first Svelte app – use it to track days since",
     "url": "https://blog.zartre.com/2024/oma-is-my-first-svelte-app-use-it-to-track-days-since/",
@@ -28,12 +40,6 @@
     "title": "สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย",
     "url": "https://wawasabii.com/blog/new-gen-investor-event-summary/",
     "published": "2024-08-02T12:13:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี FastHTML",
-    "url": "https://www.somkiat.cc/hello-fasthtml/",
-    "published": "2024-08-02T10:12:06.000Z"
   },
   {
     "site": "neizod.dev",
@@ -106,12 +112,6 @@
     "title": "Configuring Open WebUI and LiteLLM with Docker Compose to talk to OpenAI, Anthropic, and Gemini APIs",
     "url": "https://notes.dt.in.th/OpenWebUILiteLLM",
     "published": "2024-07-15T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "GCP's service account credentials can be a security risk. Here's how to mitigate them.",
-    "url": "https://karnwong.me/posts/2024/07/gcps-service-account-credentials-can-be-a-security-risk-heres-how-to-mitigate-them/",
-    "published": "2024-07-14T07:01:57.000Z"
   },
   {
     "site": "kajame.xyz",
