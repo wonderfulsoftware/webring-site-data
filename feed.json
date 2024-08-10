@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Simple Marketing รุ่น 02 @ BIG Co-working Space",
+    "url": "https://naiwaen.debuggingsoft.com/2024/08/simple-marketing-by-khun-toy-datarockie/",
+    "published": "2024-08-09T02:09:08.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D",
     "url": "https://www.somkiat.cc/try-dep-tree/",
@@ -10,12 +16,6 @@
     "title": "ท่าไม้ตาย React Hook",
     "url": "https://tech.duckfollow.co/view/react-hook",
     "published": "2024-08-07T01:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[UBUNTU] Fixed Error E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process xxxx (unattended-upgr)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/08/ubuntu-fixed-error-e-could-not-get-lock-var-lib-dpkg-lock-frontend-it-is-held-by-process-xxxx-unattended-upgr/",
-    "published": "2024-08-06T02:55:55.000Z"
   },
   {
     "site": "karnwong.me",
