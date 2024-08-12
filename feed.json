@@ -1,5 +1,11 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "EventStorming ภาษากลางแห่งโลก Software",
+    "url": "https://blog.ninprd.com/blog/event-storming-ubiquitous-language/",
+    "published": "2024-08-11T00:00:00.000Z"
+  },
+  {
     "site": "pontakorn.dev",
     "title": "DTO คืออะไร",
     "url": "https://pontakorn.dev/posts/what-is-dto/",
@@ -28,12 +34,6 @@
     "title": "Reasons why you shouldn't use programming languages for IaC",
     "url": "https://karnwong.me/posts/2024/08/reasons-why-you-shouldnt-use-programming-languages-for-iac/",
     "published": "2024-08-05T10:38:13.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุปจาก WP Bangkok Meetup: ความปลอดภัยของ WordPress",
-    "url": "https://blog.ninprd.com/blog/wordpress-meetup-wordpress-security/",
-    "published": "2024-08-04T00:00:00.000Z"
   },
   {
     "site": "zartre.com",
