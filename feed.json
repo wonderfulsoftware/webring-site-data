@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Spring Boot 3.4 :: MockBean และ SpyBean ถูก deprecated แล้วนะ เปลี่ยนได้แล้ว",
+    "url": "https://www.somkiat.cc/spring-boot-deprecated-mockbean-and-spybean/",
+    "published": "2024-08-12T06:59:47.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "EventStorming ภาษากลางแห่งโลก Software",
     "url": "https://blog.ninprd.com/blog/event-storming-ubiquitous-language/",
@@ -16,12 +22,6 @@
     "title": "Simple Marketing รุ่น 02 @ BIG Co-working Space",
     "url": "https://naiwaen.debuggingsoft.com/2024/08/simple-marketing-by-khun-toy-datarockie/",
     "published": "2024-08-09T02:09:08.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Dep Tree เพื่อดูความสัมพันธ์ของ source code ในรูปแบบ 3D",
-    "url": "https://www.somkiat.cc/try-dep-tree/",
-    "published": "2024-08-07T16:35:24.000Z"
   },
   {
     "site": "tech.duckfollow.co",
