@@ -1,21 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "น่าสนใจดีกับ postgres.new",
-    "url": "https://www.somkiat.cc/postgres-new-on-web/",
-    "published": "2024-08-15T02:08:06.000Z"
+    "title": "การใช้งาน Dependency Track",
+    "url": "https://www.somkiat.cc/dependency-track-sbom/",
+    "published": "2024-08-16T12:45:37.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Ham Bacon Egg Muffin",
+    "url": "https://naiwaen.debuggingsoft.com/2024/08/cr-starbucks-ham-bacon-egg-muffin/",
+    "published": "2024-08-16T10:52:15.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง?",
+    "url": "https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/",
+    "published": "2024-08-16T04:59:35.000Z"
   },
   {
     "site": "blog.ninprd.com",
     "title": "แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio",
     "url": "https://blog.ninprd.com/blog/skooldio-ux-ui-bootcamp-7-review/",
     "published": "2024-08-15T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุป Live Money101: รู้ 9 ข้อนี้ การเงินน่าจะดีขึ้นมั้ง ? (TAXBugnoms x DataRockie)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/08/recap-money101-9-checklist-for-money-literacy-by-taxbugnoms-x-datarockie/",
-    "published": "2024-08-14T15:24:16.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -88,12 +94,6 @@
     "title": "มาลองเล่น TypeScript Compiler API กัน",
     "url": "https://tantatorn.xyz/posts/typescript-compiler-api/",
     "published": "2024-07-27T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "กลับมาอีกครั้งในรอบ 4 ปี กับ Kotlin Meetup 2024.1",
-    "url": "https://www.mikkipastel.com/kotlin-meetup-2024-1-kotlin-multiplatform/",
-    "published": "2024-07-26T06:49:12.000Z"
   },
   {
     "site": "tinarskii.com",
