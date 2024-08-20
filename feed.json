@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Puppeteer 23 สนับสนุน Firefox browser แล้ว",
-    "url": "https://www.somkiat.cc/puppeteer-23-support-firefox/",
-    "published": "2024-08-17T14:26:19.000Z"
+    "title": "ความสามารถที่น่าสนใจของ Apache Airflow 2.10",
+    "url": "https://www.somkiat.cc/apache-airflow-2-10/",
+    "published": "2024-08-19T07:05:34.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "Deviation Seeker",
+    "url": "https://neizod.dev/2024/08/19/deviation-seeker.html",
+    "published": "2024-08-19T03:32:08.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -52,12 +58,6 @@
     "title": "สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย",
     "url": "https://wawasabii.com/blog/new-gen-investor-event-summary/",
     "published": "2024-08-02T12:13:02.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Geometry Boot Camp 2024",
-    "url": "https://neizod.dev/2024/07/29/geometry-boot-camp-2024.html",
-    "published": "2024-07-29T16:59:59.000Z"
   },
   {
     "site": "ntsd.dev",
