@@ -1,21 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[GIT] gitmoji for meaningful commit",
+    "url": "https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/",
+    "published": "2024-08-22T09:51:42.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "ดราม่าปิดเขาแหลม",
+    "url": "https://myifew.com/6575/khao-leam-closed/",
+    "published": "2024-08-22T04:22:48.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Bun v1.1.25 สนับสนุน node:cluster แล้ว",
+    "url": "https://www.somkiat.cc/bun-v1-1-25-node-cluster/",
+    "published": "2024-08-22T02:41:22.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "สรุปจากงาน Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.)",
     "url": "https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/",
     "published": "2024-08-20T15:05:18.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Use case :: การดึงข้อมูลจาก database ที่ช้า จนเกิด Timeout",
-    "url": "https://www.somkiat.cc/use-case-database-timeout-with-go/",
-    "published": "2024-08-20T05:54:01.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] UGREEN 145W 25000mAh for Laptop-3 Ports Power Bank",
-    "url": "https://naiwaen.debuggingsoft.com/2024/08/cr-ugreen-145w-power-bank-for-laptop/",
-    "published": "2024-08-20T03:25:55.000Z"
   },
   {
     "site": "neizod.dev",
@@ -286,12 +292,6 @@
     "title": "สร้าง Web Application ด้วย Vite + React และ TypeScript",
     "url": "https://toupawa.com/create-an-web-application-with-vite-and-react-and-typescript/",
     "published": "2023-04-21T00:09:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เมื่อ Twitter เปิด Open Source ให้เห็น Algorithms น่าสนใจมากๆ",
-    "url": "https://myifew.com/6533/twitter-open-source-algorithm/",
-    "published": "2023-04-01T07:38:41.000Z"
   },
   {
     "site": "knowlats.dev",
