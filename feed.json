@@ -1,5 +1,23 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "สรุป UXTH Meetup: UX & Biometrics",
+    "url": "https://blog.ninprd.com/blog/uxth-meetup-ux-and-biometrics-summary/",
+    "published": "2024-08-24T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปแนวทางในการติดต่อสื่อสารระหว่าง Module",
+    "url": "https://www.somkiat.cc/communication-modular-monolith/",
+    "published": "2024-08-23T13:30:39.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "บอกต่อทริคไม่ลับ! ที่ทำให้คุณใช้ Canva Pro คุ้มขึ้น!!!",
+    "url": "https://www.mikkipastel.com/how-to-use-canva-pro/",
+    "published": "2024-08-23T07:49:35.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[GIT] gitmoji for meaningful commit",
     "url": "https://naiwaen.debuggingsoft.com/2024/08/gitmoji-for-meaningful-commit/",
@@ -12,12 +30,6 @@
     "published": "2024-08-22T04:22:48.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "Bun v1.1.25 สนับสนุน node:cluster แล้ว",
-    "url": "https://www.somkiat.cc/bun-v1-1-25-node-cluster/",
-    "published": "2024-08-22T02:41:22.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "สรุปจากงาน Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.)",
     "url": "https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/",
@@ -28,18 +40,6 @@
     "title": "Deviation Seeker",
     "url": "https://neizod.dev/2024/08/19/deviation-seeker.html",
     "published": "2024-08-19T03:32:08.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "อยากเทสแอพบน Foldable แต่ไม่มีเครื่องจริง ทำยังไงได้บ้าง?",
-    "url": "https://www.mikkipastel.com/foldable-phone-emulator-firebase-android-device-streaming/",
-    "published": "2024-08-16T04:59:35.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "แชร์ประสบการณ์และรีวิว UX/UI Bootcamp (UXB) รุ่นที่ 7 ของ Skooldio",
-    "url": "https://blog.ninprd.com/blog/skooldio-ux-ui-bootcamp-7-review/",
-    "published": "2024-08-15T00:00:00.000Z"
   },
   {
     "site": "pontakorn.dev",
