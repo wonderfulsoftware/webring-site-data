@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "เครื่องมือในการแปลงจาก Ingress เป็น Gateway API ใน Kubernetes",
+    "url": "https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/",
+    "published": "2024-08-25T09:42:11.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "ดูฤกษ์ deploy ขอให้สิ่งศักดิ์คุ้มครอง?",
     "url": "https://tech.duckfollow.co/view/Ask-for-sacred-protection",
     "published": "2024-08-25T01:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาดูความสามารถใน Kafka 3.8",
-    "url": "https://www.somkiat.cc/kafka-3-8/",
-    "published": "2024-08-24T03:59:21.000Z"
+    "site": "kajame.xyz",
+    "title": "เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger",
+    "url": "https://kajame.xyz/blog/2024/learn-nestjs",
+    "published": "2024-08-25T00:00:00.000Z"
+  },
+  {
+    "site": "anuwong.com",
+    "title": "Biome ยุติสงครามระหว่าง ESLint และ Prettier",
+    "url": "https://www.anuwong.com/blog/biome-come-to-rescue-you/",
+    "published": "2024-08-25T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -132,12 +144,6 @@
     "published": "2024-07-15T00:00:00.000Z"
   },
   {
-    "site": "kajame.xyz",
-    "title": "เรียนรู้ Go - ทำ Todo API ต่อกับ MongoDB",
-    "url": "https://kajame.xyz/blog/2024/go-learning-ep-04",
-    "published": "2024-07-14T00:00:00.000Z"
-  },
-  {
     "site": "llun.me",
     "title": "OpenTelemetry for NextJS and Google Cloud Trace",
     "url": "https://www.llun.me/posts/dev/2024-07-13-opentelemetry-google-cloud-trace-nextjs",
@@ -184,12 +190,6 @@
     "title": "รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++",
     "url": "https://blog.kpping.me/posts/long-term-review-cx-5/",
     "published": "2024-05-08T08:20:32.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "จัดการ dotfiles ด้วย chezmoi",
-    "url": "https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/",
-    "published": "2024-05-01T08:27:48.000Z"
   },
   {
     "site": "blog.oatto.dev",
