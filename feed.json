@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "เครื่องมือในการแปลงจาก Ingress เป็น Gateway API ใน Kubernetes",
-    "url": "https://www.somkiat.cc/convert-ingress-to-gateway-api-in-kubernetes/",
-    "published": "2024-08-25T09:42:11.000Z"
+    "title": "บันทึกจาก paper เรื่อง Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements",
+    "url": "https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/",
+    "published": "2024-08-26T06:19:33.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Reading data from OBZ Barcode Reader on the web using Web Serial API",
+    "url": "https://notes.dt.in.th/OBZBarcodeScannerJS",
+    "published": "2024-08-26T00:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
@@ -13,7 +19,7 @@
   },
   {
     "site": "kajame.xyz",
-    "title": "เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swgger",
+    "title": "เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger",
     "url": "https://kajame.xyz/blog/2024/learn-nestjs",
     "published": "2024-08-25T00:00:00.000Z"
   },
@@ -136,12 +142,6 @@
     "title": "Food Review - plan a.",
     "url": "https://lucian.solutions/blog/foodreview-plan-a-kyoto",
     "published": "2024-07-19T05:40:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Configuring Open WebUI and LiteLLM with Docker Compose to talk to OpenAI, Anthropic, and Gemini APIs",
-    "url": "https://notes.dt.in.th/OpenWebUILiteLLM",
-    "published": "2024-07-15T00:00:00.000Z"
   },
   {
     "site": "llun.me",
