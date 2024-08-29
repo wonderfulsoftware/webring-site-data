@@ -1,15 +1,15 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "How I structure Playwright page objects",
+    "url": "https://notes.dt.in.th/PlaywrightPageObject",
+    "published": "2024-08-28T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกจาก paper เรื่อง Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements",
     "url": "https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/",
     "published": "2024-08-26T06:19:33.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Reading data from OBZ Barcode Reader on the web using Web Serial API",
-    "url": "https://notes.dt.in.th/OBZBarcodeScannerJS",
-    "published": "2024-08-26T00:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
