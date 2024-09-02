@@ -12,6 +12,12 @@
     "published": "2024-08-31T10:00:00.000Z"
   },
   {
+    "site": "dt.in.th",
+    "title": "Reverse-engineering Insta360 Link Controller WebSockets protocol",
+    "url": "https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol",
+    "published": "2024-08-31T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สอนใช้ Suno AI มาทำเพลงเองแบบง่าย ๆ ในยุค AI",
     "url": "https://www.mikkipastel.com/how-to-use-suno-ai-to-generate-music/",
@@ -22,12 +28,6 @@
     "title": "จดๆจาก DevClub#6 eBPF @AWC",
     "url": "https://naiwaen.debuggingsoft.com/2024/08/recap-from-devclub6-ebpf/",
     "published": "2024-08-30T03:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "How I structure Playwright page objects",
-    "url": "https://notes.dt.in.th/PlaywrightPageObject",
-    "published": "2024-08-28T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
