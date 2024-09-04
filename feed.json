@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการใช้งาน Aider :: AI pair programming in your terminal",
+    "url": "https://www.somkiat.cc/aider-ai-pair-programming/",
+    "published": "2024-09-03T15:09:46.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #02 (Mutation) + TiDB",
     "url": "https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/",
@@ -28,12 +34,6 @@
     "title": "Reverse-engineering Insta360 Link Controller WebSockets protocol",
     "url": "https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol",
     "published": "2024-08-31T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกจาก paper เรื่อง Refactoring vs Refuctoring: Advancing the state of AI-automated code improvements",
-    "url": "https://www.somkiat.cc/refactoring-vs-refuctoring-with-ai/",
-    "published": "2024-08-26T06:19:33.000Z"
   },
   {
     "site": "tech.duckfollow.co",
