@@ -1,15 +1,33 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "บันทึกการใช้งาน Aider :: AI pair programming in your terminal",
-    "url": "https://www.somkiat.cc/aider-ai-pair-programming/",
-    "published": "2024-09-03T15:09:46.000Z"
+    "site": "debuggingsoft.com",
+    "title": "VS Code ย้ายเครื่องไป Setting ตามไปด้วยไม่ต้องตั้งค่าใหม่ !!!",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/",
+    "published": "2024-09-04T15:19:29.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[DOTNET] GraphQL บน NET8 ด้วย HotChocolate Library #02 (Mutation) + TiDB",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/dotnet-graphql-net8-with-hotchocolate-library-part2-mutation-with-tidb/",
-    "published": "2024-09-02T04:11:09.000Z"
+    "site": "pontakorn.dev",
+    "title": "รู้จักกับภาษา Gleam",
+    "url": "https://pontakorn.dev/posts/introduction-to-gleam/",
+    "published": "2024-09-04T10:00:00.000Z"
+  },
+  {
+    "site": "trwkc.dev",
+    "title": "Base64 Encoding with Golang",
+    "url": "https://trwkc.dev/base64-encoding-with-golang/",
+    "published": "2024-09-04T04:26:22.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปการพัฒนา feature Artifacts ใน Claude AI",
+    "url": "https://www.somkiat.cc/how-to-develop-artifacts/",
+    "published": "2024-09-04T04:25:36.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "รู้จักกับ FastAPI",
+    "url": "https://mikelopster.dev/posts/fastapi-basic/",
+    "published": "2024-09-04T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -22,12 +40,6 @@
     "title": "eBPF 101 สำหรับมือใหม่",
     "url": "https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/",
     "published": "2024-08-31T16:57:36.000Z"
-  },
-  {
-    "site": "pontakorn.dev",
-    "title": "การใส่ type hint ในภาษา Python",
-    "url": "https://pontakorn.dev/posts/type-hint-in-python/",
-    "published": "2024-08-31T10:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -156,12 +168,6 @@
     "published": "2024-07-13T10:27:41.000Z"
   },
   {
-    "site": "mikelopster.dev",
-    "title": "สรุปเนื้อหา Exploring the Power of Gemini (I/O Extend 24)",
-    "url": "https://mikelopster.dev/posts/gemini-gio-2024/",
-    "published": "2024-06-26T00:00:00.000Z"
-  },
-  {
     "site": "thiti.dev",
     "title": "แก้ปัญหาสแกน QR Code ของ EV Station PluZ ไม่ได้",
     "url": "https://thiti.dev/blog/68/",
@@ -220,12 +226,6 @@
     "title": "Million snippets: NextJS Tailwind configuration",
     "url": "https://rayriffy.com/garden/million-next-tailwind/",
     "published": "2024-02-16T14:30:00.000Z"
-  },
-  {
-    "site": "trwkc.dev",
-    "title": "มาลองสร้าง Helm Chart กัน",
-    "url": "https://trwkc.dev/create-helm-chart-101/",
-    "published": "2024-02-12T13:00:30.000Z"
   },
   {
     "site": "nitpum.com",
