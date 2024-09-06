@@ -1,5 +1,17 @@
 [
   {
+    "site": "tech.duckfollow.co",
+    "title": "ทำไมต้องใช้ Loading...",
+    "url": "https://tech.duckfollow.co/view/why-loading",
+    "published": "2024-09-06T01:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Semantic Kernel จาก Microsoft",
+    "url": "https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/",
+    "published": "2024-09-05T06:15:09.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "VS Code ย้ายเครื่องไป Setting ตามไปด้วยไม่ต้องตั้งค่าใหม่ !!!",
     "url": "https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/",
@@ -16,12 +28,6 @@
     "title": "Base64 Encoding with Golang",
     "url": "https://trwkc.dev/base64-encoding-with-golang/",
     "published": "2024-09-04T04:26:22.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการพัฒนา feature Artifacts ใน Claude AI",
-    "url": "https://www.somkiat.cc/how-to-develop-artifacts/",
-    "published": "2024-09-04T04:25:36.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -46,12 +52,6 @@
     "title": "Reverse-engineering Insta360 Link Controller WebSockets protocol",
     "url": "https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol",
     "published": "2024-08-31T00:00:00.000Z"
-  },
-  {
-    "site": "tech.duckfollow.co",
-    "title": "ดูฤกษ์ deploy ขอให้สิ่งศักดิ์คุ้มครอง?",
-    "url": "https://tech.duckfollow.co/view/Ask-for-sacred-protection",
-    "published": "2024-08-25T01:00:00.000Z"
   },
   {
     "site": "kajame.xyz",
