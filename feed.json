@@ -1,15 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปเรื่องการ Scale ระบบที่พัฒนาด้วย Rails และ PostgreSQL database ของ Microsoft",
+    "url": "https://www.somkiat.cc/note-scale-rails-and-postgresql-database/",
+    "published": "2024-09-06T04:08:04.000Z"
+  },
+  {
     "site": "tech.duckfollow.co",
     "title": "ทำไมต้องใช้ Loading...",
     "url": "https://tech.duckfollow.co/view/why-loading",
     "published": "2024-09-06T01:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Semantic Kernel จาก Microsoft",
-    "url": "https://www.somkiat.cc/hello-semantic-kernel-from-microsoft/",
-    "published": "2024-09-05T06:15:09.000Z"
   },
   {
     "site": "debuggingsoft.com",
