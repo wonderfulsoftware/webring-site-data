@@ -1,15 +1,27 @@
 [
   {
+    "site": "pontakorn.dev",
+    "title": "เขียน Unit Test ใน Python ด้วย unittest และ pytest",
+    "url": "https://pontakorn.dev/posts/python-unit-test/",
+    "published": "2024-09-08T14:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เรียนๆจดๆ Helm#01 Introduction",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/helm-introduction/",
+    "published": "2024-09-08T07:00:00.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "สรุป Session: เกมมิฟิเคชัน: ศิลปะแห่งการสร้างแรงจูงใจผ่านกลไกเกม",
+    "url": "https://blog.ninprd.com/blog/gamification-conference-gamification-unviel-by-growth-game/",
+    "published": "2024-09-08T00:00:00.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Streamlit load test performance",
     "url": "https://karnwong.me/posts/2024/09/streamlit-load-test-performance/",
     "published": "2024-09-07T09:12:17.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "เราอาจจะมี Inspiration แต่ยังขาด Motivation",
-    "url": "https://blog.ninprd.com/blog/we-might-have-inspiration-but-lack-of-motivation/",
-    "published": "2024-09-07T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -22,18 +34,6 @@
     "title": "ทำไมต้องใช้ Loading...",
     "url": "https://tech.duckfollow.co/view/why-loading",
     "published": "2024-09-06T01:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "VS Code ย้ายเครื่องไป Setting ตามไปด้วยไม่ต้องตั้งค่าใหม่ !!!",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/vs-code-sync-setting/",
-    "published": "2024-09-04T15:19:29.000Z"
-  },
-  {
-    "site": "pontakorn.dev",
-    "title": "รู้จักกับภาษา Gleam",
-    "url": "https://pontakorn.dev/posts/introduction-to-gleam/",
-    "published": "2024-09-04T10:00:00.000Z"
   },
   {
     "site": "trwkc.dev",
@@ -54,16 +54,16 @@
     "published": "2024-09-02T03:00:45.000Z"
   },
   {
+    "site": "dt.in.th",
+    "title": "Using Elysia in Node.js",
+    "url": "https://notes.dt.in.th/ElysiaNode",
+    "published": "2024-09-01T00:00:00.000Z"
+  },
+  {
     "site": "poolsawat.com",
     "title": "eBPF 101 สำหรับมือใหม่",
     "url": "https://www.poolsawat.com/ebpf-101-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88/",
     "published": "2024-08-31T16:57:36.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Reverse-engineering Insta360 Link Controller WebSockets protocol",
-    "url": "https://notes.dt.in.th/Insta360LinkControllerWebSocketProtocol",
-    "published": "2024-08-31T00:00:00.000Z"
   },
   {
     "site": "kajame.xyz",
