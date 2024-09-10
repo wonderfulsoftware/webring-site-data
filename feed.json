@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกเรื่อง Moving IO to the edges of your app: Functional Core, Imperative Shell",
+    "url": "https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/",
+    "published": "2024-09-09T05:21:29.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน \"Unlocking Product Insights\"",
+    "url": "https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/",
+    "published": "2024-09-09T04:40:14.000Z"
+  },
+  {
     "site": "pontakorn.dev",
     "title": "เขียน Unit Test ใน Python ด้วย unittest และ pytest",
     "url": "https://pontakorn.dev/posts/python-unit-test/",
@@ -24,12 +36,6 @@
     "published": "2024-09-07T09:12:17.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปเรื่องการ Scale ระบบที่พัฒนาด้วย Rails และ PostgreSQL database ของ Microsoft",
-    "url": "https://www.somkiat.cc/note-scale-rails-and-postgresql-database/",
-    "published": "2024-09-06T04:08:04.000Z"
-  },
-  {
     "site": "tech.duckfollow.co",
     "title": "ทำไมต้องใช้ Loading...",
     "url": "https://tech.duckfollow.co/view/why-loading",
@@ -46,12 +52,6 @@
     "title": "รู้จักกับ FastAPI",
     "url": "https://mikelopster.dev/posts/fastapi-basic/",
     "published": "2024-09-04T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "รีวิวคอร์ส “Enhancing Business Performance with Generative AI” เรียนรู้แบบ zero to hero",
-    "url": "https://www.mikkipastel.com/true-digital-academy-enhancing-business-performance-with-generative-ai/",
-    "published": "2024-09-02T03:00:45.000Z"
   },
   {
     "site": "dt.in.th",
