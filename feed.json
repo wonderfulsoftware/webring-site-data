@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Ham Cheese Egg Wrap (Low Crab)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/",
+    "published": "2024-09-11T04:16:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Paste image to decode QR code",
+    "url": "https://notes.dt.in.th/PasteQR",
+    "published": "2024-09-11T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกเรื่อง Moving IO to the edges of your app: Functional Core, Imperative Shell",
     "url": "https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/",
@@ -16,12 +28,6 @@
     "title": "เขียน Unit Test ใน Python ด้วย unittest และ pytest",
     "url": "https://pontakorn.dev/posts/python-unit-test/",
     "published": "2024-09-08T14:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เรียนๆจดๆ Helm#01 Introduction",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/helm-introduction/",
-    "published": "2024-09-08T07:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -52,12 +58,6 @@
     "title": "รู้จักกับ FastAPI",
     "url": "https://mikelopster.dev/posts/fastapi-basic/",
     "published": "2024-09-04T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using Elysia in Node.js",
-    "url": "https://notes.dt.in.th/ElysiaNode",
-    "published": "2024-09-01T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
