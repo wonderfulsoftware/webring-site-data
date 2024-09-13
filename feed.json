@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน ell: The Language Model Programming Library",
+    "url": "https://www.somkiat.cc/hello-ell/",
+    "published": "2024-09-12T16:51:11.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "Movement, group, and torus",
+    "url": "https://neizod.dev/2024/09/12/movement-group-torus.html",
+    "published": "2024-09-12T07:47:28.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "สรุป Session: Design for better Digital Government Services",
+    "url": "https://blog.ninprd.com/blog/summary-session-design-for-better-digital-government-services/",
+    "published": "2024-09-12T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Ham Cheese Egg Wrap (Low Crab)",
     "url": "https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-ham-cheese-egg-wrap-low-crab/",
@@ -12,12 +30,6 @@
     "published": "2024-09-11T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "บันทึกเรื่อง Moving IO to the edges of your app: Functional Core, Imperative Shell",
-    "url": "https://www.somkiat.cc/note-moving-io-to-the-edges-of-your-app/",
-    "published": "2024-09-09T05:21:29.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "เรียนรู้ว่า Product Management เอา AI มาใช้งานยังไง? กับงาน \"Unlocking Product Insights\"",
     "url": "https://www.mikkipastel.com/unlocking-poroduct-insights-integrating-ai-into-business-strategies-in-thailand-true-digital-academy/",
@@ -28,12 +40,6 @@
     "title": "เขียน Unit Test ใน Python ด้วย unittest และ pytest",
     "url": "https://pontakorn.dev/posts/python-unit-test/",
     "published": "2024-09-08T14:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุป Session: เกมมิฟิเคชัน: ศิลปะแห่งการสร้างแรงจูงใจผ่านกลไกเกม",
-    "url": "https://blog.ninprd.com/blog/gamification-conference-gamification-unviel-by-growth-game/",
-    "published": "2024-09-08T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -88,12 +94,6 @@
     "title": "สรุปจากงาน Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.)",
     "url": "https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/",
     "published": "2024-08-20T15:05:18.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Deviation Seeker",
-    "url": "https://neizod.dev/2024/08/19/deviation-seeker.html",
-    "published": "2024-08-19T03:32:08.000Z"
   },
   {
     "site": "zartre.com",
