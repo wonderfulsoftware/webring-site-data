@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "บันทึก Workshop AWS Cloud Essential Service Core",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/aws-cloud-essential-service-core-note/",
+    "published": "2024-09-16T14:15:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการทดสอบ Flutter app ด้วย Appium",
+    "url": "https://www.somkiat.cc/flutter-app-testing-with-appium/",
+    "published": "2024-09-16T11:31:00.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "My notes on `.env` files",
     "url": "https://notes.dt.in.th/Dotenv",
@@ -10,18 +22,6 @@
     "title": "สรุป Session: Designing Interfaces with ROI as the Primary Goal",
     "url": "https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/",
     "published": "2024-09-15T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เรียนๆ จดๆ Helm #02: ENV / More in Command",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/helm-part2-env-more-in-command/",
-    "published": "2024-09-14T12:16:37.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดูความสามารถของ Jaeger 2 กัน",
-    "url": "https://www.somkiat.cc/jaeger-2/",
-    "published": "2024-09-14T04:39:16.000Z"
   },
   {
     "site": "neizod.dev",
