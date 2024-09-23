@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "คำถาม จะทำอย่างไร เมื่อ code มีการแจ้งเตือน warning ?",
+    "url": "https://www.somkiat.cc/warning-in-code/",
+    "published": "2024-09-23T09:18:34.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆ ลงมือทำ Helm Essential > Helm Package",
     "url": "https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/",
@@ -22,12 +28,6 @@
     "title": "All the fonts from CU Writer",
     "url": "https://notes.dt.in.th/CuWriterFonts",
     "published": "2024-09-17T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการทดสอบ Flutter app ด้วย Appium",
-    "url": "https://www.somkiat.cc/flutter-app-testing-with-appium/",
-    "published": "2024-09-16T11:31:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
