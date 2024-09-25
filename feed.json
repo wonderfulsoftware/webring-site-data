@@ -1,9 +1,15 @@
 [
   {
+    "site": "icez.net",
+    "title": "0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง",
+    "url": "https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv",
+    "published": "2024-09-24T11:29:19.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "คำถาม จะทำอย่างไร เมื่อ code มีการแจ้งเตือน warning ?",
-    "url": "https://www.somkiat.cc/warning-in-code/",
-    "published": "2024-09-23T09:18:34.000Z"
+    "title": "เรื่องที่น่าสนใจจากบทความเรื่อง Contextual Retrieval จาก Anthropic",
+    "url": "https://www.somkiat.cc/hello-contextual-retrieval-from-anthropic/",
+    "published": "2024-09-24T07:43:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -274,12 +280,6 @@
     "title": "Why your Quarkus reactive codes are not executing?",
     "url": "https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/",
     "published": "2023-09-17T17:13:00.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0258 | EV FAQ",
-    "url": "https://www.icez.net/blog/167533/0258-ev-faq",
-    "published": "2023-08-28T16:26:44.000Z"
   },
   {
     "site": "taoisaman.com",
