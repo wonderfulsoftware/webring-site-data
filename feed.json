@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองนั่งรถเมล์สาย 4-35",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/try-bus-number-4-35/",
+    "published": "2024-09-25T02:36:16.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Major scale practice trainer",
+    "url": "https://notes.dt.in.th/PianoMajorScaleTrainer",
+    "published": "2024-09-25T00:00:00.000Z"
+  },
+  {
     "site": "icez.net",
     "title": "0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง",
     "url": "https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv",
@@ -12,12 +24,6 @@
     "published": "2024-09-24T07:43:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "จดๆ ลงมือทำ Helm Essential > Helm Package",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-esstential-helm-package/",
-    "published": "2024-09-21T12:38:00.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Hello World API Performance Benchmark (Go, Node, Python, Rust)",
     "url": "https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/",
@@ -28,12 +34,6 @@
     "title": "แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024",
     "url": "https://www.mikkipastel.com/thailand-bitcoin-conference-2024/",
     "published": "2024-09-20T05:02:05.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "All the fonts from CU Writer",
-    "url": "https://notes.dt.in.th/CuWriterFonts",
-    "published": "2024-09-17T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
