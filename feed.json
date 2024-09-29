@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Generating a random hex password and hashing it with Bcrypt",
+    "url": "https://notes.dt.in.th/RandomHexPasswordBcrypt",
+    "published": "2024-09-29T00:00:00.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "Open water journey, from zero-to-hero",
     "url": "https://yuttakhanb.dev/posts/open-water-journey/",
@@ -16,12 +22,6 @@
     "title": "โค้ดเปลี่ยนเลขอารบิกเป็นไทยใน MS Word",
     "url": "https://dmg.st/convertarabictothai/",
     "published": "2024-09-26T15:44:31.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Major scale practice trainer",
-    "url": "https://notes.dt.in.th/PianoMajorScaleTrainer",
-    "published": "2024-09-25T00:00:00.000Z"
   },
   {
     "site": "icez.net",
