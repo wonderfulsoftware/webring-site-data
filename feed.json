@@ -1,8 +1,20 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "จดๆ ลงมือทำ Helm Eessential:4 (Workflow / Writing Verifying Chart / Hooks)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/",
+    "published": "2024-09-29T12:05:05.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Generating a random hex password and hashing it with Bcrypt",
     "url": "https://notes.dt.in.th/RandomHexPasswordBcrypt",
+    "published": "2024-09-29T00:00:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Review Code Diff in VSCode with Continue",
+    "url": "https://garden.narze.live/review-code-diff-in-vscode-with-continue/",
     "published": "2024-09-29T00:00:00.000Z"
   },
   {
@@ -10,12 +22,6 @@
     "title": "Open water journey, from zero-to-hero",
     "url": "https://yuttakhanb.dev/posts/open-water-journey/",
     "published": "2024-09-27T23:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Malty Delight Chocolate Coffee Frappuccino (Less Sweet Option)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/cr-starbucks-malty-delight-chocolate-coffee-frappuccino-less-sweet-option/",
-    "published": "2024-09-27T06:41:39.000Z"
   },
   {
     "site": "dmg.st",
@@ -250,12 +256,6 @@
     "title": "ยืดอายุแบต MacBook ด้วย AlDente",
     "url": "https://www.nuttdam.com/2023/12/improve-macbook-battery-life-with-aldente/",
     "published": "2023-12-21T09:22:02.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "How I install Python on macOS - 2023 edition",
-    "url": "https://garden.narze.live/how-i-install-python-in-2023/",
-    "published": "2023-12-15T00:00:00.000Z"
   },
   {
     "site": "annibuliful-lab.dev",
