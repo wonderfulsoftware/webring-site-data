@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "จดๆ ลงมือทำ Helm Essential#04 (Workflow / Writing Verifying Chart / Hooks)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/09/my-note-from-helm-essential-helm-writing-verifying-chart-hook/",
-    "published": "2024-09-29T12:05:05.000Z"
+    "title": "เรียนๆจดๆ ลงมือทำจาก Helm Essential Course",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/topic-from-helm-essential-course-by-jumpbox/",
+    "published": "2024-10-01T13:12:31.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จัก Regular Expression แบบ 101 กัน",
+    "url": "https://www.mikkipastel.com/regular-expression-regex-101/",
+    "published": "2024-09-30T05:19:07.000Z"
   },
   {
     "site": "dt.in.th",
@@ -46,12 +52,6 @@
     "title": "Hello World API Performance Benchmark (Go, Node, Python, Rust)",
     "url": "https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/",
     "published": "2024-09-20T13:35:23.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "แฝงตัวในดง Bitcoiner ที่งาน Thailand Bitcoin Conference 2024",
-    "url": "https://www.mikkipastel.com/thailand-bitcoin-conference-2024/",
-    "published": "2024-09-20T05:02:05.000Z"
   },
   {
     "site": "blog.ninprd.com",
