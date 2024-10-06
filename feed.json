@@ -1,5 +1,23 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "When (not) to use Terraform",
+    "url": "https://karnwong.me/posts/2024/10/when-not-to-use-terraform/",
+    "published": "2024-10-05T12:32:29.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "How I initialize my Bun projects",
+    "url": "https://notes.dt.in.th/BunInit",
+    "published": "2024-10-05T00:00:00.000Z"
+  },
+  {
+    "site": "garden.narze.live",
+    "title": "Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init",
+    "url": "https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/",
+    "published": "2024-10-05T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ)",
     "url": "https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/",
@@ -18,18 +36,6 @@
     "published": "2024-09-30T05:19:07.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "Generating a random hex password and hashing it with Bcrypt",
-    "url": "https://notes.dt.in.th/RandomHexPasswordBcrypt",
-    "published": "2024-09-29T00:00:00.000Z"
-  },
-  {
-    "site": "garden.narze.live",
-    "title": "Review Code Diff in VSCode with Continue",
-    "url": "https://garden.narze.live/review-code-diff-in-vscode-with-continue/",
-    "published": "2024-09-29T00:00:00.000Z"
-  },
-  {
     "site": "yuttakhanb.dev",
     "title": "Open water journey, from zero-to-hero",
     "url": "https://yuttakhanb.dev/posts/open-water-journey/",
@@ -46,12 +52,6 @@
     "title": "0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง",
     "url": "https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv",
     "published": "2024-09-24T11:29:19.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Hello World API Performance Benchmark (Go, Node, Python, Rust)",
-    "url": "https://karnwong.me/posts/2024/09/hello-world-api-performance-benchmark-go-node-python-rust/",
-    "published": "2024-09-20T13:35:23.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -99,12 +99,6 @@
     "site": "kajame.xyz",
     "title": "เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger",
     "url": "https://kajame.xyz/blog/2024/learn-nestjs",
-    "published": "2024-08-25T00:00:00.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "Biome ยุติสงครามระหว่าง ESLint และ Prettier",
-    "url": "https://www.anuwong.com/blog/biome-come-to-rescue-you/",
     "published": "2024-08-25T00:00:00.000Z"
   },
   {
@@ -214,6 +208,12 @@
     "title": "รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++",
     "url": "https://blog.kpping.me/posts/long-term-review-cx-5/",
     "published": "2024-05-08T08:20:32.000Z"
+  },
+  {
+    "site": "anuwong.com",
+    "title": "จัดการ dotfiles ด้วย chezmoi",
+    "url": "https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/",
+    "published": "2024-05-01T08:27:48.000Z"
   },
   {
     "site": "blog.oatto.dev",
