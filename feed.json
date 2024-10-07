@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "AI102: Create computer vision solutions with Azure AI Vision",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-create-computer-vision-solutions-with-azure-ai-vision/",
+    "published": "2024-10-06T09:04:11.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาใช้งาน LiteLLM กัน",
+    "url": "https://www.somkiat.cc/litellm-llm-proxy-server/",
+    "published": "2024-10-06T06:12:05.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "When (not) to use Terraform",
     "url": "https://karnwong.me/posts/2024/10/when-not-to-use-terraform/",
@@ -16,18 +28,6 @@
     "title": "Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init",
     "url": "https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/",
     "published": "2024-10-05T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Mixed Mushroom Whole Wheat Sandwich (อาหารเจ)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-mixed-mushroom-whole-wheat-sandwich-vegetarian-menu/",
-    "published": "2024-10-04T23:27:56.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Prometheus 3.0 (beta) มีอะไรเปลี่ยนแปลงบ้าง",
-    "url": "https://www.somkiat.cc/hello-prometheus-3-beta/",
-    "published": "2024-10-03T02:29:45.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -67,9 +67,9 @@
   },
   {
     "site": "pontakorn.dev",
-    "title": "เขียน Unit Test ใน Python ด้วย unittest และ pytest",
-    "url": "https://pontakorn.dev/posts/python-unit-test/",
-    "published": "2024-09-08T14:00:00.000Z"
+    "title": "จัดการวันเวลาง่ายขึ้นด้วย date-fns",
+    "url": "https://pontakorn.dev/posts/date-fns-library/",
+    "published": "2024-09-06T15:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
