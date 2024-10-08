@@ -1,9 +1,27 @@
 [
   {
+    "site": "rayriffy.com",
+    "title": "Riffy’s Airport tier list",
+    "url": "https://rayriffy.com/garden/airport-tier-list/",
+    "published": "2024-10-07T12:19:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World's First Programming Monitor Series",
+    "url": "https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/",
+    "published": "2024-10-07T10:15:21.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "AI102: Create computer vision solutions with Azure AI Vision",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-create-computer-vision-solutions-with-azure-ai-vision/",
-    "published": "2024-10-06T09:04:11.000Z"
+    "title": "[CR] Starbucks Truffle Mixed Mushroom Bun (อาหารเจ)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-truffle-mixed-mushroom-bun-vegetarian-menu/",
+    "published": "2024-10-07T04:49:34.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Running Internet Explorer 5 on Windows 98 in your browser, with internet and LAN access",
+    "url": "https://notes.dt.in.th/Win98IE5",
+    "published": "2024-10-07T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -18,22 +36,10 @@
     "published": "2024-10-05T12:32:29.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "How I initialize my Bun projects",
-    "url": "https://notes.dt.in.th/BunInit",
-    "published": "2024-10-05T00:00:00.000Z"
-  },
-  {
     "site": "garden.narze.live",
     "title": "Prepare Raspberry Pi SD Card with Ubuntu & Cloud Init",
     "url": "https://garden.narze.live/prepare-raspberry-pi-sd-card-with-ubuntu-and-cloud-init/",
     "published": "2024-10-05T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทำความรู้จัก Regular Expression แบบ 101 กัน",
-    "url": "https://www.mikkipastel.com/regular-expression-regex-101/",
-    "published": "2024-09-30T05:19:07.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -232,12 +238,6 @@
     "title": "ลองใช้ GCP RuntimeConfig",
     "url": "https://www.anewlife.dev/post/try-gcp-runtimeconfig/",
     "published": "2024-02-28T17:00:00.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Million snippets: NextJS Tailwind configuration",
-    "url": "https://rayriffy.com/garden/million-next-tailwind/",
-    "published": "2024-02-16T14:30:00.000Z"
   },
   {
     "site": "nitpum.com",
