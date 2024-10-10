@@ -1,9 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "How to delete a large folder that contains millions of files",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/how-to-delete-a-large-folder-that-contains-millions-of-files/",
-    "published": "2024-10-08T03:13:55.000Z"
+    "title": "AI102: Develop natural language processing solutions with Azure AI Services",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/",
+    "published": "2024-10-09T10:29:24.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "อธิบาย Agentic AI Design Patterns แบบเข้าใจง่าย",
+    "url": "https://www.somkiat.cc/agentic-ai-design-patterns/",
+    "published": "2024-10-09T06:50:06.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "LLM serving latency benchmark",
+    "url": "https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/",
+    "published": "2024-10-09T06:18:07.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -28,18 +40,6 @@
     "title": "Lightweight Docker image for cURL",
     "url": "https://garden.narze.live/lightweight-docker-image-for-curl/",
     "published": "2024-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาใช้งาน LiteLLM กัน",
-    "url": "https://www.somkiat.cc/litellm-llm-proxy-server/",
-    "published": "2024-10-06T06:12:05.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "When (not) to use Terraform",
-    "url": "https://karnwong.me/posts/2024/10/when-not-to-use-terraform/",
-    "published": "2024-10-05T12:32:29.000Z"
   },
   {
     "site": "yuttakhanb.dev",
