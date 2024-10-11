@@ -1,15 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "AI102: Develop natural language processing solutions with Azure AI Services",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-develop-natural-language-processing-solutions-with-azure-ai-services/",
-    "published": "2024-10-09T10:29:24.000Z"
+    "title": "[CR] Starbucks Riceberry Bun with Taro Ginkgo (อาหารเจ)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/cr-starbucks-riceberry-bun-with-taro-ginkgo-%e0%b8%ad%e0%b8%b2%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%88/",
+    "published": "2024-10-10T13:39:45.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "อธิบาย Agentic AI Design Patterns แบบเข้าใจง่าย",
-    "url": "https://www.somkiat.cc/agentic-ai-design-patterns/",
-    "published": "2024-10-09T06:50:06.000Z"
+    "title": "ว่าด้วยเรื่องของ Prompt Caching",
+    "url": "https://www.somkiat.cc/prompt-caching/",
+    "published": "2024-10-10T03:33:18.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using Elysia in Deno",
+    "url": "https://notes.dt.in.th/ElysiaDeno",
+    "published": "2024-10-10T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -28,12 +34,6 @@
     "title": "จอภาพที่เกิดมาเพื่อโปรแกรมเมอร์ BenQ RD280U | World's First Programming Monitor Series",
     "url": "https://www.mikkipastel.com/benq-rd280u-worlds-first-programming-monitor-series/",
     "published": "2024-10-07T10:15:21.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Running Internet Explorer 5 on Windows 98 in your browser, with internet and LAN access",
-    "url": "https://notes.dt.in.th/Win98IE5",
-    "published": "2024-10-07T00:00:00.000Z"
   },
   {
     "site": "garden.narze.live",
