@@ -1,5 +1,11 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "Calling C from Go, Python and Rust benchmark",
+    "url": "https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/",
+    "published": "2024-10-12T07:56:10.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?",
     "url": "https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/",
@@ -22,12 +28,6 @@
     "title": "Using Elysia in Deno",
     "url": "https://notes.dt.in.th/ElysiaDeno",
     "published": "2024-10-10T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "LLM serving latency benchmark",
-    "url": "https://karnwong.me/posts/2024/10/llm-serving-latency-benchmark/",
-    "published": "2024-10-09T06:18:07.000Z"
   },
   {
     "site": "rayriffy.com",
