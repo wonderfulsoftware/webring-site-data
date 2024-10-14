@@ -1,5 +1,11 @@
 [
   {
+    "site": "yothinix.com",
+    "title": "ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ",
+    "url": "https://yothinix.com/vo2max-test/",
+    "published": "2024-10-13T15:37:35.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Calling C from Go, Python and Rust benchmark",
     "url": "https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/",
@@ -268,12 +274,6 @@
     "title": "New Blog | บ้านใหม่",
     "url": "https://p4perf4ce.me/articles/23/new-home",
     "published": "2023-12-02T21:27:00.000Z"
-  },
-  {
-    "site": "yothinix.com",
-    "title": "แชร์ประสบการณ์การเดินทางสู่ DIY Car Detailer ตลอด 1 ปีที่ผ่านมา",
-    "url": "https://yothinix.com/detailing-journey/",
-    "published": "2023-11-04T07:54:39.000Z"
   },
   {
     "site": "guitarpawat.me",
