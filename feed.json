@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "การจัดการ OpenAPI ใน FastAPI แบบง่าย ๆ",
+    "url": "https://www.somkiat.cc/openapi-in-fastapi/",
+    "published": "2024-10-14T16:54:01.000Z"
+  },
+  {
+    "site": "pontakorn.dev",
+    "title": "ทำความรู้จักกับ Deno",
+    "url": "https://pontakorn.dev/posts/introduction-to-deno/",
+    "published": "2024-10-14T15:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[DB2] How to determine rowsize in table",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/db2-how-to-determine-rowsize-in-table/",
+    "published": "2024-10-14T10:05:59.000Z"
+  },
+  {
     "site": "yothinix.com",
     "title": "ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ",
     "url": "https://yothinix.com/vo2max-test/",
@@ -16,18 +34,6 @@
     "title": "Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?",
     "url": "https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/",
     "published": "2024-10-11T06:50:20.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เพิ่ม Port ให้กับ Container ที่ลืม map ไว้ตอนสร้าง",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/how-to-assign-port-on-existing-container-thai-version/",
-    "published": "2024-10-11T02:16:20.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Prompt Caching",
-    "url": "https://www.somkiat.cc/prompt-caching/",
-    "published": "2024-10-10T03:33:18.000Z"
   },
   {
     "site": "dt.in.th",
@@ -76,12 +82,6 @@
     "title": "Movement, group, and torus",
     "url": "https://neizod.dev/2024/09/12/movement-group-torus.html",
     "published": "2024-09-12T07:47:28.000Z"
-  },
-  {
-    "site": "pontakorn.dev",
-    "title": "จัดการวันเวลาง่ายขึ้นด้วย date-fns",
-    "url": "https://pontakorn.dev/posts/date-fns-library/",
-    "published": "2024-09-06T15:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
