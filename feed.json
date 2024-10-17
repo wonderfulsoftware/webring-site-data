@@ -1,5 +1,17 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "Joker: Folie à Deux (2024)",
+    "url": "https://neizod.dev/2024/10/16/joker-folie-a-deux.html",
+    "published": "2024-10-16T16:48:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "มาแชร์ประสบการณ์ SA ให้น้องๆ COMSCI มศว",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/",
+    "published": "2024-10-16T10:40:28.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การจัดการ OpenAPI ใน FastAPI แบบง่าย ๆ",
     "url": "https://www.somkiat.cc/openapi-in-fastapi/",
@@ -10,12 +22,6 @@
     "title": "ทำความรู้จักกับ Deno",
     "url": "https://pontakorn.dev/posts/introduction-to-deno/",
     "published": "2024-10-14T15:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[DB2] How to determine rowsize in table",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/db2-how-to-determine-rowsize-in-table/",
-    "published": "2024-10-14T10:05:59.000Z"
   },
   {
     "site": "yothinix.com",
@@ -76,12 +82,6 @@
     "title": "สรุป Session: Designing Interfaces with ROI as the Primary Goal",
     "url": "https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/",
     "published": "2024-09-15T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Movement, group, and torus",
-    "url": "https://neizod.dev/2024/09/12/movement-group-torus.html",
-    "published": "2024-09-12T07:47:28.000Z"
   },
   {
     "site": "tech.duckfollow.co",
