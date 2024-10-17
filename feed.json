@@ -1,5 +1,17 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Enabling gzip/zstd compression in Caddy",
+    "url": "https://notes.dt.in.th/CaddyCompression",
+    "published": "2024-10-17T00:00:00.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "รู้จักกับ Drizzle ORM ผ่าน Next.js",
+    "url": "https://mikelopster.dev/posts/drizzle-nextjs/",
+    "published": "2024-10-17T00:00:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "Joker: Folie à Deux (2024)",
     "url": "https://neizod.dev/2024/10/16/joker-folie-a-deux.html",
@@ -42,12 +54,6 @@
     "published": "2024-10-11T06:50:20.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "Using Elysia in Deno",
-    "url": "https://notes.dt.in.th/ElysiaDeno",
-    "published": "2024-10-10T00:00:00.000Z"
-  },
-  {
     "site": "rayriffy.com",
     "title": "Riffy’s Airport tier list",
     "url": "https://rayriffy.com/garden/airport-tier-list/",
@@ -58,6 +64,12 @@
     "title": "Lightweight Docker image for cURL",
     "url": "https://garden.narze.live/lightweight-docker-image-for-curl/",
     "published": "2024-10-07T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณเงินผ่อน กู้บ้าน/กู้ร่วม",
+    "url": "https://mymoneytoolkit.app/posts/loan-haanbaan",
+    "published": "2024-10-01T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -94,12 +106,6 @@
     "title": "Base64 Encoding with Golang",
     "url": "https://trwkc.dev/base64-encoding-with-golang/",
     "published": "2024-09-04T04:26:22.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "รู้จักกับ FastAPI",
-    "url": "https://mikelopster.dev/posts/fastapi-basic/",
-    "published": "2024-09-04T00:00:00.000Z"
   },
   {
     "site": "poolsawat.com",
