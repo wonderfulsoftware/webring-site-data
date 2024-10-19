@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "AI-102: Implement knowledge mining with Azure AI Search",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-implement-knowledge-mining-with-azure-ai-search/",
+    "published": "2024-10-18T04:37:13.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สรุปการทดสอบ REST API ที่สร้างด้วย FastAPI",
+    "url": "https://www.somkiat.cc/testing-with-fastapi/",
+    "published": "2024-10-18T03:33:50.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Enabling gzip/zstd compression in Caddy",
     "url": "https://notes.dt.in.th/CaddyCompression",
@@ -16,18 +28,6 @@
     "title": "Joker: Folie à Deux (2024)",
     "url": "https://neizod.dev/2024/10/16/joker-folie-a-deux.html",
     "published": "2024-10-16T16:48:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "มาแชร์ประสบการณ์ SA ให้น้องๆ COMSCI มศว",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/share-experience-transfrom-requirement-to-an-application/",
-    "published": "2024-10-16T10:40:28.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การจัดการ OpenAPI ใน FastAPI แบบง่าย ๆ",
-    "url": "https://www.somkiat.cc/openapi-in-fastapi/",
-    "published": "2024-10-14T16:54:01.000Z"
   },
   {
     "site": "pontakorn.dev",
