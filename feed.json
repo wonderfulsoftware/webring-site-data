@@ -1,5 +1,17 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "สรุป Session: Why use JavaScript when CSS is possible?",
+    "url": "https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/",
+    "published": "2024-10-20T00:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Various notes on career-related stuff",
+    "url": "https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/",
+    "published": "2024-10-19T14:13:44.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "AI-102: Implement knowledge mining with Azure AI Search",
     "url": "https://naiwaen.debuggingsoft.com/2024/10/ai102-implement-knowledge-mining-with-azure-ai-search/",
@@ -42,12 +54,6 @@
     "published": "2024-10-13T15:37:35.000Z"
   },
   {
-    "site": "karnwong.me",
-    "title": "Calling C from Go, Python and Rust benchmark",
-    "url": "https://karnwong.me/posts/2024/10/calling-c-from-go-python-and-rust-benchmark/",
-    "published": "2024-10-12T07:56:10.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?",
     "url": "https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/",
@@ -88,12 +94,6 @@
     "title": "0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง",
     "url": "https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv",
     "published": "2024-09-24T11:29:19.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุป Session: Designing Interfaces with ROI as the Primary Goal",
-    "url": "https://blog.ninprd.com/blog/summary-session-designing-interfaces-with-roi-as-the-primary-goal/",
-    "published": "2024-09-15T00:00:00.000Z"
   },
   {
     "site": "tech.duckfollow.co",
