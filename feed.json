@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Node.js 23",
+    "url": "https://www.somkiat.cc/nodejs-23/",
+    "published": "2024-10-23T15:44:06.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "AI-102: Develop solutions with Azure AI Document Intelligence",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-solutions-with-azure-ai-document-intelligence/",
-    "published": "2024-10-21T07:20:21.000Z"
+    "title": "[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin)",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/",
+    "published": "2024-10-23T09:06:36.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -28,12 +34,6 @@
     "title": "Various notes on career-related stuff",
     "url": "https://karnwong.me/posts/2024/10/various-notes-on-career-related-stuff/",
     "published": "2024-10-19T14:13:44.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการทดสอบ REST API ที่สร้างด้วย FastAPI",
-    "url": "https://www.somkiat.cc/testing-with-fastapi/",
-    "published": "2024-10-18T03:33:50.000Z"
   },
   {
     "site": "dt.in.th",
