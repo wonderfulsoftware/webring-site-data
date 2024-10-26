@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB",
+    "url": "https://www.mikkipastel.com/bitkub-summit-2024/",
+    "published": "2024-10-25T02:22:15.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สวัสดี Node.js 23",
     "url": "https://www.somkiat.cc/nodejs-23/",
@@ -36,6 +42,12 @@
     "published": "2024-10-19T14:13:44.000Z"
   },
   {
+    "site": "blog.oatto.dev",
+    "title": "Javascript Bangkok 2.0.0",
+    "url": "https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html",
+    "published": "2024-10-19T00:00:00.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Enabling gzip/zstd compression in Caddy",
     "url": "https://notes.dt.in.th/CaddyCompression",
@@ -64,12 +76,6 @@
     "title": "ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ",
     "url": "https://yothinix.com/vo2max-test/",
     "published": "2024-10-13T15:37:35.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "Android Developer ทำแอพให้รองรับ Accessibility ได้อย่างไรบ้าง?",
-    "url": "https://www.mikkipastel.com/add-accessibility-in-application-for-android-developer/",
-    "published": "2024-10-11T06:50:20.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -232,12 +238,6 @@
     "title": "จัดการ dotfiles ด้วย chezmoi",
     "url": "https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/",
     "published": "2024-05-01T08:27:48.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "How to find live partner not prom date",
-    "url": "https://blog.oatto.dev/2024/04/23/How-to-find-live-partner-not-prom-date.html",
-    "published": "2024-04-23T00:00:00.000Z"
   },
   {
     "site": "boonsong.dev",
