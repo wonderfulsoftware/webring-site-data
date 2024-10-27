@@ -1,5 +1,11 @@
 [
   {
+    "site": "neizod.dev",
+    "title": "Checkerboard pattern for hexagonal tiling",
+    "url": "https://neizod.dev/2024/10/27/hexagon-checkerboard.html",
+    "published": "2024-10-27T00:56:22.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB",
     "url": "https://www.mikkipastel.com/bitkub-summit-2024/",
@@ -58,12 +64,6 @@
     "title": "รู้จักกับ Drizzle ORM ผ่าน Next.js",
     "url": "https://mikelopster.dev/posts/drizzle-nextjs/",
     "published": "2024-10-17T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Joker: Folie à Deux (2024)",
-    "url": "https://neizod.dev/2024/10/16/joker-folie-a-deux.html",
-    "published": "2024-10-16T16:48:00.000Z"
   },
   {
     "site": "pontakorn.dev",
