@@ -372,14 +372,12 @@
   "doopdip.me": {
     "url": "https://doopdip.me",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/doopdip.me_375w@2x.png",
-    "blurhash": "vOR:HGWB~qj[4nof_3ay9FWB%Mj[xuofWBay%MWBM{j[-;ofIUWB-;ayM{j[",
-    "screenshotUpdatedAt": "2022-07-27T01:23:08.037Z",
-    "description": "เลาเดฟบ้าน ๆ เลาเดฟเลี้ยงวัว ~",
-    "backlink": {
-      "rect": "40:44:167.5:321",
-      "href": "https://webring.wonderful.software#doopdip.me"
-    },
-    "lastUpdated": "2024-10-27T01:17:05.327Z"
+    "blurhash": "v0TSUA-;fQ-;%MfQfQfQfQfQfQfQ%MfQfQfQfQfQfQfQ%MfQfQfQfQfQfQfQ",
+    "screenshotUpdatedAt": "2024-10-28T17:55:57.209Z",
+    "description": null,
+    "backlink": null,
+    "lastUpdated": "2024-10-28T17:55:57.209Z",
+    "number": 25
   },
   "dont.works": {
     "url": "https://dont.works",
@@ -1930,5 +1928,18 @@
     },
     "lastUpdated": "2024-10-28T01:42:27.963Z",
     "number": 125
+  },
+  "koon2120.work": {
+    "url": "https://koon2120.work",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/koon2120.work_375w@2x.png",
+    "blurhash": "v3RfkB4n~qt7t7of%May%M-;-;WB00of?bay_3t7fQWB9Fj[%MayD%ayt7of",
+    "screenshotUpdatedAt": "2024-10-28T17:56:12.898Z",
+    "description": "Koon2120's Official Website | รวบรวมข่าวสาร บทความ และบล็อกต่างๆ พร้อมโปรเจกต์ต่างๆ อยู่ที่นี่หมดแล้ว!",
+    "backlink": {
+      "rect": "32:32:12:869",
+      "href": "https://webring.wonderful.software#koon2120.work"
+    },
+    "lastUpdated": "2024-10-28T17:56:12.898Z",
+    "number": 126
   }
 }
