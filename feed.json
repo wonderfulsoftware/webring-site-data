@@ -1,5 +1,23 @@
 [
   {
+    "site": "kusumotolab.com",
+    "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2",
+    "url": "https://kusumotolab.com/first-time-singapore-trip-ep-3/",
+    "published": "2024-10-27T17:19:40.000Z"
+  },
+  {
+    "site": "pontakorn.dev",
+    "title": "เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia",
+    "url": "https://pontakorn.dev/posts/introduction-to-elysia/",
+    "published": "2024-10-27T16:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31",
+    "url": "https://www.somkiat.cc/technology-radar-2024-volume-31/",
+    "published": "2024-10-27T07:25:54.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "Checkerboard pattern for hexagonal tiling",
     "url": "https://neizod.dev/2024/10/27/hexagon-checkerboard.html",
@@ -12,12 +30,6 @@
     "published": "2024-10-25T02:22:15.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Node.js 23",
-    "url": "https://www.somkiat.cc/nodejs-23/",
-    "published": "2024-10-23T15:44:06.000Z"
-  },
-  {
     "site": "debuggingsoft.com",
     "title": "[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin)",
     "url": "https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/",
@@ -28,12 +40,6 @@
     "title": "Food Review - Fats & Angry",
     "url": "https://lucian.solutions/blog/foodreview-fats-angry",
     "published": "2024-10-20T14:00:00.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP2 : วันที่ 1",
-    "url": "https://kusumotolab.com/first-time-singapore-trip-ep-2/",
-    "published": "2024-10-20T09:44:37.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -64,12 +70,6 @@
     "title": "รู้จักกับ Drizzle ORM ผ่าน Next.js",
     "url": "https://mikelopster.dev/posts/drizzle-nextjs/",
     "published": "2024-10-17T00:00:00.000Z"
-  },
-  {
-    "site": "pontakorn.dev",
-    "title": "ทำความรู้จักกับ Deno",
-    "url": "https://pontakorn.dev/posts/introduction-to-deno/",
-    "published": "2024-10-14T15:00:00.000Z"
   },
   {
     "site": "yothinix.com",
