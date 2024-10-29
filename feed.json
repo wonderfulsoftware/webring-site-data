@@ -1,5 +1,23 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "AI-102: Develop Generative AI solutions with Azure OpenAI Service",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/",
+    "published": "2024-10-29T08:08:23.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "อัพเดตโปรเจควงแหวนเว็บ, integrate กับ Bluesky",
+    "url": "https://notes.dt.in.th/WebringBsky",
+    "published": "2024-10-29T00:00:00.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "ลอง Firebase Data Connect",
+    "url": "https://mikelopster.dev/posts/firebase-data-connect/",
+    "published": "2024-10-29T00:00:00.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Illustration - わっぴ～✨",
     "url": "https://lucian.solutions/blog/202410-sakurako-idol",
@@ -36,12 +54,6 @@
     "published": "2024-10-25T02:22:15.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[DB2] Archive Logs ไม่ Clear (-mtime/ -mmin)",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/db2-archive-logs-not-clear/",
-    "published": "2024-10-23T09:06:36.000Z"
-  },
-  {
     "site": "blog.ninprd.com",
     "title": "สรุป Session: Why use JavaScript when CSS is possible?",
     "url": "https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/",
@@ -58,18 +70,6 @@
     "title": "Javascript Bangkok 2.0.0",
     "url": "https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html",
     "published": "2024-10-19T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Enabling gzip/zstd compression in Caddy",
-    "url": "https://notes.dt.in.th/CaddyCompression",
-    "published": "2024-10-17T00:00:00.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "รู้จักกับ Drizzle ORM ผ่าน Next.js",
-    "url": "https://mikelopster.dev/posts/drizzle-nextjs/",
-    "published": "2024-10-17T00:00:00.000Z"
   },
   {
     "site": "yothinix.com",
