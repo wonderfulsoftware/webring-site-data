@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Fetch Mock สำหรับการจำลอง HTTP Request ของ fetch API",
+    "url": "https://www.somkiat.cc/fetch-mock/",
+    "published": "2024-10-30T03:57:46.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Request and response logging in Elysia",
+    "url": "https://notes.dt.in.th/ElysiaLogging",
+    "published": "2024-10-30T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "AI-102: Develop Generative AI solutions with Azure OpenAI Service",
     "url": "https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/",
     "published": "2024-10-29T08:08:23.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "อัพเดตโปรเจควงแหวนเว็บ, integrate กับ Bluesky",
-    "url": "https://notes.dt.in.th/WebringBsky",
-    "published": "2024-10-29T00:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -34,12 +40,6 @@
     "title": "เมื่อ DX เจอกับ Performance จนเกิดเป็น Elysia",
     "url": "https://pontakorn.dev/posts/introduction-to-elysia/",
     "published": "2024-10-27T16:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจใน Technology Radar 2024 Volume 31",
-    "url": "https://www.somkiat.cc/technology-radar-2024-volume-31/",
-    "published": "2024-10-27T07:25:54.000Z"
   },
   {
     "site": "neizod.dev",
