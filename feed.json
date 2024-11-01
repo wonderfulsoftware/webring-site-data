@@ -1,27 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Fetch Mock สำหรับการจำลอง HTTP Request ของ fetch API",
-    "url": "https://www.somkiat.cc/fetch-mock/",
-    "published": "2024-10-30T03:57:46.000Z"
+    "title": "รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ?",
+    "url": "https://www.somkiat.cc/mock-api-server-tools/",
+    "published": "2024-10-31T14:52:53.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo",
+    "url": "https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/",
+    "published": "2024-10-31T03:30:00.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "Code Quality & Security with SonarQube",
+    "url": "https://mikelopster.dev/posts/sonar-code-quality/",
+    "published": "2024-10-31T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
     "title": "Request and response logging in Elysia",
     "url": "https://notes.dt.in.th/ElysiaLogging",
     "published": "2024-10-30T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "AI-102: Develop Generative AI solutions with Azure OpenAI Service",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/ai-102-develop-generative-ai-solutions-with-azure-openai-service/",
-    "published": "2024-10-29T08:08:23.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "ลอง Firebase Data Connect",
-    "url": "https://mikelopster.dev/posts/firebase-data-connect/",
-    "published": "2024-10-29T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
