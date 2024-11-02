@@ -1,21 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Frozen Shine Muscat Grape Oolong Tea",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-frozen-shine-muscat-grape-oolong-tea/",
+    "published": "2024-11-01T06:26:05.000Z"
+  },
+  {
+    "site": "mikelopster.dev",
+    "title": "มารู้จักกับ gRPC และ Go กัน",
+    "url": "https://mikelopster.dev/posts/grpc-go/",
+    "published": "2024-11-01T00:00:00.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup",
+    "url": "https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/",
+    "published": "2024-11-01T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "รายชื่อเครื่องมือสำหรับ Mock API Server ที่น่าสนใจ มีอะไรบ้าง ?",
     "url": "https://www.somkiat.cc/mock-api-server-tools/",
     "published": "2024-10-31T14:52:53.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "มาลองเรียน Observability in Action: Beta รุ่น 1 @SCK Dojo",
-    "url": "https://naiwaen.debuggingsoft.com/2024/10/learn-observability-in-action-beta-1-sck-dojo/",
-    "published": "2024-10-31T03:30:00.000Z"
-  },
-  {
-    "site": "mikelopster.dev",
-    "title": "Code Quality & Security with SonarQube",
-    "url": "https://mikelopster.dev/posts/sonar-code-quality/",
-    "published": "2024-10-31T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -52,12 +58,6 @@
     "title": "มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB",
     "url": "https://www.mikkipastel.com/bitkub-summit-2024/",
     "published": "2024-10-25T02:22:15.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุป Session: Why use JavaScript when CSS is possible?",
-    "url": "https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/",
-    "published": "2024-10-20T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
