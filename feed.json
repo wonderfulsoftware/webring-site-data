@@ -1,21 +1,33 @@
 [
   {
+    "site": "icez.net",
+    "title": "0260 | usb to serial driver สำหรับ windows arm",
+    "url": "https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm",
+    "published": "2024-11-04T18:59:37.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/",
+    "published": "2024-11-04T14:09:51.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาลองเล่น Google Chrome Built-in AI API กันหน่อย",
-    "url": "https://www.somkiat.cc/google-chrome-ai-api/",
-    "published": "2024-11-03T15:13:55.000Z"
+    "title": "ลองใช้งาน GenAI Script จาก Microsoft ในการสร้าง test data ของระบบงาน",
+    "url": "https://www.somkiat.cc/hello-genai-script/",
+    "published": "2024-11-04T08:13:46.000Z"
+  },
+  {
+    "site": "thanapon.info",
+    "title": "[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS",
+    "url": "https://thanapon.info/influxdb-cli-create-user/",
+    "published": "2024-11-04T02:31:14.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
     "title": "Watchlist ราคาหุ้น USA",
     "url": "https://mymoneytoolkit.app/posts/watchlist-me",
     "published": "2024-11-02T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Frozen Shine Muscat Grape Oolong Tea",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-frozen-shine-muscat-grape-oolong-tea/",
-    "published": "2024-11-01T06:26:05.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -108,12 +120,6 @@
     "published": "2024-09-26T15:44:31.000Z"
   },
   {
-    "site": "icez.net",
-    "title": "0259 | ลง ansible หลาย version ในเครื่องเดียวแบบไม่ให้งง",
-    "url": "https://www.icez.net/blog/167550/ansible-multiple-version-python-virtualenv",
-    "published": "2024-09-24T11:29:19.000Z"
-  },
-  {
     "site": "tech.duckfollow.co",
     "title": "ทำไมต้องใช้ Loading...",
     "url": "https://tech.duckfollow.co/view/why-loading",
@@ -190,12 +196,6 @@
     "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
     "url": "https://tinarskii.com/articles/shit8/",
     "published": "2024-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "[Platform IO] ลอง Build firmware ผ่าน Gitlab-CI พร้อม Release assets",
-    "url": "https://thanapon.info/ci-platform-io-semantic-release/",
-    "published": "2024-07-21T16:32:29.000Z"
   },
   {
     "site": "llun.me",
