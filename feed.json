@@ -1,21 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices",
+    "url": "https://www.somkiat.cc/note-how-migrations-across-2800-microservices/",
+    "published": "2024-11-06T05:18:41.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "How to fixed a huge sc.user_paged.1.etl in %userprofile%\\AppData\\Local\\Temp\\PW",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/",
+    "published": "2024-11-06T03:57:51.000Z"
+  },
+  {
     "site": "icez.net",
     "title": "0260 | usb to serial driver สำหรับ windows arm",
     "url": "https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm",
     "published": "2024-11-04T18:59:37.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เมื่อ DEV ลองไป Workshop Microsoft 365 Admin + Microsoft Defender",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/dev-take-course-workshop-microsoft-365-admin-with-microsoft-defender-by-zabbix-in-thailand/",
-    "published": "2024-11-04T14:09:51.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน GenAI Script จาก Microsoft ในการสร้าง test data ของระบบงาน",
-    "url": "https://www.somkiat.cc/hello-genai-script/",
-    "published": "2024-11-04T08:13:46.000Z"
   },
   {
     "site": "thanapon.info",
