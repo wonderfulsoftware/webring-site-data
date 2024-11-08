@@ -1,15 +1,27 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024",
+    "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2024/",
+    "published": "2024-11-07T11:08:32.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Homsuwan Pineapple Cold Brew",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-homsuwan-pineapple-cold-brew/",
+    "published": "2024-11-07T07:47:55.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1",
+    "url": "https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1",
+    "published": "2024-11-07T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices",
     "url": "https://www.somkiat.cc/note-how-migrations-across-2800-microservices/",
     "published": "2024-11-06T05:18:41.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to fixed a huge sc.user_paged.1.etl in %userprofile%\\AppData\\Local\\Temp\\PW",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-a-huge-sc-user_paged-1-etl-in-appdata-local-temp-pw/",
-    "published": "2024-11-06T03:57:51.000Z"
   },
   {
     "site": "icez.net",
@@ -22,12 +34,6 @@
     "title": "[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS",
     "url": "https://thanapon.info/influxdb-cli-create-user/",
     "published": "2024-11-04T02:31:14.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Watchlist ราคาหุ้น USA",
-    "url": "https://mymoneytoolkit.app/posts/watchlist-me",
-    "published": "2024-11-02T00:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
@@ -70,12 +76,6 @@
     "title": "Checkerboard pattern for hexagonal tiling",
     "url": "https://neizod.dev/2024/10/27/hexagon-checkerboard.html",
     "published": "2024-10-27T00:56:22.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มางาน Bitkub Summit 2024 แล้วได้อะไร? มาดูกัน KUB",
-    "url": "https://www.mikkipastel.com/bitkub-summit-2024/",
-    "published": "2024-10-25T02:22:15.000Z"
   },
   {
     "site": "karnwong.me",
