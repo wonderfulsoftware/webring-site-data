@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว",
+    "url": "https://www.somkiat.cc/gemini-model-with-openai-library/",
+    "published": "2024-11-09T06:48:37.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "หนทางหนี WordPress ครั้งที่ 1 ของนิล",
+    "url": "https://blog.ninprd.com/blog/ways-to-leave-wordpress-1/",
+    "published": "2024-11-09T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "แบ่งพอร์ต Portfolio USA",
+    "url": "https://mymoneytoolkit.app/posts/port-usa",
+    "published": "2024-11-09T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "How to fixed mvnw install error distributionUrl is not valid, must match -bin.zip or maven-mvnd-.zip",
     "url": "https://naiwaen.debuggingsoft.com/2024/11/how-to-fixed-mvnw-install-error-distributionurl-is-not-valid-must-match-bin-zip-or-maven-mvnd-zip/",
@@ -10,18 +28,6 @@
     "title": "อัพเดตเทคบ้านเขียวประจำปี กับงาน LINE Thailand Developer Conference 2024",
     "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2024/",
     "published": "2024-11-07T11:08:32.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 1",
-    "url": "https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-1",
-    "published": "2024-11-07T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการอ่านเรื่อง How we run migrations across 2,800 microservices",
-    "url": "https://www.somkiat.cc/note-how-migrations-across-2800-microservices/",
-    "published": "2024-11-06T05:18:41.000Z"
   },
   {
     "site": "icez.net",
@@ -39,12 +45,6 @@
     "site": "mikelopster.dev",
     "title": "มารู้จักกับ gRPC และ Go กัน",
     "url": "https://mikelopster.dev/posts/grpc-go/",
-    "published": "2024-11-01T00:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุป Session จากงาน SCBX Unleashing CX: EP3 Figma Bangkok Meetup",
-    "url": "https://blog.ninprd.com/blog/summarize-figma-bangkok-meetup-2024/",
     "published": "2024-11-01T00:00:00.000Z"
   },
   {
