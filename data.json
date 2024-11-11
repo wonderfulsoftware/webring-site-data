@@ -1969,5 +1969,18 @@
     },
     "lastUpdated": "2024-11-11T01:34:52.029Z",
     "number": 128
+  },
+  "betich.me": {
+    "url": "https://betich.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/betich.me_375w@2x.png",
+    "blurhash": "v3SigR9GobRj_4%MIUWF_2RlIVxuM]xvRoM{xrWFM}a#Rrt8xrRjN4RjobfS",
+    "screenshotUpdatedAt": "2024-11-11T13:16:00.061Z",
+    "description": "A collection of my thoughts on things.",
+    "backlink": {
+      "rect": "32:32:295:892",
+      "href": "https://webring.wonderful.software#betich.me"
+    },
+    "lastUpdated": "2024-11-11T13:16:00.061Z",
+    "number": 129
   }
 }

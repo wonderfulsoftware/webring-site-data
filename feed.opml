@@ -80,6 +80,7 @@
       <outline text="punn.dev" title="punn.dev" type="rss" xmlUrl="https://punn.dev/api/feed" htmlUrl="https://punn.dev"/>
       <outline text="zartre.com" title="zartre.com" type="rss" xmlUrl="https://blog.zartre.com/feed" htmlUrl="https://zartre.com"/>
       <outline text="mymoneytoolkit.app" title="mymoneytoolkit.app" type="rss" xmlUrl="https://mymoneytoolkit.app/feed.xml" htmlUrl="https://mymoneytoolkit.app"/>
+      <outline text="betich.me" title="betich.me" type="rss" xmlUrl="https://betich.me/feed.xml" htmlUrl="https://betich.me"/>
     </outline>
   </body>
 </opml>
