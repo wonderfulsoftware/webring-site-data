@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/",
+    "published": "2024-11-14T03:16:24.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "an invisbly adventure at invisible garden 0",
     "url": "https://yuttakhanb.dev/posts/invisible-garden-0/",
     "published": "2024-11-11T16:30:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to limit Memory usage on VMMemWSL Process",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/how-to-limit-memory-usage-on-vmmemwsl/",
-    "published": "2024-11-11T02:27:00.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -88,6 +88,12 @@
     "title": "Checkerboard pattern for hexagonal tiling",
     "url": "https://neizod.dev/2024/10/27/hexagon-checkerboard.html",
     "published": "2024-10-27T00:56:22.000Z"
+  },
+  {
+    "site": "boychawin.com",
+    "title": "มารู้จักกับ vConsole เครื่องมือ Debug บน App",
+    "url": "https://boychawin.com/2024/10/24/debugging-mobile-with-vconsole.html",
+    "published": "2024-10-24T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",

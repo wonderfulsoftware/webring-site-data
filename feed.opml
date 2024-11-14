@@ -75,6 +75,7 @@
       <outline text="zartre.com" title="zartre.com" type="rss" xmlUrl="https://blog.zartre.com/feed" htmlUrl="https://zartre.com"/>
       <outline text="mymoneytoolkit.app" title="mymoneytoolkit.app" type="rss" xmlUrl="https://mymoneytoolkit.app/feed.xml" htmlUrl="https://mymoneytoolkit.app"/>
       <outline text="betich.me" title="betich.me" type="rss" xmlUrl="https://betich.me/feed.xml" htmlUrl="https://betich.me"/>
+      <outline text="boychawin.com" title="boychawin.com" type="rss" xmlUrl="https://boychawin.com/feed.xml" htmlUrl="https://boychawin.com"/>
     </outline>
   </body>
 </opml>
