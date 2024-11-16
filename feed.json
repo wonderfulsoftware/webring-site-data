@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนะนำ Val Town",
+    "url": "https://www.somkiat.cc/hello-val-town/",
+    "published": "2024-11-15T13:51:59.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory",
     "url": "https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/",
@@ -28,12 +34,6 @@
     "title": "แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง",
     "url": "https://mymoneytoolkit.app/posts/pesonal-finance-basic-book",
     "published": "2024-11-10T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สามารถใช้งาน Gemini model ผ่าน OpenAI library ได้แล้ว",
-    "url": "https://www.somkiat.cc/gemini-model-with-openai-library/",
-    "published": "2024-11-09T06:48:37.000Z"
   },
   {
     "site": "blog.ninprd.com",
