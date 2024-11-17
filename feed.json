@@ -1,15 +1,27 @@
 [
   {
-    "site": "somkiat.cc",
-    "title": "แนะนำ Val Town",
-    "url": "https://www.somkiat.cc/hello-val-town/",
-    "published": "2024-11-15T13:51:59.000Z"
+    "site": "debuggingsoft.com",
+    "title": "Unit Test เตือนเรื่องพวก Concurrent / Thread ได้นะ",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/",
+    "published": "2024-11-16T09:16:50.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[Jenkins] fatal: could not read Username for ‘Your_Git_Server’: No such file or directory",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/jenkins-fatal-could-not-read-username-for-your_git_server-no-such-file-or-directory/",
-    "published": "2024-11-14T03:16:24.000Z"
+    "site": "somkiat.cc",
+    "title": "มาดูความสามารถที่น่าสนใจของ ASP.NET Core ใน .NET 9",
+    "url": "https://www.somkiat.cc/new-feature-in-dotnet-9/",
+    "published": "2024-11-16T04:40:37.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "ว่าด้วยภาษีคริปโตแบบเข้าใจง่าย",
+    "url": "https://mymoneytoolkit.app/posts/crypto-tax",
+    "published": "2024-11-16T00:00:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "ABI-DOS",
+    "url": "https://neizod.dev/2024/11/15/abi-dos.html",
+    "published": "2024-11-15T16:06:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -28,12 +40,6 @@
     "title": "My Favourite Shots – Apr 2024",
     "url": "https://blog.zartre.com/2024/my-favourite-shots-apr-2024/",
     "published": "2024-11-10T14:36:24.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "แนะนำหนังสือการเงินส่วนบุคคล: เส้นทางสู่การลงทุนที่มั่นคง",
-    "url": "https://mymoneytoolkit.app/posts/pesonal-finance-basic-book",
-    "published": "2024-11-10T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -82,12 +88,6 @@
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP3 : วันที่ 2",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-3/",
     "published": "2024-10-27T17:19:40.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Checkerboard pattern for hexagonal tiling",
-    "url": "https://neizod.dev/2024/10/27/hexagon-checkerboard.html",
-    "published": "2024-10-27T00:56:22.000Z"
   },
   {
     "site": "boychawin.com",
