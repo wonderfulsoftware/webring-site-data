@@ -76,6 +76,7 @@
       <outline text="mymoneytoolkit.app" title="mymoneytoolkit.app" type="rss" xmlUrl="https://mymoneytoolkit.app/feed.xml" htmlUrl="https://mymoneytoolkit.app"/>
       <outline text="betich.me" title="betich.me" type="rss" xmlUrl="https://betich.me/feed.xml" htmlUrl="https://betich.me"/>
       <outline text="boychawin.com" title="boychawin.com" type="rss" xmlUrl="https://boychawin.com/feed.xml" htmlUrl="https://boychawin.com"/>
+      <outline text="blog.nattp.page" title="blog.nattp.page" type="rss" xmlUrl="https://blog.nattp.page/rss.xml" htmlUrl="https://blog.nattp.page"/>
     </outline>
   </body>
 </opml>
