@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Extracting text from image in macOS from the CLI",
+    "url": "https://notes.dt.in.th/MacOSOCR",
+    "published": "2024-11-19T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ",
     "url": "https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/",
@@ -79,15 +85,9 @@
   },
   {
     "site": "blog.nattp.page",
-    "title": "ชีวิตที่ผูกพันกับ STEINS;GATE",
-    "url": "https://blog.nattp.page/article/steinsgate-15th-anniversary-memories",
+    "title": "ย้อนรอยความทรงจำ ในโอกาส STEINS;GATE ครบรอบ 15 ปี",
+    "url": "https://blog.nattp.page/article/steinsgate-15th-anniversary-memories/",
     "published": "2024-10-30T19:43:23.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Request and response logging in Elysia",
-    "url": "https://notes.dt.in.th/ElysiaLogging",
-    "published": "2024-10-30T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
