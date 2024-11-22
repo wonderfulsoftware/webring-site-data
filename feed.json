@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/",
+    "published": "2024-11-21T10:19:02.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "สรุป OC24: อะไรคือการทำ Software ต้องสนุก",
     "url": "https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/",
@@ -22,12 +28,6 @@
     "title": "สร้าง Modal Service ด้วย Vanilla JS",
     "url": "https://boychawin.com/2024/11/17/modal-service-vanilla-js.html",
     "published": "2024-11-17T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Unit Test เตือนเรื่องพวก Concurrent / Thread ได้นะ",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/unit-test-can-detect-concurrent-thread-problem/",
-    "published": "2024-11-16T09:16:50.000Z"
   },
   {
     "site": "somkiat.cc",
