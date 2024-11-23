@@ -1,15 +1,15 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "สรุป OC24: Deploy Production every sprint!? Is it possible?",
+    "url": "https://blog.ninprd.com/blog/summarize-oc24-deploy-production-every-sprint-is-it-possible/",
+    "published": "2024-11-22T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security",
     "url": "https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/",
     "published": "2024-11-21T10:19:02.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สรุป OC24: อะไรคือการทำ Software ต้องสนุก",
-    "url": "https://blog.ninprd.com/blog/summarize-oc-24-what-does-it-mean-for-software-development-to-be-joyful/",
-    "published": "2024-11-20T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
