@@ -1,9 +1,15 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024",
+    "url": "https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/",
+    "published": "2024-11-23T12:51:26.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
-    "title": "สรุป OC24: Deploy Production every sprint!? Is it possible?",
-    "url": "https://blog.ninprd.com/blog/summarize-oc24-deploy-production-every-sprint-is-it-possible/",
-    "published": "2024-11-22T00:00:00.000Z"
+    "title": "สรุป OC24: LeSSExample",
+    "url": "https://blog.ninprd.com/blog/summarize-oc24-lessexample/",
+    "published": "2024-11-23T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +22,6 @@
     "title": "Extracting text from image in macOS from the CLI",
     "url": "https://notes.dt.in.th/MacOSOCR",
     "published": "2024-11-19T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทดลองทำ widget gas tracker ฉบับ Jetpack Compose กันเถอะ",
-    "url": "https://www.mikkipastel.com/create-android-widget-first-time-by-jetpack-glance/",
-    "published": "2024-11-17T05:05:39.000Z"
   },
   {
     "site": "boychawin.com",
