@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาดูกันว่า Testing strategies ใน Android app มีการเปลี่ยนอะไรบ้าง ?",
+    "url": "https://www.somkiat.cc/android-new-testing-strategies/",
+    "published": "2024-11-24T07:43:16.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณภาษีคริปโต",
+    "url": "https://mymoneytoolkit.app/posts/crypto-tax-google-sheet",
+    "published": "2024-11-24T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน .NET Conf TH 2024",
+    "url": "https://naiwaen.debuggingsoft.com/2024/11/recap-dotnet-conf-th-2024/",
+    "published": "2024-11-23T22:46:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024",
     "url": "https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/",
@@ -12,10 +30,10 @@
     "published": "2024-11-23T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "ปิดการเขียน Default Password หลังเปิดใช้งาน Spring Security",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/disable-logging-of-the-default-password-after-use-spring-security/",
-    "published": "2024-11-21T10:19:02.000Z"
+    "site": "ntsd.dev",
+    "title": "How to use Stream Pipe and Transform in Node.js",
+    "url": "https://ntsd.dev/node-stream-pipe-and-transform/",
+    "published": "2024-11-22T17:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -28,18 +46,6 @@
     "title": "สร้าง Modal Service ด้วย Vanilla JS",
     "url": "https://boychawin.com/2024/11/17/modal-service-vanilla-js.html",
     "published": "2024-11-17T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดูความสามารถที่น่าสนใจของ ASP.NET Core ใน .NET 9",
-    "url": "https://www.somkiat.cc/new-feature-in-dotnet-9/",
-    "published": "2024-11-16T04:40:37.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "ว่าด้วยภาษีคริปโตแบบเข้าใจง่าย",
-    "url": "https://mymoneytoolkit.app/posts/crypto-tax",
-    "published": "2024-11-16T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -172,12 +178,6 @@
     "title": "สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย",
     "url": "https://wawasabii.com/blog/new-gen-investor-event-summary/",
     "published": "2024-08-02T12:13:02.000Z"
-  },
-  {
-    "site": "ntsd.dev",
-    "title": "Switch between personal and work Cloudflare Warp profiles",
-    "url": "https://ntsd.dev/cloudflare-warp-multiple-profiles/",
-    "published": "2024-07-28T17:00:00.000Z"
   },
   {
     "site": "punn.dev",
