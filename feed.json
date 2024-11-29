@@ -6,6 +6,12 @@
     "published": "2024-11-28T01:40:17.000Z"
   },
   {
+    "site": "boychawin.com",
+    "title": "JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง",
+    "url": "https://boychawin.com/2024/11/28/js-loops-performance.html",
+    "published": "2024-11-28T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาสร้าง Presentation ใน Terminal กัน",
     "url": "https://www.somkiat.cc/terminal-based-presentation/",
@@ -40,12 +46,6 @@
     "title": "Extracting text from image in macOS from the CLI",
     "url": "https://notes.dt.in.th/MacOSOCR",
     "published": "2024-11-19T00:00:00.000Z"
-  },
-  {
-    "site": "boychawin.com",
-    "title": "สร้าง Modal Service ด้วย Vanilla JS",
-    "url": "https://boychawin.com/2024/11/17/modal-service-vanilla-js.html",
-    "published": "2024-11-17T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
