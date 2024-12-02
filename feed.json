@@ -1,15 +1,21 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "ได้ไปฟังอะไรที่งาน National Coding Day 2024: Workshop Day บ้าง?",
+    "url": "https://www.mikkipastel.com/national-coding-day-2024-workshop-day/",
+    "published": "2024-12-01T09:54:34.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจากงาน National Coding Day 2024: Conference Day",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/recap-from-national-coding-day-2024-conference-day/",
+    "published": "2024-12-01T06:11:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทำความรู้จักกับ Model Context Protocol (MCP) จาก Anthropic",
     "url": "https://www.somkiat.cc/model-context-protocol/",
     "published": "2024-11-30T14:44:52.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Banana Cake Topped with Mixed Grains",
-    "url": "https://naiwaen.debuggingsoft.com/2024/11/cr-starbucks-banana-cake-topped-with-mixed-grains/",
-    "published": "2024-11-28T01:40:17.000Z"
   },
   {
     "site": "boychawin.com",
@@ -22,12 +28,6 @@
     "title": "คำนวณภาษีคริปโต",
     "url": "https://mymoneytoolkit.app/posts/crypto-tax-google-sheet",
     "published": "2024-11-24T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สรุปที่เรียน Prompting Profit: Building AI-Powered Business Strategies จาก AWE2024",
-    "url": "https://www.mikkipastel.com/prompting-profit-building-ai-powered-business-strategies-awe2024/",
-    "published": "2024-11-23T12:51:26.000Z"
   },
   {
     "site": "blog.ninprd.com",
