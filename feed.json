@@ -1,5 +1,23 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "รู้เรื่อง Docker 101 จากชาว Bitcoiner",
+    "url": "https://www.mikkipastel.com/docker-101/",
+    "published": "2024-12-09T11:43:33.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Frozen Caveman Anti-Pattern",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/frozen-caveman-anti-pattern/",
+    "published": "2024-12-09T10:31:01.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ",
+    "url": "https://www.somkiat.cc/hello-llamaedge/",
+    "published": "2024-12-09T06:27:45.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-4/",
@@ -10,18 +28,6 @@
     "title": "เปรียบเทียบค่าธรรมเนียมหุ้นต่างประเทศ โบรกไหนเหมาะกับคุณ",
     "url": "https://mymoneytoolkit.app/posts/commission",
     "published": "2024-12-08T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Fix Permission denied: ‘/var/lib/pgadmin/sessions’ in Docker When Custom a Port",
-    "url": "https://naiwaen.debuggingsoft.com/2024/12/fix-permission-denied-var-lib-pgadmin-sessions-in-docker-when-custom-a-port/",
-    "published": "2024-12-06T09:37:34.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มางานใหญ่ประจำปีของครีเอเตอร์ iCreator Conference 2024",
-    "url": "https://www.mikkipastel.com/icreator-conference-2024/",
-    "published": "2024-12-06T08:38:39.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -52,12 +58,6 @@
     "title": "สรุป OC24: LeSS Architecture",
     "url": "https://blog.ninprd.com/blog/summary-oc24-less-architecture/",
     "published": "2024-12-03T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Model Context Protocol (MCP) จาก Anthropic",
-    "url": "https://www.somkiat.cc/model-context-protocol/",
-    "published": "2024-11-30T14:44:52.000Z"
   },
   {
     "site": "boychawin.com",
