@@ -1,9 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ",
+    "url": "https://www.somkiat.cc/tips-screenshot-with-playwright/",
+    "published": "2024-12-12T14:39:54.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Proxmox: How to Remove directory",
     "url": "https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/",
     "published": "2024-12-12T00:31:07.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "ภาษีบุคคลธรรมดา 2567 ฉบับเข้าใจทั้งหมด",
+    "url": "https://mymoneytoolkit.app/posts/personal-tax-2567",
+    "published": "2024-12-12T00:00:00.000Z"
+  },
+  {
+    "site": "boychawin.com",
+    "title": "ฟีเจอร์ใหม่ใน Angular 19",
+    "url": "https://boychawin.com/2024/12/12/angular-19.html",
+    "published": "2024-12-12T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -12,22 +30,10 @@
     "published": "2024-12-09T11:43:33.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน LlamaEdge สำหรับ run LLM บนเครื่องแบบเบา ๆ",
-    "url": "https://www.somkiat.cc/hello-llamaedge/",
-    "published": "2024-12-09T06:27:45.000Z"
-  },
-  {
     "site": "kusumotolab.com",
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-4/",
     "published": "2024-12-08T11:24:09.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "เปรียบเทียบค่าธรรมเนียมหุ้นต่างประเทศ โบรกไหนเหมาะกับคุณ",
-    "url": "https://mymoneytoolkit.app/posts/commission",
-    "published": "2024-12-08T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -58,12 +64,6 @@
     "title": "สรุป OC24: LeSS Architecture",
     "url": "https://blog.ninprd.com/blog/summary-oc24-less-architecture/",
     "published": "2024-12-03T00:00:00.000Z"
-  },
-  {
-    "site": "boychawin.com",
-    "title": "JavaScript Loops ความเร็ว ปะทะ ความง่าย เลือกใช้ยังไง",
-    "url": "https://boychawin.com/2024/11/28/js-loops-performance.html",
-    "published": "2024-11-28T00:00:00.000Z"
   },
   {
     "site": "ntsd.dev",
