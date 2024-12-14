@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "12-12 Burger King Whopper",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/",
+    "published": "2024-12-13T02:41:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "K-sortable unique ID formats (and generator)",
+    "url": "https://notes.dt.in.th/KSortableUniqueID",
+    "published": "2024-12-13T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ",
     "url": "https://www.somkiat.cc/tips-screenshot-with-playwright/",
     "published": "2024-12-12T14:39:54.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Proxmox: How to Remove directory",
-    "url": "https://naiwaen.debuggingsoft.com/2024/12/proxmox-how-to-remove-directory/",
-    "published": "2024-12-12T00:31:07.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -70,12 +76,6 @@
     "title": "How to use Stream Pipe and Transform in Node.js",
     "url": "https://ntsd.dev/node-stream-pipe-and-transform/",
     "published": "2024-11-22T17:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Extracting text from image in macOS from the CLI",
-    "url": "https://notes.dt.in.th/MacOSOCR",
-    "published": "2024-11-19T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
