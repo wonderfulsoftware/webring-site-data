@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองเอา code มาปรับปรุงนิดหน่อย",
+    "url": "https://www.somkiat.cc/fun-with-improve-code/",
+    "published": "2024-12-15T14:45:40.000Z"
+  },
+  {
+    "site": "rayriffy.com",
+    "title": "Year in Review 2024",
+    "url": "https://rayriffy.com/blog/year-in-review-2024/",
+    "published": "2024-12-15T03:30:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาฟัง Lead Engineer Meetup",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/drop-in-lead-engineer-meetup/",
+    "published": "2024-12-15T03:01:00.000Z"
+  },
+  {
     "site": "zartre.com",
     "title": "Setting up WARP for Cloudflare Access",
     "url": "https://blog.zartre.com/2024/setting-up-warp-for-cloudflare-access/",
@@ -16,18 +34,6 @@
     "title": "K-sortable unique ID formats (and generator)",
     "url": "https://notes.dt.in.th/KSortableUniqueID",
     "published": "2024-12-13T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "12-12 Burger King Whopper",
-    "url": "https://naiwaen.debuggingsoft.com/2024/12/12-12-burger-king-whopper/",
-    "published": "2024-12-12T14:41:04.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Tips :: ใช้ Playwright ในการบันทึก screenshot หน้า web ที่ต้องการ",
-    "url": "https://www.somkiat.cc/tips-screenshot-with-playwright/",
-    "published": "2024-12-12T14:39:54.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -130,12 +136,6 @@
     "title": "ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ",
     "url": "https://yothinix.com/vo2max-test/",
     "published": "2024-10-13T15:37:35.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Riffy’s Airport tier list",
-    "url": "https://rayriffy.com/garden/airport-tier-list/",
-    "published": "2024-10-07T12:19:00.000Z"
   },
   {
     "site": "garden.narze.live",
