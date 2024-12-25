@@ -34,7 +34,7 @@
       <outline text="suam.wtf" title="suam.wtf" type="rss" xmlUrl="https://suam.wtf/index.xml" htmlUrl="https://suam.wtf"/>
       <outline text="blog.oatto.dev" title="blog.oatto.dev" type="rss" xmlUrl="https://blog.oatto.dev/feed.xml" htmlUrl="https://blog.oatto.dev"/>
       <outline text="toupawa.com" title="toupawa.com" type="rss" xmlUrl="https://toupawa.com/rss/" htmlUrl="https://toupawa.com"/>
-      <outline text="karnwong.me" title="karnwong.me" type="rss" xmlUrl="https://www.karnwong.me/index.xml" htmlUrl="https://karnwong.me"/>
+      <outline text="karnwong.me" title="karnwong.me" type="rss" xmlUrl="https://karnwong.me/posts/rss.xml" htmlUrl="https://karnwong.me"/>
       <outline text="thiti.dev" title="thiti.dev" type="rss" xmlUrl="https://thiti.dev/rss.xml" htmlUrl="https://thiti.dev"/>
       <outline text="blog.kpping.me" title="blog.kpping.me" type="rss" xmlUrl="https://blog.kpping.me/index.xml" htmlUrl="https://blog.kpping.me"/>
       <outline text="myifew.com" title="myifew.com" type="rss" xmlUrl="https://myifew.com/feed/" htmlUrl="https://myifew.com"/>
