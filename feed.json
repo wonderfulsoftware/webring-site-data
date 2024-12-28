@@ -1,33 +1,33 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกเรื่องของ Resiliency Pattern ในการออกแบบระบบงาน",
+    "url": "https://www.somkiat.cc/note-resiliency-pattern/",
+    "published": "2024-12-27T09:45:10.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "2024: year in review ปีแห่ง 1 day 1000 Situations",
+    "url": "https://www.mikkipastel.com/2024-year-in-review/",
+    "published": "2024-12-27T09:40:52.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[AZ-305] Design business continuity solutions",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/",
+    "published": "2024-12-27T03:31:00.000Z"
+  },
+  {
     "site": "mymoneytoolkit.app",
     "title": "Watchlist ราคาหุ้นไทย",
     "url": "https://mymoneytoolkit.app/posts/watchlist-me-set",
     "published": "2024-12-26T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สรุปจากการแบ่งปันเรื่อง Generative AI for Software Development 2024 ไว้นิดหน่อย",
-    "url": "https://www.somkiat.cc/note-from-use-ai-insoftware-development/",
-    "published": "2024-12-25T13:19:37.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZ-305] Design identity, governance, and monitor solutions",
-    "url": "https://naiwaen.debuggingsoft.com/2024/12/az-305-design-identity-governance-and-monitor-solutions/",
-    "published": "2024-12-25T02:22:00.000Z"
-  },
-  {
     "site": "lucian.solutions",
     "title": "Illustration - メリークリスマス2024 🎄",
     "url": "https://lucian.solutions/blog/202412-merrychristmas",
     "published": "2024-12-24T16:30:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "อัพเดตประจำปี Android Bangkok Conference 2024 มีอะไรน่าสนใจบ้าง?",
-    "url": "https://www.mikkipastel.com/android-bangkok-conference-2024/",
-    "published": "2024-12-23T06:36:19.000Z"
   },
   {
     "site": "mikelopster.dev",
