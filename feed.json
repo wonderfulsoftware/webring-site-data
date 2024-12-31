@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น",
+    "url": "https://www.somkiat.cc/playwright-run-only-changed/",
+    "published": "2024-12-30T12:24:13.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Information gathering infrastructure",
+    "url": "https://karnwong.me/posts/2024/12/information-gathering-infrastructure/",
+    "published": "2024-12-30T00:00:00.000Z"
+  },
+  {
+    "site": "boychawin.com",
+    "title": "การเลือกใช้ Storage ให้เหมาะสมในพัฒนาเว็บไซต์",
+    "url": "https://boychawin.com/2024/12/30/web-storage-guide.html",
+    "published": "2024-12-30T00:00:00.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "2024 Year In Review",
     "url": "https://blog.ninprd.com/blog/2024-year-in-review/",
     "published": "2024-12-28T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกเรื่องของ Resiliency Pattern ในการออกแบบระบบงาน",
-    "url": "https://www.somkiat.cc/note-resiliency-pattern/",
-    "published": "2024-12-27T09:45:10.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -72,12 +84,6 @@
     "published": "2024-12-13T00:00:00.000Z"
   },
   {
-    "site": "boychawin.com",
-    "title": "ฟีเจอร์ใหม่ใน Angular 19",
-    "url": "https://boychawin.com/2024/12/12/angular-19.html",
-    "published": "2024-12-12T00:00:00.000Z"
-  },
-  {
     "site": "kusumotolab.com",
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-4/",
@@ -88,12 +94,6 @@
     "title": "ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers",
     "url": "https://pontakorn.dev/posts/easier-testing-with-testcontainers/",
     "published": "2024-12-05T09:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Native Implementation vs Wasm for Go, Python and Rust Benchmark",
-    "url": "https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/",
-    "published": "2024-12-04T00:00:00.000Z"
   },
   {
     "site": "ntsd.dev",
