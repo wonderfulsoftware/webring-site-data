@@ -1,5 +1,17 @@
 [
   {
+    "site": "yothinix.com",
+    "title": "Review: DeepLearning.AI Data Engineering Professional Certificate",
+    "url": "https://yothinix.com/deeplearning-ai-data-engineering/",
+    "published": "2024-12-31T05:04:49.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "2024 หงุดหงิด และโวยวาย",
+    "url": "https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/",
+    "published": "2024-12-31T04:39:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น",
     "url": "https://www.somkiat.cc/playwright-run-only-changed/",
@@ -28,12 +40,6 @@
     "title": "2024: year in review ปีแห่ง 1 day 1000 Situations",
     "url": "https://www.mikkipastel.com/2024-year-in-review/",
     "published": "2024-12-27T09:40:52.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[AZ-305] Design business continuity solutions",
-    "url": "https://naiwaen.debuggingsoft.com/2024/12/az-305-design-business-continuity-solutions/",
-    "published": "2024-12-27T03:31:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -136,12 +142,6 @@
     "title": "Javascript Bangkok 2.0.0",
     "url": "https://blog.oatto.dev/2024/10/19/js-bkk-2-0-0.html",
     "published": "2024-10-19T00:00:00.000Z"
-  },
-  {
-    "site": "yothinix.com",
-    "title": "ผมไปตรวจ VO2 Max มาครับ แล้วมันดีมากๆ",
-    "url": "https://yothinix.com/vo2max-test/",
-    "published": "2024-10-13T15:37:35.000Z"
   },
   {
     "site": "garden.narze.live",
