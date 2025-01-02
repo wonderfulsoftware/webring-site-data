@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Spring Boot 3.4 สนับสนุน Docker compose แบบหลาย ๆ ไฟล์แล้ว",
+    "url": "https://www.somkiat.cc/spring-boot-support-multiple-docker-composes/",
+    "published": "2025-01-01T06:28:41.000Z"
+  },
+  {
     "site": "yothinix.com",
     "title": "Review: DeepLearning.AI Data Engineering Professional Certificate",
     "url": "https://yothinix.com/deeplearning-ai-data-engineering/",
@@ -10,12 +16,6 @@
     "title": "2024 หงุดหงิด และโวยวาย",
     "url": "https://naiwaen.debuggingsoft.com/2024/12/2024-year-in-review/",
     "published": "2024-12-31T04:39:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Tips :: Playwright ทำการ run test ที่มีการเปลี่ยนแปลงเท่านั้น",
-    "url": "https://www.somkiat.cc/playwright-run-only-changed/",
-    "published": "2024-12-30T12:24:13.000Z"
   },
   {
     "site": "karnwong.me",
