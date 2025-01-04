@@ -322,7 +322,8 @@
       "rect": "32:21:171.5:284.6875",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2025-01-03T01:12:06.508Z"
+    "lastUpdated": "2025-01-04T17:03:52.790Z",
+    "number": 21
   },
   "mahasak.com": {
     "url": "https://mahasak.com",
@@ -343,7 +344,8 @@
       "rect": "32:96:318.59375:0",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2025-01-03T01:12:22.462Z"
+    "lastUpdated": "2025-01-04T17:04:09.980Z",
+    "number": 22
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -399,7 +401,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2025-01-03T01:12:51.690Z"
+    "lastUpdated": "2025-01-04T17:04:26.401Z",
+    "number": 24
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -2022,5 +2025,18 @@
     },
     "lastUpdated": "2025-01-04T01:34:49.960Z",
     "number": 120
+  },
+  "chakkritton.com": {
+    "url": "https://chakkritton.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/chakkritton.com_375w@2x.png",
+    "blurhash": "vKRC;~M{~qt6M|%M%MM{?bRPD%xu_Mj[9Fof-:WBIVofIUofxuWBIUxuxuM{",
+    "screenshotUpdatedAt": "2025-01-04T17:06:11.419Z",
+    "description": "Chakkrit Laolit Portfolio Website",
+    "backlink": {
+      "rect": "24:24:59.1875:604",
+      "href": "https://webring.wonderful.software#chakkritton.com"
+    },
+    "lastUpdated": "2025-01-04T17:06:11.419Z",
+    "number": 121
   }
 }
