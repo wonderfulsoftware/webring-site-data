@@ -1,5 +1,17 @@
 [
   {
+    "site": "unnawut.com",
+    "title": "Generative UI Design Tools: A Day's Review",
+    "url": "https://unnawut.com/posts/2025-01-05-generative-ui-review/",
+    "published": "2025-01-06T15:50:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[AZ-305] Design infrastructure solutions",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/az-305-design-infrastructure-solutions/",
+    "published": "2025-01-06T08:16:18.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable",
     "url": "https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/",
@@ -10,12 +22,6 @@
     "title": "ติดตามการใช้บัตรเครดิต",
     "url": "https://mymoneytoolkit.app/posts/credit-card-tracker",
     "published": "2025-01-05T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11 : Intro + AI Prompt 101",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-intro/",
-    "published": "2025-01-04T05:53:30.000Z"
   },
   {
     "site": "yothinix.com",
@@ -400,12 +406,6 @@
     "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
     "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
     "published": "2021-01-25T12:47:49.000Z"
-  },
-  {
-    "site": "unnawut.com",
-    "title": "GenServer, Registry, DynamicSupervisor. Combined.",
-    "url": "https://unnawut.com/posts/2019-10-05-genserver-registry-dynamic-supervisor-combined/",
-    "published": "2019-10-04T17:34:00.000Z"
   },
   {
     "site": "supavitk.com",
