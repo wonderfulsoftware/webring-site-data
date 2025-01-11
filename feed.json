@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย",
+    "url": "https://www.somkiat.cc/model-context-protocol-and-playwright/",
+    "published": "2025-01-10T07:35:05.000Z"
+  },
+  {
+    "site": "zartre.com",
+    "title": "2024 – My Year in Tea (Home Cafe)",
+    "url": "https://blog.zartre.com/2025/2024-tea-story-home-cafe/",
+    "published": "2025-01-10T03:54:11.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[MS Cert] บันทึกการสอบ AZ-305",
     "url": "https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/",
@@ -10,12 +22,6 @@
     "title": "Generative UI Design Tools: A Day's Review",
     "url": "https://unnawut.com/posts/2025-01-05-generative-ui-review/",
     "published": "2025-01-06T15:50:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Fallacies of Distributed Computing เรื่องที่ 1 The network is reliable",
-    "url": "https://www.somkiat.cc/fallacies-of-distributed-computing-the-network-is-reliable/",
-    "published": "2025-01-05T15:54:39.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -64,12 +70,6 @@
     "title": "ลอง Rust Basic (2)",
     "url": "https://mikelopster.dev/posts/rust-basic-2/",
     "published": "2024-12-21T00:00:00.000Z"
-  },
-  {
-    "site": "zartre.com",
-    "title": "My Favourite Shots – May 2024",
-    "url": "https://blog.zartre.com/2024/my-favourite-shots-may-2024/",
-    "published": "2024-12-19T14:45:18.000Z"
   },
   {
     "site": "llun.me",
