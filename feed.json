@@ -1,5 +1,17 @@
 [
   {
+    "site": "thanapon.info",
+    "title": "ลองทำ DDNS บน Cloudflare DNS ง่ายๆ",
+    "url": "https://thanapon.info/cloudflare-ddns/",
+    "published": "2025-01-11T14:37:49.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/",
+    "published": "2025-01-11T09:30:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย",
     "url": "https://www.somkiat.cc/model-context-protocol-and-playwright/",
@@ -10,12 +22,6 @@
     "title": "2024 – My Year in Tea (Home Cafe)",
     "url": "https://blog.zartre.com/2025/2024-tea-story-home-cafe/",
     "published": "2025-01-10T03:54:11.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[MS Cert] บันทึกการสอบ AZ-305",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/microsoft-certification-exam-az-305-note/",
-    "published": "2025-01-09T01:20:00.000Z"
   },
   {
     "site": "unnawut.com",
@@ -130,12 +136,6 @@
     "title": "0260 | usb to serial driver สำหรับ windows arm",
     "url": "https://www.icez.net/blog/167553/0260-usb-to-serial-driver-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-windows-arm",
     "published": "2024-11-04T18:59:37.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "[InfluxDb] สร้าง Username/Password ผ่าน influxdb-cli บน MacOS",
-    "url": "https://thanapon.info/influxdb-cli-create-user/",
-    "published": "2024-11-04T02:31:14.000Z"
   },
   {
     "site": "blog.nattp.page",
