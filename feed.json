@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ความสามารถใหม่ ๆ ใน Apache Airflow 3.0",
+    "url": "https://www.somkiat.cc/features-apache-airflow-3/",
+    "published": "2025-01-12T06:10:47.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "ลองทำ DDNS บน Cloudflare DNS ง่ายๆ",
     "url": "https://thanapon.info/cloudflare-ddns/",
@@ -7,15 +13,9 @@
   },
   {
     "site": "debuggingsoft.com",
-    "title": "แวะมาฟัง Microsoft AI Skills Program Kick-off and Azure AI Training",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/note-microsoft-ai-skills-program-kick-off-and-azure-ai-training/",
-    "published": "2025-01-11T09:30:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "วันว่าง ๆ มาลองใช้งาน Claude’s Model Context Protocol (MCP) กับ Playwright กันหน่อย",
-    "url": "https://www.somkiat.cc/model-context-protocol-and-playwright/",
-    "published": "2025-01-10T07:35:05.000Z"
+    "title": "Data Sci Boot Camp Batch#11 : Second Brain",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-second-brain/",
+    "published": "2025-01-11T13:52:00.000Z"
   },
   {
     "site": "zartre.com",
