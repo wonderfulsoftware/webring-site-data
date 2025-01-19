@@ -398,7 +398,8 @@
       "rect": "28.80000114440918:27.60000228881836:20.475000381469727:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2025-01-18T01:11:58.394Z"
+    "lastUpdated": "2025-01-19T18:48:06.728Z",
+    "number": 24
   },
   "ntsd.me": {
     "url": "https://ntsd.me",
@@ -2032,5 +2033,18 @@
     },
     "lastUpdated": "2025-01-19T01:47:24.823Z",
     "number": 121
+  },
+  "amiearth.com": {
+    "url": "https://amiearth.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/amiearth.com_375w@2x.png",
+    "blurhash": "vAS?DVD%%L-;WXR*WBof~q-;M{IU%2xuofM{D%M_ofxuD*IVj[%MkCogofWB",
+    "screenshotUpdatedAt": "2025-01-19T18:48:13.875Z",
+    "description": "Home page of amiearth",
+    "backlink": {
+      "rect": "16.671875:16.671875:310.328125:338.515625",
+      "href": "https://webring.wonderful.software#amiearth.com"
+    },
+    "lastUpdated": "2025-01-19T18:48:13.875Z",
+    "number": 122
   }
 }
