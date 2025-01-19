@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/",
+    "published": "2025-01-18T10:20:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "เมื่อ Android Developer คนหนึ่งอยากเปลี่ยน portfolio website ใหม่",
     "url": "https://www.mikkipastel.com/new-portfolio-website/",
@@ -28,12 +34,6 @@
     "title": "Make dApp testing automated with Synpress",
     "url": "https://yuttakhanb.dev/posts/dapp-e2e-synpress/",
     "published": "2025-01-15T23:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Azure Error AADSTS50079: The user is required to use multi-factor authentication",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/azure-error-aadsts50079-the-user-is-required-to-use-mfa/",
-    "published": "2025-01-15T14:01:49.000Z"
   },
   {
     "site": "icez.net",
