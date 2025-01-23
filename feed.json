@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "เรื่องของ ambiguous match exception และการจัดการในมุม Performance",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/",
+    "published": "2025-01-22T03:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ว่าด้วยเรื่องของการ Scaling ระบบในรูปแบบ Monolith",
     "url": "https://www.somkiat.cc/scaling-monolith/",
@@ -10,12 +16,6 @@
     "title": "25 เครื่องมือการเงิน 2025",
     "url": "https://mymoneytoolkit.app/posts/tool-new-year-2025",
     "published": "2025-01-21T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11 : ใช้ Spreadsheet / Excel มา 10 ปี เพิ่งรู้ว่าทำแบบนี้ได้",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-spreadsheet-excel-tips/",
-    "published": "2025-01-18T10:20:00.000Z"
   },
   {
     "site": "mikkipastel.com",
