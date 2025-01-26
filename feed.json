@@ -1,5 +1,29 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ใช้งาน DeepSeek-R1 บน Ollama",
+    "url": "https://www.somkiat.cc/install-deepseek-r1-with-ollama/",
+    "published": "2025-01-25T16:33:48.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Data Sci Boot Camp Batch#11 : SQL",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/data-sci-boot-camp-batch11-sql/",
+    "published": "2025-01-25T12:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "My journey for fully switching from Windows over to Linux",
+    "url": "https://karnwong.me/posts/2025/01/my-journey-for-fully-switching-from-windows-over-to-linux/",
+    "published": "2025-01-25T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณการลงทุนช้าผลตอบแทนต่างเท่าไหร่",
+    "url": "https://mymoneytoolkit.app/posts/compare-start-investment",
+    "published": "2025-01-25T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "Nostr 101: คืออะไร? เล่นยังไง? แล้วเปลี่ยนโลกการใช้ social ของเรายังไง?",
     "url": "https://www.mikkipastel.com/nostr-101-introduction/",
@@ -10,24 +34,6 @@
     "title": "Tailwind CSS v4.0 ปล่อยออกมาแล้ว",
     "url": "https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html",
     "published": "2025-01-24T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เรื่องของ ambiguous match exception และการจัดการในมุม Performance",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/dotnet-csharp-ambiguous-match-exception-thai-version/",
-    "published": "2025-01-22T03:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของการ Scaling ระบบในรูปแบบ Monolith",
-    "url": "https://www.somkiat.cc/scaling-monolith/",
-    "published": "2025-01-21T10:08:26.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "25 เครื่องมือการเงิน 2025",
-    "url": "https://mymoneytoolkit.app/posts/tool-new-year-2025",
-    "published": "2025-01-21T00:00:00.000Z"
   },
   {
     "site": "zartre.com",
@@ -64,12 +70,6 @@
     "title": "Review: DeepLearning.AI Data Engineering Professional Certificate",
     "url": "https://yothinix.com/deeplearning-ai-data-engineering/",
     "published": "2024-12-31T05:04:49.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Information gathering infrastructure",
-    "url": "https://karnwong.me/posts/2024/12/information-gathering-infrastructure/",
-    "published": "2024-12-30T00:00:00.000Z"
   },
   {
     "site": "amiearth.com",
@@ -378,16 +378,16 @@
     "published": "2022-04-19T00:00:00.000Z"
   },
   {
+    "site": "notaboutcode.com",
+    "title": "Terminal job level ใน FAANG (Facebook, Amazon, Apple, Netflix, และ Google)",
+    "url": "https://www.notaboutcode.com/post/37-terminal-job-level/",
+    "published": "2022-03-20T14:05:28.000Z"
+  },
+  {
     "site": "pandora.sh",
     "title": "Targeted Surveillance and Evidence Fabrication Against Indian Political Activists - Forensics Report Note",
     "url": "https://pandora.sh/posts/targeted-surveillance-and-evidence-fabrication-against-indian-political-activists-forensics-report-note/",
     "published": "2022-03-11T09:37:45.000Z"
-  },
-  {
-    "site": "notaboutcode.com",
-    "title": "จะสเกลระบบหลักล้านด้วย Cache ต้องพิจารณาอะไรบ้าง",
-    "url": "https://www.notaboutcode.com/post/31-caching/",
-    "published": "2022-02-19T05:04:02.000Z"
   },
   {
     "site": "petepittawat.dev",
