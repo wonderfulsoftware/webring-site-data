@@ -1,5 +1,17 @@
 [
   {
+    "site": "pontakorn.dev",
+    "title": "libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน",
+    "url": "https://pontakorn.dev/posts/introduction-to-libgdx/",
+    "published": "2025-01-27T17:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Robot framework :: ทำความรู้จักกับ Group syntax",
+    "url": "https://www.somkiat.cc/robot-framework-with-group-syntax/",
+    "published": "2025-01-27T07:12:48.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "SQLite data type",
     "url": "https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/",
@@ -10,12 +22,6 @@
     "title": "คำนวณแบ่งเงินลงทุนเป็นก้อน",
     "url": "https://mymoneytoolkit.app/posts/split-investment",
     "published": "2025-01-27T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน DeepSeek-R1 บน Ollama",
-    "url": "https://www.somkiat.cc/install-deepseek-r1-with-ollama/",
-    "published": "2025-01-25T16:33:48.000Z"
   },
   {
     "site": "karnwong.me",
@@ -124,12 +130,6 @@
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-4/",
     "published": "2024-12-08T11:24:09.000Z"
-  },
-  {
-    "site": "pontakorn.dev",
-    "title": "ทดสอบโปรแกรมง่ายกว่าเดิมด้วย Testcontainers",
-    "url": "https://pontakorn.dev/posts/easier-testing-with-testcontainers/",
-    "published": "2024-12-05T09:00:00.000Z"
   },
   {
     "site": "ntsd.dev",
