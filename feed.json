@@ -1,21 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองควบคุม web browser ด้วย Browser Use",
+    "url": "https://www.somkiat.cc/hello-web-with-browser-use/",
+    "published": "2025-01-28T16:30:57.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลอง Azure Document Intelligent – REST API อ่านใบเสร็จ",
+    "url": "https://naiwaen.debuggingsoft.com/2025/01/azure-document-intelligent-rest-api-for-extract-receipt/",
+    "published": "2025-01-28T09:30:00.000Z"
+  },
+  {
     "site": "pontakorn.dev",
     "title": "libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน",
     "url": "https://pontakorn.dev/posts/introduction-to-libgdx/",
     "published": "2025-01-27T17:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Robot framework :: ทำความรู้จักกับ Group syntax",
-    "url": "https://www.somkiat.cc/robot-framework-with-group-syntax/",
-    "published": "2025-01-27T07:12:48.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "SQLite data type",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/sqlite-data-type/",
-    "published": "2025-01-27T00:20:20.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
