@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ใช้งาน Posting :: สำหรับ API testing ใน terminal",
+    "url": "https://www.somkiat.cc/posting-for-api-testing-in-terminal/",
+    "published": "2025-02-01T15:07:50.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "มาเปลี่ยนเบอร์ GSB MYMO",
+    "url": "https://naiwaen.debuggingsoft.com/2025/02/gsb-mymo-change-mobile-no/",
+    "published": "2025-02-01T02:07:00.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "mock-service-worker for mocking API",
     "url": "https://yuttakhanb.dev/posts/msw/",
@@ -10,18 +22,6 @@
     "title": "มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน",
     "url": "https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/",
     "published": "2025-01-31T11:06:50.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองทำ Vector Search บน MongoDB Atlas กัน",
-    "url": "https://www.somkiat.cc/vector-search-with-mongodb-atlas/",
-    "published": "2025-01-31T09:03:09.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Easy E-Receipt 2.0 + OTOP",
-    "url": "https://naiwaen.debuggingsoft.com/2025/01/easy-e-receipt-2-0-otop/",
-    "published": "2025-01-30T16:21:39.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -366,6 +366,12 @@
     "published": "2022-10-08T00:00:00.000Z"
   },
   {
+    "site": "notaboutcode.com",
+    "title": "เป็นลูกรักของหัวหน้าอย่างไรให้สมศักดิ์ศรี (ฉบับโปรแกรมเมอร์)",
+    "url": "https://www.notaboutcode.com/post/42-being-lovable-boss-favorite/",
+    "published": "2022-08-29T14:05:28.000Z"
+  },
+  {
     "site": "jojoee.com",
     "title": "ทดสอบการใช้งาน shortcode ของ PromptPay plugin",
     "url": "https://jojoee.com/promptpay-shortcode-test/",
@@ -376,12 +382,6 @@
     "title": "รีวิววิศวะคอม ม.เกษตร (บางเขน) ในปี 2022",
     "url": "https://blog.tawanchai.com/cpe-ku-review-2022",
     "published": "2022-04-19T00:00:00.000Z"
-  },
-  {
-    "site": "notaboutcode.com",
-    "title": "Terminal job level ใน FAANG (Facebook, Amazon, Apple, Netflix, และ Google)",
-    "url": "https://www.notaboutcode.com/post/37-terminal-job-level/",
-    "published": "2022-03-20T14:05:28.000Z"
   },
   {
     "site": "pandora.sh",
