@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ความสามารถที่น่าสนใจใน Go 1.24 rc2",
+    "url": "https://www.somkiat.cc/go-1-24-rc2/",
+    "published": "2025-02-05T16:02:48.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "[Google Sheet] หารตัง: หารเงินไม่ปวดหัว",
+    "url": "https://mymoneytoolkit.app/posts/haantung",
+    "published": "2025-02-05T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "How to fixed icon (lxqt) are missing after upgrade lubuntu",
     "url": "https://naiwaen.debuggingsoft.com/2025/02/how-to-fixed-icon-lxqt-are-missing-after-upgrade-lubuntu/",
     "published": "2025-02-04T02:41:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาใช้งาน Standard Schema สำหรับการตรวจสอบโครงสร้างข้อมูลกัน",
-    "url": "https://www.somkiat.cc/standard-schema-with-typescript/",
-    "published": "2025-02-02T08:24:04.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -28,12 +34,6 @@
     "title": "libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน",
     "url": "https://pontakorn.dev/posts/introduction-to-libgdx/",
     "published": "2025-01-27T17:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คำนวณแบ่งเงินลงทุนเป็นก้อน",
-    "url": "https://mymoneytoolkit.app/posts/split-investment",
-    "published": "2025-01-27T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
