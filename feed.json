@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Playwright :: ทำ Dashboard แสดงผลการทดสอบใน Grafana",
-    "url": "https://www.somkiat.cc/playwright-test-report-in-grafana-dashboard/",
-    "published": "2025-02-06T07:26:19.000Z"
+    "title": "มาลองใช้งาน GitHub Copilot ใน Agent mode กัน",
+    "url": "https://www.somkiat.cc/hello-github-copilot-agent-mode/",
+    "published": "2025-02-07T11:29:57.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เล่าเรื่อง startup เท่าที่รู้ จากซีรีส์เกาหลี Start-Up",
+    "url": "https://www.mikkipastel.com/my-startup-experience-with-start-up-kseries/",
+    "published": "2025-02-07T04:55:36.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -22,12 +28,6 @@
     "title": "mock-service-worker for mocking API",
     "url": "https://yuttakhanb.dev/posts/msw/",
     "published": "2025-01-31T23:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มาฟังเบื้องหลังการซื้อ carbon credit ผ่าน TrueMoney กัน",
-    "url": "https://www.mikkipastel.com/integrating-carbon-offsets-into-consumer-focused-truemoney-carbonmark/",
-    "published": "2025-01-31T11:06:50.000Z"
   },
   {
     "site": "pontakorn.dev",
