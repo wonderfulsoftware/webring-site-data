@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนวทางในการสร้าง Local LLMs server มีอะไรบ้าง ?",
+    "url": "https://www.somkiat.cc/qa-local-llms/",
+    "published": "2025-02-11T10:35:19.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ลองเขียน C# WebAPI เรียกใช้ Azure Document Intelligent อ่านใบเสร็จ",
     "url": "https://naiwaen.debuggingsoft.com/2025/02/csharp-aspnet-webapi-with-azure-document-intelligent-for-extract-receipt/",
@@ -28,12 +34,6 @@
     "title": "Deploying a Bun app to AWS App Runner",
     "url": "https://notes.dt.in.th/BunAppRunner",
     "published": "2025-02-08T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน GitHub Copilot ใน Agent mode กัน",
-    "url": "https://www.somkiat.cc/hello-github-copilot-agent-mode/",
-    "published": "2025-02-07T11:29:57.000Z"
   },
   {
     "site": "mikkipastel.com",
