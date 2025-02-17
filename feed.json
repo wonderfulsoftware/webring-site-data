@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Enabling access logging in Caddy",
+    "url": "https://notes.dt.in.th/CaddyAccessLogging",
+    "published": "2025-02-16T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Data Sci Boot Camp Batch#11 : R Data Transformation",
     "url": "https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/",
@@ -34,12 +40,6 @@
     "title": "Fixing Yamaha Clavinova Sustain Pedal",
     "url": "https://blog.zartre.com/2025/fixing-yamaha-clavinova-sustain-pedal/",
     "published": "2025-02-09T10:11:44.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Deploying a Bun app to AWS App Runner",
-    "url": "https://notes.dt.in.th/BunAppRunner",
-    "published": "2025-02-08T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
