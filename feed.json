@@ -1,14 +1,38 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาดู AI Engineering Landscape ว่ามีอะไรบ้าง ?",
-    "url": "https://www.somkiat.cc/ai-engineering-landscape/",
-    "published": "2025-02-17T11:12:53.000Z"
+    "title": "มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน",
+    "url": "https://www.somkiat.cc/mcp-server-with-go/",
+    "published": "2025-02-18T16:52:38.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "อย่าล้อเล่นกับระบบ D-MyTax",
+    "url": "https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/",
+    "published": "2025-02-18T09:22:08.000Z"
+  },
+  {
+    "site": "icez.net",
+    "title": "0262 | freeipa add replica stuck at ‘No status yet’",
+    "url": "https://www.icez.net/blog/167560/0262-freeipa-add-replica-stuck-at-no-status-yet",
+    "published": "2025-02-18T07:25:35.000Z"
+  },
+  {
+    "site": "lucian.solutions",
+    "title": "Food Review - La Dotta",
+    "url": "https://lucian.solutions/blog/foodreview-la-dotta",
+    "published": "2025-02-18T05:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณขายขาดทุนแล้วต้องทำกำไรเท่าไหร่ถึงกลับมาเท่าทุน",
+    "url": "https://mymoneytoolkit.app/posts/recover-loss",
+    "published": "2025-02-18T00:00:00.000Z"
   },
   {
     "site": "amiearth.com",
     "title": "[💻] การเขียน Git Commit",
-    "url": "https://amiearth.com/standard-commit-name-git",
+    "url": "https://amiearth.com/blog/standard-commit-name-git",
     "published": "2025-02-17T00:00:00.000Z"
   },
   {
@@ -18,34 +42,16 @@
     "published": "2025-02-16T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11 : R Data Transformation",
-    "url": "https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-r-data-transformation/",
-    "published": "2025-02-15T10:27:09.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Cross-platform keyring-like setup (also works without desktop environment)",
     "url": "https://karnwong.me/posts/2025/02/cross-platform-keyring-like-setup-also-works-without-desktop-environment/",
     "published": "2025-02-13T00:00:00.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "ยื่นภาษีปีภาษี 2567 ภาคปฏิบัติ ฉบับมนุษย์เงินเดือน นักลงทุนเล็กๆน้อยๆ",
-    "url": "https://mymoneytoolkit.app/posts/tax-rd-2567",
-    "published": "2025-02-12T00:00:00.000Z"
-  },
-  {
     "site": "srakrn.me",
     "title": "Hello world!",
     "url": "https://bio.srakrn.me/hello-world/",
     "published": "2025-02-11T12:46:01.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - Valentines's 2025 💞",
-    "url": "https://lucian.solutions/blog/202502-valentines",
-    "published": "2025-02-09T17:30:00.000Z"
   },
   {
     "site": "zartre.com",
@@ -76,12 +82,6 @@
     "title": "Tailwind CSS v4.0 ปล่อยออกมาแล้ว",
     "url": "https://boychawin.com/2025/01/24/tailwind-css-v4-0-new-features.html",
     "published": "2025-01-24T00:00:00.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0261 | เปิด ripe-atlas probe กันเถอะ",
-    "url": "https://www.icez.net/blog/167557/0261-%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94-ripe-atlas-probe-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%96%e0%b8%ad%e0%b8%b0",
-    "published": "2025-01-14T07:49:53.000Z"
   },
   {
     "site": "thanapon.info",
