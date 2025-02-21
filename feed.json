@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ Custom Fonts (เช่น ภาษาไทย) ใน jsPDF",
+    "url": "https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/",
+    "published": "2025-02-20T07:35:03.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณต้นทุนซื้อขายหลายไม้(ถัว)",
+    "url": "https://mymoneytoolkit.app/posts/caculate-cost",
+    "published": "2025-02-20T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองสร้าง MCP Server ด้วยภาษา Go เล่นกัน",
     "url": "https://www.somkiat.cc/mcp-server-with-go/",
     "published": "2025-02-18T16:52:38.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "อย่าล้อเล่นกับระบบ D-MyTax",
-    "url": "https://naiwaen.debuggingsoft.com/2025/02/do-not-you-dare-with-tax-system-d-mytax/",
-    "published": "2025-02-18T09:22:08.000Z"
   },
   {
     "site": "icez.net",
@@ -22,12 +28,6 @@
     "title": "Food Review - La Dotta",
     "url": "https://lucian.solutions/blog/foodreview-la-dotta",
     "published": "2025-02-18T05:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คำนวณขายขาดทุนแล้วต้องทำกำไรเท่าไหร่ถึงกลับมาเท่าทุน",
-    "url": "https://mymoneytoolkit.app/posts/recover-loss",
-    "published": "2025-02-18T00:00:00.000Z"
   },
   {
     "site": "amiearth.com",
