@@ -1,21 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Data Sci Boot Camp Batch#11 : Data Visualization",
+    "url": "https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/",
+    "published": "2025-02-22T11:20:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน MongoDB-RAG สำหรับการสร้าง RAG application อย่างง่าย",
-    "url": "https://www.somkiat.cc/hello-mongodb-rag/",
-    "published": "2025-02-21T15:31:28.000Z"
+    "title": "ใช้งาน OpenTelemetry ใน Deno 2.2 กัน",
+    "url": "https://www.somkiat.cc/opentelemetry-in-deno/",
+    "published": "2025-02-22T06:21:13.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using ZRAM for compressed RAM-backed swap space in Linux",
+    "url": "https://notes.dt.in.th/LinuxZram",
+    "published": "2025-02-22T00:00:00.000Z"
+  },
+  {
+    "site": "amiearth.com",
+    "title": "กำหนด primary key เป็นเลขล่าสุดทุก table",
+    "url": "https://amiearth.com/blog/postgres-defined-primary-key-latest",
+    "published": "2025-02-22T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "Android device ที่ใช้ได้บน Firebase Test Lab มีกี่รุ่นกันนะ?",
     "url": "https://www.mikkipastel.com/how-to-get-device-for-firebase-test-lab/",
     "published": "2025-02-21T03:00:31.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลองใช้ Custom Fonts (เช่น ภาษาไทย) ใน jsPDF",
-    "url": "https://naiwaen.debuggingsoft.com/2025/02/how-to-use-custom-fonts-such-as-thai-with-jspdf-thai-version/",
-    "published": "2025-02-20T07:35:03.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -34,18 +46,6 @@
     "title": "Food Review - La Dotta",
     "url": "https://lucian.solutions/blog/foodreview-la-dotta",
     "published": "2025-02-18T05:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "[💻] การเขียน Git Commit",
-    "url": "https://amiearth.com/blog/standard-commit-name-git",
-    "published": "2025-02-17T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Enabling access logging in Caddy",
-    "url": "https://notes.dt.in.th/CaddyAccessLogging",
-    "published": "2025-02-16T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
