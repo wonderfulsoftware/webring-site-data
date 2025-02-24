@@ -1,15 +1,21 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "ปฎิบัติการหนี WordPress ของนิล",
+    "url": "https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/",
+    "published": "2025-02-24T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11 : Data Visualization",
-    "url": "https://naiwaen.debuggingsoft.com/2025/02/data-sci-boot-camp-batch11-data-visualization/",
-    "published": "2025-02-22T11:20:00.000Z"
+    "title": "จดๆจาก Thailand Developer Day 2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/",
+    "published": "2025-02-23T10:28:00.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "ใช้งาน OpenTelemetry ใน Deno 2.2 กัน",
-    "url": "https://www.somkiat.cc/opentelemetry-in-deno/",
-    "published": "2025-02-22T06:21:13.000Z"
+    "title": "สรุปการอ่านบทความเรื่อง Scaling PayPay with Rust",
+    "url": "https://www.somkiat.cc/note-scaling-paypay-with-rust/",
+    "published": "2025-02-23T09:10:45.000Z"
   },
   {
     "site": "dt.in.th",
@@ -106,12 +112,6 @@
     "title": "Review: DeepLearning.AI Data Engineering Professional Certificate",
     "url": "https://yothinix.com/deeplearning-ai-data-engineering/",
     "published": "2024-12-31T05:04:49.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "2024 Year In Review",
-    "url": "https://blog.ninprd.com/blog/2024-year-in-review/",
-    "published": "2024-12-28T00:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
