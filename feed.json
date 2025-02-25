@@ -6,6 +6,12 @@
     "published": "2025-02-24T00:00:00.000Z"
   },
   {
+    "site": "amiearth.com",
+    "title": "Postgres Ignore Foreign Key",
+    "url": "https://amiearth.com/blog/postgres-ignore-foreign-key",
+    "published": "2025-02-24T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจาก Thailand Developer Day 2025",
     "url": "https://naiwaen.debuggingsoft.com/2025/02/recap-thailand-developer-day-2025/",
@@ -21,12 +27,6 @@
     "site": "dt.in.th",
     "title": "Using ZRAM for compressed RAM-backed swap space in Linux",
     "url": "https://notes.dt.in.th/LinuxZram",
-    "published": "2025-02-22T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "กำหนด primary key เป็นเลขล่าสุดทุก table",
-    "url": "https://amiearth.com/blog/postgres-defined-primary-key-latest",
     "published": "2025-02-22T00:00:00.000Z"
   },
   {
