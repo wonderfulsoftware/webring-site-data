@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ใช้งาน Gemini Code Assist ใน VS Code กัน",
+    "url": "https://www.somkiat.cc/hello-gemini-code-assist-in-vscode/",
+    "published": "2025-02-26T05:22:09.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "RMarkDown Common PDF Export Error",
     "url": "https://naiwaen.debuggingsoft.com/2025/02/rmarkdown-common-error-pdf-export/",
@@ -16,12 +22,6 @@
     "title": "ปฎิบัติการหนี WordPress ของนิล",
     "url": "https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/",
     "published": "2025-02-24T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปการอ่านบทความเรื่อง Scaling PayPay with Rust",
-    "url": "https://www.somkiat.cc/note-scaling-paypay-with-rust/",
-    "published": "2025-02-23T09:10:45.000Z"
   },
   {
     "site": "dt.in.th",
