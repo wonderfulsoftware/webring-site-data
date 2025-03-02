@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "บันทึกงาน Season of AI – Thailand | Season 3 – Best of AI at Ignite",
-    "url": "https://naiwaen.debuggingsoft.com/2025/02/recap-season-of-ai-thailand-2025-season-3-best-of-ai-at-ignite/",
-    "published": "2025-02-28T16:46:02.000Z"
+    "title": "Data Sci Boot Camp Batch#11: Essential Statistics #1",
+    "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part1/",
+    "published": "2025-03-01T23:45:00.000Z"
+  },
+  {
+    "site": "kusumotolab.com",
+    "title": "ลองใช้ Bigtable Server Stream ร่วมกับ Spring WebFlux พร้อมทำความเข้าใจ Backpressure ใน Project Reactor",
+    "url": "https://kusumotolab.com/trying-bigtable-server-stream-with-spring-webflux-and-understanding-backpressure-in-project-reactor/",
+    "published": "2025-03-01T15:28:30.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -130,12 +136,6 @@
     "title": "การเขียน Random in JavaScript อย่างง่ายๆ",
     "url": "https://thiti.dev/blog/106/",
     "published": "2024-12-14T04:00:00.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP4 : วันที่ 3",
-    "url": "https://kusumotolab.com/first-time-singapore-trip-ep-4/",
-    "published": "2024-12-08T11:24:09.000Z"
   },
   {
     "site": "ntsd.dev",
