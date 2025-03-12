@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Lynx",
+    "url": "https://www.somkiat.cc/hello-lynx/",
+    "published": "2025-03-11T15:57:46.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน .NET Developer Day 2025 – Bangkok @ Agoda",
-    "url": "https://naiwaen.debuggingsoft.com/2025/03/recap-dotnet-developer-day-2025-bangkok-at-agoda-ctw/",
-    "published": "2025-03-10T02:15:00.000Z"
+    "title": "Data Sci Boot Camp Batch#11: Essential Statistics #2 (Confidence Intervals)",
+    "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/",
+    "published": "2025-03-11T10:30:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -28,12 +34,6 @@
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP5 : วันที่ 4",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-5/",
     "published": "2025-03-03T16:49:59.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันเรื่อง การเขียน test",
-    "url": "https://www.somkiat.cc/developer-must-write-test/",
-    "published": "2025-03-03T09:05:55.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
