@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Data Sci Boot Camp Batch#11: Google Looker Studio",
+    "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/",
+    "published": "2025-03-12T22:09:13.000Z"
+  },
+  {
+    "site": "p4perf4ce.me",
+    "title": "ไม่ได้เขียนอะไรเลย 555",
+    "url": "https://p4perf4ce.me/articles/25/well-no",
+    "published": "2025-03-12T17:45:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทำความรู้จักกับ Lynx",
     "url": "https://www.somkiat.cc/hello-lynx/",
     "published": "2025-03-11T15:57:46.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11: Essential Statistics #2 (Confidence Intervals)",
-    "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-essential-statistics-part2/",
-    "published": "2025-03-11T10:30:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -292,12 +298,6 @@
     "title": "Build IMSI catcher with single computer and hackrf One",
     "url": "https://annibuliful-lab.dev/story/imsi-catcher",
     "published": "2023-12-13T00:00:00.000Z"
-  },
-  {
-    "site": "p4perf4ce.me",
-    "title": "New Blog | บ้านใหม่",
-    "url": "https://p4perf4ce.me/articles/23/new-home",
-    "published": "2023-12-02T21:27:00.000Z"
   },
   {
     "site": "guitarpawat.me",
