@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "การใช้งาน Data structure ใน Redis",
-    "url": "https://www.somkiat.cc/data-structure-with-redis/",
-    "published": "2025-03-14T06:17:52.000Z"
+    "title": "ปัญหาที่ควรระวังของ Share หรือ Reuse Service",
+    "url": "https://www.somkiat.cc/problems-from-shared-or-reuse-service/",
+    "published": "2025-03-15T07:01:39.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Google Sheet จำลองการเทรด ดูมูลค่าระหว่างการถือหุ้นย้อนหลัง",
+    "url": "https://mymoneytoolkit.app/posts/paper-trading",
+    "published": "2025-03-15T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -40,12 +46,6 @@
     "title": "ลองเที่ยว Singapore ครั้งแรก 4 วัน 3 คืน | EP5 : วันที่ 4",
     "url": "https://kusumotolab.com/first-time-singapore-trip-ep-5/",
     "published": "2025-03-03T16:49:59.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "[ชวนอ่าน] Laws of UX: ออกแบบ Digital Products ที่ผู้ใช้หลงรักด้วยหลักจิตวิทยา",
-    "url": "https://mymoneytoolkit.app/posts/laws-of-ux",
-    "published": "2025-03-03T00:00:00.000Z"
   },
   {
     "site": "llun.me",
@@ -349,8 +349,8 @@
   },
   {
     "site": "heyfirst.co",
-    "title": "micro-dollar: a way to deals with decimal numbers or monetary values",
-    "url": "https://heyfirst.co/blog/micro-dollar",
+    "title": "micro-dollar: a way to deals with decimal or monetary values",
+    "url": "https://heyfirst.co/posts/micro-dollar/",
     "published": "2023-02-07T00:00:00.000Z"
   },
   {
