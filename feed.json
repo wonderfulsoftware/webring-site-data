@@ -1,27 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Global AI Bootcamp Bangkok 2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/03/global-ai-bootcamp-bangkok-2025/",
+    "published": "2025-03-16T10:32:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ปัญหาที่ควรระวังของ Share หรือ Reuse Service",
-    "url": "https://www.somkiat.cc/problems-from-shared-or-reuse-service/",
-    "published": "2025-03-15T07:01:39.000Z"
+    "title": "บันทึกการอ่านเรื่อง How GitHub engineers learn new codebases",
+    "url": "https://www.somkiat.cc/note-from-how-github-engineers-learn-new-codebases/",
+    "published": "2025-03-16T05:31:40.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
-    "title": "Google Sheet จำลองการเทรด ดูมูลค่าระหว่างการถือหุ้นย้อนหลัง",
-    "url": "https://mymoneytoolkit.app/posts/paper-trading",
-    "published": "2025-03-15T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Data Sci Boot Camp Batch#11: Google Looker Studio",
-    "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-google-looker-studio/",
-    "published": "2025-03-13T22:09:13.000Z"
+    "title": "The Almanack Of Naval Ravikant ผลึกความคิดของชายผู้รักการอ่านที่มั่งคั่งและมีความสุข",
+    "url": "https://mymoneytoolkit.app/posts/the-almanack-of-naval-ravikant",
+    "published": "2025-03-16T00:00:00.000Z"
   },
   {
     "site": "p4perf4ce.me",
     "title": "ไม่ได้เขียนอะไรเลย 555",
     "url": "https://p4perf4ce.me/articles/25/well-no",
     "published": "2025-03-12T17:45:00.000Z"
+  },
+  {
+    "site": "heyfirst.co",
+    "title": "The interview insights",
+    "url": "https://heyfirst.co/posts/the-interview-insights/",
+    "published": "2025-03-11T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -346,12 +352,6 @@
     "title": "Tesla Thailand และ “กว่าจะส่งมอบ”",
     "url": "https://shayennn.com/tesla-thailand-delivery-process-so-suck/",
     "published": "2023-02-12T06:18:26.000Z"
-  },
-  {
-    "site": "heyfirst.co",
-    "title": "micro-dollar: a way to deals with decimal or monetary values",
-    "url": "https://heyfirst.co/posts/micro-dollar/",
-    "published": "2023-02-07T00:00:00.000Z"
   },
   {
     "site": "microbenz.in.th",
