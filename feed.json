@@ -1,5 +1,17 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "A web-based printing tool for Brother P-touch series label printers",
+    "url": "https://notes.dt.in.th/BrotherPTWebUSB",
+    "published": "2025-03-23T00:00:00.000Z"
+  },
+  {
+    "site": "amiearth.com",
+    "title": "เขียนโค้ดอย่างไรให้สะอาด (Clean Code) ใน JavaScript",
+    "url": "https://amiearth.com/blog/js-clean-code",
+    "published": "2025-03-23T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Data Sci Boot Camp Batch#11: Intro to Python",
     "url": "https://naiwaen.debuggingsoft.com/2025/03/data-sci-boot-camp-batch11-intro-to-python/",
@@ -60,22 +72,10 @@
     "published": "2025-03-02T20:03:41.000Z"
   },
   {
-    "site": "amiearth.com",
-    "title": "[🎙️] Recap Skoodio CEO Mfec",
-    "url": "https://amiearth.com/blog/recap-skoodio-ceo-mfec",
-    "published": "2025-02-25T00:00:00.000Z"
-  },
-  {
     "site": "blog.ninprd.com",
     "title": "ปฎิบัติการหนี WordPress ของนิล",
     "url": "https://blog.ninprd.com/blog/nin-mission-to-bye-bye-wordpress/",
     "published": "2025-02-24T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using ZRAM for compressed RAM-backed swap space in Linux",
-    "url": "https://notes.dt.in.th/LinuxZram",
-    "published": "2025-02-22T00:00:00.000Z"
   },
   {
     "site": "icez.net",
