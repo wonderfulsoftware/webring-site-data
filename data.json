@@ -364,7 +364,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2025-03-23T01:25:41.657Z"
+    "lastUpdated": "2025-03-24T18:46:20.523Z",
+    "number": 23
   },
   "doopdip.me": {
     "url": "https://doopdip.me",
@@ -2041,5 +2042,18 @@
     },
     "lastUpdated": "2025-03-24T01:51:27.098Z",
     "number": 122
+  },
+  "wagyu.space": {
+    "url": "https://wagyu.space",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wagyu.space_375w@2x.png",
+    "blurhash": "v2S~x500Rj?b0000j[%LD%D%WBxu~qazxuax?b-;%Mj]WA-:-;a#9F%M%Mt7",
+    "screenshotUpdatedAt": "2025-03-24T18:46:26.116Z",
+    "description": null,
+    "backlink": {
+      "rect": "32:17:333:612",
+      "href": "https://webring.wonderful.software#wagyu.space"
+    },
+    "lastUpdated": "2025-03-24T18:46:26.116Z",
+    "number": 124
   }
 }
