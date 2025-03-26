@@ -1,5 +1,11 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript",
+    "url": "https://amiearth.com/blog/js-solid",
+    "published": "2025-03-25T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Katsu Kitchen Pork Loin Katsu Set",
     "url": "https://naiwaen.debuggingsoft.com/2025/03/cr-katsu-kitchen-pork-loin-katsu-set/",
@@ -9,12 +15,6 @@
     "site": "dt.in.th",
     "title": "A web-based printing tool for Brother P-touch series label printers",
     "url": "https://notes.dt.in.th/BrotherPTWebUSB",
-    "published": "2025-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "เขียนโค้ดอย่างไรให้สะอาด (Clean Code) ใน JavaScript",
-    "url": "https://amiearth.com/blog/js-clean-code",
     "published": "2025-03-23T00:00:00.000Z"
   },
   {
