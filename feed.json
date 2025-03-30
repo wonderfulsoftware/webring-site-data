@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทาง Microsoft ปล่อย Playwright MCP server ออกมาแล้ว",
+    "url": "https://www.somkiat.cc/playwright-mcp-server-from-microsoft/",
+    "published": "2025-03-29T09:27:55.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "บันทึกไว้ก่อน แผ่นดินไหวทางโน้นสะเทือนถึง กทม 28-03-2568",
+    "url": "https://naiwaen.debuggingsoft.com/2025/03/bkk-earthquake-impact-28-mar-2025/",
+    "published": "2025-03-29T05:11:52.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025",
     "url": "https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/",
     "published": "2025-03-28T02:16:41.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ฮาวทู numpy",
-    "url": "https://naiwaen.debuggingsoft.com/2025/03/how-to-numpy/",
-    "published": "2025-03-27T15:14:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -22,12 +28,6 @@
     "title": "Google sheet ติดตามหุ้น Leveraged ETF / Inverse ETF",
     "url": "https://mymoneytoolkit.app/posts/leveraged-etf-chart",
     "published": "2025-03-27T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สรุปจากบทความเรื่อง Why I’m No Longer Talking to Architects About Microservices",
-    "url": "https://www.somkiat.cc/note-deom-why-im-no-longer-talking-to-architects-about-microservices/",
-    "published": "2025-03-26T12:34:08.000Z"
   },
   {
     "site": "amiearth.com",
