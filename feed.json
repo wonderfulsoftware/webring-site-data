@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "How to Fixed IP in Synology NAS",
-    "url": "https://naiwaen.debuggingsoft.com/2025/04/how-to-fixed-ip-in-synology-nas/",
-    "published": "2025-04-03T01:30:00.000Z"
+    "title": "Data Sci Boot Camp Batch#11: Python for Data Analyst",
+    "url": "https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst/",
+    "published": "2025-04-05T01:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Google Sheet บันทึกจ่ายปันผล",
+    "url": "https://mymoneytoolkit.app/posts/dividend-tracker",
+    "published": "2025-04-05T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -21,12 +27,6 @@
     "site": "dt.in.th",
     "title": "Random mnemonic code generator based on SLIP39 wordlist",
     "url": "https://notes.dt.in.th/Slip39Wordlist",
-    "published": "2025-03-27T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Google sheet ติดตามหุ้น Leveraged ETF / Inverse ETF",
-    "url": "https://mymoneytoolkit.app/posts/leveraged-etf-chart",
     "published": "2025-03-27T00:00:00.000Z"
   },
   {
