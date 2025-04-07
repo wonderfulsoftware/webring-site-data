@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจใน Technology Radar 2025 Volume 32",
+    "url": "https://www.somkiat.cc/technology-radar-2025-volume-32/",
+    "published": "2025-04-06T04:16:10.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Data Sci Boot Camp Batch#11: Python for Data Analyst 2",
     "url": "https://naiwaen.debuggingsoft.com/2025/04/data-sci-boot-camp-batch11-python-for-data-analyst-2/",
@@ -10,12 +16,6 @@
     "title": "Google Sheet บันทึกจ่ายปันผล",
     "url": "https://mymoneytoolkit.app/posts/dividend-tracker",
     "published": "2025-04-05T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาทำการ review Distributed Monolith กันหน่อย",
-    "url": "https://www.somkiat.cc/review-distributed-monolith/",
-    "published": "2025-04-01T15:15:14.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -303,7 +303,7 @@
     "site": "annibuliful-lab.dev",
     "title": "Build IMSI catcher with single computer and hackrf One",
     "url": "https://annibuliful-lab.dev/story/imsi-catcher",
-    "published": "2023-12-13T00:00:00.000Z"
+    "published": "2023-12-12T17:00:00.000Z"
   },
   {
     "site": "guitarpawat.me",
