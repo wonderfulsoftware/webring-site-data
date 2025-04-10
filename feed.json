@@ -1,15 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Local-first software development",
+    "url": "https://www.somkiat.cc/local-first-software-development/",
+    "published": "2025-04-09T14:48:23.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ตั้งค่า Synology NAS กับ Cloudflare tunnel",
     "url": "https://naiwaen.debuggingsoft.com/2025/04/cloudflare-tunnels-setup-on-synology-nas-th/",
     "published": "2025-04-08T12:04:51.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจใน Technology Radar 2025 Volume 32",
-    "url": "https://www.somkiat.cc/technology-radar-2025-volume-32/",
-    "published": "2025-04-06T04:16:10.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
