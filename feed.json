@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Local-first software development",
-    "url": "https://www.somkiat.cc/local-first-software-development/",
-    "published": "2025-04-09T14:48:23.000Z"
+    "title": "Apache Kafka 4.0 ออกมาแล้ว",
+    "url": "https://www.somkiat.cc/apache-kafka-4/",
+    "published": "2025-04-10T17:58:59.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "นั่งอยู่บ้านฟังงาน TUXSA Open house 2025 ได้ความรู้อะไรกลับมาบ้าง",
+    "url": "https://www.mikkipastel.com/tuxsa-open-house-2025/",
+    "published": "2025-04-10T14:04:26.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +22,6 @@
     "title": "Google Sheet บันทึกจ่ายปันผล",
     "url": "https://mymoneytoolkit.app/posts/dividend-tracker",
     "published": "2025-04-05T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สาวสายเทคพูดอะไรกันในงาน Technologista: International Women’s Day Bangkok 2025",
-    "url": "https://www.mikkipastel.com/technologista-international-womens-day-bangkok-2025/",
-    "published": "2025-03-28T02:16:41.000Z"
   },
   {
     "site": "dt.in.th",
