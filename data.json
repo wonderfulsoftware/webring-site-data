@@ -284,14 +284,15 @@
   "poolsawat.com": {
     "url": "https://www.poolsawat.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/poolsawat.com_375w@2x.png",
-    "blurhash": "viOgc[Rks:xa~qs.tQR+00jsoLa#o~Rkbbt6IUs.jsR+IVaykCoMNHWCj[of",
-    "screenshotUpdatedAt": "2025-04-15T01:30:43.235Z",
+    "blurhash": "vsP%V2ayjFj[~qj[t7fQ4.j[jZfQ-;ayWBjsNGfRayfRs.j[bHa|oeayWBay",
+    "screenshotUpdatedAt": "2025-04-16T21:12:04.653Z",
     "description": "<strong>Gunicorn (Green Unicorn)</strong> คือ HTTP server ที่รองรับ WSGI (Web Server Gateway Interface) สำหรับภาษา Python โดยออกแบบมาเพื่อรันแอพพลิเคชันเว็บที่ใช้ Python เช่น Flask, Django, Pyramid และอื่น ๆ อีกมากมาย",
     "backlink": {
-      "rect": "32:21:171.5:16605.96875",
+      "rect": "32:21:171.5:15869.875",
       "href": "https://webring.wonderful.software#poolsawat.com"
     },
-    "lastUpdated": "2025-04-15T01:30:43.235Z"
+    "lastUpdated": "2025-04-16T21:12:04.653Z",
+    "number": 45
   },
   "mymintrabbit.com": {
     "url": "http://www.mymintrabbit.com",
@@ -671,14 +672,15 @@
   "khong.xyz": {
     "url": "https://khong.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/khong.xyz_375w@2x.png",
-    "blurhash": "v25qnz?J9]E0SwRisTaf0dRz,:$+=gxvS~NY]pajOFS1BgX2wIs=56R%s,oe",
-    "screenshotUpdatedAt": "2025-04-15T01:30:20.223Z",
+    "blurhash": "v15qny~E5R9YO8M_r?af0JNC=F-D}I%4OrNF|}aRK5NZ32X1#RxJ0eR$xFs.",
+    "screenshotUpdatedAt": "2025-04-16T21:11:50.925Z",
     "description": "A fullstack webdev with fiery passion to learn and innovate.",
     "backlink": {
       "rect": "66:66:154.5:3393.328125",
       "href": "https://webring.wonderful.software#khong.xyz"
     },
-    "lastUpdated": "2025-04-15T01:30:20.223Z"
+    "lastUpdated": "2025-04-16T21:11:50.925Z",
+    "number": 44
   },
   "varkaria.tech": {
     "url": "https://varkaria.tech",
@@ -739,16 +741,21 @@
       "rect": "32:21:16:807.484375",
       "href": "https://webring.wonderful.software#supavitk.com"
     },
-    "lastUpdated": "2025-04-15T01:30:50.527Z"
+    "lastUpdated": "2025-04-16T21:12:11.587Z",
+    "number": 46
   },
   "dmg.st": {
     "url": "https://dmg.st",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/dmg.st_375w@2x.png",
-    "blurhash": "vUNwm0kXZ~RO00tSM_M_4otQRjRQ?Gn#WFS5~pn$RkWYyDo}V@V?EOkXjDV?",
-    "screenshotUpdatedAt": "2025-04-15T01:30:59.295Z",
-    "description": null,
-    "backlink": null,
-    "lastUpdated": "2025-04-15T01:30:59.295Z"
+    "blurhash": "v48hjw_30JIU~X?bRPD%4T?b_3IUIU%M.7M{^S%MMyRj_Mt7E0WB.QWBIoWB",
+    "screenshotUpdatedAt": "2025-04-16T21:12:26.423Z",
+    "description": "DAMRONGSAK SATTABUT",
+    "backlink": {
+      "rect": "51:51:30:3612.796875",
+      "href": "https://webring.wonderful.software/#dmg.st"
+    },
+    "lastUpdated": "2025-04-16T21:12:26.423Z",
+    "number": 47
   },
   "yume-dev.me": {
     "url": "https://yume-dev.me",
@@ -2059,5 +2066,18 @@
     },
     "lastUpdated": "2025-04-16T20:13:51.432Z",
     "number": 125
+  },
+  "qwrtsdev.xyz": {
+    "url": "https://qwrtsdev.xyz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/qwrtsdev.xyz_375w@2x.png",
+    "blurhash": "vGR{#@j[xuoft7fQj[fQ~qj[M{ayRjj[ayj[9Fayofj[xtayayay%MfQj[ay",
+    "screenshotUpdatedAt": "2025-04-16T21:13:55.695Z",
+    "description": "A passionate programmer and graphic designer. Who wants to create well-crafted softwares that seamlessly blends functionality with aesthetics.",
+    "backlink": {
+      "rect": "26:18:279.5:3547.4375",
+      "href": "https://webring.wonderful.software/#qwrtsdev.xyz"
+    },
+    "lastUpdated": "2025-04-16T21:13:55.695Z",
+    "number": 126
   }
 }
