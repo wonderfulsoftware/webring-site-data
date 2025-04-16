@@ -1,15 +1,21 @@
 [
   {
-    "site": "debuggingsoft.com",
-    "title": "[CR] 711 x เนื้อแท้ เนื้อย่างซอสแจ่วชีสโทสต์แซนวิช",
-    "url": "https://naiwaen.debuggingsoft.com/2025/04/cr-711_nuatair_sandwich_thai_spicy-_dipping_sauce/",
-    "published": "2025-04-14T10:28:02.000Z"
+    "site": "somkiat.cc",
+    "title": "Vibe coding คืออะไร",
+    "url": "https://www.somkiat.cc/what-vibe-coding/",
+    "published": "2025-04-16T11:38:30.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันเรื่องการจัดการข้อมูลใน PostgreSQL database",
-    "url": "https://www.somkiat.cc/sharing-basic-postgresql/",
-    "published": "2025-04-14T05:23:49.000Z"
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Mixed Berry Greek Yoghurt",
+    "url": "https://naiwaen.debuggingsoft.com/2025/04/cr-starbucks-mixed-berry-greek-yoghurt/",
+    "published": "2025-04-16T04:38:30.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "WASM FFI performance benchmark",
+    "url": "https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/",
+    "published": "2025-04-15T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -46,12 +52,6 @@
     "title": "The interview insights",
     "url": "https://heyfirst.co/posts/the-interview-insights/",
     "published": "2025-03-11T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "WASM deployment benchmark",
-    "url": "https://karnwong.me/posts/2025/03/wasm-deployment-benchmark/",
-    "published": "2025-03-10T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
