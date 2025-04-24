@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน K6 Studio กันหน่อย",
+    "url": "https://www.somkiat.cc/hello-k6-studio/",
+    "published": "2025-04-23T13:47:48.000Z"
+  },
+  {
+    "site": "lucian.solutions",
+    "title": "Acrylic Stand - Stargazer 2025 🌃",
+    "url": "https://lucian.solutions/blog/stargazer-2025-acrylic-stand",
+    "published": "2025-04-23T04:20:00.000Z"
+  },
+  {
+    "site": "janescience.com",
+    "title": "สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script",
+    "url": "https://janescience.com/blog/lineoa-orders-html-gas",
+    "published": "2025-04-22T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจากงาน Season of AI – Thailand | Season 4 – Season of Agents",
     "url": "https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/",
@@ -16,12 +34,6 @@
     "title": "How Prime Numbers are the Building Blocks of Numbers",
     "url": "https://blog.zartre.com/2025/how-prime-numbers-are-the-building-blocks-of-numbers/",
     "published": "2025-04-18T15:35:15.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Vibe coding คืออะไร",
-    "url": "https://www.somkiat.cc/what-vibe-coding/",
-    "published": "2025-04-16T11:38:30.000Z"
   },
   {
     "site": "karnwong.me",
@@ -58,12 +70,6 @@
     "title": "The interview insights",
     "url": "https://heyfirst.co/posts/the-interview-insights/",
     "published": "2025-03-11T00:00:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - サブリナ🍕",
-    "url": "https://lucian.solutions/blog/202503-sabrina",
-    "published": "2025-03-09T17:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
@@ -340,12 +346,6 @@
     "title": "Dear Security, be a part of the solution",
     "url": "https://chrisza.me/security-part-of-solution/",
     "published": "2023-02-25T17:00:00.000Z"
-  },
-  {
-    "site": "janescience.com",
-    "title": "ปัญหา Vue.js เรียก API แล้วค้างไปเลย บน Cloud Server ขึ้นสถานะ Pending ตลอด",
-    "url": "https://janescience.com/blog/vue-warning",
-    "published": "2023-02-24T00:00:00.000Z"
   },
   {
     "site": "shayennn.com",
