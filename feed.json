@@ -1,9 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาทดสอบ Mobile app ด้วย App Testing Agent ใน Firebase",
-    "url": "https://www.somkiat.cc/mobile-tesing-with-app-testing-agent-ai/",
-    "published": "2025-04-24T08:48:35.000Z"
+    "title": "มาลองใช้งาน MCP Toolbox for Databases จาก Google กัน",
+    "url": "https://www.somkiat.cc/mcp-toolbox-for-databases/",
+    "published": "2025-04-25T14:15:39.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว!",
+    "url": "https://www.mikkipastel.com/android-activity-lifecycle/",
+    "published": "2025-04-25T12:00:21.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "บางทีปัญหา No such file or directory / Private Key ใช้ไม่ได้ สรุปเกิดจากแค่เรื่อง CTRL-M (^M)",
+    "url": "https://naiwaen.debuggingsoft.com/2025/04/ctrl-m-characters-from-a-file-in-linux-cause-bash-problem-such-as-no-such-file-or-directory-or-private-key-not-working/",
+    "published": "2025-04-25T03:50:30.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -16,18 +28,6 @@
     "title": "สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script",
     "url": "https://janescience.com/blog/lineoa-orders-html-gas",
     "published": "2025-04-22T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน Season of AI – Thailand | Season 4 – Season of Agents",
-    "url": "https://naiwaen.debuggingsoft.com/2025/04/season-of-ai-thailand-season-4-season-of-agents/",
-    "published": "2025-04-20T12:15:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มา sit-in ค่าย iCreator Camp 2025 วันแรก Storytelling & Creativity",
-    "url": "https://www.mikkipastel.com/icreator-camp-2025-week1-storytelling-and-creativity/",
-    "published": "2025-04-20T11:46:52.000Z"
   },
   {
     "site": "zartre.com",
