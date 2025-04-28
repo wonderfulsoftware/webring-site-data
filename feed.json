@@ -1,21 +1,27 @@
 [
   {
+    "site": "wawasabii.com",
+    "title": "สรุปเรากินชาไทยได้วันละกี่แก้ว? จากผลทดสอบสีในชาไทย 15 แบรนด์",
+    "url": "https://wawasabii.com/blog/how-many-thai-tea-safe-sunset-yellow/",
+    "published": "2025-04-27T17:10:05.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ทำการบันทึกการแบ่งปันเรื่องการพัฒนา RESTful API",
+    "url": "https://www.somkiat.cc/sharing-restful-api-development/",
+    "published": "2025-04-27T03:44:44.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable”",
+    "url": "https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/",
+    "published": "2025-04-27T02:38:41.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Burger King คิงบ๊อกซ์ + บ่น",
     "url": "https://naiwaen.debuggingsoft.com/2025/04/cr-burger-king-kingbox2025/",
     "published": "2025-04-26T05:36:32.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน MCP Toolbox for Databases จาก Google กัน",
-    "url": "https://www.somkiat.cc/mcp-toolbox-for-databases/",
-    "published": "2025-04-25T14:15:39.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทำความเข้าใจ Activity Lifecycle ง่ายนิดเดียว!",
-    "url": "https://www.mikkipastel.com/android-activity-lifecycle/",
-    "published": "2025-04-25T12:00:21.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -220,12 +226,6 @@
     "title": "สรุปจากงาน Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.)",
     "url": "https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/",
     "published": "2024-08-20T15:05:18.000Z"
-  },
-  {
-    "site": "wawasabii.com",
-    "title": "สรุปงาน NEW GEN INVESTOR 20+ รวยได้จริง? พร้อมแจกตารางรวย",
-    "url": "https://wawasabii.com/blog/new-gen-investor-event-summary/",
-    "published": "2024-08-02T12:13:02.000Z"
   },
   {
     "site": "punn.dev",
