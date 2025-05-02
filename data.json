@@ -343,7 +343,8 @@
       "rect": "32:96:318.59375:0",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2025-04-29T01:24:36.561Z"
+    "lastUpdated": "2025-05-02T11:01:21.485Z",
+    "number": 22
   },
   "www.varokas.com": {
     "url": "https://www.varokas.com",
@@ -786,7 +787,8 @@
       "rect": null,
       "href": "https://webring.wonderful.software#naiwaen.debuggingsoft.com"
     },
-    "lastUpdated": "2025-05-01T01:39:59.988Z"
+    "lastUpdated": "2025-05-02T11:01:37.405Z",
+    "number": 48
   },
   "natdanai.me": {
     "url": "https://natdanai.me",
@@ -2083,5 +2085,18 @@
     },
     "lastUpdated": "2025-05-02T01:46:26.705Z",
     "number": 126
+  },
+  "papazeal.com": {
+    "url": "https://papazeal.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/papazeal.com_375w@2x.png",
+    "blurhash": "v1S$oy000000?s--x[x[~n?Zxv-:.7%Mt8WGIIRVs-M|^~-,ovM|~b?OV;IT",
+    "screenshotUpdatedAt": "2025-05-02T11:01:41.354Z",
+    "description": "Development playground by Nutrawee Nimitrungtavee (Zeal), featuring web application, tools, games and more.",
+    "backlink": {
+      "rect": "32:17:8:987.5",
+      "href": "https://webring.wonderful.software#papazeal.com"
+    },
+    "lastUpdated": "2025-05-02T11:01:41.354Z",
+    "number": 127
   }
 }

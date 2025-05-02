@@ -1,5 +1,11 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "Hono ใช้กับ D1 Database ของ Cloudflare",
+    "url": "https://amiearth.com/blog/hono-d1",
+    "published": "2025-05-02T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "อยู่ๆ Test Report จาก dotnet test ก็หาย",
     "url": "https://naiwaen.debuggingsoft.com/2025/05/dotnet-test-failed-but-test-report-show-all-pass/",
@@ -64,12 +70,6 @@
     "title": "Random mnemonic code generator based on SLIP39 wordlist",
     "url": "https://notes.dt.in.th/Slip39Wordlist",
     "published": "2025-03-27T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "เขียนโค้ดด้วยหลักการ SOLID ด้วย JavaScript",
-    "url": "https://amiearth.com/blog/js-solid",
-    "published": "2025-03-25T00:00:00.000Z"
   },
   {
     "site": "p4perf4ce.me",
