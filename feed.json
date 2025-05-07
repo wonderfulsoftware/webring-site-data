@@ -1,15 +1,27 @@
 [
   {
-    "site": "debuggingsoft.com",
-    "title": "Spring Test Error java.lang.ClassNotFoundException: org.junit.platform.engine.reporting.OutputDirectoryProvider",
-    "url": "https://naiwaen.debuggingsoft.com/2025/05/spring-test-error-java-lang-classnotfoundexception-org-junit-platform-engine-reporting-outputdirectoryprovider/",
-    "published": "2025-05-05T04:41:56.000Z"
+    "site": "lucian.solutions",
+    "title": "Illustration - Pinky",
+    "url": "https://lucian.solutions/blog/202505-pinky",
+    "published": "2025-05-06T17:00:00.000Z"
+  },
+  {
+    "site": "annibuliful-lab.dev",
+    "title": "หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี",
+    "url": "https://annibuliful-lab.dev/story/software-to-cybersec",
+    "published": "2025-05-06T17:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "มาใช้งาน Docker MCP Catalog และ Toolkit กัน",
-    "url": "https://www.somkiat.cc/docker-mcp-catalog-and-toolkit/",
-    "published": "2025-05-04T16:00:29.000Z"
+    "title": "OpenTelemetry :: เรื่อง auto instrumentation สำหรับภาษา Go",
+    "url": "https://www.somkiat.cc/opentelemetry-go-auto-instrumentation/",
+    "published": "2025-05-06T06:43:01.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง",
+    "url": "https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/",
+    "published": "2025-05-06T03:55:14.000Z"
   },
   {
     "site": "amiearth.com",
@@ -40,12 +52,6 @@
     "title": "สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable”",
     "url": "https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/",
     "published": "2025-04-27T02:38:41.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Acrylic Stand - Stargazer 2025 🌃",
-    "url": "https://lucian.solutions/blog/stargazer-2025-acrylic-stand",
-    "published": "2025-04-23T04:20:00.000Z"
   },
   {
     "site": "janescience.com",
@@ -304,12 +310,6 @@
     "title": "Generating TypeScript types for Rust enums",
     "url": "https://poom.dev/generating-typescript-types-for-rust-enums/",
     "published": "2024-01-03T18:26:01.000Z"
-  },
-  {
-    "site": "annibuliful-lab.dev",
-    "title": "Build IMSI catcher with single computer and hackrf One",
-    "url": "https://annibuliful-lab.dev/story/imsi-catcher",
-    "published": "2023-12-12T17:00:00.000Z"
   },
   {
     "site": "guitarpawat.me",
