@@ -1,5 +1,17 @@
 [
   {
+    "site": "myifew.com",
+    "title": "วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40)",
+    "url": "https://myifew.com/6599/my40/",
+    "published": "2025-05-08T17:20:52.000Z"
+  },
+  {
+    "site": "anewlife.dev",
+    "title": "Safe Application Scaling with Graceful Shutdown",
+    "url": "https://www.anewlife.dev/post/graceful-shutdown-technique/",
+    "published": "2025-05-08T10:37:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทำความรู้จักกับ Redis Vector Sets ใน Redis 8",
     "url": "https://www.somkiat.cc/redis-vector-sets-in-redis-8/",
@@ -222,12 +234,6 @@
     "published": "2024-08-25T00:00:00.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "ดราม่าปิดเขาแหลม",
-    "url": "https://myifew.com/6575/khao-leam-closed/",
-    "published": "2024-08-22T04:22:48.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "สรุปจากงาน Google I/O Connect Beijing 2024 และ GDE Summit (Thai ver.)",
     "url": "https://mesodiar.com/2024/08/20/google-io-connect-beijing-2024-gde-summit/",
@@ -292,12 +298,6 @@
     "title": "Integrating EDA with Legacy systems",
     "url": "https://www.boonsong.dev/integrating-eda-with-legacy-systems",
     "published": "2024-04-22T06:57:51.767Z"
-  },
-  {
-    "site": "anewlife.dev",
-    "title": "ลองใช้ GCP RuntimeConfig",
-    "url": "https://www.anewlife.dev/post/try-gcp-runtimeconfig/",
-    "published": "2024-02-28T17:00:00.000Z"
   },
   {
     "site": "nitpum.com",
