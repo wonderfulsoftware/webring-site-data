@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow",
+    "url": "https://www.somkiat.cc/generate-document-from-code-with-pocketflow/",
+    "published": "2025-05-09T13:30:38.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำ feature scan QR code บน Android app อย่างง่าย ด้วย ML Kit",
+    "url": "https://www.mikkipastel.com/feature-scan-qr-code-android-app-ml-kit/",
+    "published": "2025-05-09T04:31:41.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Installing Google Cloud CLI on GitHub Codespaces",
+    "url": "https://notes.dt.in.th/InstallGcloudCliOnCodespaces",
+    "published": "2025-05-09T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40)",
     "url": "https://myifew.com/6599/my40/",
@@ -10,12 +28,6 @@
     "title": "Safe Application Scaling with Graceful Shutdown",
     "url": "https://www.anewlife.dev/post/graceful-shutdown-technique/",
     "published": "2025-05-08T10:37:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Redis Vector Sets ใน Redis 8",
-    "url": "https://www.somkiat.cc/redis-vector-sets-in-redis-8/",
-    "published": "2025-05-07T09:20:46.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -60,12 +72,6 @@
     "published": "2025-04-27T17:10:05.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "สรุป “Design Tokens ฉบับสามัญชน: ว่าด้วยการจัดการสีด้วย Figma Variable”",
-    "url": "https://www.mikkipastel.com/friend-of-figma-design-tokens-made-simple-coloring-with-variables-design-tokens/",
-    "published": "2025-04-27T02:38:41.000Z"
-  },
-  {
     "site": "janescience.com",
     "title": "สร้างระบบสั่งสินค้าผ่าน LINE OA ฟรี! ใช้แค่ HTML + Google Sheet + Google Apps Script",
     "url": "https://janescience.com/blog/lineoa-orders-html-gas",
@@ -82,12 +88,6 @@
     "title": "WASM FFI performance benchmark",
     "url": "https://karnwong.me/posts/2025/04/wasm-ffi-performance-benchmark/",
     "published": "2025-04-15T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Random mnemonic code generator based on SLIP39 wordlist",
-    "url": "https://notes.dt.in.th/Slip39Wordlist",
-    "published": "2025-03-27T00:00:00.000Z"
   },
   {
     "site": "p4perf4ce.me",
