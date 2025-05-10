@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Chicken Club Sandwich",
+    "url": "https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-chicken-club-sandwich/",
+    "published": "2025-05-10T06:52:13.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "ว่าง ๆ ลองสร้างเอกสารจาก code กันดู ด้วย Pocket Flow",
-    "url": "https://www.somkiat.cc/generate-document-from-code-with-pocketflow/",
-    "published": "2025-05-09T13:30:38.000Z"
+    "title": "มาสักทีกับ Grafana K6 version 1.0",
+    "url": "https://www.somkiat.cc/grafana-k6-version-1/",
+    "published": "2025-05-10T04:46:08.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -40,12 +46,6 @@
     "title": "หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี",
     "url": "https://annibuliful-lab.dev/story/software-to-cybersec",
     "published": "2025-05-06T17:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เวลามี Merge Request / Pull Request มีแนวทางการตรวจยังไง",
-    "url": "https://naiwaen.debuggingsoft.com/2025/05/when-there-is-a-merge-request-or-pull-request-what-approach-should-be-used-to-review-it-thai/",
-    "published": "2025-05-06T03:55:14.000Z"
   },
   {
     "site": "amiearth.com",
