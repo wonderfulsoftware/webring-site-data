@@ -2245,5 +2245,19 @@
     "lastUpdated": "2025-05-19T01:28:12.182Z",
     "owner": "chompukyrc",
     "number": 129
+  },
+  "supakorn.info": {
+    "url": "https://supakorn.info",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/supakorn.info_375w@2x.png",
+    "blurhash": "v6SY]hD%-=xut7t7RkMyx^WCWBt7~qa}IUofM{jsWBof-;ofRjj@%MaeWDoy",
+    "screenshotUpdatedAt": "2025-05-19T17:07:17.974Z",
+    "description": "My portfolio website",
+    "backlink": {
+      "rect": "32:32:295:1413",
+      "href": "https://webring.wonderful.software#supakorn.info"
+    },
+    "lastUpdated": "2025-05-19T17:07:17.974Z",
+    "number": 130,
+    "owner": "Supakornn"
   }
 }
