@@ -6,6 +6,12 @@
     "published": "2025-05-19T00:00:00.000Z"
   },
   {
+    "site": "sujamess.com",
+    "title": "[Eng] Distributed Scheduler The Series: Episode 0 — From Zero to Orchestrator",
+    "url": "https://sujamess.com/blogs/20250519-from-zero-to-orchestrator-the-series-ep-0/",
+    "published": "2025-05-19T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "มาอัพสกิลกับหลักสูตร AI Skills for Everyone",
     "url": "https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/",
@@ -250,12 +256,6 @@
     "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
     "url": "https://tinarskii.com/articles/shit8/",
     "published": "2024-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "sujamess.com",
-    "title": "ใช้ React Compiler คู่กับ Next.js กัน",
-    "url": "https://sujamess.com/blog/20240522-nextjs-with-react-compiler",
-    "published": "2024-05-22T00:00:00.000Z"
   },
   {
     "site": "thammarith.dev",
