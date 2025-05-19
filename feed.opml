@@ -27,11 +27,9 @@
       <outline text="mikkipastel.com" title="mikkipastel.com" type="rss" xmlUrl="https://www.mikkipastel.com/rss/" htmlUrl="https://www.mikkipastel.com"/>
       <outline text="ntsd.dev" title="ntsd.dev" type="rss" xmlUrl="https://ntsd.dev/feed.xml" htmlUrl="https://ntsd.dev"/>
       <outline text="pontakorn.dev" title="pontakorn.dev" type="rss" xmlUrl="https://pontakorn.dev/rss.xml" htmlUrl="https://pontakorn.dev"/>
-      <outline text="heyfirst.co" title="heyfirst.co" type="rss" xmlUrl="https://heyfirst.co/rss.xml" htmlUrl="https://heyfirst.co"/>
       <outline text="llun.me" title="llun.me" type="rss" xmlUrl="https://www.llun.me/feeds/atom.xml" htmlUrl="https://www.llun.me"/>
       <outline text="t6tg.com" title="t6tg.com" type="rss" xmlUrl="https://t6tg.com/rss.xml" htmlUrl="https://t6tg.com"/>
       <outline text="thanapon.info" title="thanapon.info" type="rss" xmlUrl="https://thanapon.info/feed/" htmlUrl="https://thanapon.info"/>
-      <outline text="suam.wtf" title="suam.wtf" type="rss" xmlUrl="https://suam.wtf/index.xml" htmlUrl="https://suam.wtf"/>
       <outline text="blog.oatto.dev" title="blog.oatto.dev" type="rss" xmlUrl="https://blog.oatto.dev/feed.xml" htmlUrl="https://blog.oatto.dev"/>
       <outline text="toupawa.com" title="toupawa.com" type="rss" xmlUrl="https://toupawa.com/rss/" htmlUrl="https://toupawa.com"/>
       <outline text="karnwong.me" title="karnwong.me" type="rss" xmlUrl="https://karnwong.me/posts/rss.xml" htmlUrl="https://karnwong.me"/>
@@ -55,7 +53,6 @@
       <outline text="lucian.solutions" title="lucian.solutions" type="rss" xmlUrl="https://lucian.solutions/rss/?section=blog" htmlUrl="https://lucian.solutions"/>
       <outline text="poom.dev" title="poom.dev" type="rss" xmlUrl="https://poom.dev/rss.xml" htmlUrl="https://poom.dev"/>
       <outline text="kajame.xyz" title="kajame.xyz" type="rss" xmlUrl="https://www.kajame.xyz/feed.xml" htmlUrl="https://kajame.xyz"/>
-      <outline text="0xchai.io" title="0xchai.io" type="rss" xmlUrl="https://0xchai.io/feed.xml" htmlUrl="https://0xchai.io"/>
       <outline text="janescience.com" title="janescience.com" type="rss" xmlUrl="https://janescience.com/feed.xml" htmlUrl="https://janescience.com"/>
       <outline text="taoisaman.com" title="taoisaman.com" type="rss" xmlUrl="https://taoisaman.com/feed.xml" htmlUrl="https://taoisaman.com"/>
       <outline text="yuttakhanb.dev" title="yuttakhanb.dev" type="rss" xmlUrl="https://yuttakhanb.dev/rss.xml" htmlUrl="https://yuttakhanb.dev/"/>
@@ -75,7 +72,6 @@
       <outline text="zartre.com" title="zartre.com" type="rss" xmlUrl="https://blog.zartre.com/feed" htmlUrl="https://zartre.com"/>
       <outline text="mymoneytoolkit.app" title="mymoneytoolkit.app" type="rss" xmlUrl="https://mymoneytoolkit.app/feed.xml" htmlUrl="https://mymoneytoolkit.app"/>
       <outline text="betich.me" title="betich.me" type="rss" xmlUrl="https://betich.me/feed.xml" htmlUrl="https://betich.me"/>
-      <outline text="boychawin.com" title="boychawin.com" type="rss" xmlUrl="https://boychawin.com/feed.xml" htmlUrl="https://boychawin.com"/>
       <outline text="blog.nattp.page" title="blog.nattp.page" type="rss" xmlUrl="https://blog.nattp.page/rss.xml" htmlUrl="https://blog.nattp.page"/>
       <outline text="amiearth.com" title="amiearth.com" type="rss" xmlUrl="https://www.amiearth.com/feed.xml" htmlUrl="https://amiearth.com"/>
     </outline>
