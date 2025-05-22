@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Microsoft Foundry Local สำหรับ run Local LLM",
+    "url": "https://www.somkiat.cc/microsoft-foundry-local/",
+    "published": "2025-05-21T15:39:15.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Gemini 2.5 Pro Text-to-Speech Thai Voice Previews",
+    "url": "https://notes.dt.in.th/Gemini25ProPreviewTTSThai",
+    "published": "2025-05-21T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Lychee Osmanthus Garden Tea",
     "url": "https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-lychee-osmanthus-garden-tea/",
@@ -28,18 +40,6 @@
     "title": "พัฒนาการของเด็กในแต่ละช่วงวัย",
     "url": "https://thiti.dev/blog/z1/",
     "published": "2025-05-16T11:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Running Grist with Google Sign-In and External Storage on Docker Compose",
-    "url": "https://notes.dt.in.th/GristDockerCompose",
-    "published": "2025-05-16T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกแนวทางการทดสอบ AWS Serverless app",
-    "url": "https://www.somkiat.cc/how-to-test-aws-serverless-app/",
-    "published": "2025-05-15T14:21:18.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
