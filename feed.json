@@ -1,21 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Microsoft Foundry Local สำหรับ run Local LLM",
-    "url": "https://www.somkiat.cc/microsoft-foundry-local/",
-    "published": "2025-05-21T15:39:15.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Gemini 2.5 Pro Text-to-Speech Thai Voice Previews",
-    "url": "https://notes.dt.in.th/Gemini25ProPreviewTTSThai",
-    "published": "2025-05-21T00:00:00.000Z"
+    "title": "แนะนำการใช้งาน Local LLM ใน VSCode แบบง่าย ๆ",
+    "url": "https://www.somkiat.cc/local-llm-in-vscode/",
+    "published": "2025-05-22T15:58:45.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Lychee Osmanthus Garden Tea",
-    "url": "https://naiwaen.debuggingsoft.com/2025/05/cr-starbucks-lychee-osmanthus-garden-tea/",
-    "published": "2025-05-20T07:31:31.000Z"
+    "title": "Cloud Native Bangkok Community Group #01",
+    "url": "https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/",
+    "published": "2025-05-22T14:40:07.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using TypeScript natively in Node.js 22",
+    "url": "https://notes.dt.in.th/Node22NativeTypeScript",
+    "published": "2025-05-22T00:00:00.000Z"
   },
   {
     "site": "sujamess.com",
