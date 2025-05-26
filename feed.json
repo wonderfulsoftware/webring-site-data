@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Deploying n8n to Virtuozzo Application Platform",
+    "url": "https://notes.dt.in.th/N8nVirtuozzoPaas",
+    "published": "2025-05-25T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Spring AI 1.0 ปล่อยออกมาให้ใช้งานแล้ว",
     "url": "https://www.somkiat.cc/spring-ai-1-ga/",
@@ -10,12 +16,6 @@
     "title": "Cloud Native Bangkok Community Group #01",
     "url": "https://naiwaen.debuggingsoft.com/2025/05/cloud-native-bangkok-community-group-01/",
     "published": "2025-05-22T14:40:07.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using TypeScript natively in Node.js 22",
-    "url": "https://notes.dt.in.th/Node22NativeTypeScript",
-    "published": "2025-05-22T00:00:00.000Z"
   },
   {
     "site": "sujamess.com",
