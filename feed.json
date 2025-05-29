@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Spring Boot 3.5 ออกมาแล้ว",
+    "url": "https://www.somkiat.cc/spring-boot-3-5/",
+    "published": "2025-05-28T16:25:34.000Z"
+  },
+  {
     "site": "zartre.com",
     "title": "Approaches to Using Single Dockerfile for Multi-arch Builds",
     "url": "https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/",
@@ -16,12 +22,6 @@
     "title": "Deploying n8n to Virtuozzo Application Platform",
     "url": "https://notes.dt.in.th/N8nVirtuozzoPaas",
     "published": "2025-05-25T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Spring AI 1.0 ปล่อยออกมาให้ใช้งานแล้ว",
-    "url": "https://www.somkiat.cc/spring-ai-1-ga/",
-    "published": "2025-05-24T16:24:08.000Z"
   },
   {
     "site": "sujamess.com",
