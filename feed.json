@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Google Colab: Mount Google Drive",
+    "url": "https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/",
+    "published": "2025-05-30T06:32:27.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน",
+    "url": "https://www.mikkipastel.com/power-bi-for-beginner/",
+    "published": "2025-05-30T02:38:34.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Spring Boot 3.5 ออกมาแล้ว",
     "url": "https://www.somkiat.cc/spring-boot-3-5/",
@@ -10,12 +22,6 @@
     "title": "Approaches to Using Single Dockerfile for Multi-arch Builds",
     "url": "https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/",
     "published": "2025-05-27T14:55:25.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[IBM][DB2.NET] SQL0902 An unexpected exception has occurred in Process: … There are no context policies. Function: AESEncryptADONET",
-    "url": "https://naiwaen.debuggingsoft.com/2025/05/ibmdb2-net-sql0902-an-unexpected-exception-has-occurred-in-process-there-are-no-context-policies-function-aesencryptadonet/",
-    "published": "2025-05-27T07:42:32.000Z"
   },
   {
     "site": "dt.in.th",
@@ -36,10 +42,10 @@
     "published": "2025-05-19T00:00:00.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "มาอัพสกิลกับหลักสูตร AI Skills for Everyone",
-    "url": "https://www.mikkipastel.com/microsoft-ai-skills-training-ai-skills-for-everyone/",
-    "published": "2025-05-17T10:34:11.000Z"
+    "site": "blog.ninprd.com",
+    "title": "สรุป Session - Monetizing AI Innovations",
+    "url": "https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/",
+    "published": "2025-05-18T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
@@ -82,12 +88,6 @@
     "title": "Hono ใช้กับ D1 Database ของ Cloudflare",
     "url": "https://amiearth.com/blog/hono-d1",
     "published": "2025-05-02T00:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "Basic n8n ฉบับ DevDev",
-    "url": "https://blog.ninprd.com/blog/basic-n8n-for-developers/",
-    "published": "2025-05-01T00:00:00.000Z"
   },
   {
     "site": "wawasabii.com",
