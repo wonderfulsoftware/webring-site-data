@@ -1,5 +1,17 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต",
+    "url": "https://mymoneytoolkit.app/posts/split-investment-dca",
+    "published": "2025-06-03T00:00:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้",
+    "url": "https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/",
+    "published": "2025-06-02T05:25:58.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Robot Framework 7.3 ออกมาแล้ว",
     "url": "https://www.somkiat.cc/robot-framework-7-3/",
@@ -22,12 +34,6 @@
     "title": "Google Colab: Mount Google Drive",
     "url": "https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/",
     "published": "2025-05-30T06:32:27.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "รู้จัก Power BI ฉบับมือใหม่ เพิ่งเรียนมา ทำตามง่ายแน่นอน",
-    "url": "https://www.mikkipastel.com/power-bi-for-beginner/",
-    "published": "2025-05-30T02:38:34.000Z"
   },
   {
     "site": "zartre.com",
@@ -58,12 +64,6 @@
     "title": "พัฒนาการของเด็กในแต่ละช่วงวัย",
     "url": "https://thiti.dev/blog/z1/",
     "published": "2025-05-16T11:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "วางแผนงบรายรับรายจ่าย ใช้ตามแผนชีวิตง่ายขึ้น!",
-    "url": "https://mymoneytoolkit.app/posts/financal-plan",
-    "published": "2025-05-13T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
