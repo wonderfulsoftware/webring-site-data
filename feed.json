@@ -1,5 +1,11 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "สร้าง AI agent ด้วย Microsoft Azure Foundry กัน",
+    "url": "https://www.mikkipastel.com/develop-ai-agents-on-azure/",
+    "published": "2025-06-04T02:08:11.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF",
     "url": "https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/",
@@ -16,12 +22,6 @@
     "title": "คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต",
     "url": "https://mymoneytoolkit.app/posts/split-investment-dca",
     "published": "2025-06-03T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "อยากทำเว็บง่าย ๆ ไม่ต้องเขียนเองล่ะ ใช้ GitHub Copilot เขียนให้",
-    "url": "https://www.mikkipastel.com/building-applications-with-github-copilot-agent-mode/",
-    "published": "2025-06-02T05:25:58.000Z"
   },
   {
     "site": "blog.ninprd.com",
