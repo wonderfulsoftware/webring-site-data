@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ขั้นตอนย้าย Nameservers ของ Domain ไป Cloudflare",
+    "url": "https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/",
+    "published": "2025-06-04T08:19:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สร้าง AI agent ด้วย Microsoft Azure Foundry กัน",
     "url": "https://www.mikkipastel.com/develop-ai-agents-on-azure/",
@@ -28,12 +34,6 @@
     "title": "สรุป Session - Monetizing AI Innovations",
     "url": "https://blog.ninprd.com/blog/summarize-fof-bkk-duolingo-monetizing-ai-innovations/",
     "published": "2025-05-31T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Google Colab: Mount Google Drive",
-    "url": "https://naiwaen.debuggingsoft.com/2025/05/google-colab-mount-google-drive/",
-    "published": "2025-05-30T06:32:27.000Z"
   },
   {
     "site": "zartre.com",
