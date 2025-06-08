@@ -1,9 +1,15 @@
 [
   {
+    "site": "yuttakhanb.dev",
+    "title": "Verifying browser data via Playwright",
+    "url": "https://yuttakhanb.dev/posts/playwright-browser-data/",
+    "published": "2025-06-07T12:30:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "ขั้นตอนย้าย Nameservers ของ Domain ไป Cloudflare",
-    "url": "https://naiwaen.debuggingsoft.com/2025/06/move-your-dns-name-server-to-cloudflare/",
-    "published": "2025-06-04T08:19:00.000Z"
+    "title": "[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า",
+    "url": "https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/",
+    "published": "2025-06-07T09:15:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -136,12 +142,6 @@
     "title": "Hello world!",
     "url": "https://bio.srakrn.me/hello-world/",
     "published": "2025-02-11T12:46:01.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "mock-service-worker for mocking API",
-    "url": "https://yuttakhanb.dev/posts/msw/",
-    "published": "2025-01-31T23:00:00.000Z"
   },
   {
     "site": "pontakorn.dev",
