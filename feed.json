@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการอ่านเรื่อง Scale Now or Scale Later ?",
+    "url": "https://www.somkiat.cc/note-scale-now-or-scale-later/",
+    "published": "2025-06-08T10:03:20.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "แอปคำนวณฝากประจำปลอดภาษีอันไหนคุ้มสุด",
+    "url": "https://mymoneytoolkit.app/posts/interest-tax-free",
+    "published": "2025-06-08T00:00:00.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "Verifying browser data via Playwright",
     "url": "https://yuttakhanb.dev/posts/playwright-browser-data/",
@@ -18,21 +30,9 @@
     "published": "2025-06-04T02:08:11.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ทดลองใช้ Mistral OCR สำหรับอ่านข้อมูลจาก PDF",
-    "url": "https://www.somkiat.cc/try-mistral-ocr-with-pdf-file/",
-    "published": "2025-06-03T13:57:42.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Model inference in onnx",
     "url": "https://karnwong.me/posts/2025/06/model-inference-in-onnx/",
-    "published": "2025-06-03T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คำนวณแบ่งเงินลงทุนก้อน + DCA พร้อมดูผลตอบแทนแยกรายพอร์ต",
-    "url": "https://mymoneytoolkit.app/posts/split-investment-dca",
     "published": "2025-06-03T00:00:00.000Z"
   },
   {
