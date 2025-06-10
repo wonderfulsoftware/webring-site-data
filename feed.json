@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Using Super Page Cache with Cloudflare for WordPress Page Caching",
+    "url": "https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/",
+    "published": "2025-06-09T06:03:57.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการอ่านเรื่อง Scale Now or Scale Later ?",
     "url": "https://www.somkiat.cc/note-scale-now-or-scale-later/",
@@ -16,12 +22,6 @@
     "title": "Verifying browser data via Playwright",
     "url": "https://yuttakhanb.dev/posts/playwright-browser-data/",
     "published": "2025-06-07T12:30:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Sho Ryu Ramen เซ็นจูรี่ เดอะมูฟวี่พลาซ่า",
-    "url": "https://naiwaen.debuggingsoft.com/2025/06/cr-sho-ryu-ramen-century-the-movie-plaza/",
-    "published": "2025-06-07T09:15:00.000Z"
   },
   {
     "site": "mikkipastel.com",
