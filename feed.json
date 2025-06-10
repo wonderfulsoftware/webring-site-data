@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน PostgreSQL for Visual Studio Code จาก Microsoft",
+    "url": "https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/",
+    "published": "2025-06-10T12:27:56.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Cloudflare's terraform v5 provider migration strategy",
+    "url": "https://karnwong.me/posts/2025/06/cloudflares-terraform-v5-provider-migration-strategy/",
+    "published": "2025-06-10T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Using Super Page Cache with Cloudflare for WordPress Page Caching",
     "url": "https://naiwaen.debuggingsoft.com/2025/06/wordpress-super-page-cache-cloudflare-for-page-caching/",
     "published": "2025-06-09T06:03:57.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการอ่านเรื่อง Scale Now or Scale Later ?",
-    "url": "https://www.somkiat.cc/note-scale-now-or-scale-later/",
-    "published": "2025-06-08T10:03:20.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -28,12 +34,6 @@
     "title": "สร้าง AI agent ด้วย Microsoft Azure Foundry กัน",
     "url": "https://www.mikkipastel.com/develop-ai-agents-on-azure/",
     "published": "2025-06-04T02:08:11.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Model inference in onnx",
-    "url": "https://karnwong.me/posts/2025/06/model-inference-in-onnx/",
-    "published": "2025-06-03T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
