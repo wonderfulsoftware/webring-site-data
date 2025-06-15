@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Multigres จาก Supabase",
+    "url": "https://www.somkiat.cc/multigres-for-supabase/",
+    "published": "2025-06-14T16:17:56.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] SAI Izakaza Tepanyaki – ไก่ทอดคาราเกะบุฟเฟต์",
+    "url": "https://naiwaen.debuggingsoft.com/2025/06/cr-sai-izakaza-tepanyaki-karaage-chicken-buffet-set/",
+    "published": "2025-06-14T09:06:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT",
+    "url": "https://mymoneytoolkit.app/posts/valuation",
+    "published": "2025-06-14T00:00:00.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "Hello Garage, goodbye MinIO",
     "url": "https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/",
@@ -10,24 +28,6 @@
     "title": "A very quick overview on Cursor and Integration to Cursor",
     "url": "https://yuttakhanb.dev/posts/mcp-overview-cursor/",
     "published": "2025-06-12T16:30:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "The difference between item[key] vs item.id in TS/JS",
-    "url": "https://naiwaen.debuggingsoft.com/2025/06/the-difference-between-itemkey-item-id-in-ts-js/",
-    "published": "2025-06-12T11:45:47.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน PostgreSQL for Visual Studio Code จาก Microsoft",
-    "url": "https://www.somkiat.cc/postgresql-for-visual-studio-code-from-microsoft/",
-    "published": "2025-06-10T12:27:56.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "แอปคำนวณฝากประจำปลอดภาษีอันไหนคุ้มสุด",
-    "url": "https://mymoneytoolkit.app/posts/interest-tax-free",
-    "published": "2025-06-08T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
