@@ -1,27 +1,33 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับไฟล์ llms.txt กันหน่อย",
+    "url": "https://www.somkiat.cc/llm-file/",
+    "published": "2025-06-20T17:00:14.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "ลอง Vibe Coding ด้วย ChatGPT Codex",
+    "url": "https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/",
+    "published": "2025-06-20T15:42:32.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Using Nix for CI, but with a twist",
+    "url": "https://karnwong.me/posts/2025/06/using-nix-for-ci-but-with-a-twist/",
+    "published": "2025-06-20T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "DOTNET MEETUP JUNE 2025 @AGODA",
     "url": "https://naiwaen.debuggingsoft.com/2025/06/recap-dotnet-meetup-june-2025/",
     "published": "2025-06-19T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Docling สำหรับการแปลงข้อมูลจากไฟล์ต่าง ๆ ให้ง่ายต่อการนำไปใช้งาน",
-    "url": "https://www.somkiat.cc/hello-docling/",
-    "published": "2025-06-17T14:51:29.000Z"
-  },
-  {
     "site": "mymoneytoolkit.app",
     "title": "Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT",
     "url": "https://mymoneytoolkit.app/posts/valuation",
     "published": "2025-06-14T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Hello Garage, goodbye MinIO",
-    "url": "https://karnwong.me/posts/2025/06/hello-garage-goodbye-minio/",
-    "published": "2025-06-13T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -70,12 +76,6 @@
     "title": "พัฒนาการของเด็กในแต่ละช่วงวัย",
     "url": "https://thiti.dev/blog/z1/",
     "published": "2025-05-16T11:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "วันคืนล่วงไป บัดนี้เราทำอะไรอยู่ (ฉันในวัย 40)",
-    "url": "https://myifew.com/6599/my40/",
-    "published": "2025-05-08T17:20:52.000Z"
   },
   {
     "site": "anewlife.dev",
