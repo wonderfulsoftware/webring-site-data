@@ -1,21 +1,27 @@
 [
   {
+    "site": "myifew.com",
+    "title": "ขออวยยศให้ Claude Code ในการเขียนโค้ด อีกสักครั้ง",
+    "url": "https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/",
+    "published": "2025-06-25T19:09:13.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Gemini-cli เล่น ๆ",
+    "url": "https://www.somkiat.cc/hello-gemini-cli/",
+    "published": "2025-06-25T17:04:59.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี?",
+    "url": "https://www.mikkipastel.com/thai-creator-for-real-business-workshop/",
+    "published": "2025-06-25T11:03:58.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆ Tune WordPress 2025",
     "url": "https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/",
     "published": "2025-06-24T04:54:03.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับไฟล์ llms.txt กันหน่อย",
-    "url": "https://www.somkiat.cc/llm-file/",
-    "published": "2025-06-20T17:00:14.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ลอง Vibe Coding ด้วย ChatGPT Codex",
-    "url": "https://myifew.com/6619/%e0%b8%a5%e0%b8%ad%e0%b8%87-vibe-coding-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-chatgpt-codex/",
-    "published": "2025-06-20T15:42:32.000Z"
   },
   {
     "site": "karnwong.me",
@@ -40,12 +46,6 @@
     "title": "My NotebookLM Summarization Prompt",
     "url": "https://notes.dt.in.th/NotebookLMSummarizationPrompt",
     "published": "2025-06-07T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สร้าง AI agent ด้วย Microsoft Azure Foundry กัน",
-    "url": "https://www.mikkipastel.com/develop-ai-agents-on-azure/",
-    "published": "2025-06-04T02:08:11.000Z"
   },
   {
     "site": "blog.ninprd.com",
