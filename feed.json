@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ NuGet Explorer มา Pack dll เป็น NuGet Package (.nupkg)",
+    "url": "https://naiwaen.debuggingsoft.com/2025/06/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg/",
+    "published": "2025-06-26T03:53:37.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "ขออวยยศให้ Claude Code ในการเขียนโค้ด อีกสักครั้ง",
     "url": "https://myifew.com/6629/%e0%b8%82%e0%b8%ad%e0%b8%ad%e0%b8%a7%e0%b8%a2%e0%b8%a2%e0%b8%a8%e0%b9%83%e0%b8%ab%e0%b9%89-claude-code-%e0%b9%83%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99/",
@@ -16,12 +22,6 @@
     "title": "สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี?",
     "url": "https://www.mikkipastel.com/thai-creator-for-real-business-workshop/",
     "published": "2025-06-25T11:03:58.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆ Tune WordPress 2025",
-    "url": "https://naiwaen.debuggingsoft.com/2025/06/my-note-tune-wordpress-2025/",
-    "published": "2025-06-24T04:54:03.000Z"
   },
   {
     "site": "karnwong.me",
