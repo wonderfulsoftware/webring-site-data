@@ -75,6 +75,7 @@
       <outline text="blog.nattp.page" title="blog.nattp.page" type="rss" xmlUrl="https://blog.nattp.page/rss.xml" htmlUrl="https://blog.nattp.page"/>
       <outline text="amiearth.com" title="amiearth.com" type="rss" xmlUrl="https://www.amiearth.com/feed.xml" htmlUrl="https://amiearth.com"/>
       <outline text="pichayapon.com" title="pichayapon.com" type="rss" xmlUrl="https://pichayapon.com/rss.xml" htmlUrl="https://pichayapon.com"/>
+      <outline text="evanrintho.buzz" title="evanrintho.buzz" type="rss" xmlUrl="https://blog.evanrintho.buzz/rss.xml" htmlUrl="https://evanrintho.buzz"/>
     </outline>
   </body>
 </opml>

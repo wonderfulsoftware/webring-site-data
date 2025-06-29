@@ -2257,5 +2257,19 @@
     "lastUpdated": "2025-06-29T01:35:13.915Z",
     "number": 124,
     "owner": "pichxyaponn"
+  },
+  "evanrintho.buzz": {
+    "url": "https://evanrintho.buzz",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/evanrintho.buzz_375w@2x.png",
+    "blurhash": "v568Hj%MD%IU~qxtj[M{%2t7ogRjIUflfQax4TRjt7t74nRjWBt74nRjoft7",
+    "screenshotUpdatedAt": "2025-06-29T18:47:19.421Z",
+    "description": "Full Stack Developer crafting digital experiences with clean code and minimalist design. Specializing in React, Next.js, Node.js, and modern web technologies.",
+    "backlink": {
+      "rect": "28:28:24:21",
+      "href": "https://webring.wonderful.software#evanrintho.buzz"
+    },
+    "lastUpdated": "2025-06-29T18:47:19.421Z",
+    "number": 125,
+    "owner": "evanrintho"
   }
 }
