@@ -1,15 +1,15 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "ทำไมทุกวันนี้ทุกคนหันมาใช้ TypeScript แทน JavaScript",
+    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/",
+    "published": "2025-07-03T02:09:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ERROR: failed to solve: process “/bin/sh -c bun install –frozen-lockfile” did not complete successfully: exit code: 1",
     "url": "https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/",
     "published": "2025-07-02T14:20:47.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "REST API vs GraphQL: เลือกแบบไหนดี?",
-    "url": "https://www.poolsawat.com/rest-api-vs-graphql-%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b9%84%e0%b8%ab%e0%b8%99%e0%b8%94%e0%b8%b5/",
-    "published": "2025-07-02T12:55:29.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -301,9 +301,9 @@
   },
   {
     "site": "poom.dev",
-    "title": "Generating TypeScript types for Rust enums",
-    "url": "https://poom.dev/generating-typescript-types-for-rust-enums/",
-    "published": "2024-01-03T18:26:01.000Z"
+    "title": "Reflecting on 2023",
+    "url": "https://poom.dev/reflecting-on-2023/",
+    "published": "2023-12-31T18:36:14.000Z"
   },
   {
     "site": "guitarpawat.me",
