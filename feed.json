@@ -1,9 +1,21 @@
 [
   {
+    "site": "poom.dev",
+    "title": "Challenges",
+    "url": "https://poom.dev/challenges/",
+    "published": "2025-07-04T19:14:16.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เอาเว็บขึ้น Github Pages ยังไง? ฉบับมีโพย ทำง่ายแน่นอน",
+    "url": "https://www.mikkipastel.com/how-to-setup-github-pages/",
+    "published": "2025-07-04T11:58:25.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "ทำไมทุกวันนี้ทุกคนหันมาใช้ TypeScript แทน JavaScript",
-    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%97%e0%b8%b8%e0%b8%81%e0%b8%84%e0%b8%99%e0%b8%ab%e0%b8%b1%e0%b8%99%e0%b8%a1/",
-    "published": "2025-07-03T02:09:00.000Z"
+    "title": "การจัดการ Memory และ Garbage Collection เบื้องหลังโค้ด",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-garbage-collection-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%ab/",
+    "published": "2025-07-04T02:09:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -46,12 +58,6 @@
     "title": "Simplify SSH (and HTTP & Postgres) access management with Warpgate",
     "url": "https://karnwong.me/posts/2025/06/simplify-ssh-and-postgres-http-access-management-with-warpgate/",
     "published": "2025-06-28T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สองวัน Thai Creator for Real Business Workshop สร้างธุรกิจยังไงดี?",
-    "url": "https://www.mikkipastel.com/thai-creator-for-real-business-workshop/",
-    "published": "2025-06-25T11:03:58.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -298,12 +304,6 @@
     "title": "changesets warn received 404 for npm info on pre-release",
     "url": "https://nitpum.com/post/changesets-npm-info-prerelease/",
     "published": "2024-01-04T14:31:59.000Z"
-  },
-  {
-    "site": "poom.dev",
-    "title": "Reflecting on 2023",
-    "url": "https://poom.dev/reflecting-on-2023/",
-    "published": "2023-12-31T18:36:14.000Z"
   },
   {
     "site": "guitarpawat.me",
