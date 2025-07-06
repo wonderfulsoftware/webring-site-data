@@ -1,5 +1,23 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาฟัง Agile Thailand 2025 #ATH2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/07/note-agile-thailand-2025-ath2025/",
+    "published": "2025-07-06T00:10:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "สรุปนิดๆ จากที่ไปร่วมงาน Agile Thailand 2025",
+    "url": "https://myifew.com/6656/6656/",
+    "published": "2025-07-05T17:00:13.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "API Gateway คืออะไร ทำงานอย่างไรในระบบใหญ่",
+    "url": "https://www.poolsawat.com/api-gateway-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83/",
+    "published": "2025-07-05T02:09:00.000Z"
+  },
+  {
     "site": "poom.dev",
     "title": "Challenges",
     "url": "https://poom.dev/challenges/",
@@ -12,28 +30,10 @@
     "published": "2025-07-04T11:58:25.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "การจัดการ Memory และ Garbage Collection เบื้องหลังโค้ด",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-memory-%e0%b9%81%e0%b8%a5%e0%b8%b0-garbage-collection-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%ab/",
-    "published": "2025-07-04T02:09:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ERROR: failed to solve: process “/bin/sh -c bun install –frozen-lockfile” did not complete successfully: exit code: 1",
-    "url": "https://naiwaen.debuggingsoft.com/2025/07/error-failed-to-solve-process-bin-sh-c-bun-install-frozen-lockfile-did-not-complete-successfully-exit-code-1/",
-    "published": "2025-07-02T14:20:47.000Z"
-  },
-  {
     "site": "somkiat.cc",
     "title": "บันทึกการแบ่งปันเรื่อง Performance Testing with Grafana K6",
     "url": "https://www.somkiat.cc/performance-testing-with-grafana-k6/",
     "published": "2025-06-30T14:46:24.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "I put my heart and soul into my work, and I have lost my mind in the process.",
-    "url": "https://myifew.com/6638/put-my-heart-soul-into-mywork/",
-    "published": "2025-06-30T10:59:32.000Z"
   },
   {
     "site": "icez.net",
