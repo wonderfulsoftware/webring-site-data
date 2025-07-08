@@ -1,9 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการใช้งาน Claude Task Master นิดหน่อย",
+    "url": "https://www.somkiat.cc/sharing-task-master-ai/",
+    "published": "2025-07-07T06:09:56.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "แนะนำ Design Pattern พื้นฐานที่โปรแกรมเมอร์ควรรู้ พร้อมตัวอย่างและภาพประกอบ อ่านจบภายใน 15 นาที",
-    "url": "https://www.poolsawat.com/%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3-design-pattern-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81/",
-    "published": "2025-07-06T02:12:00.000Z"
+    "title": "ทำความเข้าใจ Event Loop ใน JavaScript อย่างลึกซึ้ง",
+    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b9%83%e0%b8%88-event-loop-%e0%b9%83%e0%b8%99-javascript-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/",
+    "published": "2025-07-07T02:09:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "How I render HTML in Elysia",
+    "url": "https://notes.dt.in.th/ElysiaRenderHtml",
+    "published": "2025-07-07T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -28,12 +40,6 @@
     "title": "เอาเว็บขึ้น Github Pages ยังไง? ฉบับมีโพย ทำง่ายแน่นอน",
     "url": "https://www.mikkipastel.com/how-to-setup-github-pages/",
     "published": "2025-07-04T11:58:25.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันเรื่อง Performance Testing with Grafana K6",
-    "url": "https://www.somkiat.cc/performance-testing-with-grafana-k6/",
-    "published": "2025-06-30T14:46:24.000Z"
   },
   {
     "site": "icez.net",
@@ -70,12 +76,6 @@
     "title": "A very quick overview on Cursor and Integration to Cursor",
     "url": "https://yuttakhanb.dev/posts/mcp-overview-cursor/",
     "published": "2025-06-12T16:30:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "My NotebookLM Summarization Prompt",
-    "url": "https://notes.dt.in.th/NotebookLMSummarizationPrompt",
-    "published": "2025-06-07T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
