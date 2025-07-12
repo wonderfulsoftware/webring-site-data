@@ -1,9 +1,27 @@
 [
   {
+    "site": "myifew.com",
+    "title": "งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator)",
+    "url": "https://myifew.com/6683/try-to-context-engineering/",
+    "published": "2025-07-11T16:45:34.000Z"
+  },
+  {
+    "site": "lucian.solutions",
+    "title": "Illustration - 2025のゆきみさん🌟",
+    "url": "https://lucian.solutions/blog/202507-yukimi-satsuki",
+    "published": "2025-07-11T05:30:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน",
+    "url": "https://www.mikkipastel.com/what-about-tool-program-for-developer-work/",
+    "published": "2025-07-11T05:27:40.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "Spring WebFlux: พัฒนา Web Application แบบ Reactive ตั้งแต่เริ่มจน Deployment",
-    "url": "https://www.poolsawat.com/spring-webflux-%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2-web-application-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive-%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b9%80%e0%b8%a3/",
-    "published": "2025-07-10T08:09:00.000Z"
+    "title": "ทำ Distributed Tracing ด้วย OpenTelemetry",
+    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/",
+    "published": "2025-07-11T02:09:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -30,22 +48,10 @@
     "published": "2025-07-08T00:00:00.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "สรุปนิดๆ จากที่ไปร่วมงาน Agile Thailand 2025",
-    "url": "https://myifew.com/6656/6656/",
-    "published": "2025-07-05T17:00:13.000Z"
-  },
-  {
     "site": "poom.dev",
     "title": "Challenges",
     "url": "https://poom.dev/challenges/",
     "published": "2025-07-04T19:14:16.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เอาเว็บขึ้น Github Pages ยังไง? ฉบับมีโพย ทำง่ายแน่นอน",
-    "url": "https://www.mikkipastel.com/how-to-setup-github-pages/",
-    "published": "2025-07-04T11:58:25.000Z"
   },
   {
     "site": "icez.net",
@@ -58,12 +64,6 @@
     "title": "Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ",
     "url": "https://blog.evanrintho.buzz/post/what-is-gobuster",
     "published": "2025-06-29T00:00:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - 202506 Lucia",
-    "url": "https://lucian.solutions/blog/202506-lucia",
-    "published": "2025-06-28T20:20:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
