@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนะนำ Gen AI ใน Google Chrome 138.0.7204.101",
+    "url": "https://www.somkiat.cc/gen-ai-in-google-chrome/",
+    "published": "2025-07-12T13:01:24.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Rust กับ Microservices: ระบบที่เบาและเร็วสำหรับโปรดักชัน",
+    "url": "https://www.poolsawat.com/rust-%e0%b8%81%e0%b8%b1%e0%b8%9a-microservices-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9a%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%80%e0%b8%a3%e0%b9%87/",
+    "published": "2025-07-12T09:25:58.000Z"
+  },
+  {
+    "site": "blog.oatto.dev",
+    "title": "Send message to Telegram chat by Telegram bot",
+    "url": "https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html",
+    "published": "2025-07-12T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator)",
     "url": "https://myifew.com/6683/try-to-context-engineering/",
@@ -18,12 +36,6 @@
     "published": "2025-07-11T05:27:40.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "ทำ Distributed Tracing ด้วย OpenTelemetry",
-    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-distributed-tracing-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-opentelemetry/",
-    "published": "2025-07-11T02:09:00.000Z"
-  },
-  {
     "site": "debuggingsoft.com",
     "title": "[CR] Kouchan Ramen Bangkok",
     "url": "https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/",
@@ -34,12 +46,6 @@
     "title": "Quickly deploying API endpoints online with Elysia on Deno Deploy",
     "url": "https://notes.dt.in.th/ElysiaDenoDeploy",
     "published": "2025-07-09T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Library สำหรับการอ่านข้อมูลในรูปแบบต่าง ๆ",
-    "url": "https://www.somkiat.cc/library-data-ai-friendly/",
-    "published": "2025-07-08T17:18:44.000Z"
   },
   {
     "site": "karnwong.me",
@@ -178,12 +184,6 @@
     "title": "Generative UI Design Tools: A Day's Review",
     "url": "https://unnawut.com/posts/2025-01-05-generative-ui-review/",
     "published": "2025-01-06T15:50:00.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Recap 2024",
-    "url": "https://blog.oatto.dev/2025/01/04/recap-2025.html",
-    "published": "2025-01-04T00:00:00.000Z"
   },
   {
     "site": "yothinix.com",
