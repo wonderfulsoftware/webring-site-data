@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองทำ REST API ให้กับ Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI",
+    "url": "https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/",
+    "published": "2025-07-14T10:35:00.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "WebSocket คืออะไร? ทำ Real-Time Chat ง่าย ๆ",
-    "url": "https://www.poolsawat.com/websocket-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3-real-time-chat-%e0%b8%87%e0%b9%88%e0%b8%b2%e0%b8%a2-%e0%b9%86/",
-    "published": "2025-07-13T02:09:00.000Z"
+    "title": "State Management คืออะไร? Redux, Pinia, MobX ต่างกันยังไง",
+    "url": "https://www.poolsawat.com/state-management-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-redux-pinia-mobx-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84/",
+    "published": "2025-07-14T02:09:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -34,12 +40,6 @@
     "title": "รวมเครื่องมือ และโปรแกรม ที่ developer ใช้ทำงาน",
     "url": "https://www.mikkipastel.com/what-about-tool-program-for-developer-work/",
     "published": "2025-07-11T05:27:40.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Kouchan Ramen Bangkok",
-    "url": "https://naiwaen.debuggingsoft.com/2025/07/cr-kouchan-ramen-bangkok/",
-    "published": "2025-07-09T23:06:59.000Z"
   },
   {
     "site": "dt.in.th",
