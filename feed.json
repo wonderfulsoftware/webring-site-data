@@ -1,15 +1,21 @@
 [
   {
+    "site": "myifew.com",
+    "title": "จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี?",
+    "url": "https://myifew.com/6693/ai-coding-to-context-engineering/",
+    "published": "2025-07-16T07:30:39.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Algorithm & Data Structure สำคัญอย่างไรกับการเขียนโปรแกรม",
+    "url": "https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/",
+    "published": "2025-07-16T02:09:00.000Z"
+  },
+  {
     "site": "blog.nattp.page",
     "title": "ความรู้สึกหลังอ่าน: Neuromancer",
     "url": "https://blog.nattp.page/article/neuromancer/",
     "published": "2025-07-15T12:08:19.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "การจัดการ Exception Handling อย่างมืออาชีพ",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3-exception-handling-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b2%e0%b8%8a/",
-    "published": "2025-07-15T02:09:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -28,12 +34,6 @@
     "title": "Send message to Telegram chat by Telegram bot",
     "url": "https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html",
     "published": "2025-07-12T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "งูๆ ปลาๆ กับ Context Engineering เพื่อทำระบบคิดราคาซูชิ (Kaiten Share Calculator)",
-    "url": "https://myifew.com/6683/try-to-context-engineering/",
-    "published": "2025-07-11T16:45:34.000Z"
   },
   {
     "site": "lucian.solutions",
