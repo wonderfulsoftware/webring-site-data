@@ -1,27 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "จาก AI ที่เขียนโค้ดได้ → สู่ AI ที่ทำงานได้ทั้งระบบ: แล้วเราจะวางบทบาท “คน” ตรงไหนกันดี?",
-    "url": "https://myifew.com/6693/ai-coding-to-context-engineering/",
-    "published": "2025-07-16T07:30:39.000Z"
+    "title": "ลองสร้าง VEO3 video ด้วย Prompt แบบ JSON Script",
+    "url": "https://myifew.com/6699/veo3-video-prompt-json-script/",
+    "published": "2025-07-17T18:01:28.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "เพิ่งรู้ว่ามันมี nugettrends ด้วย",
+    "url": "https://naiwaen.debuggingsoft.com/2025/07/i-just-found-out-nugettrends/",
+    "published": "2025-07-17T10:36:42.000Z"
   },
   {
     "site": "poolsawat.com",
-    "title": "Algorithm & Data Structure สำคัญอย่างไรกับการเขียนโปรแกรม",
-    "url": "https://www.poolsawat.com/algorithm-data-structure-%e0%b8%aa%e0%b8%b3%e0%b8%84%e0%b8%b1%e0%b8%8d%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/",
-    "published": "2025-07-16T02:09:00.000Z"
+    "title": "วิธีใช้ Service Worker ทำ Offline Web App",
+    "url": "https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b9%83%e0%b8%8a%e0%b9%89-service-worker-%e0%b8%97%e0%b8%b3-offline-web-app/",
+    "published": "2025-07-17T02:09:00.000Z"
   },
   {
     "site": "blog.nattp.page",
     "title": "ความรู้สึกหลังอ่าน: Neuromancer",
     "url": "https://blog.nattp.page/article/neuromancer/",
     "published": "2025-07-15T12:08:19.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลองทำ REST API ให้กับ AI Model microsoft/BitNet b1.58 2B4T เชื่อมกับ Open WebUI",
-    "url": "https://naiwaen.debuggingsoft.com/2025/07/create-simple-rest-api-for-microsoft-bitnet-b1-58-2b4t-model-to-link-with-openwebui/",
-    "published": "2025-07-14T10:35:00.000Z"
   },
   {
     "site": "somkiat.cc",
