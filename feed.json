@@ -1,21 +1,33 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] ข้าวมันไก่ โรงแรมมณเฑียร",
-    "url": "https://naiwaen.debuggingsoft.com/2025/07/cr-chicken-rice-at-ruenton-restaurants-montien-bangkok/",
-    "published": "2025-07-18T10:15:00.000Z"
+    "title": "สรุปนิดหน่อยจาก Google Cloud Next Extended Bangkok 2025 @ KX",
+    "url": "https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/",
+    "published": "2025-07-20T01:00:00.000Z"
+  },
+  {
+    "site": "yuttakhanb.dev",
+    "title": "Writeups on automating generating code with Figma MCP",
+    "url": "https://yuttakhanb.dev/posts/figma-mcp-writeup/",
+    "published": "2025-07-19T14:00:00.000Z"
+  },
+  {
+    "site": "thanapon.info",
+    "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
+    "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
+    "published": "2025-07-19T09:22:12.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Zero Downtime Deployment คืออะไร ทำอย่างไร",
+    "url": "https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/",
+    "published": "2025-07-19T02:09:00.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง!",
     "url": "https://www.mikkipastel.com/review-github-copilot-business/",
     "published": "2025-07-18T06:20:27.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "เทคนิค Scale ระบบ Backend ให้รองรับผู้ใช้หลักแสน",
-    "url": "https://www.poolsawat.com/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84-scale-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-backend-%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%9c/",
-    "published": "2025-07-18T02:09:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -82,12 +94,6 @@
     "title": "Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT",
     "url": "https://mymoneytoolkit.app/posts/valuation",
     "published": "2025-06-14T00:00:00.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "A very quick overview on Cursor and Integration to Cursor",
-    "url": "https://yuttakhanb.dev/posts/mcp-overview-cursor/",
-    "published": "2025-06-12T16:30:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -178,12 +184,6 @@
     "title": "libGDX เกมเฟรมเวิร์คภาษา Java ที่อยู่มานานแสนนาน",
     "url": "https://pontakorn.dev/posts/introduction-to-libgdx/",
     "published": "2025-01-27T17:00:00.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "ลองทำ DDNS บน Cloudflare DNS ง่ายๆ",
-    "url": "https://thanapon.info/cloudflare-ddns/",
-    "published": "2025-01-11T14:37:49.000Z"
   },
   {
     "site": "unnawut.com",
