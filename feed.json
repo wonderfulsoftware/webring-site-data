@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำการ share memory หรือ context ระหว่าง AI IDE",
+    "url": "https://www.somkiat.cc/share-memory-for-ai-ide/",
+    "published": "2025-07-20T14:32:13.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "Progressive Web App (PWA) คืออะไร สร้างยังไงให้ใช้ได้จริง",
+    "url": "https://www.poolsawat.com/progressive-web-app-pwa-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%83%e0%b8%ab/",
+    "published": "2025-07-20T02:09:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "สรุปนิดหน่อยจาก Google Cloud Next Extended Bangkok 2025 @ KX",
     "url": "https://naiwaen.debuggingsoft.com/2025/07/mynote-google-cloud-next-extended-bangkok-2025-kx/",
@@ -16,12 +28,6 @@
     "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
     "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
     "published": "2025-07-19T09:22:12.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Zero Downtime Deployment คืออะไร ทำอย่างไร",
-    "url": "https://www.poolsawat.com/zero-downtime-deployment-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/",
-    "published": "2025-07-19T02:09:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -46,12 +52,6 @@
     "title": "ความรู้สึกหลังอ่าน: Neuromancer",
     "url": "https://blog.nattp.page/article/neuromancer/",
     "published": "2025-07-15T12:08:19.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนะนำ Gen AI ใน Google Chrome 138.0.7204.101",
-    "url": "https://www.somkiat.cc/gen-ai-in-google-chrome/",
-    "published": "2025-07-12T13:01:24.000Z"
   },
   {
     "site": "blog.oatto.dev",
