@@ -1,21 +1,33 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จัก Solana 101 แบบเดฟ ๆ",
+    "url": "https://www.mikkipastel.com/solana-101-by-developer/",
+    "published": "2025-07-23T11:34:10.000Z"
+  },
+  {
+    "site": "poom.dev",
+    "title": "Abstractions and Knowledge Graph",
+    "url": "https://poom.dev/abstractions-knowledge-graph/",
+    "published": "2025-07-23T11:33:01.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Create a REST API for the Microsoft/BitNet B1.58 model and integrate it with an Open WebUI",
+    "url": "https://naiwaen.debuggingsoft.com/2025/07/create-a-rest-api-for-the-microsoft-bitnet-b1-58-model-and-integrate-it-with-an-open-webui-english/",
+    "published": "2025-07-23T08:42:43.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "Immutable vs Mutable ในภาษาโปรแกรมต่าง ๆ",
-    "url": "https://www.poolsawat.com/immutable-vs-mutable-%e0%b9%83%e0%b8%99%e0%b8%a0%e0%b8%b2%e0%b8%a9%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87-%e0%b9%86/",
-    "published": "2025-07-22T02:09:00.000Z"
+    "title": "วิธีตั้งค่า Lighthouse Audit เพื่อวัดคุณภาพเว็บ",
+    "url": "https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-lighthouse-audit-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%84/",
+    "published": "2025-07-23T02:09:00.000Z"
   },
   {
     "site": "karnwong.me",
     "title": "Terraform project structure",
     "url": "https://karnwong.me/posts/2025/07/terraform-project-structure/",
     "published": "2025-07-22T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "EAT RAMEN FEST 2025 @ Samyan Mitrtow",
-    "url": "https://naiwaen.debuggingsoft.com/2025/07/eat-ramen-fest-2025/",
-    "published": "2025-07-21T21:02:06.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -34,12 +46,6 @@
     "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
     "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
     "published": "2025-07-19T09:22:12.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "รีวิว Github Copilot Business จากผู้ใช้ทำงานจริง!",
-    "url": "https://www.mikkipastel.com/review-github-copilot-business/",
-    "published": "2025-07-18T06:20:27.000Z"
   },
   {
     "site": "myifew.com",
@@ -70,12 +76,6 @@
     "title": "Quickly deploying API endpoints online with Elysia on Deno Deploy",
     "url": "https://notes.dt.in.th/ElysiaDenoDeploy",
     "published": "2025-07-09T00:00:00.000Z"
-  },
-  {
-    "site": "poom.dev",
-    "title": "Challenges",
-    "url": "https://poom.dev/challenges/",
-    "published": "2025-07-04T19:14:16.000Z"
   },
   {
     "site": "icez.net",
