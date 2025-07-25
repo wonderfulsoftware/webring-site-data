@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนวทางการทดสอบกับระบบ OTP ผ่านมือถือ",
+    "url": "https://www.somkiat.cc/testing-with-otp-from-sms-mobile/",
+    "published": "2025-07-24T14:46:26.000Z"
+  },
+  {
     "site": "poolsawat.com",
     "title": "การตั้งค่า Rate Limiting และ Throttling ที่ดี",
     "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%b1%e0%b9%89%e0%b8%87%e0%b8%84%e0%b9%88%e0%b8%b2-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-throttling-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5/",
@@ -28,12 +34,6 @@
     "title": "Terraform project structure",
     "url": "https://karnwong.me/posts/2025/07/terraform-project-structure/",
     "published": "2025-07-22T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำการ share memory หรือ context ระหว่าง AI IDE",
-    "url": "https://www.somkiat.cc/share-memory-for-ai-ide/",
-    "published": "2025-07-20T14:32:13.000Z"
   },
   {
     "site": "yuttakhanb.dev",
