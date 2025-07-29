@@ -1,9 +1,15 @@
 [
   {
     "site": "poolsawat.com",
-    "title": "SEO สำหรับนักพัฒนาเว็บ: ทำยังไงให้ Google รู้จัก",
-    "url": "https://www.poolsawat.com/seo-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%99%e0%b8%b1%e0%b8%81%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b9%80%e0%b8%a7%e0%b9%87%e0%b8%9a-%e0%b8%97%e0%b8%b3%e0%b8%a2/",
-    "published": "2025-07-27T02:09:00.000Z"
+    "title": "วิธีทำ Load Testing ระบบด้วย Apache JMeter หรือ k6",
+    "url": "https://www.poolsawat.com/%e0%b8%a7%e0%b8%b4%e0%b8%98%e0%b8%b5%e0%b8%97%e0%b8%b3-load-testing-%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-apache-jmeter-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-k6/",
+    "published": "2025-07-28T02:09:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "เช็คสุขภาพทางการเงินง่ายๆด้วยตัวเอง",
+    "url": "https://mymoneytoolkit.app/posts/financal-health",
+    "published": "2025-07-28T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -88,12 +94,6 @@
     "title": "Gobuster คืออะไร? ใช่ขบวนการจารชน โกบัสเตอร์ ป่ะ",
     "url": "https://blog.evanrintho.buzz/post/what-is-gobuster",
     "published": "2025-06-29T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Google Sheet ประเมินมูลค่าหุ้นด้วย ChatGPT",
-    "url": "https://mymoneytoolkit.app/posts/valuation",
-    "published": "2025-06-14T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
