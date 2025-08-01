@@ -1,9 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย",
+    "url": "https://www.somkiat.cc/ollama-new-app/",
+    "published": "2025-07-31T05:43:43.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "Big O Notation คืออะไร? ทำไมคนเขียนโปรแกรมควรรู้",
-    "url": "https://www.poolsawat.com/big-o-notation-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%97%e0%b8%b3%e0%b9%84%e0%b8%a1%e0%b8%84%e0%b8%99%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b9%82%e0%b8%9b/",
-    "published": "2025-07-30T02:09:00.000Z"
+    "title": "Infrastructure as Code (IaC) คืออะไร ใช้ Terraform หรือ Pulumi",
+    "url": "https://www.poolsawat.com/infrastructure-as-code-iac-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%83%e0%b8%8a%e0%b9%89-terraform-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-pulumi/",
+    "published": "2025-07-31T02:09:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Generating Presigned GET URLs for S3-Compatible Object Storage with Deno and Minio JS SDK",
+    "url": "https://notes.dt.in.th/DenoMinioPresignedGet",
+    "published": "2025-07-31T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -16,12 +28,6 @@
     "title": "Create Unit Test on Nuxt with vitest",
     "url": "https://naiwaen.debuggingsoft.com/2025/07/create-unit-test-on-nuxt-with-vitest/",
     "published": "2025-07-25T13:21:52.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนวทางการทดสอบกับระบบ OTP ผ่านมือถือ",
-    "url": "https://www.somkiat.cc/testing-with-otp-from-sms-mobile/",
-    "published": "2025-07-24T14:46:26.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -76,12 +82,6 @@
     "title": "Illustration - 2025のゆきみさん🌟",
     "url": "https://lucian.solutions/blog/202507-yukimi-satsuki",
     "published": "2025-07-11T05:30:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Quickly deploying API endpoints online with Elysia on Deno Deploy",
-    "url": "https://notes.dt.in.th/ElysiaDenoDeploy",
-    "published": "2025-07-09T00:00:00.000Z"
   },
   {
     "site": "icez.net",
