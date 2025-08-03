@@ -1,27 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust",
+    "url": "https://www.somkiat.cc/course-100-exercises-to-learn-rust/",
+    "published": "2025-08-02T14:57:36.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "รู้จักกับ Event-driven Architecture และ Kafka",
+    "url": "https://www.poolsawat.com/%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%9a-event-driven-architecture-%e0%b9%81%e0%b8%a5%e0%b8%b0-kafka/",
+    "published": "2025-08-02T02:09:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Using Service Auth for Gitea Access via Git Client + Cloudflare Tunnel",
     "url": "https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/",
     "published": "2025-08-01T13:52:12.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "ทำ Automation งานประจำด้วย Python และ Cron",
-    "url": "https://www.poolsawat.com/%e0%b8%97%e0%b8%b3-automation-%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-python-%e0%b9%81%e0%b8%a5%e0%b8%b0-cron/",
-    "published": "2025-08-01T02:09:00.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Creating a free Google Cloud Compute Engine VM in Google Cloud Shell",
     "url": "https://notes.dt.in.th/GoogleCloudFreeTier",
     "published": "2025-08-01T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Ollama App ตัวใหม่กันหน่อย",
-    "url": "https://www.somkiat.cc/ollama-new-app/",
-    "published": "2025-07-31T05:43:43.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
