@@ -1,27 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[maven] build container image with Buildpacks",
+    "url": "https://naiwaen.debuggingsoft.com/2025/08/maven-build-container-image-with-buildpacks/",
+    "published": "2025-08-04T07:18:39.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "TDD (Test Driven Development) คืออะไร? มีประโยชน์จริงหรือ?",
+    "url": "https://www.poolsawat.com/tdd-test-driven-development-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%a1%e0%b8%b5%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%82%e0%b8%a2%e0%b8%8a%e0%b8%99%e0%b9%8c%e0%b8%88/",
+    "published": "2025-08-04T02:09:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "AWS cost optimization tactics",
+    "url": "https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/",
+    "published": "2025-08-04T00:00:00.000Z"
+  },
+  {
     "site": "bigdatarpg.com",
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "End-to-End Test คืออะไร และทำด้วย Cypress ยังไง",
-    "url": "https://www.poolsawat.com/end-to-end-test-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-cypress-%e0%b8%a2%e0%b8%b1%e0%b8%87/",
-    "published": "2025-08-03T02:09:00.000Z"
-  },
-  {
     "site": "somkiat.cc",
     "title": "แนะนำ Course ฟรี เรื่อง 100 Exercises to Learn Rust",
     "url": "https://www.somkiat.cc/course-100-exercises-to-learn-rust/",
     "published": "2025-08-02T14:57:36.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Using Service Auth for Gitea Access via Git Client + Cloudflare Tunnel",
-    "url": "https://naiwaen.debuggingsoft.com/2025/08/using-service-auth-for-gitea-access-via-cloudflare-tunnel/",
-    "published": "2025-08-01T13:52:12.000Z"
   },
   {
     "site": "dt.in.th",
@@ -46,12 +52,6 @@
     "title": "Abstractions and Knowledge Graph",
     "url": "https://poom.dev/abstractions-knowledge-graph/",
     "published": "2025-07-23T11:33:01.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Terraform project structure",
-    "url": "https://karnwong.me/posts/2025/07/terraform-project-structure/",
-    "published": "2025-07-22T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
