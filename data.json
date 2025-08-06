@@ -2318,7 +2318,7 @@
       "href": "https://webring.wonderful.software#blog.luckytime1996.dev"
     },
     "lastUpdated": "2025-08-06T01:32:42.617Z",
-    "number": 129,
+    "number": 130,
     "owner": "larb26656"
   },
   "portfolio.e2ends.xyz": {
@@ -2332,7 +2332,21 @@
       "href": "https://webring.wonderful.software#portfolio.e2ends.xyz"
     },
     "lastUpdated": "2025-08-05T19:39:00.964Z",
-    "number": 130,
+    "number": 131,
     "owner": "mysbryce"
+  },
+  "nightz.me": {
+    "url": "https://nightz.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nightz.me_375w@2x.png",
+    "blurhash": "v7SPX_9FRj%MWBt7RPWBIURjM{t7WVIUt7t7t7M{t7ay~qD%ayt7?bM{t7t7",
+    "screenshotUpdatedAt": "2025-08-06T10:52:42.265Z",
+    "description": "Typescript Enjoyer",
+    "backlink": {
+      "rect": "40:40:319:584",
+      "href": "https://webring.wonderful.software#nightz.me"
+    },
+    "lastUpdated": "2025-08-06T10:52:42.265Z",
+    "number": 129,
+    "owner": "ArtifactyNight"
   }
 }
