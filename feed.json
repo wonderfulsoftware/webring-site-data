@@ -1,5 +1,17 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "Reactive Programming เบื้องต้นสำหรับ Spring WebFlux",
+    "url": "https://www.poolsawat.com/reactive-programming-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-spring-webflux/",
+    "published": "2025-08-08T02:40:00.000Z"
+  },
+  {
+    "site": "amiearth.com",
+    "title": "[🐈] ไส้อั่วกลับดาวแมวแล้ว ⭐️",
+    "url": "https://amiearth.com/blog/rip-sai-oua",
+    "published": "2025-08-08T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การ convert Postman collection ไปยัง Apache JMeter Test script",
     "url": "https://www.somkiat.cc/convert-postman-to-jmeter/",
@@ -10,12 +22,6 @@
     "title": "How to remove fixed IP in RHEL",
     "url": "https://naiwaen.debuggingsoft.com/2025/08/how-to-remove-fixed-ip-in-rhel/",
     "published": "2025-08-07T03:52:43.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "WebFlux คืออะไร? ต่างจาก Spring MVC อย่างไร",
-    "url": "https://www.poolsawat.com/webflux-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%88%e0%b8%b2%e0%b8%81-spring-mvc-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87/",
-    "published": "2025-08-07T01:56:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -142,12 +148,6 @@
     "title": "หลังจากลองทำงานเป็น penetration tester เกือบ 1 ปี",
     "url": "https://annibuliful-lab.dev/story/software-to-cybersec",
     "published": "2025-05-06T17:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "Hono ใช้กับ D1 Database ของ Cloudflare",
-    "url": "https://amiearth.com/blog/hono-d1",
-    "published": "2025-05-02T00:00:00.000Z"
   },
   {
     "site": "wawasabii.com",
