@@ -1,15 +1,21 @@
 [
   {
-    "site": "poolsawat.com",
-    "title": "โครงสร้างโปรเจกต์ WebFlux แบบง่าย ๆ",
-    "url": "https://www.poolsawat.com/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%80%e0%b8%88%e0%b8%81%e0%b8%95%e0%b9%8c-webflux-%e0%b9%81%e0%b8%9a%e0%b8%9a%e0%b8%87/",
-    "published": "2025-08-12T02:09:00.000Z"
+    "site": "somkiat.cc",
+    "title": "LangExtract :: ทำการแปลงข้อมูลจาก unstructured มาเป็น structure",
+    "url": "https://www.somkiat.cc/langextract-unstructure-to-structure-data/",
+    "published": "2025-08-13T16:36:33.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "LINQ Technique: Group / Group Join",
-    "url": "https://naiwaen.debuggingsoft.com/2025/08/linq-technique-group-gropujoin/",
-    "published": "2025-08-11T13:15:55.000Z"
+    "title": "First Second Third Party Data คืออะไร?",
+    "url": "https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/",
+    "published": "2025-08-13T08:18:01.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "การใช้งาน @RestController และ Router Functions",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-restcontroller-%e0%b9%81%e0%b8%a5%e0%b8%b0-router-functions/",
+    "published": "2025-08-13T02:09:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -22,12 +28,6 @@
     "title": "[🐈] ไส้อั่วกลับดาวแมวแล้ว ⭐️",
     "url": "https://amiearth.com/blog/rip-sai-oua",
     "published": "2025-08-08T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การ convert Postman collection ไปยัง Apache JMeter Test script",
-    "url": "https://www.somkiat.cc/convert-postman-to-jmeter/",
-    "published": "2025-08-07T16:04:46.000Z"
   },
   {
     "site": "dt.in.th",
