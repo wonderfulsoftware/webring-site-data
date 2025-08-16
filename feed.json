@@ -1,21 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "มาลองใช้ GitHub Copilot ในส่วนของ Pull Request (PR)",
+    "url": "https://naiwaen.debuggingsoft.com/2025/08/github-copilot-pull-request-first-time/",
+    "published": "2025-08-15T09:30:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาดู feature ใหม่ ๆ ใน Java 25",
-    "url": "https://www.somkiat.cc/java-25/",
-    "published": "2025-08-14T16:25:44.000Z"
+    "title": "ทาง Google ปล่อย Gemma 3 270M เป็น model ขนาดเล็กใช้ RAM เพียง 500 MB เท่านั้น",
+    "url": "https://www.somkiat.cc/gemma-3-270m/",
+    "published": "2025-08-15T02:44:07.000Z"
   },
   {
     "site": "poolsawat.com",
-    "title": "HTTP Status และ ResponseEntity ใน WebFlux",
-    "url": "https://www.poolsawat.com/http-status-%e0%b9%81%e0%b8%a5%e0%b8%b0-responseentity-%e0%b9%83%e0%b8%99-webflux/",
-    "published": "2025-08-14T02:09:00.000Z"
+    "title": "ใช้ WebClient แทน RestTemplate อย่างไร",
+    "url": "https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webclient-%e0%b9%81%e0%b8%97%e0%b8%99-resttemplate-%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3/",
+    "published": "2025-08-15T02:09:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "First Second Third Party Data คืออะไร?",
-    "url": "https://naiwaen.debuggingsoft.com/2025/08/what-are-first-second-third-party-data/",
-    "published": "2025-08-13T08:18:01.000Z"
+    "site": "mymoneytoolkit.app",
+    "title": "หารนะ MINI: เว็บช่วยหารค่าอาหาร Grab, LINE MAN และเดลิเวอรี",
+    "url": "https://mymoneytoolkit.app/posts/hannah-mini",
+    "published": "2025-08-15T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -46,12 +52,6 @@
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "เช็คสุขภาพทางการเงินง่ายๆด้วยตัวเอง",
-    "url": "https://mymoneytoolkit.app/posts/financal-health",
-    "published": "2025-07-28T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
