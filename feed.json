@@ -1,15 +1,21 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "การ Integrate กับ Kafka (Reactive Kafka / Kafka Streams)",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/",
+    "published": "2025-08-26T02:09:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Google Sheet ดู EMA หลายหุ้นพร้อมกัน",
+    "url": "https://mymoneytoolkit.app/posts/ema",
+    "published": "2025-08-26T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[C#] Semantic Kernel – Error System.Text.Json.JsonException: The JSON value could not be converted to System.String. Path: $.properties.month.type",
     "url": "https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/",
     "published": "2025-08-25T04:29:58.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "การใช้ Scheduler และ Thread Context ใน WebFlux",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-scheduler-%e0%b9%81%e0%b8%a5%e0%b8%b0-thread-context-%e0%b9%83%e0%b8%99-webflux/",
-    "published": "2025-08-25T02:09:00.000Z"
   },
   {
     "site": "amiearth.com",
@@ -28,12 +34,6 @@
     "title": "Patchies - Patch Ideas from Amazing Humans",
     "url": "https://poom.dev/patchies-amazing-humans/",
     "published": "2025-08-17T19:16:58.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "หารนะ MINI: เว็บช่วยหารค่าอาหาร Grab, LINE MAN และเดลิเวอรี",
-    "url": "https://mymoneytoolkit.app/posts/hannah-mini",
-    "published": "2025-08-15T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -232,12 +232,6 @@
     "title": "Lightweight Docker image for cURL",
     "url": "https://garden.narze.live/lightweight-docker-image-for-curl/",
     "published": "2024-10-07T00:00:00.000Z"
-  },
-  {
-    "site": "dmg.st",
-    "title": "โค้ดเปลี่ยนเลขอารบิกเป็นไทยใน MS Word",
-    "url": "https://dmg.st/convertarabictothai/",
-    "published": "2024-09-26T15:44:31.000Z"
   },
   {
     "site": "tech.duckfollow.co",
