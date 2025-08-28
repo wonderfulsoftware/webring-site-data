@@ -1,9 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "The SqlDbType enumeration value, 0, is invalid. (Parameter ‘SqlDbType’)",
+    "url": "https://naiwaen.debuggingsoft.com/2025/08/the-sqldbtype-enumeration-value-0-is-invalid-parameter-sqldbtype/",
+    "published": "2025-08-27T10:14:27.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Green Tea GC ใน Go 1.25 นิดหน่อย",
+    "url": "https://www.somkiat.cc/go-green-tea-gc/",
+    "published": "2025-08-27T07:08:40.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "การ Integrate กับ Kafka (Reactive Kafka / Kafka Streams)",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-%e0%b8%81%e0%b8%b1%e0%b8%9a-kafka-reactive-kafka-kafka-streams/",
-    "published": "2025-08-26T02:09:00.000Z"
+    "title": "Custom Operator ด้วย Reactor",
+    "url": "https://www.poolsawat.com/custom-operator-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-reactor/",
+    "published": "2025-08-27T02:09:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Static lib linking in Go program",
+    "url": "https://karnwong.me/posts/2025/08/static-lib-linking-in-go-program/",
+    "published": "2025-08-26T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -12,22 +30,10 @@
     "published": "2025-08-26T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[C#] Semantic Kernel – Error System.Text.Json.JsonException: The JSON value could not be converted to System.String. Path: $.properties.month.type",
-    "url": "https://naiwaen.debuggingsoft.com/2025/08/csharp-semantic-kernel-error-system-text-json-jsonexception-the-json-value-could-not-be-converted-to-system-string-path-properties-month-type/",
-    "published": "2025-08-25T04:29:58.000Z"
-  },
-  {
     "site": "amiearth.com",
     "title": "Nestjs Cron",
     "url": "https://amiearth.com/blog/nestjs-cron",
     "published": "2025-08-24T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาใช้งาน Node Version Manager Desktop",
-    "url": "https://www.somkiat.cc/node-version-manager-desktop/",
-    "published": "2025-08-20T02:27:43.000Z"
   },
   {
     "site": "poom.dev",
@@ -52,12 +58,6 @@
     "title": "Upserting data into Grist using n8n",
     "url": "https://notes.dt.in.th/GristUpsertN8n",
     "published": "2025-08-05T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "AWS cost optimization tactics",
-    "url": "https://karnwong.me/posts/2025/08/aws-cost-optimization-tactics/",
-    "published": "2025-08-04T00:00:00.000Z"
   },
   {
     "site": "bigdatarpg.com",
