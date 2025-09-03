@@ -1,15 +1,21 @@
 [
   {
-    "site": "poolsawat.com",
-    "title": "เชื่อมต่อกับ Redis แบบ Reactive",
-    "url": "https://www.poolsawat.com/%e0%b9%80%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a1%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%9a-redis-%e0%b9%81%e0%b8%9a%e0%b8%9a-reactive/",
-    "published": "2025-09-01T02:14:00.000Z"
+    "site": "somkiat.cc",
+    "title": "บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย",
+    "url": "https://www.somkiat.cc/install-argocd-with-minikube/",
+    "published": "2025-09-02T15:05:47.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "แนะนำ web ที่อธิบายเรื่อง Big O notation",
-    "url": "https://www.somkiat.cc/web-big-o-notation/",
-    "published": "2025-08-31T16:40:59.000Z"
+    "site": "debuggingsoft.com",
+    "title": "WP – Updating failed. Could not update post in the database",
+    "url": "https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/",
+    "published": "2025-09-02T12:37:11.000Z"
+  },
+  {
+    "site": "poolsawat.com",
+    "title": "การทำ Rate Limiting และ Circuit Breaker (Resilience4J กับ WebFlux)",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/",
+    "published": "2025-09-02T02:09:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -28,12 +34,6 @@
     "title": "Spatial join performance",
     "url": "https://karnwong.me/posts/2025/08/spatial-join-performance/",
     "published": "2025-08-30T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Oolong Yuzu",
-    "url": "https://naiwaen.debuggingsoft.com/2025/08/cr-starbucks-oolong-yuzu/",
-    "published": "2025-08-29T03:12:28.000Z"
   },
   {
     "site": "dt.in.th",
@@ -147,7 +147,7 @@
     "site": "thiti.dev",
     "title": "พัฒนาการของเด็กในแต่ละช่วงวัย",
     "url": "https://thiti.dev/blog/z1/",
-    "published": "2025-05-16T11:00:00.000Z"
+    "published": "2025-05-16T00:00:00.000Z"
   },
   {
     "site": "anewlife.dev",
