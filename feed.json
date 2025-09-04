@@ -1,5 +1,17 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "สร้างระบบ Notification (Push Event) ด้วย SSE หรือ WebSocket",
+    "url": "https://www.poolsawat.com/%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-notification-push-event-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-sse-%e0%b8%ab%e0%b8%a3%e0%b8%b7%e0%b8%ad-websocket/",
+    "published": "2025-09-03T02:09:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Managing Knowledge Publicly: Unlocking Unexpected Growth",
+    "url": "https://notes.dt.in.th/ManagingKnowledgePublicly",
+    "published": "2025-09-03T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย",
     "url": "https://www.somkiat.cc/install-argocd-with-minikube/",
@@ -10,12 +22,6 @@
     "title": "WP – Updating failed. Could not update post in the database",
     "url": "https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/",
     "published": "2025-09-02T12:37:11.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "การทำ Rate Limiting และ Circuit Breaker (Resilience4J กับ WebFlux)",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b3-rate-limiting-%e0%b9%81%e0%b8%a5%e0%b8%b0-circuit-breaker-resilience4j-%e0%b8%81%e0%b8%b1%e0%b8%9a-webflux/",
-    "published": "2025-09-02T02:09:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -34,12 +40,6 @@
     "title": "Spatial join performance",
     "url": "https://karnwong.me/posts/2025/08/spatial-join-performance/",
     "published": "2025-08-30T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Making Playwright test reports easily accessible from GitHub Actions",
-    "url": "https://notes.dt.in.th/PlaywrightAccessibleTestReports",
-    "published": "2025-08-28T00:00:00.000Z"
   },
   {
     "site": "amiearth.com",
