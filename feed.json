@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Spring Boot @ConditionalOnProperty",
+    "url": "https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/",
+    "published": "2025-09-05T12:36:26.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "การ Logging ที่เหมาะสมในระบบ Reactive",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-logging-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%ab%e0%b8%a1%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a1%e0%b9%83%e0%b8%99%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a-reactive/",
-    "published": "2025-09-04T02:09:00.000Z"
+    "title": "Deploy WebFlux App บน Kubernetes และทำ Healthcheck",
+    "url": "https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/",
+    "published": "2025-09-05T02:09:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -18,10 +24,10 @@
     "published": "2025-09-02T15:05:47.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "WP – Updating failed. Could not update post in the database",
-    "url": "https://naiwaen.debuggingsoft.com/2025/09/wp-updating-failed-could-not-update-post-in-the-database/",
-    "published": "2025-09-02T12:37:11.000Z"
+    "site": "thammarith.dev",
+    "title": "เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า",
+    "url": "https://thammarith.dev/blog/learn-swim-30s-2025/",
+    "published": "2025-08-31T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -268,12 +274,6 @@
     "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
     "url": "https://tinarskii.com/articles/shit8/",
     "published": "2024-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "thammarith.dev",
-    "title": "ฮ่องกง (2024)",
-    "url": "https://thammarith.dev/blog/hongkong-2024/",
-    "published": "2024-05-22T00:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
