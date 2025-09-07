@@ -1,15 +1,15 @@
 [
   {
+    "site": "poolsawat.com",
+    "title": "ใช้ WebFlux กับ GraphQL",
+    "url": "https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/",
+    "published": "2025-09-06T02:09:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Spring Boot @ConditionalOnProperty",
     "url": "https://naiwaen.debuggingsoft.com/2025/09/spring-boot-conditionalonproperty/",
     "published": "2025-09-05T12:36:26.000Z"
-  },
-  {
-    "site": "poolsawat.com",
-    "title": "Deploy WebFlux App บน Kubernetes และทำ Healthcheck",
-    "url": "https://www.poolsawat.com/deploy-webflux-app-%e0%b8%9a%e0%b8%99-kubernetes-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%97%e0%b8%b3-healthcheck/",
-    "published": "2025-09-05T02:09:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -46,6 +46,12 @@
     "title": "Spatial join performance",
     "url": "https://karnwong.me/posts/2025/08/spatial-join-performance/",
     "published": "2025-08-30T00:00:00.000Z"
+  },
+  {
+    "site": "jitrak.dev",
+    "title": "How to delete stuck terminating namespace in k8s",
+    "url": "https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/",
+    "published": "2025-08-29T11:15:00.000Z"
   },
   {
     "site": "amiearth.com",
@@ -274,12 +280,6 @@
     "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
     "url": "https://tinarskii.com/articles/shit8/",
     "published": "2024-07-24T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "What is Yoda conditions?",
-    "url": "https://jitrak.dev/posts/post-26-yoda-conditions/",
-    "published": "2024-05-15T04:00:00.000Z"
   },
   {
     "site": "blog.kpping.me",
