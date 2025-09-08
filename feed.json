@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Agent Client Protocol (ACP) จากทีมพัฒนาของ Zed",
+    "url": "https://www.somkiat.cc/agent-client-protocol/",
+    "published": "2025-09-07T15:06:41.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "ใช้ WebFlux กับ GraphQL",
-    "url": "https://www.poolsawat.com/%e0%b9%83%e0%b8%8a%e0%b9%89-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-graphql/",
-    "published": "2025-09-06T02:09:00.000Z"
+    "title": "การ Integrate WebFlux กับ OpenTelemetry เพื่อ Trace Request",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3-integrate-webflux-%e0%b8%81%e0%b8%b1%e0%b8%9a-opentelemetry-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad-trace-request/",
+    "published": "2025-09-07T02:09:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +22,6 @@
     "title": "Managing Knowledge Publicly: Unlocking Unexpected Growth",
     "url": "https://notes.dt.in.th/ManagingKnowledgePublicly",
     "published": "2025-09-03T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการติดตั้ง ArgoCD ใน minikube ไว้นิดหน่อย",
-    "url": "https://www.somkiat.cc/install-argocd-with-minikube/",
-    "published": "2025-09-02T15:05:47.000Z"
   },
   {
     "site": "thammarith.dev",
