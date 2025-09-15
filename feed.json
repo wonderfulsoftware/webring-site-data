@@ -1,9 +1,27 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง",
+    "url": "https://myifew.com/6708/longevity/",
+    "published": "2025-09-14T09:13:36.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น",
+    "url": "https://www.somkiat.cc/tips-spring-boot-test-context-optimization/",
+    "published": "2025-09-14T04:09:50.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "คำสั่ง SQL พื้นฐาน: CREATE TABLE, INSERT, UPDATE, DELETE, SELECT",
-    "url": "https://www.poolsawat.com/%e0%b8%84%e0%b8%b3%e0%b8%aa%e0%b8%b1%e0%b9%88%e0%b8%87-sql-%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99-create-table-insert-update-delete-select/",
-    "published": "2025-09-13T02:09:00.000Z"
+    "title": "การใช้งาน pgAdmin / psql CLI เบื้องต้น",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b8%87%e0%b8%b2%e0%b8%99-pgadmin-psql-cli-%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%89%e0%b8%99/",
+    "published": "2025-09-14T02:09:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจากงาน LINE DEV CONF 2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/",
+    "published": "2025-09-13T16:48:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -18,22 +36,10 @@
     "published": "2025-09-12T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Spec-Driven Development (SDD)",
-    "url": "https://www.somkiat.cc/spec-driven-development/",
-    "published": "2025-09-11T08:42:05.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Multi-machine work setup",
     "url": "https://karnwong.me/posts/2025/09/multi-machine-work-setup/",
     "published": "2025-09-11T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Cloud Native Bangkok Community Group #02",
-    "url": "https://naiwaen.debuggingsoft.com/2025/09/cloud-native-bangkok-community-group-02/",
-    "published": "2025-09-10T15:10:00.000Z"
   },
   {
     "site": "thammarith.dev",
@@ -100,12 +106,6 @@
     "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
     "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
     "published": "2025-07-19T09:22:12.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ลองสร้าง VEO3 video ด้วย Prompt แบบ JSON Script",
-    "url": "https://myifew.com/6699/veo3-video-prompt-json-script/",
-    "published": "2025-07-17T18:01:28.000Z"
   },
   {
     "site": "blog.nattp.page",
