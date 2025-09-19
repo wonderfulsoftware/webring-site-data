@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Parisian Ham 3 Cheeses Multigrain",
+    "url": "https://naiwaen.debuggingsoft.com/2025/09/cr-starbucks-parisian-ham-3-cheeses-multigrain/",
+    "published": "2025-09-19T08:20:06.000Z"
+  },
+  {
     "site": "poolsawat.com",
-    "title": "การใช้ Index (B-Tree, Hash, GIN, BRIN) เพื่อเร่งความเร็ว Query",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/",
-    "published": "2025-09-18T02:09:00.000Z"
+    "title": "Transactions & ACID และการใช้ BEGIN, COMMIT, ROLLBACK",
+    "url": "https://www.poolsawat.com/transactions-acid-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-begin-commit-rollback/",
+    "published": "2025-09-19T02:09:00.000Z"
   },
   {
     "site": "garden.narze.live",
@@ -28,12 +34,6 @@
     "title": "Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น",
     "url": "https://www.somkiat.cc/tips-spring-boot-test-context-optimization/",
     "published": "2025-09-14T04:09:50.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน LINE DEV CONF 2025",
-    "url": "https://naiwaen.debuggingsoft.com/2025/09/recap-line-dev-conf-2025/",
-    "published": "2025-09-13T16:48:00.000Z"
   },
   {
     "site": "rayriffy.com",
