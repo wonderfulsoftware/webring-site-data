@@ -1,9 +1,9 @@
 [
   {
     "site": "poolsawat.com",
-    "title": "การออกแบบ Database Schema ที่ดี (Normalization vs Denormalization)",
-    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9a%e0%b8%9a-database-schema-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%94%e0%b8%b5-normalization-vs-denormalization/",
-    "published": "2025-09-17T02:09:00.000Z"
+    "title": "การใช้ Index (B-Tree, Hash, GIN, BRIN) เพื่อเร่งความเร็ว Query",
+    "url": "https://www.poolsawat.com/%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-index-b-tree-hash-gin-brin-%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2/",
+    "published": "2025-09-18T02:09:00.000Z"
   },
   {
     "site": "garden.narze.live",
