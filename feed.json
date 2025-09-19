@@ -6,12 +6,6 @@
     "published": "2025-09-19T08:20:06.000Z"
   },
   {
-    "site": "poolsawat.com",
-    "title": "Transactions & ACID และการใช้ BEGIN, COMMIT, ROLLBACK",
-    "url": "https://www.poolsawat.com/transactions-acid-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89-begin-commit-rollback/",
-    "published": "2025-09-19T02:09:00.000Z"
-  },
-  {
     "site": "garden.narze.live",
     "title": "Split long screen image into single pdf file",
     "url": "https://garden.narze.live/split-long-screen-image-into-single-pdf-file/",
@@ -246,12 +240,6 @@
     "published": "2024-11-15T16:06:00.000Z"
   },
   {
-    "site": "tech.duckfollow.co",
-    "title": "ทำไมต้องใช้ Loading...",
-    "url": "https://tech.duckfollow.co/view/why-loading",
-    "published": "2024-09-06T01:00:00.000Z"
-  },
-  {
     "site": "kajame.xyz",
     "title": "เรียนรู้ NestJS - สร้าง Boilerplate มี Prisma + PostgreSQL + Swagger",
     "url": "https://kajame.xyz/blog/2024/learn-nestjs",
@@ -274,12 +262,6 @@
     "title": "มาลองเล่น TypeScript Compiler API กัน",
     "url": "https://tantatorn.xyz/posts/typescript-compiler-api/",
     "published": "2024-07-27T00:00:00.000Z"
-  },
-  {
-    "site": "tinarskii.com",
-    "title": "ชารณ์ประสบแกร์ สติปุด ฮอนกาแท็ก อิน ไทยแลนด์ แดน ออฟ สไมล์ 8",
-    "url": "https://tinarskii.com/articles/shit8/",
-    "published": "2024-07-24T00:00:00.000Z"
   },
   {
     "site": "blog.kpping.me",
@@ -310,12 +292,6 @@
     "title": "Why your Quarkus reactive codes are not executing?",
     "url": "https://guitarpawat.me/posts/the-quarkus-mistakes-pt-1/",
     "published": "2023-09-17T17:13:00.000Z"
-  },
-  {
-    "site": "taoisaman.com",
-    "title": "SEO คืออะไร ? และจะทำ SEO ได้อย่างไร",
-    "url": "https://taoisaman.com/2023/07/23/seo-%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b8%b0%e0%b9%84%e0%b8%a3-%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%88%e0%b8%b0%e0%b8%97%e0%b8%b3-seo-%e0%b9%84%e0%b8%94%e0%b9%89%e0%b8%ad%e0%b8%a2%e0%b9%88/",
-    "published": "2023-07-23T16:07:20.000Z"
   },
   {
     "site": "toupawa.com",
@@ -388,12 +364,6 @@
     "title": "Programming and motivation",
     "url": "https://wonderful.software/programming-and-motivation/",
     "published": "2021-03-14T00:00:00.000Z"
-  },
-  {
-    "site": "dont.works",
-    "title": "สร้าง User / Password / Database เพิ่มใน PostgreSQL ที่รันอยู่ใน Docker container",
-    "url": "https://i.dont.works/create-user-pass-db-in-pg-docker/",
-    "published": "2021-01-25T12:47:49.000Z"
   },
   {
     "site": "supavitk.com",
