@@ -2353,5 +2353,19 @@
     "lastUpdated": "2025-09-22T01:17:18.026Z",
     "number": 19,
     "owner": "savepong"
+  },
+  "knot-dev.me": {
+    "url": "https://www.knot-dev.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/knot-dev.me_375w@2x.png",
+    "blurhash": "v3SigQ4.%Nn%tQbFIoWB_4-pM{M|%MRPofoJ~XRjWBt6-;oeaxRjD%t7t7kC",
+    "screenshotUpdatedAt": "2025-09-22T12:17:51.203Z",
+    "description": "Software developer in Thailand specializing in creating web applications, mobile applications",
+    "backlink": {
+      "rect": "24:24:94:36",
+      "href": "https://webring.wonderful.software#knot-dev.me"
+    },
+    "lastUpdated": "2025-09-22T12:17:51.203Z",
+    "number": 123,
+    "owner": "Notties"
   }
 }
