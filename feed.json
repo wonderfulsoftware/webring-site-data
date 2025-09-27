@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี GitHub Copilot CLI",
+    "url": "https://www.somkiat.cc/hello-github-copilot-cli/",
+    "published": "2025-09-26T16:00:12.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Error This implementation is not part of the Windows Platform FIPS validated cryptographic algorithms",
     "url": "https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/",
@@ -28,12 +34,6 @@
     "title": "Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง",
     "url": "https://myifew.com/6708/longevity/",
     "published": "2025-09-14T09:13:36.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Tips :: ปรับปรุงการทำงานของ Spring Boot Test Context ให้รวดเร็วขึ้น",
-    "url": "https://www.somkiat.cc/tips-spring-boot-test-context-optimization/",
-    "published": "2025-09-14T04:09:50.000Z"
   },
   {
     "site": "rayriffy.com",
