@@ -1,9 +1,15 @@
 [
   {
+    "site": "rayriffy.com",
+    "title": "Code-signing macOS binary",
+    "url": "https://rayriffy.com/garden/code-signing-macos-binary/",
+    "published": "2025-09-28T11:10:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Tip :: แนวทางการตรวจสอบ folder ที่เปลี่ยนแปลงใน Jenkins pipeline",
-    "url": "https://www.somkiat.cc/tip-jenkins-pipeline-detect-changes-by-folder/",
-    "published": "2025-09-27T05:35:17.000Z"
+    "title": "ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ",
+    "url": "https://www.somkiat.cc/subagent-with-claude-code/",
+    "published": "2025-09-28T05:31:45.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -34,12 +40,6 @@
     "title": "Longevity: กระแสยืดอายุ ที่ใคร ๆ ก็พูดถึง แต่ไม่ใช่ทุกคนที่จะได้ทำจริง",
     "url": "https://myifew.com/6708/longevity/",
     "published": "2025-09-14T09:13:36.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Internationalized domain name converter",
-    "url": "https://rayriffy.com/garden/punycode-converter/",
-    "published": "2025-09-12T07:05:00.000Z"
   },
   {
     "site": "karnwong.me",
