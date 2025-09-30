@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "9arm ชวนกิน Taco Bell",
+    "url": "https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/",
+    "published": "2025-09-29T02:26:19.000Z"
+  },
+  {
     "site": "rayriffy.com",
     "title": "Code-signing macOS binary",
     "url": "https://rayriffy.com/garden/code-signing-macos-binary/",
@@ -10,12 +16,6 @@
     "title": "ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ",
     "url": "https://www.somkiat.cc/subagent-with-claude-code/",
     "published": "2025-09-28T05:31:45.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Error This implementation is not part of the Windows Platform FIPS validated cryptographic algorithms",
-    "url": "https://naiwaen.debuggingsoft.com/2025/09/error-this-implementation-is-not-part-of-the-windows-platform-fips-validated-cryptographic-algorithms/",
-    "published": "2025-09-24T07:48:50.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
