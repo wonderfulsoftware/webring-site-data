@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "9arm ชวนกิน Taco Bell",
-    "url": "https://naiwaen.debuggingsoft.com/2025/09/9arm-sell-taco-bell/",
-    "published": "2025-09-29T02:26:19.000Z"
+    "title": "ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/",
+    "published": "2025-10-01T08:40:09.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script",
+    "url": "https://dt.in.th/GmailToGoogleDrive",
+    "published": "2025-10-01T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -28,12 +34,6 @@
     "title": "Force macOS to go to sleep after a set time",
     "url": "https://garden.narze.live/force-macos-to-go-to-sleep-after-a-set-time/",
     "published": "2025-09-22T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Chrome's undocumented DownloadURL API for drag-and-drop file downloads",
-    "url": "https://dt.in.th/DownloadURL",
-    "published": "2025-09-18T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
