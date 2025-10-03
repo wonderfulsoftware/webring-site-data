@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table",
+    "url": "https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/",
+    "published": "2025-10-02T13:12:45.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/",
@@ -16,12 +22,6 @@
     "title": "Code-signing macOS binary",
     "url": "https://rayriffy.com/garden/code-signing-macos-binary/",
     "published": "2025-09-28T11:10:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าง ๆ มาใช้งาน SubAgent ใน Claude Code แบบง่าย ๆ",
-    "url": "https://www.somkiat.cc/subagent-with-claude-code/",
-    "published": "2025-09-28T05:31:45.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
