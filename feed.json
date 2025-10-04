@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองมาทำ Data Dictionary โดยใช้ Claude Desktop + MCP Server กัน",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/create-data-dictionary-by-using-claude-desktop-mcp-server/",
+    "published": "2025-10-03T08:32:20.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table",
     "url": "https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/",
     "published": "2025-10-02T13:12:45.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลองใช้ Microsoft SQL Server mcp server กับ Claude Desktop กัน",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/how-to-microsoft-sql-server-mcp-server-with-claude-desktop/",
-    "published": "2025-10-01T08:40:09.000Z"
   },
   {
     "site": "dt.in.th",
