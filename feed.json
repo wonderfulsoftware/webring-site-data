@@ -1,5 +1,11 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "How to mock Datetime in Jest",
+    "url": "https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/",
+    "published": "2025-10-05T11:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Éclair Vanilla",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/cr-starbucks-eclair-vanilla/",
@@ -58,12 +64,6 @@
     "title": "Illustration - ダスカ(2025)",
     "url": "https://lucian.solutions/blog/202508-daiwascarlet",
     "published": "2025-08-30T21:20:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "How to delete stuck terminating namespace in k8s",
-    "url": "https://jitrak.dev/posts/post-33-how-to-delete-stuck-terminating-namespace-in-k8s/",
-    "published": "2025-08-29T11:15:00.000Z"
   },
   {
     "site": "amiearth.com",
