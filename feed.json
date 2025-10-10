@@ -1,21 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Playwright Agents ใน Playwright 1.56",
+    "url": "https://www.somkiat.cc/playwright-agents/",
+    "published": "2025-10-09T16:19:20.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[CR] Gin Sara-Chirashi 3 Layers Matsu Set",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/cr-gin-sara-chirashi-3-layers-matsu-set/",
-    "published": "2025-10-07T08:13:58.000Z"
+    "title": "Using swag (from swaggo) to generating Swagger/OpenAPI documentation in your Go project",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/",
+    "published": "2025-10-09T07:00:07.000Z"
   },
   {
     "site": "jitrak.dev",
     "title": "How to mock Datetime in Jest",
     "url": "https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/",
     "published": "2025-10-05T11:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน PostgreSQL สำหรับเก็บ data caching ด้วย Unlogged table",
-    "url": "https://www.somkiat.cc/postgresql-with-data-caching-with-unlogged-table/",
-    "published": "2025-10-02T13:12:45.000Z"
   },
   {
     "site": "dt.in.th",
