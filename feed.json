@@ -1,5 +1,11 @@
 [
   {
+    "site": "rayriffy.com",
+    "title": "LL: SEGA account injection incident on 2022",
+    "url": "https://rayriffy.com/garden/sega-account-inject-2022/",
+    "published": "2025-10-10T04:09:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สวัสดี Playwright Agents ใน Playwright 1.56",
     "url": "https://www.somkiat.cc/playwright-agents/",
@@ -22,12 +28,6 @@
     "title": "Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script",
     "url": "https://dt.in.th/GmailToGoogleDrive",
     "published": "2025-10-01T00:00:00.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Code-signing macOS binary",
-    "url": "https://rayriffy.com/garden/code-signing-macos-binary/",
-    "published": "2025-09-28T11:10:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
