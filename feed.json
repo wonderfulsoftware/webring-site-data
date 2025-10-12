@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/",
+    "published": "2025-10-11T10:34:57.000Z"
+  },
+  {
     "site": "rayriffy.com",
     "title": "LL: SEGA account injection incident on 2022",
     "url": "https://rayriffy.com/garden/sega-account-inject-2022/",
@@ -10,12 +16,6 @@
     "title": "สวัสดี Playwright Agents ใน Playwright 1.56",
     "url": "https://www.somkiat.cc/playwright-agents/",
     "published": "2025-10-09T16:19:20.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Using swag (from swaggo) to generating Swagger/OpenAPI documentation in your Go project",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/using-swag-from-swaggo-to-generating-swagger-openapi-documentation-in-your-go-project/",
-    "published": "2025-10-09T07:00:07.000Z"
   },
   {
     "site": "jitrak.dev",
