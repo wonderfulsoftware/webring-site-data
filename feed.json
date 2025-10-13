@@ -1,5 +1,17 @@
 [
   {
+    "site": "yuttakhanb.dev",
+    "title": "Thought dump on doing side project",
+    "url": "https://yuttakhanb.dev/posts/side-project-thought-dump/",
+    "published": "2025-10-12T07:30:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Python 3.14 กัน",
+    "url": "https://www.somkiat.cc/hello-python-3-14/",
+    "published": "2025-10-12T07:01:35.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/",
@@ -10,12 +22,6 @@
     "title": "LL: SEGA account injection incident on 2022",
     "url": "https://rayriffy.com/garden/sega-account-inject-2022/",
     "published": "2025-10-10T04:09:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Playwright Agents ใน Playwright 1.56",
-    "url": "https://www.somkiat.cc/playwright-agents/",
-    "published": "2025-10-09T16:19:20.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -94,12 +100,6 @@
     "title": "ทำความรู้จัก Solana 101 แบบเดฟ ๆ",
     "url": "https://www.mikkipastel.com/solana-101-by-developer/",
     "published": "2025-07-23T11:34:10.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "Writeups on automating generating code with Figma MCP",
-    "url": "https://yuttakhanb.dev/posts/figma-mcp-writeup/",
-    "published": "2025-07-19T14:00:00.000Z"
   },
   {
     "site": "thanapon.info",
