@@ -1,5 +1,23 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/",
+    "published": "2025-10-13T11:15:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Publishing and consuming npm packages via GitHub Releases",
+    "url": "https://dt.in.th/NpmPackagesViaGitHubReleases",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว",
+    "url": "https://mymoneytoolkit.app/posts/dr-web",
+    "published": "2025-10-13T00:00:00.000Z"
+  },
+  {
     "site": "yuttakhanb.dev",
     "title": "Thought dump on doing side project",
     "url": "https://yuttakhanb.dev/posts/side-project-thought-dump/",
@@ -12,12 +30,6 @@
     "published": "2025-10-12T07:01:35.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "Connection String สำหรับ App ที่ต่อกับ MSSQL ที่กำหนด MultiSubnetFailover",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/connection-string-for-application-that-connect-with-mssql-with-multi-subnet-failover/",
-    "published": "2025-10-11T10:34:57.000Z"
-  },
-  {
     "site": "rayriffy.com",
     "title": "LL: SEGA account injection incident on 2022",
     "url": "https://rayriffy.com/garden/sega-account-inject-2022/",
@@ -28,18 +40,6 @@
     "title": "How to mock Datetime in Jest",
     "url": "https://jitrak.dev/posts/post-34-how-to-mock-datetime-in-jest/",
     "published": "2025-10-05T11:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Automatically saving Gmail messages to Google Drive as EML files using Google Apps Script",
-    "url": "https://dt.in.th/GmailToGoogleDrive",
-    "published": "2025-10-01T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "มารู้จัก Webull – อีกหนึ่ง Trading App ระดับสากลที่เราอยากให้ลอง",
-    "url": "https://mymoneytoolkit.app/posts/webull",
-    "published": "2025-09-23T00:00:00.000Z"
   },
   {
     "site": "garden.narze.live",
