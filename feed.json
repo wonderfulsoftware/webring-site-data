@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Bun 1.3 :: Full‑stack JavaScript",
+    "url": "https://www.somkiat.cc/try-bun-1-3/",
+    "published": "2025-10-14T09:29:25.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/",
@@ -22,12 +28,6 @@
     "title": "Thought dump on doing side project",
     "url": "https://yuttakhanb.dev/posts/side-project-thought-dump/",
     "published": "2025-10-12T07:30:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Python 3.14 กัน",
-    "url": "https://www.somkiat.cc/hello-python-3-14/",
-    "published": "2025-10-12T07:01:35.000Z"
   },
   {
     "site": "rayriffy.com",
