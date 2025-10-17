@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก From Chaos to Clarity จูนทีมเทคให้ตรงจุดจนสร้าง Product ได้ตรงใจ",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/",
+    "published": "2025-10-17T00:19:35.000Z"
+  },
+  {
+    "site": "rayriffy.com",
+    "title": "Service Discontinuation of PaiLeaw",
+    "url": "https://rayriffy.com/garden/paileaw-discontinuation/",
+    "published": "2025-10-16T04:23:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "เมืองคอง ที่คิด(ไม่)ถึง",
     "url": "https://myifew.com/6719/muang-kong/",
@@ -18,12 +30,6 @@
     "published": "2025-10-14T09:29:25.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "เมื่อ DEV ลองไป Workshop Windows Server and Active Directory Domain Services",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/dev-take-course-workshop-windows-server-and-active-directory-domain-services/",
-    "published": "2025-10-13T11:15:00.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Publishing and consuming npm packages via GitHub Releases",
     "url": "https://dt.in.th/NpmPackagesViaGitHubReleases",
@@ -40,12 +46,6 @@
     "title": "Thought dump on doing side project",
     "url": "https://yuttakhanb.dev/posts/side-project-thought-dump/",
     "published": "2025-10-12T07:30:00.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "LL: SEGA account injection incident on 2022",
-    "url": "https://rayriffy.com/garden/sega-account-inject-2022/",
-    "published": "2025-10-10T04:09:00.000Z"
   },
   {
     "site": "jitrak.dev",
