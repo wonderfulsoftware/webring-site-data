@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "จดๆจาก From Chaos to Clarity จูนทีมเทคให้ตรงจุดจนสร้าง Product ได้ตรงใจ",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/kbtg-from-chaos-to-clarity-tune-team-good-product/",
-    "published": "2025-10-17T00:19:35.000Z"
+    "title": "เพิ่ม GitLab Runner โดยใช้ Authentication Token",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/",
+    "published": "2025-10-17T10:02:55.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "บันทึกการทำระบบสำหรับโครงการ AI for Teachers ด้วย Supabase เพื่อรองรับการใช้งานพร้อมกันหลักหมื่นคน",
+    "url": "https://dt.in.th/AIforTeachersWriteup",
+    "published": "2025-10-17T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
@@ -30,12 +36,6 @@
     "published": "2025-10-14T09:29:25.000Z"
   },
   {
-    "site": "dt.in.th",
-    "title": "Publishing and consuming npm packages via GitHub Releases",
-    "url": "https://dt.in.th/NpmPackagesViaGitHubReleases",
-    "published": "2025-10-13T00:00:00.000Z"
-  },
-  {
     "site": "mymoneytoolkit.app",
     "title": "DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว",
     "url": "https://mymoneytoolkit.app/posts/dr-web",
@@ -58,6 +58,12 @@
     "title": "Multi-machine work setup",
     "url": "https://karnwong.me/posts/2025/09/multi-machine-work-setup/",
     "published": "2025-09-11T00:00:00.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "OpenSSL คืออะไร",
+    "url": "https://thiti.dev/blog/29/",
+    "published": "2025-09-04T00:00:00.000Z"
   },
   {
     "site": "thammarith.dev",
@@ -154,12 +160,6 @@
     "title": "MCP Basic",
     "url": "https://mikelopster.dev/posts/mcp-basic/",
     "published": "2025-05-19T00:00:00.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "พัฒนาการของเด็กในแต่ละช่วงวัย",
-    "url": "https://thiti.dev/blog/z1/",
-    "published": "2025-05-16T00:00:00.000Z"
   },
   {
     "site": "anewlife.dev",
