@@ -1,5 +1,11 @@
 [
   {
+    "site": "anuwong.com",
+    "title": "Biome ยุติสงครามระหว่าง ESLint และ Prettier",
+    "url": "https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/",
+    "published": "2025-10-18T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "เพิ่ม GitLab Runner โดยใช้ Authentication Token",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/add-gitlab-runner-by-authentication-token/",
@@ -268,12 +274,6 @@
     "title": "รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++",
     "url": "https://blog.kpping.me/posts/long-term-review-cx-5/",
     "published": "2024-05-08T08:20:32.000Z"
-  },
-  {
-    "site": "anuwong.com",
-    "title": "จัดการ dotfiles ด้วย chezmoi",
-    "url": "https://www.anuwong.com/blog/manage-dotfiles-with-chezmoi/",
-    "published": "2024-05-01T08:27:48.000Z"
   },
   {
     "site": "boonsong.dev",
