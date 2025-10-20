@@ -1,9 +1,9 @@
 [
   {
     "site": "anuwong.com",
-    "title": "Biome ยุติสงครามระหว่าง ESLint และ Prettier",
-    "url": "https://www.anuwong.com/blogs/2025/10/18-biome-come-to-save-your-ass/",
-    "published": "2025-10-18T00:00:00.000Z"
+    "title": "Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET)",
+    "url": "https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/",
+    "published": "2025-10-19T07:28:39.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -70,12 +70,6 @@
     "title": "OpenSSL คืออะไร",
     "url": "https://thiti.dev/blog/29/",
     "published": "2025-09-04T00:00:00.000Z"
-  },
-  {
-    "site": "thammarith.dev",
-    "title": "เริ่มเรียนว่ายน้ำใหม่ตอนอายุสามสิบกว่า",
-    "url": "https://thammarith.dev/blog/learn-swim-30s-2025/",
-    "published": "2025-08-31T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -268,6 +262,12 @@
     "title": "มาลองเล่น TypeScript Compiler API กัน",
     "url": "https://tantatorn.xyz/posts/typescript-compiler-api/",
     "published": "2024-07-27T00:00:00.000Z"
+  },
+  {
+    "site": "thammarith.dev",
+    "title": "ฮ่องกง (2024)",
+    "url": "https://thammarith.dev/blog/hongkong-2024/",
+    "published": "2024-05-22T00:00:00.000Z"
   },
   {
     "site": "blog.kpping.me",
