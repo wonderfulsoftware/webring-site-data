@@ -1,9 +1,15 @@
 [
   {
+    "site": "blog.nattp.page",
+    "title": "ความรู้สึกหลังอ่าน: I hope this doesn't find you",
+    "url": "https://blog.nattp.page/article/i-hope-this-doesnt-find-you/",
+    "published": "2025-10-21T15:45:48.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "Try using NuGet Explorer to Pack dll into a NuGet Package (.nupkg)",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/use-nuget-explorer-for-pack-dll-as-nuget-package-ext-nupkg-english-blog/",
-    "published": "2025-10-20T05:53:09.000Z"
+    "title": "How to Install Windows 11 with a Local Account",
+    "url": "https://naiwaen.debuggingsoft.com/2025/10/how-to-install-windows-11-with-a-local-account/",
+    "published": "2025-10-21T15:36:07.000Z"
   },
   {
     "site": "anuwong.com",
@@ -112,12 +118,6 @@
     "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
     "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
     "published": "2025-07-19T09:22:12.000Z"
-  },
-  {
-    "site": "blog.nattp.page",
-    "title": "ความรู้สึกหลังอ่าน: Neuromancer",
-    "url": "https://blog.nattp.page/article/neuromancer/",
-    "published": "2025-07-15T12:08:19.000Z"
   },
   {
     "site": "blog.oatto.dev",
