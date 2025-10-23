@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "เมื่อ Langchain 1.0 ปล่อยออกมา งานจึงเข้า !!",
+    "url": "https://www.somkiat.cc/langchain-1/",
+    "published": "2025-10-22T15:19:07.000Z"
+  },
+  {
     "site": "blog.nattp.page",
     "title": "ความรู้สึกหลังอ่าน: I hope this doesn't find you",
     "url": "https://blog.nattp.page/article/i-hope-this-doesnt-find-you/",
@@ -40,12 +46,6 @@
     "title": "Bambu Lab A1 Essentials",
     "url": "https://garden.narze.live/bambu-lab-a1-essentials/",
     "published": "2025-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สวัสดี Bun 1.3 :: Full‑stack JavaScript",
-    "url": "https://www.somkiat.cc/try-bun-1-3/",
-    "published": "2025-10-14T09:29:25.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
