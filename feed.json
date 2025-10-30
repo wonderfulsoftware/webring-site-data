@@ -1,5 +1,11 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "บันทึกการเทรด มาดูกันว่าตามสถิติ เราเก่งแค่ไหน",
+    "url": "https://mymoneytoolkit.app/posts/trading-journal",
+    "published": "2025-10-29T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[DB2] ERROR [55039] [IBM][DB2/LINUXX8664] SQL0290N Table space access is not allowed.",
     "url": "https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/",
@@ -52,12 +58,6 @@
     "title": "Bambu Lab A1 Essentials",
     "url": "https://garden.narze.live/bambu-lab-a1-essentials/",
     "published": "2025-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "DR ไหน — เว็บสำรวจ คำนวณราคา และใช้ AI ช่วยสรุปข่าวหุ้นต่างประเทศได้ในที่เดียว",
-    "url": "https://mymoneytoolkit.app/posts/dr-web",
-    "published": "2025-10-13T00:00:00.000Z"
   },
   {
     "site": "yuttakhanb.dev",
