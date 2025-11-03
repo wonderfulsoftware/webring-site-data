@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "DevFest Cloud Bangkok 2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/11/recap-devfest-cloud-bangkok-2025/",
+    "published": "2025-11-02T04:30:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Spring Boot 4​ :: เรื่อง modularization",
     "url": "https://www.somkiat.cc/spring-boot-4-modularization/",
@@ -10,12 +16,6 @@
     "title": "บันทึกการเทรด มาดูกันว่าตามสถิติ เราเก่งแค่ไหน",
     "url": "https://mymoneytoolkit.app/posts/trading-journal",
     "published": "2025-10-29T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[DB2] ERROR [55039] [IBM][DB2/LINUXX8664] SQL0290N Table space access is not allowed.",
-    "url": "https://naiwaen.debuggingsoft.com/2025/10/db2-error-55039-ibmdb2-linuxx8664-sql0290n-table-space-access-is-not-allowed/",
-    "published": "2025-10-27T10:08:42.000Z"
   },
   {
     "site": "mesodiar.com",
