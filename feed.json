@@ -1,15 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "DevExpress XtraReport Hide Header on Last Page If no record",
+    "url": "https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-hide-header-on-last-page-if-no-record/",
+    "published": "2025-11-13T04:53:51.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Generating Material Design 3 Dynamic Color Scheme with JavaScript",
+    "url": "https://dt.in.th/M3DynamicColorJS",
+    "published": "2025-11-13T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "การใช้งาน Share Consumer Support (Kafka Queues) ใน Spring for Apache Kafka",
     "url": "https://www.somkiat.cc/kafka-queues-in-spring-for-apache-kafka/",
     "published": "2025-11-10T16:23:08.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[DevExpress] XtraReport – XRPictureBox Relative ImageUrl Path",
-    "url": "https://naiwaen.debuggingsoft.com/2025/11/devexpress-xtrareport-xrpicturebox-relative-imageurl-path/",
-    "published": "2025-11-10T04:49:55.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -34,12 +40,6 @@
     "title": "Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET)",
     "url": "https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/",
     "published": "2025-10-19T07:28:39.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "บันทึกการทำระบบสำหรับโครงการ AI for Teachers ด้วย Supabase เพื่อรองรับการใช้งานพร้อมกันหลักหมื่นคน",
-    "url": "https://dt.in.th/AIforTeachersWriteup",
-    "published": "2025-10-17T00:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
