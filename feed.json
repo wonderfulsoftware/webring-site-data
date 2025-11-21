@@ -1,15 +1,15 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "How I initialize a Node.js project (Node 24.x + TypeScript without build step)",
+    "url": "https://dt.in.th/NodeInit",
+    "published": "2025-11-20T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "แวะมาพบเพื่อน Golang Beyond Meetup 2025 @KKP",
     "url": "https://naiwaen.debuggingsoft.com/2025/11/reunioun-my-ex-colleagues-at-golang-beyond-meetup-2025/",
     "published": "2025-11-19T21:54:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Implementing Conditional Updates in PocketBase",
-    "url": "https://dt.in.th/PocketBaseConditionalUpdates",
-    "published": "2025-11-16T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
