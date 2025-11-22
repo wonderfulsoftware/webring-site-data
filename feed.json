@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา",
+    "url": "https://www.somkiat.cc/n8n-queue-mode-and-task-runner/",
+    "published": "2025-11-21T23:49:05.000Z"
+  },
+  {
     "site": "dt.in.th",
-    "title": "How I initialize a Node.js project (Node 24.x + TypeScript without build step)",
-    "url": "https://dt.in.th/NodeInit",
-    "published": "2025-11-20T00:00:00.000Z"
+    "title": "Persistent aliases in Fish",
+    "url": "https://dt.in.th/FishPersistentAlias",
+    "published": "2025-11-21T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +22,6 @@
     "title": "DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน?",
     "url": "https://mymoneytoolkit.app/posts/dca-compare",
     "published": "2025-11-16T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Token-Oriented Object Notation (TOON)",
-    "url": "https://www.somkiat.cc/hello-toon/",
-    "published": "2025-11-15T05:46:12.000Z"
   },
   {
     "site": "mesodiar.com",
