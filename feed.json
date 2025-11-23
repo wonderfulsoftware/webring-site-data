@@ -1,15 +1,21 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "DJMAX - DPC2025 Review by Lucian & Torakaze",
+    "url": "https://lucian.solutions/blog/2025-dpc-reviews",
+    "published": "2025-11-22T14:55:09.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using Docker CLI locally against a remote Docker Daemon via SSH",
+    "url": "https://dt.in.th/DockerRemoteContext",
+    "published": "2025-11-22T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา",
     "url": "https://www.somkiat.cc/n8n-queue-mode-and-task-runner/",
     "published": "2025-11-21T23:49:05.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Persistent aliases in Fish",
-    "url": "https://dt.in.th/FishPersistentAlias",
-    "published": "2025-11-21T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -82,12 +88,6 @@
     "title": "OpenSSL คืออะไร",
     "url": "https://thiti.dev/blog/29/",
     "published": "2025-09-04T00:00:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - ダスカ(2025)",
-    "url": "https://lucian.solutions/blog/202508-daiwascarlet",
-    "published": "2025-08-30T21:20:00.000Z"
   },
   {
     "site": "amiearth.com",
