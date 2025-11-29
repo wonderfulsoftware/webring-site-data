@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Spring Boot 4.0.0",
+    "url": "https://www.somkiat.cc/hello-spring-boot-4/",
+    "published": "2025-11-28T15:36:56.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Web speech-to-text",
     "url": "https://dt.in.th/WebSpeechToText",
@@ -9,6 +15,12 @@
     "site": "blog.ninprd.com",
     "title": "จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน",
     "url": "https://blog.ninprd.com/blog/typhoon-ai-isan/",
+    "published": "2025-11-27T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Google Sheet คำนวณ Margin of Safety ของหุ้น",
+    "url": "https://mymoneytoolkit.app/posts/margin-of-safety",
     "published": "2025-11-27T00:00:00.000Z"
   },
   {
@@ -22,18 +34,6 @@
     "title": "DJMAX - DPC2025 Review by Lucian & Torakaze",
     "url": "https://lucian.solutions/blog/2025-dpc-reviews",
     "published": "2025-11-22T14:55:09.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการติดตั้ง n8n ใน queue mode และแยก task runner ออกมา",
-    "url": "https://www.somkiat.cc/n8n-queue-mode-and-task-runner/",
-    "published": "2025-11-21T23:49:05.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "DCA เหมือนกันแต่ค่าธรรมเนียมต่างกันมีผลแค่ไหน?",
-    "url": "https://mymoneytoolkit.app/posts/dca-compare",
-    "published": "2025-11-16T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
