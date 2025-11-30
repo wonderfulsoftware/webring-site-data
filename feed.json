@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "สวัสดี Spring Boot 4.0.0",
-    "url": "https://www.somkiat.cc/hello-spring-boot-4/",
-    "published": "2025-11-28T15:36:56.000Z"
+    "title": "การใช้งาน OpenTelemetry ใน Spring Boot 4.0.0",
+    "url": "https://www.somkiat.cc/opentelemetry-in-spring-boot-4/",
+    "published": "2025-11-29T11:00:01.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คู่มือการใช้งาน แพลนตัง วางแผนเกษียณ",
+    "url": "https://mymoneytoolkit.app/posts/retirement-web-handbook",
+    "published": "2025-11-29T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -15,12 +21,6 @@
     "site": "blog.ninprd.com",
     "title": "จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน",
     "url": "https://blog.ninprd.com/blog/typhoon-ai-isan/",
-    "published": "2025-11-27T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Google Sheet คำนวณ Margin of Safety ของหุ้น",
-    "url": "https://mymoneytoolkit.app/posts/margin-of-safety",
     "published": "2025-11-27T00:00:00.000Z"
   },
   {
