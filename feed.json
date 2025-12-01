@@ -1,15 +1,27 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "สรุปงาน .NET Conf TH 2025",
+    "url": "https://naiwaen.debuggingsoft.com/2025/11/recap-dotnet-conf-th-2025/",
+    "published": "2025-11-30T10:16:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "การใช้งาน OpenTelemetry ใน Spring Boot 4.0.0",
-    "url": "https://www.somkiat.cc/opentelemetry-in-spring-boot-4/",
-    "published": "2025-11-29T11:00:01.000Z"
+    "title": "มาลองใช้งาน Kiro CLI กัน",
+    "url": "https://www.somkiat.cc/kiro-cli/",
+    "published": "2025-11-30T04:14:47.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
     "title": "คู่มือการใช้งาน แพลนตัง วางแผนเกษียณ",
     "url": "https://mymoneytoolkit.app/posts/retirement-web-handbook",
-    "published": "2025-11-29T00:00:00.000Z"
+    "published": "2025-11-30T00:00:00.000Z"
+  },
+  {
+    "site": "blog.luckytime1996.dev",
+    "title": "เชื่อม Codex กับ Figma MCP",
+    "url": "https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/",
+    "published": "2025-11-30T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
@@ -22,12 +34,6 @@
     "title": "จด ๆ จากงาน Typhoon เฮ็ดให้ AI ใจอีสาน",
     "url": "https://blog.ninprd.com/blog/typhoon-ai-isan/",
     "published": "2025-11-27T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[NET] Dockerfile for Blazer WASM",
-    "url": "https://naiwaen.debuggingsoft.com/2025/11/dotnet-dockerfile-for-blazer-wasm/",
-    "published": "2025-11-26T06:39:54.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -106,12 +112,6 @@
     "title": "Patchies - Patch Ideas from Amazing Humans",
     "url": "https://poom.dev/patchies-amazing-humans/",
     "published": "2025-08-17T19:16:58.000Z"
-  },
-  {
-    "site": "blog.luckytime1996.dev",
-    "title": "มาลองใช้ Obsidian คู่กับ Astro กันเถอะ!",
-    "url": "https://blog.luckytime1996.dev/blog/9-how-to-use-obsidian-with-astro/",
-    "published": "2025-08-07T00:00:00.000Z"
   },
   {
     "site": "bigdatarpg.com",
