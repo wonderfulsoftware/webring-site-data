@@ -2393,5 +2393,19 @@
     "lastUpdated": "2025-12-03T19:10:27.645Z",
     "number": 123,
     "owner": "Pavich7"
+  },
+  "tnpgot.me": {
+    "url": "https://www.tnpgot.me",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/tnpgot.me_375w@2x.png",
+    "blurhash": "vJRyshoe_Mn,~qjcD%bY4nWU%Mjb_3juIBa{f8WBbFoMIUofxbWB%MaeRikC",
+    "screenshotUpdatedAt": "2025-12-03T19:13:08.528Z",
+    "description": "Portfolio of Thanaphat Thongburee, Developer and Photographer",
+    "backlink": {
+      "rect": "32:32:171.5:2369.75",
+      "href": "https://webring.wonderful.software#www.tnpgot.me"
+    },
+    "lastUpdated": "2025-12-03T19:13:08.528Z",
+    "number": 124,
+    "owner": "Gotzastory"
   }
 }
