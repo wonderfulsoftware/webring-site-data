@@ -2379,5 +2379,19 @@
     "lastUpdated": "2025-12-03T01:23:34.082Z",
     "number": 83,
     "owner": "toonshouin"
+  },
+  "pavich.dev": {
+    "url": "https://pavich.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pavich.dev_375w@2x.png",
+    "blurhash": "v38Ws+-p00RjK8o#j?V@00Si~qoL^it7tlkC~q-VD%Na.8t7MxNG$%t7%1Rk",
+    "screenshotUpdatedAt": "2025-12-03T19:10:27.645Z",
+    "description": "Welcome to pavich.dev!",
+    "backlink": {
+      "rect": "22:25:334.25:3276.5",
+      "href": "https://webring.wonderful.software#pavich.dev"
+    },
+    "lastUpdated": "2025-12-03T19:10:27.645Z",
+    "number": 123,
+    "owner": "Pavich7"
   }
 }
