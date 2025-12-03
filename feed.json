@@ -1,15 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "แนะนำการใช้งาน TSDiagram",
-    "url": "https://www.somkiat.cc/hello-tsdiagram/",
-    "published": "2025-12-01T13:48:16.000Z"
+    "title": "Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6",
+    "url": "https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/",
+    "published": "2025-12-02T09:32:06.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "วาร์ปมาจด AI Community Day Bangkok 2025",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/recap-ai-community-day-bangkok-2025/",
-    "published": "2025-12-01T03:10:00.000Z"
+    "title": "How to modernize current dotnet REST API to MCP Server",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/",
+    "published": "2025-12-02T06:25:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Grist TypeScript Type Generator",
+    "url": "https://dt.in.th/GristTypeGenerator",
+    "published": "2025-12-02T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -22,12 +28,6 @@
     "title": "เชื่อม Codex กับ Figma MCP",
     "url": "https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/",
     "published": "2025-11-30T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Web speech-to-text",
-    "url": "https://dt.in.th/WebSpeechToText",
-    "published": "2025-11-28T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
