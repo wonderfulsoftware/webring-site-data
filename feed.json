@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[GIT] เพิ่มไฟล์ลงใน .gitignore แต่ไฟล์ยังอยู่หลอกหลอนเรา",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/how-to-handle-when-file-was-already-committed-before-adding-it-to-gitignore-th/",
+    "published": "2025-12-04T03:17:14.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6",
     "url": "https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/",
     "published": "2025-12-02T09:32:06.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to modernize current dotnet REST API to MCP Server",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/how-to-modernize-current-dotnet-rest-api-to-mcp-server/",
-    "published": "2025-12-02T06:25:00.000Z"
   },
   {
     "site": "dt.in.th",
