@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Service Accounts in Grist",
+    "url": "https://dt.in.th/GristServiceAccounts",
+    "published": "2025-12-06T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "มากินที่งาน German Christmas Market",
     "url": "https://naiwaen.debuggingsoft.com/2025/12/let-eat-german-christmas-market/",
@@ -10,12 +16,6 @@
     "title": "Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6",
     "url": "https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/",
     "published": "2025-12-02T09:32:06.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Grist TypeScript Type Generator",
-    "url": "https://dt.in.th/GristTypeGenerator",
-    "published": "2025-12-02T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
