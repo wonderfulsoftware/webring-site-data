@@ -1,5 +1,17 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "Illustration - Skyriser",
+    "url": "https://lucian.solutions/blog/202512-skyriser",
+    "published": "2025-12-15T18:11:11.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using GitHub’s official Remote MCP Server with Claude Web",
+    "url": "https://dt.in.th/ClaudeWebGitHubMCP",
+    "published": "2025-12-15T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Microsoft Ignite 2025– After Party Thailand",
     "url": "https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/",
@@ -10,18 +22,6 @@
     "title": "ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram",
     "url": "https://mymoneytoolkit.app/posts/doi-v1",
     "published": "2025-12-11T00:00:00.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - Hikari",
-    "url": "https://lucian.solutions/blog/202512-hikari",
-    "published": "2025-12-10T16:30:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Service Accounts in Grist",
-    "url": "https://dt.in.th/GristServiceAccounts",
-    "published": "2025-12-06T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
