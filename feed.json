@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[NET] EF Core Cannot write DateTime with Kind=Unspecified to PostgreSQL type ‘timestamp with time zone’ only UTC is supported",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/",
+    "published": "2025-12-18T06:17:31.000Z"
+  },
+  {
     "site": "llun.me",
     "title": "2025, Joining 40 Club",
     "url": "https://www.llun.me/posts/2025-12-16-2025",
@@ -16,12 +22,6 @@
     "title": "Using GitHub’s official Remote MCP Server with Claude Web",
     "url": "https://dt.in.th/ClaudeWebGitHubMCP",
     "published": "2025-12-15T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Microsoft Ignite 2025– After Party Thailand",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/microsoft-ignite-2025-after-party-thailand/",
-    "published": "2025-12-14T10:30:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
