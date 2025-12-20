@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[NET] EF Core Cannot write DateTime with Kind=Unspecified to PostgreSQL type ‘timestamp with time zone’ only UTC is supported",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/net-ef-core-cannot-write-datetime-with-kindunspecified-to-postgresql-type-timestamp-with-time-zone-only-utc-is-supported/",
-    "published": "2025-12-18T06:17:31.000Z"
+    "title": "[CR] SENDO Ramen – Oyster Shio Ramen “Vongole” Style",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/cr-sendo-ramen-oyster-shio-ramen-vongole-style/",
+    "published": "2025-12-19T09:41:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จัก Cloudflare WARP กัน",
+    "url": "https://www.mikkipastel.com/cloudflare-warp/",
+    "published": "2025-12-17T11:47:57.000Z"
   },
   {
     "site": "llun.me",
@@ -124,12 +130,6 @@
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทำความรู้จัก Solana 101 แบบเดฟ ๆ",
-    "url": "https://www.mikkipastel.com/solana-101-by-developer/",
-    "published": "2025-07-23T11:34:10.000Z"
   },
   {
     "site": "thanapon.info",
