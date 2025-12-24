@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน Docker Hardened Images (DHI)",
+    "url": "https://www.somkiat.cc/docker-hardened-images-hdi/",
+    "published": "2025-12-23T17:51:46.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "บางที dotnet watch run แล้วไม่คืน port",
     "url": "https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/",
@@ -40,12 +46,6 @@
     "title": "ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram",
     "url": "https://mymoneytoolkit.app/posts/doi-v1",
     "published": "2025-12-11T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "Spring Boot 4.0.0 กับการทดสอบที่มาพร้อมกับ JUnit 6",
-    "url": "https://www.somkiat.cc/spring-boot-testing-with-spring-boot-4/",
-    "published": "2025-12-02T09:32:06.000Z"
   },
   {
     "site": "blog.luckytime1996.dev",
