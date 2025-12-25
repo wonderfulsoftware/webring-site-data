@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Docker Hardened Images (DHI)",
-    "url": "https://www.somkiat.cc/docker-hardened-images-hdi/",
-    "published": "2025-12-23T17:51:46.000Z"
+    "title": "ทำความรู้จักกับ FunctionGemma model จาก Google",
+    "url": "https://www.somkiat.cc/functiongemma-model-from-google/",
+    "published": "2025-12-24T15:31:25.000Z"
+  },
+  {
+    "site": "blog.luckytime1996.dev",
+    "title": "ใช้ opencode แบบไม่ต้องเฝ้าจอ",
+    "url": "https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/",
+    "published": "2025-12-23T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -46,12 +52,6 @@
     "title": "ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram",
     "url": "https://mymoneytoolkit.app/posts/doi-v1",
     "published": "2025-12-11T00:00:00.000Z"
-  },
-  {
-    "site": "blog.luckytime1996.dev",
-    "title": "เชื่อม Codex กับ Figma MCP",
-    "url": "https://blog.luckytime1996.dev/blog/10-how-to-use-figma-mcp-with-codex/",
-    "published": "2025-11-30T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
