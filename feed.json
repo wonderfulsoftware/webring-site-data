@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "เธอโผล่มาจากไหน \\Temp\\VSTelem",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/low-disk-space-from-localappdata-temp-vstelem-full/",
+    "published": "2025-12-26T11:02:07.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ!",
+    "url": "https://www.mikkipastel.com/notebooklm-gemini/",
+    "published": "2025-12-26T05:55:47.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทำความรู้จักกับ FunctionGemma model จาก Google",
     "url": "https://www.somkiat.cc/functiongemma-model-from-google/",
@@ -10,18 +22,6 @@
     "title": "ใช้ opencode แบบไม่ต้องเฝ้าจอ",
     "url": "https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/",
     "published": "2025-12-23T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "บางที dotnet watch run แล้วไม่คืน port",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/after-stop-dotnet-watch-run-not-release-port/",
-    "published": "2025-12-22T23:43:33.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ออกแบบ “บทสนทนา” ใน Chatbot ยังไง? ให้ AI คุยกับคนได้ดีขึ้น!",
-    "url": "https://www.mikkipastel.com/friends-of-figma-bangkok-conversation-design/",
-    "published": "2025-12-21T08:28:44.000Z"
   },
   {
     "site": "blog.ninprd.com",
