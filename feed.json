@@ -1,5 +1,11 @@
 [
   {
+    "site": "yuttakhanb.dev",
+    "title": "1st half marathon",
+    "url": "https://yuttakhanb.dev/posts/1st-half-marathon/",
+    "published": "2025-12-28T14:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "What the Duck 2025 (AdToy DataRockie)",
     "url": "https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/",
@@ -88,12 +94,6 @@
     "title": "Bambu Lab A1 Essentials",
     "url": "https://garden.narze.live/bambu-lab-a1-essentials/",
     "published": "2025-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "yuttakhanb.dev",
-    "title": "Thought dump on doing side project",
-    "url": "https://yuttakhanb.dev/posts/side-project-thought-dump/",
-    "published": "2025-10-12T07:30:00.000Z"
   },
   {
     "site": "jitrak.dev",
