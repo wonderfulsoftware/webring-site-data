@@ -1,5 +1,23 @@
 [
   {
+    "site": "lucian.solutions",
+    "title": "Happy New Year 2026!",
+    "url": "https://lucian.solutions/blog/202601-hny",
+    "published": "2025-12-31T17:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "2025 เสียงในหัวดังไปหน่อย",
+    "url": "https://naiwaen.debuggingsoft.com/2025/12/2025-year-in-review/",
+    "published": "2025-12-31T10:30:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก",
+    "url": "https://www.mikkipastel.com/recap-2025-ai-year/",
+    "published": "2025-12-31T07:01:23.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "แนวทางในการออกแบบระบบเพื่อรองรับความผิดพลาดต่าง ๆ",
     "url": "https://www.somkiat.cc/design-for-failure-2/",
@@ -10,18 +28,6 @@
     "title": "1st half marathon",
     "url": "https://yuttakhanb.dev/posts/1st-half-marathon/",
     "published": "2025-12-28T14:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "What the Duck 2025 (AdToy DataRockie)",
-    "url": "https://naiwaen.debuggingsoft.com/2025/12/recap-what-the-duck-2025/",
-    "published": "2025-12-27T07:44:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "รู้ยัง ใช้ NotebookLM บน Gemini ได้แล้วนะ!",
-    "url": "https://www.mikkipastel.com/notebooklm-gemini/",
-    "published": "2025-12-26T05:55:47.000Z"
   },
   {
     "site": "blog.luckytime1996.dev",
@@ -40,12 +46,6 @@
     "title": "2025, Joining 40 Club",
     "url": "https://www.llun.me/posts/2025-12-16-2025",
     "published": "2025-12-16T19:03:12.000Z"
-  },
-  {
-    "site": "lucian.solutions",
-    "title": "Illustration - Skyriser",
-    "url": "https://lucian.solutions/blog/202512-skyriser",
-    "published": "2025-12-15T18:11:11.000Z"
   },
   {
     "site": "dt.in.th",
