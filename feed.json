@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "คำแนะนำสำหรับแก้ไขปัญหา MongoBleed (CVE-2025-14847) เบื้องต้น",
+    "url": "https://www.somkiat.cc/mongobleed-problem/",
+    "published": "2026-01-01T14:31:13.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Tyndale's One Year Bible Reading Plan for The Word of Promise Audio Bible app",
+    "url": "https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp",
+    "published": "2026-01-01T00:00:00.000Z"
+  },
+  {
     "site": "lucian.solutions",
     "title": "Happy New Year 2026!",
     "url": "https://lucian.solutions/blog/202601-hny",
@@ -16,12 +28,6 @@
     "title": "Recap 2025 ปีแห่ง AI และน้องเนยพุงเต่งสุดน่ารัก",
     "url": "https://www.mikkipastel.com/recap-2025-ai-year/",
     "published": "2025-12-31T07:01:23.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนวทางในการออกแบบระบบเพื่อรองรับความผิดพลาดต่าง ๆ",
-    "url": "https://www.somkiat.cc/design-for-failure-2/",
-    "published": "2025-12-30T08:09:35.000Z"
   },
   {
     "site": "yuttakhanb.dev",
@@ -46,12 +52,6 @@
     "title": "2025, Joining 40 Club",
     "url": "https://www.llun.me/posts/2025-12-16-2025",
     "published": "2025-12-16T19:03:12.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using GitHub’s official Remote MCP Server with Claude Web",
-    "url": "https://dt.in.th/ClaudeWebGitHubMCP",
-    "published": "2025-12-15T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
