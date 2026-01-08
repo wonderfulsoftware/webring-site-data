@@ -1,5 +1,17 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "ONNX Multi-platform benchmark",
+    "url": "https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/",
+    "published": "2026-01-07T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "บันทึกก่อนออกเทรด",
+    "url": "https://mymoneytoolkit.app/posts/trading-prep",
+    "published": "2026-01-07T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Onkijung(온기정) – Central Pinklao",
     "url": "https://naiwaen.debuggingsoft.com/2026/01/cr-onkijung-central-pinklao/",
@@ -66,12 +78,6 @@
     "published": "2025-12-16T19:03:12.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "ระบบติดตามหุ้น + แจ้งเตือนผ่าน Telegram",
-    "url": "https://mymoneytoolkit.app/posts/doi-v1",
-    "published": "2025-12-11T00:00:00.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "The Day I Became a Triathlete: บันทึกสนามแรกที่เปลี่ยนชีวิต",
     "url": "https://mesodiar.com/2025/10/26/the-day-i-became-a-triathlete/",
@@ -100,12 +106,6 @@
     "title": "Bambu Lab A1 Essentials",
     "url": "https://garden.narze.live/bambu-lab-a1-essentials/",
     "published": "2025-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Multi-machine work setup",
-    "url": "https://karnwong.me/posts/2025/09/multi-machine-work-setup/",
-    "published": "2025-09-11T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
