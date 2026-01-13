@@ -1,27 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Universal Commerce Protocol (UCP)",
+    "url": "https://www.somkiat.cc/universal-commerce-protocol-ucp-from-google/",
+    "published": "2026-01-12T09:01:43.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "[DB2] SQL1477N For table “SCHEMA.XXX” an object “YYYY” in table space “ZZ” cannot be accessed. SQLSTATE=55019.",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/dotnet-sql1477n-for-table-schema-xxx-an-object-yyyy-in-table-space-zz-cannot-be-accessed-sqlstate55019/",
-    "published": "2026-01-08T13:12:00.000Z"
+    "title": "How to View CPU frequency and temperature in htop",
+    "url": "https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/",
+    "published": "2026-01-12T03:41:07.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "แพลนตัง Flow: เห็นภาพการเงินชัดเจนในหน้าเดียว",
+    "url": "https://mymoneytoolkit.app/posts/flow",
+    "published": "2026-01-12T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
     "title": "ONNX Multi-platform benchmark",
     "url": "https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/",
     "published": "2026-01-07T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "บันทึกก่อนออกเทรด",
-    "url": "https://mymoneytoolkit.app/posts/trading-prep",
-    "published": "2026-01-07T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน MCP Search Tool กันจาก Warp",
-    "url": "https://www.somkiat.cc/warp-mcp-search-tool/",
-    "published": "2026-01-06T07:16:45.000Z"
   },
   {
     "site": "myifew.com",
