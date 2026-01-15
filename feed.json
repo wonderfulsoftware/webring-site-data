@@ -1,15 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy",
+    "url": "https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/",
+    "published": "2026-01-14T07:36:54.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึก development workflow การใช้งาน Claude Code จากผู้สร้าง",
     "url": "https://www.somkiat.cc/note-development-workflow-of-claude-code/",
     "published": "2026-01-13T07:35:23.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to View CPU frequency and temperature in htop",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/how-to-view-cpu-frequency-and-temperature-in-htop/",
-    "published": "2026-01-12T03:41:07.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
