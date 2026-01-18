@@ -1,5 +1,11 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Using Mise in GitHub Actions",
+    "url": "https://dt.in.th/GitHubActionsMise",
+    "published": "2026-01-17T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy",
     "url": "https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/",
@@ -34,12 +40,6 @@
     "title": "Prepare exam to renew GCP Professional Cloud Architecture 2025",
     "url": "https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/",
     "published": "2026-01-02T12:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Tyndale's One Year Bible Reading Plan for The Word of Promise Audio Bible app",
-    "url": "https://dt.in.th/OneYearBiblePlanForWordOfPromiseApp",
-    "published": "2026-01-01T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
