@@ -2430,5 +2430,19 @@
     "lastUpdated": "2026-01-18T01:37:22.187Z",
     "number": 125,
     "owner": "Nattapat2871"
+  },
+  "fasu.dev": {
+    "url": "https://fasu.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/fasu.dev_375w@2x.png",
+    "blurhash": "vKQ]+wt7~qRjkCRjxut7-;t7IURj_3V@4nt7xaofM{RjWBWBxut79Fof-;WB",
+    "screenshotUpdatedAt": "2026-01-18T12:41:55.997Z",
+    "description": "Pongsakorn Thipayanate - Full Stack Developer building elegant solutions with modern web technologies. Passionate about open source, developer experience, and crafting delightful user interfaces.",
+    "backlink": {
+      "rect": "24:24:83.8125:20",
+      "href": "https://webring.wonderful.software#fasu.dev"
+    },
+    "lastUpdated": "2026-01-18T12:41:55.997Z",
+    "number": 126,
+    "owner": "pyyupsk"
   }
 }

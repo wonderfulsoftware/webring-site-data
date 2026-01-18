@@ -1,5 +1,17 @@
 [
   {
+    "site": "fasu.dev",
+    "title": "2025's Security Landscape: Why Memory-Safe Languages Aren't Optional Anymore",
+    "url": "https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore",
+    "published": "2026-01-18T11:18:43.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "การใช้งาน SKIP LOCKED ใน PostgreSQL database",
+    "url": "https://www.somkiat.cc/skip-locked-in-postgresql/",
+    "published": "2026-01-18T09:03:09.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Using Mise in GitHub Actions",
     "url": "https://dt.in.th/GitHubActionsMise",
@@ -10,12 +22,6 @@
     "title": "Jenkins Error com.thoughtworks.xstream.mapper.CannotResolveClassException: hudson.security.ProjectMatrixAuthorizationStrategy",
     "url": "https://naiwaen.debuggingsoft.com/2026/01/jenkin-error-com-thoughtworks-xstream-mapper-cannotresolveclassexception-hudson-security-projectmatrixauthorizationstrategy/",
     "published": "2026-01-14T07:36:54.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึก development workflow การใช้งาน Claude Code จากผู้สร้าง",
-    "url": "https://www.somkiat.cc/note-development-workflow-of-claude-code/",
-    "published": "2026-01-13T07:35:23.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
