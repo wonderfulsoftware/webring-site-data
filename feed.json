@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองใช้งาน React Agent Skills จาก Vercel กัน",
+    "url": "https://www.somkiat.cc/hello-react-agent-skills-from-vercel/",
+    "published": "2026-01-21T05:11:05.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ",
     "url": "https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/",
@@ -10,12 +16,6 @@
     "title": "2025's Security Landscape: Why Memory-Safe Languages Aren't Optional Anymore",
     "url": "https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore",
     "published": "2026-01-18T11:18:43.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การใช้งาน SKIP LOCKED ใน PostgreSQL database",
-    "url": "https://www.somkiat.cc/skip-locked-in-postgresql/",
-    "published": "2026-01-18T09:03:09.000Z"
   },
   {
     "site": "dt.in.th",
