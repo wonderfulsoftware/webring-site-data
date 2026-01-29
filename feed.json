@@ -1,15 +1,9 @@
 [
   {
-    "site": "thanapon.info",
-    "title": "Hello world!",
-    "url": "https://thanapon.info/2026/01/25/hello-world/",
-    "published": "2026-01-25T17:38:59.000Z"
-  },
-  {
     "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน National Coding Day 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/recap-national-coding-day-2026/",
-    "published": "2026-01-25T08:24:00.000Z"
+    "title": "[CR] Starbucks Éclair Green Tea",
+    "url": "https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/",
+    "published": "2026-01-28T04:03:17.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -142,6 +136,12 @@
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
+  },
+  {
+    "site": "thanapon.info",
+    "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
+    "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
+    "published": "2025-07-19T09:22:12.000Z"
   },
   {
     "site": "blog.oatto.dev",
