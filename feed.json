@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API",
+    "url": "https://www.somkiat.cc/note-scale-postgresql-at-openai/",
+    "published": "2026-01-29T16:43:15.000Z"
+  },
+  {
+    "site": "sujamess.com",
+    "title": "[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader",
+    "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้",
+    "url": "https://mymoneytoolkit.app/posts/tax-prep-sheet",
+    "published": "2026-01-29T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Éclair Green Tea",
     "url": "https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/",
     "published": "2026-01-28T04:03:17.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน Claude Code กับ Ollama ได้แล้ว",
-    "url": "https://www.somkiat.cc/use-claude-code-with-ollama/",
-    "published": "2026-01-22T15:46:02.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -19,7 +31,7 @@
   },
   {
     "site": "fasu.dev",
-    "title": "2025's Security Landscape: Why Memory-Safe Languages Aren't Optional Anymore",
+    "title": "2025's Security Crisis: Why Memory-Safe Languages Matter",
     "url": "https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore",
     "published": "2026-01-18T11:18:43.000Z"
   },
@@ -28,12 +40,6 @@
     "title": "Using Mise in GitHub Actions",
     "url": "https://dt.in.th/GitHubActionsMise",
     "published": "2026-01-17T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "แพลนตัง Flow: เห็นภาพการเงินชัดเจนในหน้าเดียว",
-    "url": "https://mymoneytoolkit.app/posts/flow",
-    "published": "2026-01-12T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -166,12 +172,6 @@
     "title": "Approaches to Using Single Dockerfile for Multi-arch Builds",
     "url": "https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/",
     "published": "2025-05-27T14:55:25.000Z"
-  },
-  {
-    "site": "sujamess.com",
-    "title": "[Eng] Distributed Scheduler The Series: Episode 1 — The Naive Orchestrator",
-    "url": "https://sujamess.com/blogs/20250520-distributed-scheduler-the-series-ep-1/",
-    "published": "2025-05-20T00:00:00.000Z"
   },
   {
     "site": "mikelopster.dev",
