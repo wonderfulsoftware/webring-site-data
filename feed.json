@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "LLM Architecture Dense vs MoE ต่างกันยังไง ?",
+    "url": "https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/",
+    "published": "2026-01-30T10:45:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เมื่อ AI เข้ามา ยังไงงานของเดฟก็ไม่เปลี่ยนไป สรุปจาก National Coding Day 2026",
+    "url": "https://www.mikkipastel.com/national-coding-day-2026/",
+    "published": "2026-01-30T02:56:53.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API",
     "url": "https://www.somkiat.cc/note-scale-postgresql-at-openai/",
@@ -18,22 +30,10 @@
     "published": "2026-01-29T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Éclair Green Tea",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/cr-starbucks-eclair-green-tea/",
-    "published": "2026-01-28T04:03:17.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "4 ขั้นตอนในการ inspect หน้า WebView ในแอพ Android แบบง่ายมาก ๆ",
-    "url": "https://www.mikkipastel.com/how-to-inspect-webview-in-android-app/",
-    "published": "2026-01-19T10:01:26.000Z"
-  },
-  {
     "site": "fasu.dev",
     "title": "2025's Security Crisis: Why Memory-Safe Languages Matter",
-    "url": "https://fasu.dev/writings/2025s-security-landscape-why-memory-safe-languages-arent-optional-anymore",
-    "published": "2026-01-18T11:18:43.000Z"
+    "url": "https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter",
+    "published": "2026-01-18T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
