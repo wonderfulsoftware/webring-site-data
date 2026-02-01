@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "LLM Architecture Dense vs MoE ต่างกันยังไง ?",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/llm-architecture-dense-vs-moe-what-are-difference/",
-    "published": "2026-01-30T10:45:00.000Z"
+    "title": "ถ้าได้เข้าไปดูระบบนี้ใหม่ จะเริ่มยังไง",
+    "url": "https://naiwaen.debuggingsoft.com/2026/01/if-i-had-to-review-this-thai-sso-system-again-where-would-i-start/",
+    "published": "2026-01-31T11:37:00.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "Git from Zero to Pull Request: A Practical Guide",
+    "url": "https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide",
+    "published": "2026-01-31T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -28,12 +34,6 @@
     "title": "Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้",
     "url": "https://mymoneytoolkit.app/posts/tax-prep-sheet",
     "published": "2026-01-29T00:00:00.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "2025's Security Crisis: Why Memory-Safe Languages Matter",
-    "url": "https://fasu.dev/writings/2025s-security-crisis-why-memory-safe-languages-matter",
-    "published": "2026-01-18T00:00:00.000Z"
   },
   {
     "site": "dt.in.th",
