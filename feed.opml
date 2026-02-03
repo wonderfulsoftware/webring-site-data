@@ -73,6 +73,7 @@
       <outline text="evanrintho.buzz" title="evanrintho.buzz" type="rss" xmlUrl="https://blog.evanrintho.buzz/rss.xml" htmlUrl="https://evanrintho.buzz"/>
       <outline text="blog.luckytime1996.dev" title="blog.luckytime1996.dev" type="rss" xmlUrl="https://blog.luckytime1996.dev/rss.xml" htmlUrl="https://blog.luckytime1996.dev"/>
       <outline text="fasu.dev" title="fasu.dev" type="rss" xmlUrl="https://fasu.dev/rss.xml" htmlUrl="https://fasu.dev"/>
+      <outline text="xiengperm.dev" title="xiengperm.dev" type="rss" xmlUrl="https://xiengperm.dev/rss.xml" htmlUrl="https://xiengperm.dev"/>
     </outline>
   </body>
 </opml>

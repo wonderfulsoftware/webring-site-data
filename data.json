@@ -2453,5 +2453,19 @@
     "lastUpdated": "2026-02-03T02:01:23.481Z",
     "number": 127,
     "owner": "SillyDark"
+  },
+  "xiengperm.dev": {
+    "url": "https://xiengperm.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/xiengperm.dev_375w@2x.png",
+    "blurhash": "v2RC-$00_2?H~pt7D%WB~p%MIVR*9GNGxuW;E2NGM|WqD*RjkCRjs:IUM{xa",
+    "screenshotUpdatedAt": "2026-02-03T04:05:26.426Z",
+    "description": "Xaypanya Phongsa - Lao full-stack developer building web and mobile applications. Sharing learnings about JavaScript, TypeScript, and modern web development from Laos.",
+    "backlink": {
+      "rect": "226.40625:20:66.796875:1797.953125",
+      "href": "https://webring.wonderful.software#xiengperm.dev"
+    },
+    "lastUpdated": "2026-02-03T04:05:26.426Z",
+    "number": 128,
+    "owner": "Xaypanya"
   }
 }
