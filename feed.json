@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการแบ่งปันความรู้พื้นฐานเรื่อง AI ในการ coding",
+    "url": "https://www.somkiat.cc/sharing-ai-agent-for-coding/",
+    "published": "2026-02-02T03:54:33.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "วิวัฒนาการของคอมพิวเตอร์มีกี่ยุคบ้าง? แล้วทำอย่างไรให้คอมคุยกับคนรู้เรื่อง?",
+    "url": "https://www.mikkipastel.com/friends-of-figma-bangkok-from-hci-to-ux-ui/",
+    "published": "2026-02-02T03:14:14.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "(ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux",
     "url": "https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/",
@@ -22,18 +34,6 @@
     "title": "Git from Zero to Pull Request: A Practical Guide",
     "url": "https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide",
     "published": "2026-01-31T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เมื่อ AI เข้ามา ยังไงงานของเดฟก็ไม่เปลี่ยนไป สรุปจาก National Coding Day 2026",
-    "url": "https://www.mikkipastel.com/national-coding-day-2026/",
-    "published": "2026-01-30T02:56:53.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจจากเรื่องการ scale PostgreSQL database ของระบบ ChatGPT และ OpenAI API",
-    "url": "https://www.somkiat.cc/note-scale-postgresql-at-openai/",
-    "published": "2026-01-29T16:43:15.000Z"
   },
   {
     "site": "sujamess.com",
