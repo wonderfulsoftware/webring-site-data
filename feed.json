@@ -1,9 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbuck Mangosteen with Butterfly Pea Juice",
+    "url": "https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/",
+    "published": "2026-02-03T07:36:53.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันความรู้พื้นฐานเรื่อง AI ในการ coding",
-    "url": "https://www.somkiat.cc/sharing-ai-agent-for-coding/",
-    "published": "2026-02-02T03:54:33.000Z"
+    "title": "มาลองใช้งาน Kimi Code กันหน่อย",
+    "url": "https://www.somkiat.cc/hello-kimi-code/",
+    "published": "2026-02-03T07:20:46.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Reduce workload attack surface with distroless image",
+    "url": "https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/",
+    "published": "2026-02-03T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -30,12 +42,6 @@
     "published": "2026-02-01T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "ถ้าได้เข้าไปดูระบบนี้ใหม่ จะเริ่มยังไง",
-    "url": "https://naiwaen.debuggingsoft.com/2026/01/if-i-had-to-review-this-thai-sso-system-again-where-would-i-start/",
-    "published": "2026-01-31T11:37:00.000Z"
-  },
-  {
     "site": "fasu.dev",
     "title": "Git from Zero to Pull Request: A Practical Guide",
     "url": "https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide",
@@ -58,12 +64,6 @@
     "title": "Using Mise in GitHub Actions",
     "url": "https://dt.in.th/GitHubActionsMise",
     "published": "2026-01-17T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "ONNX multi-platform benchmark",
-    "url": "https://karnwong.me/posts/2026/01/onnx-multi-platform-benchmark/",
-    "published": "2026-01-07T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
