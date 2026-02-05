@@ -1,9 +1,21 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] Starbuck Mangosteen with Butterfly Pea Juice",
-    "url": "https://naiwaen.debuggingsoft.com/2026/02/cr-starbuck-mangosteen-with-butterfly-pea-juice/",
-    "published": "2026-02-03T07:36:53.000Z"
+    "title": "bun run build – Error null is not an object (evaluating ‘currentRenderingInstance.ce’)",
+    "url": "https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/",
+    "published": "2026-02-04T23:13:21.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "คาดคะเนผลตอบแทนทองคำ",
+    "url": "https://mymoneytoolkit.app/posts/gold-return",
+    "published": "2026-02-04T00:00:00.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "Stop Fighting `localhost`: Stable Dev URLs with Cloudflared",
+    "url": "https://fasu.dev/writings/stop-fighting-localhost-stable-dev-urls-with-cloudflared",
+    "published": "2026-02-04T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -42,21 +54,9 @@
     "published": "2026-02-01T00:00:00.000Z"
   },
   {
-    "site": "fasu.dev",
-    "title": "Git from Zero to Pull Request: A Practical Guide",
-    "url": "https://fasu.dev/writings/git-from-zero-to-pull-request-a-practical-guide",
-    "published": "2026-01-31T00:00:00.000Z"
-  },
-  {
     "site": "sujamess.com",
     "title": "[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader",
     "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
-    "published": "2026-01-29T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Sheet บันทึกเตรียมยื่นภาษี Easy / เที่ยวดีมีคืน / รายได้",
-    "url": "https://mymoneytoolkit.app/posts/tax-prep-sheet",
     "published": "2026-01-29T00:00:00.000Z"
   },
   {
