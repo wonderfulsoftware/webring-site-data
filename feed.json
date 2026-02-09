@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "คําอธิษฐานในวันที่เลือกตั้ง 2569",
+    "url": "https://naiwaen.debuggingsoft.com/2026/02/election-69/",
+    "published": "2026-02-08T03:44:30.000Z"
+  },
+  {
     "site": "xiengperm.dev",
     "title": "First Time Publishing an App to Google Play Store",
     "url": "https://xiengperm.dev/posts/first-time-publish-app-play-store-en/",
@@ -10,12 +16,6 @@
     "title": "3 ขั้นตอนเอา Jetpack Compose มาใช้ในโปรเจกต์เดิม",
     "url": "https://www.mikkipastel.com/3-step-to-add-jetpack-compose-to-your-android-project/",
     "published": "2026-02-06T10:53:39.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "bun run build – Error null is not an object (evaluating ‘currentRenderingInstance.ce’)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/02/bun-run-build-error-null-is-not-an-object-evaluating-currentrenderinginstance-ce-th-blog/",
-    "published": "2026-02-04T23:13:21.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
