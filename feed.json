@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน Agent Browser CLI จาก vercel กัน",
+    "url": "https://www.somkiat.cc/try-agent-browser-cli/",
+    "published": "2026-02-10T05:19:25.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio",
     "url": "https://www.mikkipastel.com/create-workflow-google-workspace-studio/",
@@ -10,6 +16,12 @@
     "title": "[GITLAB] ปรับ Notification ยังไงนะ",
     "url": "https://naiwaen.debuggingsoft.com/2026/02/gitlab-notification-setting/",
     "published": "2026-02-09T05:19:50.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Book Highlights - Of Monsters and Mainframes by Barbara Truelove",
+    "url": "https://karnwong.me/posts/2026/02/book-highlights---of-monsters-and-mainframes-by-barbara-truelove/",
+    "published": "2026-02-09T00:00:00.000Z"
   },
   {
     "site": "fasu.dev",
@@ -28,18 +40,6 @@
     "title": "คาดคะเนผลตอบแทนทองคำ",
     "url": "https://mymoneytoolkit.app/posts/gold-return",
     "published": "2026-02-04T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Kimi Code กันหน่อย",
-    "url": "https://www.somkiat.cc/hello-kimi-code/",
-    "published": "2026-02-03T07:20:46.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Reduce workload attack surface with distroless image",
-    "url": "https://karnwong.me/posts/2026/02/reduce-workload-attack-surface-with-distroless-image/",
-    "published": "2026-02-03T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
