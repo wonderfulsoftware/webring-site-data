@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "สรุป Flow พบหมอ รพ. ตากสิน 2026 (อาคารบวรเวชรัตน์)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/02/go-to-the-doctor-at-king-taksin-memorial-hospital-2026/",
-    "published": "2026-02-11T10:49:11.000Z"
+    "title": "[Case Study] เมื่อ User บอกว่าพี่ใช้มานาน มันทำได้อยู่แล้ว ทั้งที่จริงมโนล้วนๆ",
+    "url": "https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/",
+    "published": "2026-02-12T12:52:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using Rclone with a Public Google Drive folder",
+    "url": "https://dt.in.th/RcloneGoogleDrivePublicFolder",
+    "published": "2026-02-12T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -58,12 +64,6 @@
     "title": "[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader",
     "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
     "published": "2026-01-29T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using Mise in GitHub Actions",
-    "url": "https://dt.in.th/GitHubActionsMise",
-    "published": "2026-01-17T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
