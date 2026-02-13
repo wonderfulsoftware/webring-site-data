@@ -1773,8 +1773,9 @@
     "screenshotUpdatedAt": "2025-12-20T01:22:15.780Z",
     "description": "Consider using this if you need to provide more context on why you do what you do. Be engaging. Focus on delivering value to your visitors.",
     "backlink": null,
-    "lastUpdated": "2026-02-12T01:59:31.573Z",
-    "owner": "wasakunset"
+    "lastUpdated": "2026-02-13T05:43:43.440Z",
+    "owner": "wasakunset",
+    "number": 85
   },
   "phumrapee.me": {
     "url": "https://phumrapee.me",
@@ -1835,15 +1836,16 @@
   "satjawat.com": {
     "url": "https://satjawat.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/satjawat.com_375w@2x.png",
-    "blurhash": "vkODnHM{_NxuWrNGbHof_3RjD%ofITNGozt7IUR*t8j[D%WBxufkRjWBofof",
-    "screenshotUpdatedAt": "2026-01-14T01:31:45.143Z",
+    "blurhash": "v5Ss5100?w_30000?w?b0000?v-=000K.9-;004.%h%M4nE1x]xuIURjtQoz",
+    "screenshotUpdatedAt": "2026-02-13T05:43:54.303Z",
     "description": "IT’S ME, SATJAWAT SONGSOEM ABOUT",
     "backlink": {
       "rect": null,
       "href": "https://webring.wonderful.software#satjawat.com"
     },
-    "lastUpdated": "2026-02-12T01:59:44.390Z",
-    "owner": "lalkai"
+    "lastUpdated": "2026-02-13T05:43:54.303Z",
+    "owner": "lalkai",
+    "number": 88
   },
   "tachakorn.com": {
     "url": "https://tachakorn.com",
@@ -2476,5 +2478,19 @@
     "lastUpdated": "2026-02-13T05:41:15.660Z",
     "number": 129,
     "owner": "b77912617-infra"
+  },
+  "hnawny.in.th": {
+    "url": "https://hnawny.in.th",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/hnawny.in.th_375w@2x.png",
+    "blurhash": "v58zu??d009Y4:WB~V-;W$RzIoV|s+n,IqIo01Rr~p$~^*ob4.D*4,Il-o%N",
+    "screenshotUpdatedAt": "2026-02-13T05:44:07.499Z",
+    "description": "Showcasing my skills, projects, and achievements.",
+    "backlink": {
+      "rect": "7.265625:7.265625:290.359375:47.359375",
+      "href": "https://webring.wonderful.software#hnawny.in.th"
+    },
+    "lastUpdated": "2026-02-13T05:44:07.499Z",
+    "number": 130,
+    "owner": "hnawny"
   }
 }

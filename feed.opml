@@ -75,6 +75,7 @@
       <outline text="fasu.dev" title="fasu.dev" type="rss" xmlUrl="https://fasu.dev/rss.xml" htmlUrl="https://fasu.dev"/>
       <outline text="xiengperm.dev" title="xiengperm.dev" type="rss" xmlUrl="https://xiengperm.dev/rss.xml" htmlUrl="https://xiengperm.dev"/>
       <outline text="birdmusic.cc" title="birdmusic.cc" type="rss" xmlUrl="https://birdmusic.cc/feed.xml" htmlUrl="https://birdmusic.cc"/>
+      <outline text="hnawny.in.th" title="hnawny.in.th" type="rss" xmlUrl="https://hnawny.in.th/rss.xml" htmlUrl="https://hnawny.in.th"/>
     </outline>
   </body>
 </opml>
