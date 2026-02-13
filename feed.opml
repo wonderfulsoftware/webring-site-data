@@ -74,6 +74,7 @@
       <outline text="blog.luckytime1996.dev" title="blog.luckytime1996.dev" type="rss" xmlUrl="https://blog.luckytime1996.dev/rss.xml" htmlUrl="https://blog.luckytime1996.dev"/>
       <outline text="fasu.dev" title="fasu.dev" type="rss" xmlUrl="https://fasu.dev/rss.xml" htmlUrl="https://fasu.dev"/>
       <outline text="xiengperm.dev" title="xiengperm.dev" type="rss" xmlUrl="https://xiengperm.dev/rss.xml" htmlUrl="https://xiengperm.dev"/>
+      <outline text="birdmusic.cc" title="birdmusic.cc" type="rss" xmlUrl="https://birdmusic.cc/feed.xml" htmlUrl="https://birdmusic.cc"/>
     </outline>
   </body>
 </opml>

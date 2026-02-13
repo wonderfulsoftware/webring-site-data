@@ -968,8 +968,9 @@
       "rect": "32:32:327:19.5",
       "href": "https://webring.wonderful.software#microbenz.in.th"
     },
-    "lastUpdated": "2026-02-12T01:57:01.765Z",
-    "owner": "MicroBenz"
+    "lastUpdated": "2026-02-13T05:40:41.739Z",
+    "owner": "MicroBenz",
+    "number": 49
   },
   "nuttdam.com": {
     "url": "https://www.nuttdam.com",
@@ -2461,5 +2462,19 @@
     "lastUpdated": "2026-02-13T02:07:11.971Z",
     "number": 128,
     "owner": "Xaypanya"
+  },
+  "birdmusic.cc": {
+    "url": "https://birdmusic.cc",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/birdmusic.cc_375w@2x.png",
+    "blurhash": "vNNwTvtTt7WF00R;Rloy02ozt7a#?uocf7WC~oRjj[oeajofaxWCDkflaxj[",
+    "screenshotUpdatedAt": "2026-02-13T05:41:15.660Z",
+    "description": "รีวิวหนังสือ, บล็อกส่วนตัว,tech",
+    "backlink": {
+      "rect": "32:20:171.5:3744.921875",
+      "href": "https://webring.wonderful.software#birdmusic.cc"
+    },
+    "lastUpdated": "2026-02-13T05:41:15.660Z",
+    "number": 129,
+    "owner": "b77912617-infra"
   }
 }

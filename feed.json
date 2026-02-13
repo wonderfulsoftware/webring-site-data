@@ -1,5 +1,11 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Kumano Kodo (熊野古道) — เส้นทางแสวงบุญพันปี กลางป่าศักดิ์สิทธิ์แห่งญี่ปุ่น",
+    "url": "https://myifew.com/6811/kumano-kodo-%e7%86%8a%e9%87%8e%e5%8f%a4%e9%81%93-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%aa%e0%b8%a7%e0%b8%87%e0%b8%9a%e0%b8%b8%e0%b8%8d%e0%b8%9e/",
+    "published": "2026-02-13T05:25:20.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[Case Study] เมื่อ User บอกว่าพี่ใช้มานาน มันทำได้อยู่แล้ว ทั้งที่จริงมโนล้วนๆ",
     "url": "https://naiwaen.debuggingsoft.com/2026/02/user-claim-its-a-legacy-feature-but-its-actually-non-existent/",
@@ -48,6 +54,12 @@
     "published": "2026-02-04T00:00:00.000Z"
   },
   {
+    "site": "birdmusic.cc",
+    "title": "Recap 2025",
+    "url": "https://birdmusic.cc//2026/02/02/Recap2025.html",
+    "published": "2026-02-02T00:00:00.000Z"
+  },
+  {
     "site": "kusumotolab.com",
     "title": "(ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux",
     "url": "https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/",
@@ -64,12 +76,6 @@
     "title": "[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader",
     "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
     "published": "2026-01-29T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เดินป่าข้ามปี หว่าวาโจ หงอนไก่ ปุยหลวง แม่ฮ่องสอน",
-    "url": "https://myifew.com/6747/wawajo-puiluang-maehongson/",
-    "published": "2026-01-03T07:54:29.000Z"
   },
   {
     "site": "jitrak.dev",
