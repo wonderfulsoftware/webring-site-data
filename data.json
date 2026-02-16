@@ -2205,8 +2205,9 @@
       "rect": "32:32:327:592",
       "href": "https://webring.wonderful.software#pichayapon.com"
     },
-    "lastUpdated": "2026-02-15T02:04:39.543Z",
-    "owner": "pichxyaponn"
+    "lastUpdated": "2026-02-16T17:00:43.759Z",
+    "owner": "pichxyaponn",
+    "number": 113
   },
   "evanrintho.buzz": {
     "url": "https://evanrintho.buzz",
@@ -2512,5 +2513,33 @@
     "lastUpdated": "2026-02-16T16:56:15.623Z",
     "number": 131,
     "owner": "boomNDS"
+  },
+  "kasawa.pro": {
+    "url": "https://kasawa.pro",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/kasawa.pro_375w@2x.png",
+    "blurhash": "vESF;Lt7?bt7xuWBD%t7xuWBxuWB~qWBRjay-;ayM{of00of-;j[D*fQIUof",
+    "screenshotUpdatedAt": "2026-02-16T17:00:46.157Z",
+    "description": "Portfolio Kasawa | Developer - Bot Discord - Web Developer - Ux/Ui",
+    "backlink": {
+      "rect": null,
+      "href": "https://webring.wonderful.software#kasawa.pro"
+    },
+    "lastUpdated": "2026-02-16T17:00:46.157Z",
+    "number": 132,
+    "owner": "x2super"
+  },
+  "phattaradit.dev": {
+    "url": "https://phattaradit.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/phattaradit.dev_375w@2x.png",
+    "blurhash": "v04BzzIp9ZkD$^xcR*OYD$V[?IJ8?JIooInPxwNaM_rr0LIo^kM{0eNb?HaK",
+    "screenshotUpdatedAt": "2026-02-16T17:00:51.410Z",
+    "description": "Phattaradit Muanmontree — The Cute SysAdmin. Computer Engineering student at RMUTP specializing in web development, system administration, and networking. Silver & Gold medalist in national coding competitions.",
+    "backlink": {
+      "rect": "240:64:67.5:6709.5625",
+      "href": "https://webring.wonderful.software#phattaradit.dev"
+    },
+    "lastUpdated": "2026-02-16T17:00:51.410Z",
+    "number": 133,
+    "owner": "Nongdrream"
   }
 }
