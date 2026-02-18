@@ -1,9 +1,15 @@
 [
   {
     "site": "myifew.com",
-    "title": "วันจันทร์กับบทเรียนเรื่อง “ซ้ำ” 🌸",
-    "url": "https://myifew.com/6874/chompoo-diary-2026-02-16/",
-    "published": "2026-02-16T16:01:18.000Z"
+    "title": "คู่มือเตรียมตัวปีนเขา Island Peak",
+    "url": "https://myifew.com/6902/%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%95%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%a1%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b8%9b%e0%b8%b5%e0%b8%99%e0%b9%80%e0%b8%82%e0%b8%b2-island-pea/",
+    "published": "2026-02-17T17:44:17.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา",
+    "url": "https://www.somkiat.cc/try-design-key-value-in-redis-01/",
+    "published": "2026-02-17T13:16:42.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -28,12 +34,6 @@
     "title": "Using Rclone with a Public Google Drive folder",
     "url": "https://dt.in.th/RcloneGoogleDrivePublicFolder",
     "published": "2026-02-12T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Agent Browser CLI จาก vercel กัน",
-    "url": "https://www.somkiat.cc/try-agent-browser-cli/",
-    "published": "2026-02-10T05:19:25.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -88,6 +88,12 @@
     "title": "Prepare exam to renew GCP Professional Cloud Architecture 2025",
     "url": "https://jitrak.dev/posts/post-35-prepare-to-renew-exame-gcp-professional-cloud-architecture-2025/",
     "published": "2026-01-02T12:00:00.000Z"
+  },
+  {
+    "site": "blog.oatto.dev",
+    "title": "Recap 2025",
+    "url": "https://blog.oatto.dev/2026/01/01/recap-2025.html",
+    "published": "2026-01-01T00:00:00.000Z"
   },
   {
     "site": "lucian.solutions",
@@ -178,12 +184,6 @@
     "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
     "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
     "published": "2025-07-19T09:22:12.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Send message to Telegram chat by Telegram bot",
-    "url": "https://blog.oatto.dev/2025/07/12/send-message-to-telegram.html",
-    "published": "2025-07-12T00:00:00.000Z"
   },
   {
     "site": "icez.net",
