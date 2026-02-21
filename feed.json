@@ -1,21 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "บันทึกประจำวัน: 19 กุมภาพันธ์ 2026 — Rate Limit และความเร็วที่ถูกจังหวะ",
-    "url": "https://myifew.com/6934/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%88%e0%b8%b3%e0%b8%a7%e0%b8%b1%e0%b8%99-19-%e0%b8%81%e0%b8%b8%e0%b8%a1%e0%b8%a0%e0%b8%b2%e0%b8%9e%e0%b8%b1/",
-    "published": "2026-02-19T16:06:35.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "เรื่องของ db2 AUTO_RUNSTATS",
-    "url": "https://naiwaen.debuggingsoft.com/2026/02/db2-auto_runstats-note/",
-    "published": "2026-02-18T12:37:33.000Z"
+    "title": "หมู่เกาะสิมิลัน: สวรรค์กลางทะเลอันดามันที่ติด Top 10 ดำน้ำระดับโลก",
+    "url": "https://myifew.com/6954/%e0%b8%ab%e0%b8%a1%e0%b8%b9%e0%b9%88%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%b4%e0%b8%a1%e0%b8%b4%e0%b8%a5%e0%b8%b1%e0%b8%99-%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b8%81/",
+    "published": "2026-02-20T18:27:48.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "ฝึกออกแบบ key-value ใน redis สำหรับเก็บข้อมูลการค้นหา",
-    "url": "https://www.somkiat.cc/try-design-key-value-in-redis-01/",
-    "published": "2026-02-17T13:16:42.000Z"
+    "title": "แก้ไขปัญหา Ollama ใน VS Code + Github Copilot Chat",
+    "url": "https://www.somkiat.cc/workaround-ollama-in-vscode-and-github-copilot-chat/",
+    "published": "2026-02-20T14:19:04.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว",
+    "url": "https://www.mikkipastel.com/tax-101-for-developer/",
+    "published": "2026-02-20T09:27:59.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดจากงาน QA&Testers Thailand Meetup FEB 2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/02/recap-qa-testers-thailand-meetup-feb-2026/",
+    "published": "2026-02-20T01:23:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -34,12 +40,6 @@
     "title": "Using Rclone with a Public Google Drive folder",
     "url": "https://dt.in.th/RcloneGoogleDrivePublicFolder",
     "published": "2026-02-12T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "สร้าง workflow ง่าย ๆ ผ่าน Google Workspace Studio",
-    "url": "https://www.mikkipastel.com/create-workflow-google-workspace-studio/",
-    "published": "2026-02-09T09:04:40.000Z"
   },
   {
     "site": "karnwong.me",
