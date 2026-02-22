@@ -2543,5 +2543,19 @@
     "lastUpdated": "2026-02-22T02:00:41.877Z",
     "number": 133,
     "owner": "Nongdrream"
+  },
+  "thomasu.tech": {
+    "url": "https://thomasu.tech/",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thomasu.tech_375w@2x.png",
+    "blurhash": "vDRypUt5~qbcM_oJt7WX?baeD%og?bWVM{oJtSWYofjY-;bcNGadRkbIj[jY",
+    "screenshotUpdatedAt": "2026-02-22T16:54:35.100Z",
+    "description": "A simple profile website for Thomas, Thomasu Thxmasu and TMS",
+    "backlink": {
+      "rect": "48:68:163.5:3520.34375",
+      "href": "https://webring.wonderful.software#thomasu.tech"
+    },
+    "lastUpdated": "2026-02-22T16:54:35.100Z",
+    "number": 134,
+    "owner": "jarmonxd"
   }
 }
