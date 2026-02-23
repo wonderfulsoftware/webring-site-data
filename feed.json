@@ -12,6 +12,12 @@
     "published": "2026-02-22T10:19:00.000Z"
   },
   {
+    "site": "nitpum.com",
+    "title": "วิธีโหลดแอพจาก Google play มาลงเครื่องที่ไม่มี Google play",
+    "url": "https://nitpum.com/post/install-playstore-app-on-none-playstore-device/",
+    "published": "2026-02-22T04:26:56.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองใช้งาน Markdown for Agents จาก Cloudflare กัน",
     "url": "https://www.somkiat.cc/markdown-for-agents-from-cloudflare/",
@@ -70,12 +76,6 @@
     "title": "(ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux",
     "url": "https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/",
     "published": "2026-02-01T06:05:43.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "มาซื้อไฟล์เพลงญี่ปุ่นถูกลิขสิทธิ์แบบ DRM-Free กันเถอะ! ด้วย Ototoy",
-    "url": "https://nitpum.com/post/ototoy/",
-    "published": "2026-02-01T03:52:43.000Z"
   },
   {
     "site": "sujamess.com",
