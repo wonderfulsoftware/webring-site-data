@@ -1,15 +1,21 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "ลงทุนนอกที่ไหนดี? — เจาะลึก DR vs กองทุน (FIF) vs ลงทุนตรง",
+    "url": "https://mymoneytoolkit.app/posts/invest-aboard",
+    "published": "2026-02-25T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "จัดระเบียบชีวิต จัดระเบียบใจ — ไดอารี่วันจันทร์ 💫",
-    "url": "https://myifew.com/7060/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%8a%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%95-%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%9a/",
-    "published": "2026-02-23T16:06:47.000Z"
+    "title": "วันอังคารที่ยุ่งแต่สำเร็จหมด 🌸✨",
+    "url": "https://myifew.com/7080/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a2%e0%b8%b8%e0%b9%88%e0%b8%87%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%aa%e0%b8%b3%e0%b9%80/",
+    "published": "2026-02-24T16:02:48.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน PageIndex สำหรับการพัฒนา RAG app กัน",
-    "url": "https://www.somkiat.cc/hello-pageindex-for-rag/",
-    "published": "2026-02-23T03:58:30.000Z"
+    "title": "บันทึกเรื่อง Soft delete ใน PostgreSQL database ไว้นิดหน่อย",
+    "url": "https://www.somkiat.cc/soft-delete-in-postgresql-database/",
+    "published": "2026-02-24T15:44:40.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -28,12 +34,6 @@
     "title": "เป็นเดฟแล้วต้องยื่นภาษียังไง? ง่ายนิดเดียว",
     "url": "https://www.mikkipastel.com/tax-101-for-developer/",
     "published": "2026-02-20T09:27:59.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "วางแผนอนาคต เปลี่ยนฝันให้เป็นจริง",
-    "url": "https://mymoneytoolkit.app/posts/future-planner",
-    "published": "2026-02-16T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
