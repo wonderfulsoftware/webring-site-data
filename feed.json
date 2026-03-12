@@ -192,6 +192,12 @@
     "published": "2025-06-29T00:00:00.000Z"
   },
   {
+    "site": "creaml4tt3.me",
+    "title": "ตั้งค่า Rclone ใช้งานร่วมกับ Cloudflare R2 อย่างง่ายในไม่กี่ขั้นตอน",
+    "url": "https://creaml4tt3.me/blogs/rclone-cloudflare-r2",
+    "published": "2025-06-02T11:00:00.000Z"
+  },
+  {
     "site": "zartre.com",
     "title": "Approaches to Using Single Dockerfile for Multi-arch Builds",
     "url": "https://blog.zartre.com/2025/approaches-to-using-single-dockerfile-for-multi-arch-builds/",
