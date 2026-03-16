@@ -1,21 +1,33 @@
 [
   {
+    "site": "myifew.com",
+    "title": "แจกโค้ด Second Brain with OpenClaw (Open Source) – ระบบจัดการความรู้ส่วนตัวด้วย AI Agentic",
+    "url": "https://myifew.com/7366/second-brain-with-openclaw-open-source/",
+    "published": "2026-03-15T18:14:09.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดจาก Live Thailand Claude Meetup 2026/03",
+    "url": "https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/",
+    "published": "2026-03-15T13:26:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "VS Code :: มาใช้งาน Built-in Integrated Browser กัน",
+    "url": "https://www.somkiat.cc/vscode-built-in-integrated-browser/",
+    "published": "2026-03-15T09:00:45.000Z"
+  },
+  {
+    "site": "nitpum.com",
+    "title": "บันทึก: Cups Proxmox ทำพรินเตอร์เซิฟเวอร์",
+    "url": "https://nitpum.com/post/cups-proxmox/",
+    "published": "2026-03-15T08:05:31.000Z"
+  },
+  {
     "site": "mymoneytoolkit.app",
     "title": "Webull TradeBook: เปลี่ยน Statement ที่อ่านยาก ให้เป็น 'คัมภีร์วิเคราะห์การลงทุน'",
     "url": "https://mymoneytoolkit.app/posts/webull-tradebook",
     "published": "2026-03-15T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "วันที่ชมพูเติบโตเร็วที่สุด — Second Brain v2, Strava Sync, และ Decision Ledger ใน 24 ชั่วโมง",
-    "url": "https://myifew.com/7361/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%95%e0%b8%b4%e0%b8%9a%e0%b9%82%e0%b8%95%e0%b9%80%e0%b8%a3%e0%b9%87%e0%b8%a7%e0%b8%97%e0%b8%b5/",
-    "published": "2026-03-14T16:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Qwen Code กัน",
-    "url": "https://www.somkiat.cc/hello-qwen-code/",
-    "published": "2026-03-14T08:55:11.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -30,12 +42,6 @@
     "published": "2026-03-13T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "สรุป .NET Meetup – March 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/03/recap-dotnet-meetup-march-2026/",
-    "published": "2026-03-12T21:30:00.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "มาฟังแรงบันดาลใจกับงาน Samsung Creator Day",
     "url": "https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/",
@@ -46,12 +52,6 @@
     "title": "Multi-account git setup",
     "url": "https://karnwong.me/posts/2026/03/multi-account-git-setup/",
     "published": "2026-03-01T00:00:00.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "วิธีโหลดแอพจาก Google play มาลงเครื่องที่ไม่มี Google play",
-    "url": "https://nitpum.com/post/install-playstore-app-on-none-playstore-device/",
-    "published": "2026-02-22T04:26:56.000Z"
   },
   {
     "site": "neizod.dev",
