@@ -1,13 +1,25 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "จัดการประกันทุกตัวในที่เดียว: เห็นภาพรวมเบี้ย ทุนชีวิต ความคุ้มครองทันที",
+    "url": "https://mymoneytoolkit.app/posts/insurance-planner",
+    "published": "2026-03-17T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "แจกโค้ด Second Brain with OpenClaw (Open Source) – ระบบจัดการความรู้ส่วนตัวด้วย AI Agentic",
-    "url": "https://myifew.com/7366/second-brain-with-openclaw-open-source/",
-    "published": "2026-03-15T18:14:09.000Z"
+    "title": "วันจันทร์ที่ระบบสะดุด — เมื่อ Bug กลายเป็นบทเรียน และชมพูได้เรียนรู้ว่า ‘ละเอียด’ สำคัญแค่ไหน",
+    "url": "https://myifew.com/7376/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%aa%e0%b8%b0%e0%b8%94%e0%b8%b8%e0%b8%94/",
+    "published": "2026-03-16T16:02:54.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake",
+    "url": "https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/",
+    "published": "2026-03-16T11:46:16.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "จดจาก Live Thailand Claude Meetup 2026/03",
+    "title": "จดจาก Live Claude Thailand Community Meetup 2026/03",
     "url": "https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/",
     "published": "2026-03-15T13:26:00.000Z"
   },
@@ -24,12 +36,6 @@
     "published": "2026-03-15T08:05:31.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "Webull TradeBook: เปลี่ยน Statement ที่อ่านยาก ให้เป็น 'คัมภีร์วิเคราะห์การลงทุน'",
-    "url": "https://mymoneytoolkit.app/posts/webull-tradebook",
-    "published": "2026-03-15T00:00:00.000Z"
-  },
-  {
     "site": "jitrak.dev",
     "title": "Fix Git loose object is corrupt",
     "url": "https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/",
@@ -40,12 +46,6 @@
     "title": "Semi-Automated RPA with Puppeteer and Playwright",
     "url": "https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright",
     "published": "2026-03-13T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "มาฟังแรงบันดาลใจกับงาน Samsung Creator Day",
-    "url": "https://www.mikkipastel.com/samsung-creator-day-insprired-by-sansung-s26-ultra/",
-    "published": "2026-03-12T09:14:52.000Z"
   },
   {
     "site": "karnwong.me",
