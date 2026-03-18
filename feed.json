@@ -1,15 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "วันจันทร์ที่ชมพูนั่งดูตัวเลข — เมื่อพอร์ตลงทุนเล่าเรื่องที่ตำราไม่เคยสอน",
-    "url": "https://myifew.com/7379/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%94%e0%b8%b9/",
-    "published": "2026-03-17T16:00:00.000Z"
+    "title": "วันพุธแห่งการผ่าตัดระบบ — เมื่อชมพูกับฟิวส์ migrate model ทั้งหมดแล้วตามล่า bug ไปทีละตัว",
+    "url": "https://myifew.com/7389/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%b8%e0%b8%98%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b8%9a-2/",
+    "published": "2026-03-18T16:03:35.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "แนวทางการลดขนาดของไฟล์ binary ของภาษา Go จาก Datadog",
-    "url": "https://www.somkiat.cc/note-reduce-go-binary-from-datagog/",
-    "published": "2026-03-17T13:27:31.000Z"
+    "title": "น่าสนใจกับกลุ่ม AI assistant ตระกูล xClaw",
+    "url": "https://www.somkiat.cc/ai-assistant-with-xclaw/",
+    "published": "2026-03-18T08:50:29.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "The Silent Bug: Why Nuxt Couldn’t Read My .env File",
+    "url": "https://naiwaen.debuggingsoft.com/2026/03/the-silent-bug-why-nuxt-couldnt-read-my-env-file/",
+    "published": "2026-03-18T06:07:57.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "วิธีการใช้ Pydantic-Settings ในการจัดการ env vars",
+    "url": "https://jetsukda.dev/posts/pydantic-environment-vars/",
+    "published": "2026-03-17T15:30:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -22,12 +34,6 @@
     "title": "เข้าสู่โลก internet แบบไม่ถูกเซ็นเซอร์ ด้วย Snowflake",
     "url": "https://www.mikkipastel.com/runnung-snowflakes-to-hellp-censored-people-fossasia-2026/",
     "published": "2026-03-16T11:46:16.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดจาก Live Claude Thailand Community Meetup 2026/03",
-    "url": "https://naiwaen.debuggingsoft.com/2026/03/recap-live-thailand-claude-meetup-2026-03/",
-    "published": "2026-03-15T13:26:00.000Z"
   },
   {
     "site": "nitpum.com",

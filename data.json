@@ -971,8 +971,9 @@
       "rect": "32:32:327:19.5",
       "href": "https://webring.wonderful.software#microbenz.in.th"
     },
-    "lastUpdated": "2026-03-17T01:53:31.764Z",
-    "owner": "MicroBenz"
+    "lastUpdated": "2026-03-18T20:45:00.041Z",
+    "owner": "MicroBenz",
+    "number": 49
   },
   "nuttdam.com": {
     "url": "https://www.nuttdam.com",
@@ -2564,5 +2565,19 @@
     "lastUpdated": "2026-03-18T02:05:41.438Z",
     "number": 135,
     "owner": "Creaml4tt3"
+  },
+  "jetsukda.dev": {
+    "url": "https://jetsukda.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jetsukda.dev_375w@2x.png",
+    "blurhash": "v4SigQ4ntS%MIAIUR,xu_3xuWVt7NGRjV@WB?vt7ROof_4%3RPWB9Gt7s.Rj",
+    "screenshotUpdatedAt": "2026-03-18T20:45:17.517Z",
+    "description": "A minimal, responsive and SEO-friendly Astro blog theme.",
+    "backlink": {
+      "rect": "37.984375:39.78125:189.90625:1006.6875",
+      "href": "https://webring.wonderful.software#jetsukda.dev"
+    },
+    "lastUpdated": "2026-03-18T20:45:17.517Z",
+    "number": 136,
+    "owner": "0xKoios"
   }
 }
