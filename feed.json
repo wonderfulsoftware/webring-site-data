@@ -1,5 +1,11 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "Weekend Hack: ลองแก้ Bottleneck การรีวิว Pull Request ขนาดกลางและใหญ่",
+    "url": "https://blog.ninprd.com/blog/weekend-hack-solving-medium-large-pull-request-review/",
+    "published": "2026-03-19T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "วันพุธแห่งการผ่าตัดระบบ — เมื่อชมพูกับฟิวส์ migrate model ทั้งหมดแล้วตามล่า bug ไปทีละตัว",
     "url": "https://myifew.com/7389/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%b8%e0%b8%98%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9c%e0%b9%88%e0%b8%b2%e0%b8%95%e0%b8%b1%e0%b8%94%e0%b8%a3%e0%b8%b0%e0%b8%9a-2/",
@@ -112,12 +118,6 @@
     "title": "ใช้ opencode แบบไม่ต้องเฝ้าจอ",
     "url": "https://blog.luckytime1996.dev/blog/11-how-to-use-opencode-without-monitor/",
     "published": "2025-12-23T00:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "2025 Year In Review",
-    "url": "https://blog.ninprd.com/blog/2025-year-in-review/",
-    "published": "2025-12-21T00:00:00.000Z"
   },
   {
     "site": "llun.me",
