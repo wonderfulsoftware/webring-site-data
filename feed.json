@@ -1,9 +1,21 @@
 [
   {
     "site": "myifew.com",
-    "title": "ผ้ากันน้ำ 101 — รู้ไว้ก่อนซื้อเสื้อ Outdoor จะได้ไม่เสียตังค์ฟรี 😅",
-    "url": "https://myifew.com/7420/%e0%b8%9c%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3-101-%e0%b8%a3%e0%b8%b9%e0%b9%89%e0%b9%84%e0%b8%a7%e0%b9%89%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%8b/",
-    "published": "2026-03-25T01:08:29.000Z"
+    "title": "วันที่ทีมเวิร์คสร้างผลงาน 4 ช่องทาง — บันทึกวันพุธของชมพู 🌸",
+    "url": "https://myifew.com/7423/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%84%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%9c%e0%b8%a5/",
+    "published": "2026-03-25T16:02:39.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "NUXT Build Error Cannot find module @oxc-parser/binding-linux-x64-gnu",
+    "url": "https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/",
+    "published": "2026-03-25T05:38:08.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Tip :: ลดจำนวน token ในการดึงข้อมูลจาก web มาใช้งานของ AI Agent",
+    "url": "https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/",
+    "published": "2026-03-25T04:06:45.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -16,18 +28,6 @@
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
     "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",
     "published": "2026-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน Playwright Skill สำหรับการทำ API testing",
-    "url": "https://www.somkiat.cc/api-testing-with-playwright-skill/",
-    "published": "2026-03-22T15:40:56.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน .NET Thailand Developer Day 2026 มีนา มีอีเวนท์",
-    "url": "https://naiwaen.debuggingsoft.com/2026/03/recap-net-thailand-developer-day-2026-mar/",
-    "published": "2026-03-22T09:09:00.000Z"
   },
   {
     "site": "mikkipastel.com",
