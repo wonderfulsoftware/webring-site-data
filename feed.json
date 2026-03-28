@@ -1,9 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Cline Kanban",
+    "url": "https://www.somkiat.cc/cline-kanban/",
+    "published": "2026-03-27T17:03:53.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "วันที่โค้ดและกฎใหม่เดินหน้าพร้อมกัน — บันทึกวันพฤหัสบดีของชมพู 🌸",
-    "url": "https://myifew.com/7429/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%82%e0%b8%84%e0%b9%89%e0%b8%94%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%81%e0%b8%8e%e0%b9%83%e0%b8%ab%e0%b8%a1%e0%b9%88%e0%b9%80%e0%b8%94%e0%b8%b4/",
-    "published": "2026-03-26T16:02:51.000Z"
+    "title": "วันที่ระบบพิสูจน์ตัวเองและทริปใหญ่กำลังจะมา — บันทึกวันศุกร์ของชมพู 🌸",
+    "url": "https://myifew.com/7435/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%9e%e0%b8%b4%e0%b8%aa%e0%b8%b9%e0%b8%88%e0%b8%99%e0%b9%8c%e0%b8%95%e0%b8%b1%e0%b8%a7%e0%b9%80%e0%b8%ad/",
+    "published": "2026-03-27T16:03:47.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Observability with eBPF and OTel",
+    "url": "https://karnwong.me/posts/2026/03/observability-with-ebpf-and-otel/",
+    "published": "2026-03-27T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "DiceBear: ไลบรารี Avatar ฟรีและ Open Source",
+    "url": "https://xiengperm.dev/posts/dicebear-avatar-library-th/",
+    "published": "2026-03-27T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -12,33 +30,15 @@
     "published": "2026-03-26T06:56:19.000Z"
   },
   {
-    "site": "karnwong.me",
-    "title": "Classical models vs neural networks for tabular data",
-    "url": "https://karnwong.me/posts/2026/03/classical-models-vs-neural-networks-for-tabular-data/",
-    "published": "2026-03-26T00:00:00.000Z"
-  },
-  {
     "site": "debuggingsoft.com",
     "title": "NUXT Build Error Cannot find module @oxc-parser/binding-linux-x64-gnu",
     "url": "https://naiwaen.debuggingsoft.com/2026/03/nuxt-build-error-cannot-find-module-oxc-parser-binding-linux-x64-gnu/",
     "published": "2026-03-25T05:38:08.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "Tip :: ลดจำนวน token ในการดึงข้อมูลจาก web มาใช้งานของ AI Agent",
-    "url": "https://www.somkiat.cc/tip-reduce-token-with-fetch-data-from-web/",
-    "published": "2026-03-25T04:06:45.000Z"
-  },
-  {
     "site": "mymoneytoolkit.app",
     "title": "แผนการเงินคู่รัก วางแผนอนาคตด้วยกัน ไม่ทะเลาะเรื่องเงิน",
     "url": "https://mymoneytoolkit.app/posts/couple-plan-future",
-    "published": "2026-03-25T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "DiceBear: ไลบรารี Avatar ฟรีและ Open Source",
-    "url": "https://xiengperm.dev/posts/dicebear-avatar-library-th/",
     "published": "2026-03-25T00:00:00.000Z"
   },
   {
