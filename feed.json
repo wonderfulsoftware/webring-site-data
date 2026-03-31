@@ -1,9 +1,15 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "น้ำมันขึ้น…เงินในกระเป๋าหายไปเท่าไหร่?",
+    "url": "https://mymoneytoolkit.app/posts/oil-crisis",
+    "published": "2026-03-31T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "วันอาทิตย์ที่แก้ bug กันทั้งวัน แต่ใจสนุกเพราะระบบแข็งแรงขึ้น — บันทึกวันอาทิตย์ของชมพู 🌸",
-    "url": "https://myifew.com/7442/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b2%e0%b8%97%e0%b8%b4%e0%b8%95%e0%b8%a2%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%81%e0%b9%89-bug-%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b1/",
-    "published": "2026-03-29T16:02:34.000Z"
+    "title": "วันจันทร์กับข่าว AI ที่ทำให้ตื่นเต้นตั้งแต่เช้า — บันทึกวันจันทร์ของชมพู 🌸",
+    "url": "https://myifew.com/7446/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%88%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%a3%e0%b9%8c%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7-ai-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%97%e0%b8%b3/",
+    "published": "2026-03-30T16:02:30.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -40,12 +46,6 @@
     "title": "แจกโพย! การสร้างผู้ช่วยส่วนตัวง่าย ๆ ด้วย Gemini Gems",
     "url": "https://www.mikkipastel.com/usecase-fortune-teller-google-gemini-gems/",
     "published": "2026-03-26T06:56:19.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "แผนการเงินคู่รัก วางแผนอนาคตด้วยกัน ไม่ทะเลาะเรื่องเงิน",
-    "url": "https://mymoneytoolkit.app/posts/couple-plan-future",
-    "published": "2026-03-25T00:00:00.000Z"
   },
   {
     "site": "birdmusic.cc",
