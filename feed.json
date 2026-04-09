@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการใช้งาน Gemma 4 ใน Ollama",
+    "url": "https://www.somkiat.cc/note-gemma-4-in-ollama/",
+    "published": "2026-04-09T01:53:57.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "Project Glasswing กับ Claude Mythos Preview: เมื่อความร่วมมือข้ามค่ายพยายามรักษาโค้ดสำคัญในยุค AI",
     "url": "https://amiearth.com/blog/project-glasswing-claude-mythos-preview",
@@ -34,12 +40,6 @@
     "title": "Garmin development setup on Linux",
     "url": "https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/",
     "published": "2026-04-06T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการแบ่งปันเรื่อง AI Agent for coding แบบพื้นฐาน",
-    "url": "https://www.somkiat.cc/sharing-basic-ai-agent-for-coding/",
-    "published": "2026-04-03T10:51:38.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
