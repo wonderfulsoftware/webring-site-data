@@ -2580,7 +2580,21 @@
     "description": null,
     "backlink": null,
     "lastUpdated": "2026-04-11T14:08:21.418Z",
-    "number": 137,
+    "number": 138,
     "owner": "Namnarak"
+  },
+  "aeito90.in.th": {
+    "url": "https://aeito90.in.th",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/aeito90.in.th_375w@2x.png",
+    "blurhash": "vJIX~zR*00t6_NfRw[WB4nj?-pWX8_bHkroe9Zj[slj[D%axRjfRI9ofkDR*",
+    "screenshotUpdatedAt": "2026-04-11T14:57:50.464Z",
+    "description": "Weeraphat's portfolio website",
+    "backlink": {
+      "rect": "25.1875:16:16.359375:26.03125",
+      "href": "https://webring.wonderful.software#aeito90.in.th"
+    },
+    "lastUpdated": "2026-04-11T14:57:50.464Z",
+    "number": 137,
+    "owner": "aeito90"
   }
 }

@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี Claude Managed Agents",
+    "url": "https://www.somkiat.cc/claude-managed-agents/",
+    "published": "2026-04-11T03:40:48.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "Agent เดี่ยว vs Agent Team: เลือกให้ถูกตั้งแต่แรก ระบบจะโตได้ไกลกว่า",
     "url": "https://amiearth.com/blog/agent-vs-agent-team",
@@ -16,12 +22,6 @@
     "title": "LLM tracing with MLflow AI Gateway",
     "url": "https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/",
     "published": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการใช้งาน Gemma 4 ใน Ollama",
-    "url": "https://www.somkiat.cc/note-gemma-4-in-ollama/",
-    "published": "2026-04-09T01:53:57.000Z"
   },
   {
     "site": "xiengperm.dev",
