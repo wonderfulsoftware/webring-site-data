@@ -1,9 +1,21 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "Agent เดี่ยว vs Agent Team: เลือกให้ถูกตั้งแต่แรก ระบบจะโตได้ไกลกว่า",
+    "url": "https://amiearth.com/blog/agent-vs-agent-team",
+    "published": "2026-04-11T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "Jenkins Error: DevExpress-dashboard error TS2416 with knockout js",
-    "url": "https://naiwaen.debuggingsoft.com/2026/04/jenkins-error-devexpress-dashboard-error-ts2416-with-knockout-js/",
-    "published": "2026-04-09T09:33:03.000Z"
+    "title": "ลองมาใช้ Skill กับ Code dotnet เรากัน",
+    "url": "https://naiwaen.debuggingsoft.com/2026/04/let-try-dotnet-skills-th/",
+    "published": "2026-04-10T08:59:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "LLM tracing with MLflow AI Gateway",
+    "url": "https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/",
+    "published": "2026-04-10T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -18,9 +30,9 @@
     "published": "2026-04-09T00:00:00.000Z"
   },
   {
-    "site": "amiearth.com",
-    "title": "Project Glasswing กับ Claude Mythos Preview: เมื่อความร่วมมือข้ามค่ายพยายามรักษาโค้ดสำคัญในยุค AI",
-    "url": "https://amiearth.com/blog/project-glasswing-claude-mythos-preview",
+    "site": "fasu.dev",
+    "title": "Why I Built a New Vite Env Plugin",
+    "url": "https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin",
     "published": "2026-04-08T00:00:00.000Z"
   },
   {
@@ -40,12 +52,6 @@
     "title": "อยู่ดี ๆ ทำไมแอปแสดงผลเต็มจอ? มาดูวิธีแก้ใน Android 15 กัน",
     "url": "https://www.mikkipastel.com/fix-edge-to-edge-android-15/",
     "published": "2026-04-06T05:25:51.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Garmin development setup on Linux",
-    "url": "https://karnwong.me/posts/2026/04/garmin-development-setup-on-linux/",
-    "published": "2026-04-06T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -100,12 +106,6 @@
     "title": "むむむむむ",
     "url": "https://neizod.dev/2026/02/14/no-no-no-no-no.html",
     "published": "2026-02-14T03:49:18.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "The Stack That Runs This Site (And Why I Chose It)",
-    "url": "https://fasu.dev/writings/the-stack-that-runs-this-site-and-why-i-chose-it",
-    "published": "2026-02-09T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
