@@ -77,6 +77,7 @@
       <outline text="hnawny.in.th" title="hnawny.in.th" type="rss" xmlUrl="https://hnawny.in.th/rss.xml" htmlUrl="https://hnawny.in.th"/>
       <outline text="creaml4tt3.me" title="creaml4tt3.me" type="rss" xmlUrl="https://creaml4tt3.me/feed.xml" htmlUrl="https://creaml4tt3.me"/>
       <outline text="jetsukda.dev" title="jetsukda.dev" type="rss" xmlUrl="https://jetsukda.dev/rss.xml" htmlUrl="https://jetsukda.dev"/>
+      <outline text="nutchanon.org" title="nutchanon.org" type="rss" xmlUrl="https://nutchanon.org/rss.xml" htmlUrl="https://nutchanon.org"/>
     </outline>
   </body>
 </opml>
