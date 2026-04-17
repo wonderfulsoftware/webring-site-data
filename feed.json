@@ -1,5 +1,17 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1",
+    "url": "https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/",
+    "published": "2026-04-16T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "จัดการภาษีรายได้ทั้งปี รู้ก่อนยื่น ภาพรวมในชีทเดียว",
+    "url": "https://mymoneytoolkit.app/posts/tax-management",
+    "published": "2026-04-16T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกความเข้าใจเกี่ยวกับ LLM Wiki และใช้งานร่วมกับ Ollama",
     "url": "https://www.somkiat.cc/learn-llm-wiki/",
@@ -16,12 +28,6 @@
     "title": "Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด",
     "url": "https://amiearth.com/blog/cursor-31-whats-new",
     "published": "2026-04-15T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "รีวิว The Wealth Architecture โดย แอนนาเบล คชนันทน์ — งานเขียนการเงินที่ทรงคุณค่าแห่งปี",
-    "url": "https://mymoneytoolkit.app/posts/the-wealth-architecture",
-    "published": "2026-04-11T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
@@ -76,12 +82,6 @@
     "title": "TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน",
     "url": "https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/",
     "published": "2026-03-22T03:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "Weekend Hack: ลองแก้ Bottleneck การรีวิว Pull Request ขนาดกลางและใหญ่",
-    "url": "https://blog.ninprd.com/blog/weekend-hack-solving-medium-large-pull-request-review/",
-    "published": "2026-03-19T00:00:00.000Z"
   },
   {
     "site": "nitpum.com",
