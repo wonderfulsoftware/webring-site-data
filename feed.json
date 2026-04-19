@@ -1,5 +1,29 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว",
+    "url": "https://mymoneytoolkit.app/posts/strategy",
+    "published": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "site": "nitpum.com",
+    "title": "เว็บจับใบดำใบแดง",
+    "url": "https://nitpum.com/post/blackredcard/",
+    "published": "2026-04-18T06:42:50.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "bizdocgen: Grist widget สำหรับสร้างใบเสนอราคา ใบแจ้งหนี้ และใบเสร็จ",
+    "url": "https://dt.in.th/Bizdocgen",
+    "published": "2026-04-18T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย",
+    "url": "https://xiengperm.dev/posts/vscode-dev-browser-editor-th/",
+    "published": "2026-04-18T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Audit Delegation of Control On Windows Server AD",
     "url": "https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/",
@@ -30,12 +54,6 @@
     "published": "2026-04-16T00:00:00.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "จัดการภาษีรายได้ทั้งปี รู้ก่อนยื่น ภาพรวมในชีทเดียว",
-    "url": "https://mymoneytoolkit.app/posts/tax-management",
-    "published": "2026-04-16T00:00:00.000Z"
-  },
-  {
     "site": "amiearth.com",
     "title": "Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด",
     "url": "https://amiearth.com/blog/cursor-31-whats-new",
@@ -46,12 +64,6 @@
     "title": "LLM tracing with MLflow AI Gateway",
     "url": "https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/",
     "published": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "Learn Anything: แพลตฟอร์ม Open Source คลังแสงความรู้",
-    "url": "https://xiengperm.dev/posts/learn-anything-knowledge-platform-th/",
-    "published": "2026-04-09T00:00:00.000Z"
   },
   {
     "site": "fasu.dev",
@@ -90,22 +102,10 @@
     "published": "2026-03-22T03:00:00.000Z"
   },
   {
-    "site": "nitpum.com",
-    "title": "บันทึก: Cups Proxmox ทำพรินเตอร์เซิฟเวอร์",
-    "url": "https://nitpum.com/post/cups-proxmox/",
-    "published": "2026-03-15T08:05:31.000Z"
-  },
-  {
     "site": "jitrak.dev",
     "title": "Fix Git loose object is corrupt",
     "url": "https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/",
     "published": "2026-03-14T04:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Semi-Automated RPA with Puppeteer and Playwright",
-    "url": "https://dt.in.th/SemiAutomatedRPAPuppeteerPlaywright",
-    "published": "2026-03-13T00:00:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -282,6 +282,12 @@
     "published": "2025-01-06T15:50:00.000Z"
   },
   {
+    "site": "microbenz.in.th",
+    "title": "2024 (+2023)",
+    "url": "https://microbenz.in.th/blog/2024-plus-2023-review/",
+    "published": "2024-12-23T13:07:00.000Z"
+  },
+  {
     "site": "ntsd.dev",
     "title": "How to use Stream Pipe and Transform in Node.js",
     "url": "https://ntsd.dev/node-stream-pipe-and-transform/",
@@ -352,12 +358,6 @@
     "title": "Tesla Thailand และ “กว่าจะส่งมอบ”",
     "url": "https://shayennn.com/tesla-thailand-delivery-process-so-suck/",
     "published": "2023-02-12T06:18:26.000Z"
-  },
-  {
-    "site": "microbenz.in.th",
-    "title": "2022",
-    "url": "https://microbenz.in.th2022-review/",
-    "published": "2022-12-22T07:30:00.000Z"
   },
   {
     "site": "blog.0002011.xyz",
