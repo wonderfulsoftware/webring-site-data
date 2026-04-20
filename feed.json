@@ -6,6 +6,18 @@
     "published": "2026-04-19T00:00:00.000Z"
   },
   {
+    "site": "amiearth.com",
+    "title": "All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย",
+    "url": "https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone",
+    "published": "2026-04-19T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดสรุปจากงาน Global Azure 2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/04/recap-global-azure-2026/",
+    "published": "2026-04-18T16:54:00.000Z"
+  },
+  {
     "site": "nitpum.com",
     "title": "เว็บจับใบดำใบแดง",
     "url": "https://nitpum.com/post/blackredcard/",
@@ -22,12 +34,6 @@
     "title": "vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย",
     "url": "https://xiengperm.dev/posts/vscode-dev-browser-editor-th/",
     "published": "2026-04-18T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Audit Delegation of Control On Windows Server AD",
-    "url": "https://naiwaen.debuggingsoft.com/2026/04/audit-delegation-of-control-on-windows-server-ad/",
-    "published": "2026-04-17T10:26:29.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -52,12 +58,6 @@
     "title": "Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1",
     "url": "https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/",
     "published": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "Cursor 3.1: ทำงานหลายเอเจนต์แบบ Tiled, เสียงแม่นขึ้น และนำทางจาก Diff ถึงบรรทัด",
-    "url": "https://amiearth.com/blog/cursor-31-whats-new",
-    "published": "2026-04-15T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
