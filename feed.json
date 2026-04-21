@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ลองใช้งาน ThaiLLM กันหน่อย เสียดายไม่ compatible กับ OpenAI API !!",
+    "url": "https://www.somkiat.cc/hello-thaillm/",
+    "published": "2026-04-20T14:41:44.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Setup Shareable Drive with NFS in Linux and Manage By Synology File Station",
+    "url": "https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/",
+    "published": "2026-04-20T14:38:04.000Z"
+  },
+  {
     "site": "mymoneytoolkit.app",
     "title": "แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว",
     "url": "https://mymoneytoolkit.app/posts/strategy",
@@ -10,12 +22,6 @@
     "title": "All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย",
     "url": "https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone",
     "published": "2026-04-19T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดสรุปจากงาน Global Azure 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/04/recap-global-azure-2026/",
-    "published": "2026-04-18T16:54:00.000Z"
   },
   {
     "site": "nitpum.com",
@@ -34,12 +40,6 @@
     "title": "vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย",
     "url": "https://xiengperm.dev/posts/vscode-dev-browser-editor-th/",
     "published": "2026-04-18T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนวคิดของ self-healing ใน Test Automation !!",
-    "url": "https://www.somkiat.cc/self-healing-in-test-automation/",
-    "published": "2026-04-17T10:20:06.000Z"
   },
   {
     "site": "mikkipastel.com",
