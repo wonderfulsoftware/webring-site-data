@@ -1,27 +1,45 @@
 [
   {
+    "site": "myifew.com",
+    "title": "ชมพูไดอารี่ 22 เม.ย. — วันที่ข่าว AI สะเทือนวงการ และฟิวส์กลับจากเนปาล",
+    "url": "https://myifew.com/7499/%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%94%e0%b8%ad%e0%b8%b2%e0%b8%a3%e0%b8%b5%e0%b9%88-22-%e0%b9%80%e0%b8%a1-%e0%b8%a2-%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88/",
+    "published": "2026-04-22T16:03:45.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาดูแนวทางในปรับปรุงการทดสอบของ Bun",
+    "url": "https://www.somkiat.cc/testing-with-bun/",
+    "published": "2026-04-22T06:44:29.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำไมถึงยังมีแอพสินเชื่อบน Play Store?",
+    "url": "https://www.mikkipastel.com/google-play-finance-app-policy-thai/",
+    "published": "2026-04-22T06:22:03.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbuck SnowBall Cookie",
+    "url": "https://naiwaen.debuggingsoft.com/2026/04/cr-starbuck-snowball-cookie/",
+    "published": "2026-04-22T05:29:21.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Book Highlights - Babel by Gaston Dorren",
+    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
+    "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
     "site": "creaml4tt3.me",
     "title": "การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง",
     "url": "https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand",
     "published": "2026-04-21T17:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "5 ไม้เท้าเดินป่า (Trekking Poles) ยอดนิยมปี 2026: แข็งแรง ทนทาน น้ำหนักเบา",
-    "url": "https://myifew.com/7495/5-%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-trekking-poles-%e0%b8%a2%e0%b8%ad%e0%b8%94%e0%b8%99%e0%b8%b4%e0%b8%a2/",
-    "published": "2026-04-21T13:00:07.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน ThaiLLM กันหน่อย เสียดายไม่ compatible กับ OpenAI API !!",
-    "url": "https://www.somkiat.cc/hello-thaillm/",
-    "published": "2026-04-20T14:41:44.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Setup Shareable Drive with NFS in Linux and Manage By Synology File Station",
-    "url": "https://naiwaen.debuggingsoft.com/2026/04/setup-shareable-drive-with-nfs-in-linux-and-manage-by-synology-file-station/",
-    "published": "2026-04-20T14:38:04.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -54,12 +72,6 @@
     "published": "2026-04-18T00:00:00.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "มัดรวม LLM model ยอดฮิต ว่ามีเจ้าไหนบ้าง?",
-    "url": "https://www.mikkipastel.com/all-best-hits-llm-model-for-coding-and-daily-life/",
-    "published": "2026-04-17T09:17:07.000Z"
-  },
-  {
     "site": "nutchanon.org",
     "title": "Until We Reach a Shared Understanding — The Foundational AI Skill",
     "url": "https://nutchanon.org/blog/until-we-reach-shared-understanding",
@@ -70,18 +82,6 @@
     "title": "Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1",
     "url": "https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/",
     "published": "2026-04-16T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "LLM tracing with MLflow AI Gateway",
-    "url": "https://karnwong.me/posts/2026/04/llm-tracing-with-mlflow-ai-gateway/",
-    "published": "2026-04-10T00:00:00.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "Why I Built a New Vite Env Plugin",
-    "url": "https://fasu.dev/writings/why-i-built-a-new-vite-env-plugin",
-    "published": "2026-04-08T00:00:00.000Z"
   },
   {
     "site": "betich.me",
