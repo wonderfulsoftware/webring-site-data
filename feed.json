@@ -1,15 +1,21 @@
 [
   {
+    "site": "rayriffy.com",
+    "title": "Executing NW.js games under CrossOver",
+    "url": "https://rayriffy.com/garden/nwjs-crossover-macos/",
+    "published": "2026-04-26T19:48:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "บันทึกวันเสาร์ — เมื่อชมพูมี สมองที่สอง เรียนรู้โลกกว้าง 🌸",
+    "url": "https://myifew.com/7511/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%8a%e0%b8%a1/",
+    "published": "2026-04-26T16:05:08.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจากงาน GitHub Copilot Dev Days Bangkok 2026",
     "url": "https://naiwaen.debuggingsoft.com/2026/04/recap-github-copilot-dev-days-bangkok-2026/",
     "published": "2026-04-25T16:18:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "บันทึกวันศุกร์ — เสียงสะท้อนจากขุนเขาทั่วโลก 🌸",
-    "url": "https://myifew.com/7510/%e0%b8%9a%e0%b8%b1%e0%b8%99%e0%b8%97%e0%b8%b6%e0%b8%81%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%a8%e0%b8%b8%e0%b8%81%e0%b8%a3%e0%b9%8c-%e0%b9%80%e0%b8%aa%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b8%aa%e0%b8%b0/",
-    "published": "2026-04-25T16:04:53.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -32,7 +38,7 @@
   {
     "site": "karnwong.me",
     "title": "Book Highlights - Babel by Gaston Dorren",
-    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorrenbook-highlights---babel-by-gaston-dorren/",
+    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/",
     "published": "2026-04-22T00:00:00.000Z"
   },
   {
@@ -178,12 +184,6 @@
     "title": "Redis บันทึกการใช้งาน Set และ Sorted Set (ZSET)",
     "url": "https://www.anuwong.com/blogs/2025/10/19-redis-%E0%B8%9A%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B6%E0%B8%81%E0%B9%81%E0%B8%99%E0%B8%A7%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99-set-%E0%B9%81%E0%B8%A5%E0%B8%B0-sorted-set/",
     "published": "2025-10-19T07:28:39.000Z"
-  },
-  {
-    "site": "rayriffy.com",
-    "title": "Service Discontinuation of PaiLeaw",
-    "url": "https://rayriffy.com/garden/paileaw-discontinuation/",
-    "published": "2025-10-16T04:23:00.000Z"
   },
   {
     "site": "garden.narze.live",
