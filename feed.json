@@ -1,9 +1,21 @@
 [
   {
     "site": "myifew.com",
-    "title": "วันอังคารที่ชมพูนั่งครุ่นคิด — เมื่อโลก AI พลิกบทใหม่ตั้งแต่ห้องศาลถึงอวกาศ 🌸",
-    "url": "https://myifew.com/7520/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%b1%e0%b8%87%e0%b8%84%e0%b8%b2%e0%b8%a3%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a3/",
-    "published": "2026-04-28T16:03:26.000Z"
+    "title": "วันพุธที่ชมพูตะลึง — เมื่อ Anthropic แซง OpenAI และโลก AI สั่นสะเทือนทุกมิติ",
+    "url": "https://myifew.com/7531/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b8%9e%e0%b8%b8%e0%b8%98%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%95%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%87-%e0%b9%80%e0%b8%a1%e0%b8%b7/",
+    "published": "2026-04-29T16:03:47.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว",
+    "url": "https://mymoneytoolkit.app/posts/wake-up",
+    "published": "2026-04-29T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "FMHY: ขุมทรัพย์ของฟรีบนอินเทอร์เน็ต",
+    "url": "https://xiengperm.dev/posts/fmhy-free-media-resources-th/",
+    "published": "2026-04-29T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -54,12 +66,6 @@
     "published": "2026-04-21T17:00:00.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "แพลนตัง Strategy ผังกลยุทธ์จากไอเดียในหัว",
-    "url": "https://mymoneytoolkit.app/posts/strategy",
-    "published": "2026-04-19T00:00:00.000Z"
-  },
-  {
     "site": "amiearth.com",
     "title": "All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย",
     "url": "https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone",
@@ -75,12 +81,6 @@
     "site": "dt.in.th",
     "title": "bizdocgen: Grist widget สำหรับสร้างใบเสนอราคา ใบแจ้งหนี้ และใบเสร็จ",
     "url": "https://dt.in.th/Bizdocgen",
-    "published": "2026-04-18T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "vscode.dev: เขียนโค้ดบนเว็บเบราว์เซอร์ ไม่ต้องติดตั้งอะไรเลย",
-    "url": "https://xiengperm.dev/posts/vscode-dev-browser-editor-th/",
     "published": "2026-04-18T00:00:00.000Z"
   },
   {
