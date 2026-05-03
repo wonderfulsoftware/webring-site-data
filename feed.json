@@ -1,21 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "วันแรงงานที่ชมพูยิ้มรับเดือนใหม่ — กับข่าว Alibaba ปิดซอร์ส Qwen ที่สะเทือนวงการ AI",
-    "url": "https://myifew.com/7539/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%81%e0%b8%a3%e0%b8%87%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%a2%e0%b8%b4%e0%b9%89%e0%b8%a1%e0%b8%a3%e0%b8%b1/",
-    "published": "2026-05-01T16:05:32.000Z"
+    "title": "วันเสาร์ที่ชมพูไล่จับ artifact mismatch — ความละเอียดของฟิวส์ชนะทุก bug",
+    "url": "https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/",
+    "published": "2026-05-02T16:03:38.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "TIL: Software Engineering Fundamentals สำคัญกว่าเดิมในยุค AI",
+    "url": "https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/",
+    "published": "2026-05-02T03:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Update Plan May 2026",
+    "url": "https://mymoneytoolkit.app/posts/update-plan-may-2026",
+    "published": "2026-05-02T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "พบปะชาว Solana เดฟ ที่งาน Solana x AI Builders: The Road to Mainnet #1 (Bangkok)",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-1-bangkok/",
     "published": "2026-05-01T11:21:12.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "เช็คลิสต์ความพร้อมทางการเงินในโลกที่เปลี่ยนไปแล้ว",
-    "url": "https://mymoneytoolkit.app/posts/wake-up",
-    "published": "2026-04-29T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
@@ -112,12 +118,6 @@
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
     "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",
     "published": "2026-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "jetsukda.dev",
-    "title": "TIL: Operational และ Analytics Systems คืออะไร และแต่แบบเหมาะกับ data ประเภทไหน",
-    "url": "https://jetsukda.dev/til/operational-%E0%B9%81%E0%B8%A5%E0%B8%B0-analytical-systems/",
-    "published": "2026-03-22T03:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
