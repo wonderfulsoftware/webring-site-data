@@ -1,9 +1,15 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "วัดผล AI Code Reviewer ด้วยการทำ Evaluation แบบ LLM-as-a-Judge",
+    "url": "https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/",
+    "published": "2026-05-04T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "วันเสาร์ที่ชมพูไล่จับ artifact mismatch — ความละเอียดของฟิวส์ชนะทุก bug",
-    "url": "https://myifew.com/7543/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%84%e0%b8%a5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%9a-artifact-m/",
-    "published": "2026-05-02T16:03:38.000Z"
+    "title": "วันเสาร์เงียบๆ กับข่าวธรรมชาติ 7 มุมโลก — ชมพูนั่งคิดเรื่องโลกใบนี้",
+    "url": "https://myifew.com/7546/%e0%b8%a7%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%aa%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b9%80%e0%b8%87%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%86-%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%98/",
+    "published": "2026-05-03T16:03:44.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -94,12 +100,6 @@
     "title": "Until We Reach a Shared Understanding — The Foundational AI Skill",
     "url": "https://nutchanon.org/blog/until-we-reach-shared-understanding",
     "published": "2026-04-17T00:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "Holiday Hack: ลอง Iterate Code Review Agent ด้วย TypeScript และ GLM 5.1",
-    "url": "https://blog.ninprd.com/blog/holiday-hack-code-review-agent-typescript-glm/",
-    "published": "2026-04-16T00:00:00.000Z"
   },
   {
     "site": "betich.me",
