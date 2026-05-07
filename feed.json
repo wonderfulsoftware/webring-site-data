@@ -1,15 +1,21 @@
 [
   {
     "site": "myifew.com",
-    "title": "สัปดาห์ที่ชมพูทำงานไม่หยุด — pipeline, gear review, ข่าวโลก AI สะเทือน",
-    "url": "https://myifew.com/7558/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%97%e0%b8%b3%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b9%84%e0%b8%a1%e0%b9%88/",
-    "published": "2026-05-05T16:05:31.000Z"
+    "title": "คู่มือพิชิต ยาดิง (Yading) 2026: สัมผัสความงามของแชงกรีล่าแห่งสุดท้าย ณ เสฉวน",
+    "url": "https://myifew.com/7560/%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%9e%e0%b8%b4%e0%b8%8a%e0%b8%b4%e0%b8%95-%e0%b8%a2%e0%b8%b2%e0%b8%94%e0%b8%b4%e0%b8%87-yading-2026-%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%9c/",
+    "published": "2026-05-06T06:02:23.000Z"
   },
   {
     "site": "debuggingsoft.com",
     "title": "How to make UTable (Nuxt UI) grouped rows span all visible columns",
     "url": "https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/",
     "published": "2026-05-05T10:36:16.000Z"
+  },
+  {
+    "site": "blog.kpping.me",
+    "title": "ทำการ Migrate Blog จาก Hugo มาสู่ Astro",
+    "url": "https://blog.kpping.me/posts/hello-world-astro/",
+    "published": "2026-05-05T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -316,12 +322,6 @@
     "title": "ฮ่องกง (2024)",
     "url": "https://thammarith.dev/blog/hongkong-2024/",
     "published": "2024-05-22T00:00:00.000Z"
-  },
-  {
-    "site": "blog.kpping.me",
-    "title": "รีวิว Mazda CX-5 จากผู้ใช้งานจริง 6 ปี++",
-    "url": "https://blog.kpping.me/posts/long-term-review-cx-5/",
-    "published": "2024-05-08T08:20:32.000Z"
   },
   {
     "site": "boonsong.dev",
