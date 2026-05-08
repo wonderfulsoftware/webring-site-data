@@ -1,15 +1,27 @@
 [
   {
+    "site": "xiengperm.dev",
+    "title": "neal.fun: สวนสนุกออนไลน์ที่หายไป",
+    "url": "https://xiengperm.dev/posts/neal-fun-creative-experiments-th/",
+    "published": "2026-05-08T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbuck Fuji Apple Camellia Cold Brew / Red Velvet Strawberry Cake",
+    "url": "https://naiwaen.debuggingsoft.com/2026/05/cr-starbuck-fuji-apple-camellia-cold-brew-red-velvet-strawberry-cake/",
+    "published": "2026-05-07T08:57:35.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "[Bug] Claude code for VS Code 2.1.131",
+    "url": "https://www.somkiat.cc/bug-claude-code-for-vs-code/",
+    "published": "2026-05-07T03:16:21.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "คู่มือพิชิต ยาดิง (Yading) 2026: สัมผัสความงามของแชงกรีล่าแห่งสุดท้าย ณ เสฉวน",
     "url": "https://myifew.com/7560/%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%9e%e0%b8%b4%e0%b8%8a%e0%b8%b4%e0%b8%95-%e0%b8%a2%e0%b8%b2%e0%b8%94%e0%b8%b4%e0%b8%87-yading-2026-%e0%b8%aa%e0%b8%b1%e0%b8%a1%e0%b8%9c/",
     "published": "2026-05-06T06:02:23.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to make UTable (Nuxt UI) grouped rows span all visible columns",
-    "url": "https://naiwaen.debuggingsoft.com/2026/05/how-to-make-utable-nuxt-ui-grouped-rows-span-all-visible-columns/",
-    "published": "2026-05-05T10:36:16.000Z"
   },
   {
     "site": "blog.kpping.me",
@@ -42,22 +54,10 @@
     "published": "2026-05-01T11:21:12.000Z"
   },
   {
-    "site": "xiengperm.dev",
-    "title": "FMHY: ขุมทรัพย์ของฟรีบนอินเทอร์เน็ต",
-    "url": "https://xiengperm.dev/posts/fmhy-free-media-resources-th/",
-    "published": "2026-04-29T00:00:00.000Z"
-  },
-  {
     "site": "rayriffy.com",
     "title": "Executing NW.js games under CrossOver",
     "url": "https://rayriffy.com/garden/nwjs-crossover-macos/",
     "published": "2026-04-26T19:48:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "เปิดการใช้งาน Developer mode ใน Claude Desktop กัน",
-    "url": "https://www.somkiat.cc/enable-developer-mode-in-claude-desktop/",
-    "published": "2026-04-24T03:58:31.000Z"
   },
   {
     "site": "anewlife.dev",
