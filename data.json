@@ -2124,8 +2124,7 @@
     "description": null,
     "backlink": null,
     "lastUpdated": "2026-05-12T02:46:49.097Z",
-    "owner": "qwrtsdev",
-    "number": 108
+    "owner": "qwrtsdev"
   },
   "papazeal.com": {
     "url": "https://papazeal.com",
@@ -2189,8 +2188,9 @@
       "rect": "32:32:327:592",
       "href": "https://webring.wonderful.software#pichayapon.com"
     },
-    "lastUpdated": "2026-05-11T02:54:15.073Z",
-    "owner": "pichxyaponn"
+    "lastUpdated": "2026-05-12T18:31:34.979Z",
+    "owner": "pichxyaponn",
+    "number": 113
   },
   "evanrintho.buzz": {
     "url": "https://evanrintho.buzz",
@@ -2605,5 +2605,19 @@
     "lastUpdated": "2026-05-12T02:49:45.476Z",
     "number": 139,
     "owner": "ninyawee"
+  },
+  "qwrts.dev": {
+    "url": "https://qwrts.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/qwrts.dev_375w@2x.png",
+    "blurhash": "vBS6Pmt7-;ofofj[ofay~qayIUoft7ayWBj[IUfQt7ayRjj[ofayRjj[j[fQ",
+    "screenshotUpdatedAt": "2026-05-12T18:31:22.980Z",
+    "description": "A passionate programmer and graphic designer. Who wants to create well-crafted softwares that seamlessly blends functionality with aesthetics.",
+    "backlink": {
+      "rect": "26:18:279.5:3699.90625",
+      "href": "https://webring.wonderful.software/#qwrtsdev.xyz"
+    },
+    "lastUpdated": "2026-05-12T18:31:22.980Z",
+    "number": 108,
+    "owner": "qwrtsdev"
   }
 }
