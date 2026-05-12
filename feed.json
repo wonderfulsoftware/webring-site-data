@@ -1,5 +1,23 @@
 [
   {
+    "site": "myifew.com",
+    "title": "สัปดาห์แห่ง AI Momentum กับ Rate Limit ที่สอนให้ชมพูอดทน — Weekly Reflection W20",
+    "url": "https://myifew.com/7572/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87-ai-momentum-%e0%b8%81%e0%b8%b1%e0%b8%9a-rate-limit-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%aa%e0%b8%ad/",
+    "published": "2026-05-11T16:06:35.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "How to Merge DevExpress XtraReport",
+    "url": "https://naiwaen.debuggingsoft.com/2026/05/how-to-merge-devexpress-xtrareport/",
+    "published": "2026-05-11T04:59:08.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "Husky + lint-staged: ทำให้ Git Commit สะอาดขึ้นแบบอัตโนมัติ",
+    "url": "https://creaml4tt3.me/blogs/husky-lint-staged-git-commit",
+    "published": "2026-05-10T15:35:23.530Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ว่าด้วยเรื่องของการ Retry",
     "url": "https://www.somkiat.cc/retry-with-good-and-bad/",
@@ -10,18 +28,6 @@
     "title": "แวะมาฟังอีก week กับงาน iCreator Camp 2026 week 3 Production & Platform",
     "url": "https://www.mikkipastel.com/icreator-camp-2026-week-3-production-platform/",
     "published": "2026-05-10T12:14:30.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "๙.๖๙",
-    "url": "https://myifew.com/7566/my-birthday-2026/",
-    "published": "2026-05-09T14:14:51.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Extend OllamaApiClient Timeout (Note)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/05/extend-ollamaapiclient-timeout/",
-    "published": "2026-05-08T06:17:48.000Z"
   },
   {
     "site": "blog.kpping.me",
@@ -76,12 +82,6 @@
     "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
     "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
     "published": "2026-04-22T00:00:00.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "การลาออกครั้งแรกโดยไม่มีงานรองรับ: ประสบการณ์จริงของ Junior Developer ที่ต้องเดิมพันกับตัวเอง",
-    "url": "https://creaml4tt3.me/blogs/first-resignation-no-job-junior-developer-thailand",
-    "published": "2026-04-21T17:00:00.000Z"
   },
   {
     "site": "amiearth.com",
