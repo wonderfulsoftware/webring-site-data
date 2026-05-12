@@ -2466,7 +2466,6 @@
       "href": "https://webring.wonderful.software/#hnawny.in.th"
     },
     "lastUpdated": "2026-05-12T02:48:46.468Z",
-    "number": 130,
     "owner": "hnawny"
   },
   "supakorn.me": {
@@ -2633,5 +2632,19 @@
     "lastUpdated": "2026-05-12T19:23:10.944Z",
     "number": 140,
     "owner": "s4msh1ne"
+  },
+  "namnao.one": {
+    "url": "https://namnao.one",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/namnao.one_375w@2x.png",
+    "blurhash": "v5R{#?IU_3%MD%ofRjaz%MofRjWX~pNGRjt7?aRkogoJ_3j[M{ofozj@Rjog",
+    "screenshotUpdatedAt": "2026-05-12T19:34:50.812Z",
+    "description": "Explore the portfolio of Teerapat Tawang, featuring web development and IoT projects.",
+    "backlink": {
+      "rect": "18:18:304:135",
+      "href": "https://webring.wonderful.software/#namnao.one"
+    },
+    "lastUpdated": "2026-05-12T19:34:50.812Z",
+    "number": 130,
+    "owner": "hnawny"
   }
 }
