@@ -1,21 +1,27 @@
 [
   {
-    "site": "mymoneytoolkit.app",
-    "title": "ชีทวางแผนภาษี 20 ปี — ลดหย่อนในชีทเดียว",
-    "url": "https://mymoneytoolkit.app/posts/tax-plan-longterm-sheet",
-    "published": "2026-05-16T00:00:00.000Z"
+    "site": "jitrak.dev",
+    "title": "Cursor CLI: สิ่งที่หลายคนไม่ค่อยรู้ แม้ใช้ Cursor อยู่แล้ว",
+    "url": "https://jitrak.dev/posts/post-37-cursor-cli/",
+    "published": "2026-05-18T02:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Claude Code BKK Sharing #2",
-    "url": "https://naiwaen.debuggingsoft.com/2026/05/recap-claude-code-bkk-sharing-2/",
-    "published": "2026-05-15T14:30:00.000Z"
+    "site": "mymoneytoolkit.app",
+    "title": "Pinboard — กระดานปักหมุดส่วนตัวของนักลงทุน",
+    "url": "https://mymoneytoolkit.app/posts/pinboard-launch",
+    "published": "2026-05-18T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
-    "title": "NEMO Hornet OSMO (2025): รีวิวเต็นท์สาย Ultralight ที่เบาและทนทานกว่าเดิมด้วยผ้า OSMO",
-    "url": "https://myifew.com/7608/nemo-hornet-osmo-2025-%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%95%e0%b9%87%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%aa%e0%b8%b2%e0%b8%a2-ultralight-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80/",
-    "published": "2026-05-15T06:02:40.000Z"
+    "title": "สัปดาห์ที่ระบบเริ่มเข้าที่ พร้อมบทเรียนเรื่อง cron ซ้ำซ้อน — Weekly Reflection 11-17 พ.ค. 2026",
+    "url": "https://myifew.com/7612/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%82%e0%b9%89/",
+    "published": "2026-05-17T16:29:07.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดสรุปงาน AgentCamp Bangkok 2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/05/recap-agentcamp-bangkok-2026/",
+    "published": "2026-05-17T11:48:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -136,12 +142,6 @@
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
     "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",
     "published": "2026-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Fix Git loose object is corrupt",
-    "url": "https://jitrak.dev/posts/post-36-fix-git-loose-object-is-corrupt/",
-    "published": "2026-03-14T04:00:00.000Z"
   },
   {
     "site": "neizod.dev",
