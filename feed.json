@@ -1,5 +1,17 @@
 [
   {
+    "site": "creaml4tt3.me",
+    "title": "Poka Yoke ใน UX และ Web Design: ออกแบบยังไงให้ User พลาดไม่ได้",
+    "url": "https://creaml4tt3.me/blogs/poka-yoke-ux-web-design",
+    "published": "2026-05-23T17:51:37.789Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "TIL: Describing Performance - Average, Median, and Percentiles",
+    "url": "https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/",
+    "published": "2026-05-23T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "ใช้ uv แล้ว แต่ใน terminal ยังไม่เห็น tools",
     "url": "https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/",
@@ -54,12 +66,6 @@
     "published": "2026-05-12T00:00:00.000Z"
   },
   {
-    "site": "creaml4tt3.me",
-    "title": "Husky + lint-staged: ทำให้ Git Commit สะอาดขึ้นแบบอัตโนมัติ",
-    "url": "https://creaml4tt3.me/blogs/husky-lint-staged-git-commit",
-    "published": "2026-05-10T15:35:23.530Z"
-  },
-  {
     "site": "blog.kpping.me",
     "title": "บันทึกทดลองการทำ Vibe Coding (Database Design)",
     "url": "https://blog.kpping.me/posts/hello-world-astro-copy/",
@@ -70,12 +76,6 @@
     "title": "วัดผล AI Code Reviewer ด้วยการทำ Evaluation แบบ LLM-as-a-Judge",
     "url": "https://blog.ninprd.com/blog/holiday-hack-evaluate-ai-code-review-agent-with-llm-as-a-judge/",
     "published": "2026-05-04T00:00:00.000Z"
-  },
-  {
-    "site": "jetsukda.dev",
-    "title": "TIL: Software Engineering Fundamentals สำคัญกว่าเดิมในยุค AI",
-    "url": "https://jetsukda.dev/til/software-engineering-fundamentals-in-the-age-of-ai/",
-    "published": "2026-05-02T03:00:00.000Z"
   },
   {
     "site": "rayriffy.com",
