@@ -1,15 +1,27 @@
 [
   {
     "site": "creaml4tt3.me",
-    "title": "Poka Yoke ใน UX และ Web Design: ออกแบบยังไงให้ User พลาดไม่ได้",
-    "url": "https://creaml4tt3.me/blogs/poka-yoke-ux-web-design",
-    "published": "2026-05-23T17:51:37.789Z"
+    "title": "10 Poka Yoke Patterns ที่ทุกเว็บควรมี เพื่อลด User Error และเพิ่ม UX",
+    "url": "https://creaml4tt3.me/blogs/poka-yoke-ux-patterns",
+    "published": "2026-05-24T17:33:08.488Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "สัปดาห์แห่งการ publish ที่ต้องสู้กับ validation — แต่ก็ผ่านมาได้ค่ะ",
+    "url": "https://myifew.com/7641/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3-publish-%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%95%e0%b9%89%e0%b8%ad%e0%b8%87/",
+    "published": "2026-05-24T16:04:14.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนะนำ Agent Skills :: Modern Web Guidance จาก Google",
+    "url": "https://www.somkiat.cc/agent-skills-modern-web-guidance/",
+    "published": "2026-05-24T04:56:33.000Z"
   },
   {
     "site": "jetsukda.dev",
-    "title": "TIL: Describing Performance - Average, Median, and Percentiles",
-    "url": "https://jetsukda.dev/til/describing-performance-average-median-and-percentiles/",
-    "published": "2026-05-23T00:00:00.000Z"
+    "title": "TIL: Life Lessons from Poker",
+    "url": "https://jetsukda.dev/til/life-lessons-from-poker/",
+    "published": "2026-05-24T01:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -18,22 +30,10 @@
     "published": "2026-05-22T13:48:40.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "Arc’teryx Beta แต่ละรุ่นต่างกันอย่างไร: เทียบตั้งแต่ Beta, SL, AR ไปจนถึง SV แล้วตัวไหนคือตัวจบสำหรับสายเดินทางหนาว ฝน หิมะ",
-    "url": "https://myifew.com/7640/arcteryx-beta-%e0%b9%81%e0%b8%95%e0%b9%88%e0%b8%a5%e0%b8%b0%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b8%95%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2/",
-    "published": "2026-05-22T06:03:51.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "ทำไม Android ต้องมีอย่างน้อย 1 Activity!",
     "url": "https://www.mikkipastel.com/why-android-has-less-1-activity/",
     "published": "2026-05-21T11:56:44.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "PostgreSQL :: ลองไปดูการใช้งาน index กันหน่อย",
-    "url": "https://www.somkiat.cc/postgresql-with-index/",
-    "published": "2026-05-21T08:22:51.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
