@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Remove +07.00 from dotnet datetime",
+    "url": "https://naiwaen.debuggingsoft.com/2026/05/remove-0700-from-dotnet-datetime/",
+    "published": "2026-05-25T10:14:42.000Z"
+  },
+  {
     "site": "creaml4tt3.me",
     "title": "10 Poka Yoke Patterns ที่ทุกเว็บควรมี เพื่อลด User Error และเพิ่ม UX",
     "url": "https://creaml4tt3.me/blogs/poka-yoke-ux-patterns",
@@ -22,12 +28,6 @@
     "title": "TIL: Life Lessons from Poker",
     "url": "https://jetsukda.dev/til/life-lessons-from-poker/",
     "published": "2026-05-24T01:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ใช้ uv แล้ว แต่ใน terminal ยังไม่เห็น tools",
-    "url": "https://naiwaen.debuggingsoft.com/2026/05/python-use-uv-install-but-cannot-execute-in-terminal/",
-    "published": "2026-05-22T13:48:40.000Z"
   },
   {
     "site": "mikkipastel.com",
