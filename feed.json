@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ใช้งาน IntelliJ HTTP Client สำหรับทดสอบ REST API ผ่าน http file",
+    "url": "https://www.somkiat.cc/use-intellij-http-client-with-http-file/",
+    "published": "2026-05-30T01:27:43.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "เจาะลึก Hoka Speedgoat 7: การกลับมาทวงบัลลังก์ King of Trail ด้วย Midsole ใหม่และปุ่มหัวใจสุดหนึบ",
+    "url": "https://myifew.com/7656/%e0%b9%80%e0%b8%88%e0%b8%b2%e0%b8%b0%e0%b8%a5%e0%b8%b6%e0%b8%81-hoka-speedgoat-7-%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%a1%e0%b8%b2%e0%b8%97%e0%b8%a7%e0%b8%87%e0%b8%9a-2/",
+    "published": "2026-05-29T06:04:31.000Z"
+  },
+  {
+    "site": "nutchanon.org",
+    "title": "in-html — Ease Your Tired Mind with a Visual Explainer Called HTML",
+    "url": "https://nutchanon.org/blog/in-html",
+    "published": "2026-05-29T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Starbucks Fuji Apple Camellia Cold Brew",
     "url": "https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/",
@@ -18,22 +36,10 @@
     "published": "2026-05-27T18:07:09.384Z"
   },
   {
-    "site": "myifew.com",
-    "title": "Annapurna Circuit Trek: The Complete Thorong La Loop Guide",
-    "url": "https://myifew.com/7647/annapurna-circuit-trek-the-complete-thorong-la-loop-guide-2/",
-    "published": "2026-05-27T06:02:55.000Z"
-  },
-  {
     "site": "xiengperm.dev",
     "title": "แก้เม็ดมะยม Apple Watch ฝืด หลังโดนน้ำทะเล",
     "url": "https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/",
     "published": "2026-05-27T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนะนำ Agent Skills :: Modern Web Guidance จาก Google",
-    "url": "https://www.somkiat.cc/agent-skills-modern-web-guidance/",
-    "published": "2026-05-24T04:56:33.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -118,12 +124,6 @@
     "title": "bizdocgen: Grist widget สำหรับสร้างใบเสนอราคา ใบแจ้งหนี้ และใบเสร็จ",
     "url": "https://dt.in.th/Bizdocgen",
     "published": "2026-04-18T00:00:00.000Z"
-  },
-  {
-    "site": "nutchanon.org",
-    "title": "Until We Reach a Shared Understanding — The Foundational AI Skill",
-    "url": "https://nutchanon.org/blog/until-we-reach-shared-understanding",
-    "published": "2026-04-17T00:00:00.000Z"
   },
   {
     "site": "betich.me",
