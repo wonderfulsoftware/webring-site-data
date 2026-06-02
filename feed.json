@@ -1,21 +1,33 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "Update Plan June 2026",
+    "url": "https://mymoneytoolkit.app/posts/update-plan-june-2026",
+    "published": "2026-06-02T00:00:00.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "Next.js SEO Checklist 2026: 12 เทคนิคเพิ่มอันดับ Google สำหรับเว็บไซต์ Next.js",
+    "url": "https://creaml4tt3.me/blogs/nextjs-seo-checklist-2026",
+    "published": "2026-06-01T17:00:38.777Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ Webwright",
+    "url": "https://www.somkiat.cc/hello-webwright/",
+    "published": "2026-06-01T11:46:52.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆ จาก Wazuh Meetup 2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/recap-wazuh-meetup-2026/",
+    "published": "2026-06-01T11:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "สัปดาห์ที่ระบบเดินเครื่องเต็มกำลัง และบ้านก็สะอาดขึ้น",
     "url": "https://myifew.com/7661/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7/",
     "published": "2026-05-31T16:05:05.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Port-it: ลาก-วาง จัดพอร์ตหุ้น วางเป้าหมาย + ไอเดียจัดพอร์ตง่ายๆ",
-    "url": "https://mymoneytoolkit.app/posts/port-it",
-    "published": "2026-05-31T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ใช้งาน IntelliJ HTTP Client สำหรับทดสอบ REST API ผ่าน http file",
-    "url": "https://www.somkiat.cc/use-intellij-http-client-with-http-file/",
-    "published": "2026-05-30T01:27:43.000Z"
   },
   {
     "site": "nutchanon.org",
@@ -24,22 +36,10 @@
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Fuji Apple Camellia Cold Brew",
-    "url": "https://naiwaen.debuggingsoft.com/2026/05/cr-starbucks-fuji-apple-camellia-cold-brew/",
-    "published": "2026-05-28T13:43:36.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "มาอัพสกิลของใหม่ที่งาน Solana x AI Builders: The Road to Mainnet #2 (Bangkok)",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-2-bangkok/",
     "published": "2026-05-28T12:56:35.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "ทำไม Gmail ถึงใช้ Undo แทน Confirm Dialog — และนี่คือ UX ระดับโลก",
-    "url": "https://creaml4tt3.me/blogs/gmail-undo-send-ux-design",
-    "published": "2026-05-27T18:07:09.384Z"
   },
   {
     "site": "xiengperm.dev",
