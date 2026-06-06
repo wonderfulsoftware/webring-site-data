@@ -1,9 +1,15 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "มาลองเขียน SQL เพื่อดึงข้อมูลจาก Redis กัน",
+    "url": "https://www.somkiat.cc/hello-sql-redis/",
+    "published": "2026-06-05T16:21:29.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "จดจาก MSBuild 2026 ที่สนใจAgent+.NET",
-    "url": "https://naiwaen.debuggingsoft.com/2026/06/recap-ms-build-2026-on-my-interest/",
-    "published": "2026-06-04T14:40:00.000Z"
+    "title": "สร้าง Cleanup Policy บน Sonatype Nexus Repository",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/",
+    "published": "2026-06-05T04:51:02.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -30,14 +36,8 @@
     "published": "2026-06-01T17:15:28.868Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ทำความรู้จักกับ Webwright",
-    "url": "https://www.somkiat.cc/hello-webwright/",
-    "published": "2026-06-01T11:46:52.000Z"
-  },
-  {
     "site": "nutchanon.org",
-    "title": "in-html — Ease Your Tired Mind with a Visual Explainer Called HTML",
+    "title": "in-html — พักสายตาที่ล้า ด้วย visual explainer ที่ชื่อว่า HTML",
     "url": "https://nutchanon.org/blog/in-html",
     "published": "2026-05-29T00:00:00.000Z"
   },
