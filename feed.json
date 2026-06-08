@@ -1,9 +1,21 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "Remote Access: Restrict Access with Cloudflare Access (3/3)",
+    "url": "https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/",
+    "published": "2026-06-07T17:35:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "สัปดาห์แห่ง Guard Mechanism และ Wiki Ingest ครั้งใหญ่ — Weekly Reflection 1-7 มิ.ย. 2026",
+    "url": "https://myifew.com/7676/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87-guard-mechanism-%e0%b9%81%e0%b8%a5%e0%b8%b0-wiki-ingest-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89/",
+    "published": "2026-06-07T16:08:23.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "มาลองเขียน SQL เพื่อดึงข้อมูลจาก Redis กัน",
-    "url": "https://www.somkiat.cc/hello-sql-redis/",
-    "published": "2026-06-05T16:21:29.000Z"
+    "title": "มาลองใช้งาน Android CLI กัน",
+    "url": "https://www.somkiat.cc/hello-android-cli/",
+    "published": "2026-06-07T08:05:08.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +28,6 @@
     "title": "อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน)",
     "url": "https://mymoneytoolkit.app/posts/financial-health-series",
     "published": "2026-06-04T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "Markha Valley Trek, Ladakh: คู่มือเดินป่าหัวใจแห่งหิมาลัยในดินแดนทิเบตน้อย",
-    "url": "https://myifew.com/7671/markha-valley-trek-ladakh-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b9%83%e0%b8%88%e0%b9%81/",
-    "published": "2026-06-03T06:02:59.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -52,12 +58,6 @@
     "title": "TIL: Life Lessons from Poker",
     "url": "https://jetsukda.dev/til/life-lessons-from-poker/",
     "published": "2026-05-24T01:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Cursor CLI: สิ่งที่หลายคนไม่ค่อยรู้ แม้ใช้ Cursor อยู่แล้ว",
-    "url": "https://jitrak.dev/posts/post-37-cursor-cli/",
-    "published": "2026-05-18T02:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
