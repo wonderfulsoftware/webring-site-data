@@ -1,9 +1,21 @@
 [
   {
+    "site": "xiengperm.dev",
+    "title": "ลง Linux เสร็จแล้วทำอะไรต่อ? คำสั่งแรกๆ ที่ควรรันหลังติดตั้ง",
+    "url": "https://xiengperm.dev/posts/linux-first-commands-after-install-th/",
+    "published": "2026-06-09T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent",
+    "url": "https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/",
+    "published": "2026-06-08T15:16:43.000Z"
+  },
+  {
     "site": "jitrak.dev",
-    "title": "Remote Access: Restrict Access with Cloudflare Access (3/3)",
-    "url": "https://jitrak.dev/posts/post-40-remote-access-cloudflare-access/",
-    "published": "2026-06-07T17:35:00.000Z"
+    "title": "Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel",
+    "url": "https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/",
+    "published": "2026-06-08T04:19:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -12,10 +24,10 @@
     "published": "2026-06-07T16:08:23.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Android CLI กัน",
-    "url": "https://www.somkiat.cc/hello-android-cli/",
-    "published": "2026-06-07T08:05:08.000Z"
+    "site": "tantatorn.xyz",
+    "title": "My Thoughts on The Invention of Nature",
+    "url": "https://tantatorn.xyz/posts/the-invention-of-nature/",
+    "published": "2026-06-06T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -48,22 +60,10 @@
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
-    "site": "xiengperm.dev",
-    "title": "แก้เม็ดมะยม Apple Watch ฝืด หลังโดนน้ำทะเล",
-    "url": "https://xiengperm.dev/posts/fix-apple-watch-se-digital-crown-seawater-th/",
-    "published": "2026-05-27T00:00:00.000Z"
-  },
-  {
     "site": "jetsukda.dev",
     "title": "TIL: Life Lessons from Poker",
     "url": "https://jetsukda.dev/til/life-lessons-from-poker/",
     "published": "2026-05-24T01:00:00.000Z"
-  },
-  {
-    "site": "tantatorn.xyz",
-    "title": "Amazean Jungle Thailand by UTMB",
-    "url": "https://tantatorn.xyz/posts/amazean-jungle-trail/",
-    "published": "2026-05-15T00:00:00.000Z"
   },
   {
     "site": "mesodiar.com",
