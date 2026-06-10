@@ -1,15 +1,21 @@
 [
   {
     "site": "xiengperm.dev",
-    "title": "ลง Linux เสร็จแล้วทำอะไรต่อ? คำสั่งแรกๆ ที่ควรรันหลังติดตั้ง",
-    "url": "https://xiengperm.dev/posts/linux-first-commands-after-install-th/",
-    "published": "2026-06-09T00:00:00.000Z"
+    "title": "loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ",
+    "url": "https://xiengperm.dev/posts/loops-agent-loops-th/",
+    "published": "2026-06-10T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Ezygo สาคูไส้หมู (จริงๆ)",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/",
+    "published": "2026-06-09T08:25:08.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "พื้นฐานการสร้าง project และเตรียม feedback loop ให้กับ AI Agent",
-    "url": "https://www.somkiat.cc/setup-project-with-feedback-loop-for-ai-agent/",
-    "published": "2026-06-08T15:16:43.000Z"
+    "title": "เพิ่งเห็นว่าใน Google Chrome สามารถจัดการ pdf ได้",
+    "url": "https://www.somkiat.cc/google-chrome-annotate-pdf-file/",
+    "published": "2026-06-09T07:36:54.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -28,12 +34,6 @@
     "title": "My Thoughts on The Invention of Nature",
     "url": "https://tantatorn.xyz/posts/the-invention-of-nature/",
     "published": "2026-06-06T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สร้าง Cleanup Policy บน Sonatype Nexus Repository",
-    "url": "https://naiwaen.debuggingsoft.com/2026/06/how-to-create-cleanup-policy-on-sonatype-nexus-repository-th/",
-    "published": "2026-06-05T04:51:02.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
