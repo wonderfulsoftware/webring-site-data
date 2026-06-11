@@ -1,15 +1,27 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Lofoten Islands, Norway: เทรคเกาะสวรรค์แห่งอาร์กติกที่ภูเขาจรดทะเล",
+    "url": "https://myifew.com/7682/lofoten-islands-norway-%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%b0%e0%b8%aa%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%84%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%ad-2/",
+    "published": "2026-06-10T06:03:42.000Z"
+  },
+  {
+    "site": "jitrak.dev",
+    "title": "Claude Fable 5: The First Mythos-class Model for Everyone — Enabling It in Cursor",
+    "url": "https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/",
+    "published": "2026-06-10T04:28:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ GitHub Copilot Web (Cloud Agent Mode)",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/",
+    "published": "2026-06-10T04:00:19.000Z"
+  },
+  {
     "site": "xiengperm.dev",
     "title": "loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ",
     "url": "https://xiengperm.dev/posts/loops-agent-loops-th/",
     "published": "2026-06-10T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Ezygo สาคูไส้หมู (จริงๆ)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/06/ezygo-streamed-tapioca-balls-with-pork-filling/",
-    "published": "2026-06-09T08:25:08.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -18,28 +30,16 @@
     "published": "2026-06-09T07:36:54.000Z"
   },
   {
-    "site": "jitrak.dev",
-    "title": "Remote Access (Bonus): SSH into Your Home Server with Cloudflare Tunnel",
-    "url": "https://jitrak.dev/posts/post-41-ssh-cloudflare-tunnel/",
-    "published": "2026-06-08T04:19:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "สัปดาห์แห่ง Guard Mechanism และ Wiki Ingest ครั้งใหญ่ — Weekly Reflection 1-7 มิ.ย. 2026",
-    "url": "https://myifew.com/7676/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87-guard-mechanism-%e0%b9%81%e0%b8%a5%e0%b8%b0-wiki-ingest-%e0%b8%84%e0%b8%a3%e0%b8%b1%e0%b9%89/",
-    "published": "2026-06-07T16:08:23.000Z"
+    "site": "mymoneytoolkit.app",
+    "title": "คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 2 (รวมสูตรที่ใช้จริง)",
+    "url": "https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2",
+    "published": "2026-06-08T00:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
     "title": "My Thoughts on The Invention of Nature",
     "url": "https://tantatorn.xyz/posts/the-invention-of-nature/",
     "published": "2026-06-06T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "อยากมีสุขภาพการเงินที่ดีขึ้น: เปลี่ยนชีวิตการเงินทีละขั้น (รวมทั้งซีรีส์ 8 ตอน)",
-    "url": "https://mymoneytoolkit.app/posts/financial-health-series",
-    "published": "2026-06-04T00:00:00.000Z"
   },
   {
     "site": "mikkipastel.com",
