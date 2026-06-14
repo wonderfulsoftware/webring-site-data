@@ -1,5 +1,11 @@
 [
   {
+    "site": "xiengperm.dev",
+    "title": "วงแหวนเว็บ: รวมเว็บของชาวเดฟอินดี้",
+    "url": "https://xiengperm.dev/posts/wongwaen-web-thai-webring-th/",
+    "published": "2026-06-14T00:00:00.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "เป็นเดฟยังไง? ให้คนจำได้!",
     "url": "https://www.mikkipastel.com/how-to-remember-you-are-developer/",
@@ -22,12 +28,6 @@
     "title": "ลองใช้ GitHub Copilot Web (Cloud Agent Mode)",
     "url": "https://naiwaen.debuggingsoft.com/2026/06/github-copilot-web-cloud-agent-mode-first-time/",
     "published": "2026-06-10T04:00:19.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "loops!: คลังสูตรสำเร็จให้ AI วนทำงานเองจนจบ",
-    "url": "https://xiengperm.dev/posts/loops-agent-loops-th/",
-    "published": "2026-06-10T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
