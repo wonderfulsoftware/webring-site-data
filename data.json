@@ -2641,5 +2641,19 @@
     "lastUpdated": "2026-06-14T03:44:49.096Z",
     "owner": "hnawny",
     "number": 130
+  },
+  "me.oreshi.com": {
+    "url": "https://me.oreshi.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/me.oreshi.com_375w@2x.png",
+    "blurhash": "vOQvXmNZ%#nj4TW;OWjFMJX7ODWB$kbHkWaz~qoJV@bI_Nn$niX8.RoLnPbb",
+    "screenshotUpdatedAt": "2026-06-14T14:30:44.693Z",
+    "description": "Ayo! สวัสดี ผมชื่อ สุทธิสาร ทองประสพ (เสือ) หรืออีกชื่อว่า SomboyTiger ผมคือ Software Developer ที่เชี่ยวชาญ Web, Back-End และ Cloud Infrastructure ที่หลงไหลเกี่ยวกับ Coding",
+    "backlink": {
+      "rect": "303:36.5:36:2502.875",
+      "href": "https://webring.wonderful.software#me.oreshi.com"
+    },
+    "lastUpdated": "2026-06-14T14:30:44.693Z",
+    "number": 141,
+    "owner": "somboytiger"
   }
 }
