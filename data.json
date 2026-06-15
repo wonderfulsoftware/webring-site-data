@@ -1764,8 +1764,9 @@
     "screenshotUpdatedAt": "2026-05-30T02:51:01.797Z",
     "description": "wawasabii's blog",
     "backlink": null,
-    "lastUpdated": "2026-06-14T03:41:42.380Z",
-    "owner": "wasakunset"
+    "lastUpdated": "2026-06-15T15:26:38.003Z",
+    "owner": "wasakunset",
+    "number": 85
   },
   "phumrapee.me": {
     "url": "https://phumrapee.me",
@@ -1833,8 +1834,9 @@
       "rect": null,
       "href": "https://webring.wonderful.software#satjawat.com"
     },
-    "lastUpdated": "2026-06-14T03:41:55.780Z",
-    "owner": "lalkai"
+    "lastUpdated": "2026-06-15T15:26:45.607Z",
+    "owner": "lalkai",
+    "number": 88
   },
   "tachakorn.com": {
     "url": "https://tachakorn.com",
@@ -2592,7 +2594,7 @@
       "href": "https://webring.wonderful.software#nutchanon.org"
     },
     "lastUpdated": "2026-06-15T03:58:11.569Z",
-    "number": 139,
+    "number": 140,
     "owner": "ninyawee"
   },
   "qwrts.dev": {
@@ -2620,21 +2622,22 @@
       "href": "https://webring.wonderful.software#me.sastify.xyz"
     },
     "lastUpdated": "2026-06-15T03:58:16.715Z",
-    "number": 140,
+    "number": 141,
     "owner": "s4msh1ne"
   },
   "namnao.one": {
     "url": "https://namnao.one",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/namnao.one_375w@2x.png",
-    "blurhash": "v6R{#@D%%M%MIVt7WBWB-;xuRjWB~qR*WBkC_2Rja#j]?bofM{Rkt8t7Rjay",
-    "screenshotUpdatedAt": "2026-06-03T03:50:19.749Z",
+    "blurhash": "v3Rysh9FE0?b_3%M_3M{~pt7-;ax~pIUIUxt?ba#4nayt9ofD%of4nRjofof",
+    "screenshotUpdatedAt": "2026-06-15T15:26:59.205Z",
     "description": "Explore the portfolio of Teerapat Tawang, featuring web development and IoT projects.",
     "backlink": {
-      "rect": "18:18:312:135",
+      "rect": "18:18:304:215",
       "href": "https://webring.wonderful.software/#namnao.one"
     },
-    "lastUpdated": "2026-06-14T03:44:49.096Z",
-    "owner": "hnawny"
+    "lastUpdated": "2026-06-15T15:26:59.205Z",
+    "owner": "hnawny",
+    "number": 130
   },
   "me.oreshi.com": {
     "url": "https://me.oreshi.com",
@@ -2646,8 +2649,22 @@
       "rect": "303:36.5:36:2502.875",
       "href": "https://webring.wonderful.software#me.oreshi.com"
     },
-    "lastUpdated": "2026-06-14T14:30:44.693Z",
-    "number": 141,
+    "lastUpdated": "2026-06-15T15:27:13.268Z",
+    "number": 142,
     "owner": "somboytiger"
+  },
+  "sagelga.com": {
+    "url": "https://sagelga.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/sagelga.com_375w@2x.png",
+    "blurhash": "vMMG|#WBozj[00a}aefQD$j[j[j[~qayaxfR%NazoLj[8_axj]j[OZj[aej[",
+    "screenshotUpdatedAt": "2026-06-15T15:27:04.706Z",
+    "description": "คุณานนต์ ศรีสันติโรจน์ นักพัฒนา Full-Stack ที่เชี่ยวชาญด้านเทคโนโลยีคลาวด์ การพัฒนาเว็บ และการมีส่วนร่วมในโอเพนซอร์ส",
+    "backlink": {
+      "rect": "25.828125:25.828125:317.171875:14953.875",
+      "href": "https://webring.wonderful.software#hewkawar.xyz"
+    },
+    "lastUpdated": "2026-06-15T15:27:04.706Z",
+    "number": 139,
+    "owner": "sagelga"
   }
 }
