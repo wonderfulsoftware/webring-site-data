@@ -1,5 +1,23 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "ซื้อกองลดหย่อนคุ้มกว่าลงทุนเองไหม? เทียบยาว ๆ หลังหักค่าธรรมเนียมจริง",
+    "url": "https://mymoneytoolkit.app/posts/fund-vs-self-invest",
+    "published": "2026-06-17T00:00:00.000Z"
+  },
+  {
+    "site": "kusumotolab.com",
+    "title": "Bridging the Gap: Giving Your Text-Only AI \"Eyes\" with macOS Vision Framework and Swift",
+    "url": "https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/",
+    "published": "2026-06-16T15:33:13.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] Starbucks Tarn Tanode Creamy Coffee with Coffee Jelly Frappuccino",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/cr-starbucks-tarn-tanode-creamy-coffee-with-coffee-jelly-frappuccino/",
+    "published": "2026-06-16T12:31:30.000Z"
+  },
+  {
     "site": "xiengperm.dev",
     "title": "Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น",
     "url": "https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/",
@@ -10,12 +28,6 @@
     "title": "Arc’teryx มีกี่รุ่น? คู่มืออ่านตระกูล Alpha, Beta, Gamma, Atom และ Cerium แบบเข้าใจง่าย",
     "url": "https://myifew.com/7697/arcteryx-%e0%b8%a1%e0%b8%b5%e0%b8%81%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99-%e0%b8%84%e0%b8%b9%e0%b9%88%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%95/",
     "published": "2026-06-15T18:32:44.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Microsoft Build //localhost:Bangkok by Global AI Bangkok",
-    "url": "https://naiwaen.debuggingsoft.com/2026/06/recap-microsoft-build-localhostbangkok2026-by-global-ai-bangkok/",
-    "published": "2026-06-15T02:15:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -40,12 +52,6 @@
     "title": "เพิ่งเห็นว่าใน Google Chrome สามารถจัดการ pdf ได้",
     "url": "https://www.somkiat.cc/google-chrome-annotate-pdf-file/",
     "published": "2026-06-09T07:36:54.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 2 (รวมสูตรที่ใช้จริง)",
-    "url": "https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-2",
-    "published": "2026-06-08T00:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -148,12 +154,6 @@
     "title": "むむむむむ",
     "url": "https://neizod.dev/2026/02/14/no-no-no-no-no.html",
     "published": "2026-02-14T03:49:18.000Z"
-  },
-  {
-    "site": "kusumotolab.com",
-    "title": "(ตอนที่ 1) พยายามอ่านและจัดรูปแบบข้อความในไฟล์หลายล้านบรรทัด โดยใช้ทรัพยากรให้น้อยที่สุด ด้วย Spring WebFlux",
-    "url": "https://kusumotolab.com/try-to-read-and-revise-payload-structure-with-uses-few-resources-with-spring-web-flux/",
-    "published": "2026-02-01T06:05:43.000Z"
   },
   {
     "site": "sujamess.com",
