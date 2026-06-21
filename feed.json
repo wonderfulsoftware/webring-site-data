@@ -1,9 +1,27 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "คลังพรอมต์ช่วยวิเคราะห์หุ้น หยิบไปถาม AI ได้เลย",
+    "url": "https://mymoneytoolkit.app/posts/invest-prompt",
+    "published": "2026-06-21T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "OWASP Top 10:2025 ฉบับเข้าใจง่ายสำหรับมือใหม่",
+    "url": "https://xiengperm.dev/posts/owasp-top-10-2025-th/",
+    "published": "2026-06-20T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "Spec-Driven Development ในยุค AI จะช่วยทีมทำงานได้เร็วขึ้น?",
     "url": "https://myifew.com/7704/spec-driven-development-ai-thai/",
     "published": "2026-06-19T18:25:46.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการอ่านบทความเรื่องการ scale database จาก Scaling Rails at Aura Frames",
+    "url": "https://www.somkiat.cc/note-scale-database-from-aura-frames/",
+    "published": "2026-06-19T09:36:13.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -12,28 +30,10 @@
     "published": "2026-06-18T14:17:44.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาดู token ที่ใช้งานใน Claude Code กันด้วย claude-spend",
-    "url": "https://www.somkiat.cc/token-usage-with-claude-code/",
-    "published": "2026-06-17T13:18:31.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "ซื้อกองลดหย่อนคุ้มกว่าลงทุนเองไหม? เทียบยาว ๆ หลังหักค่าธรรมเนียมจริง",
-    "url": "https://mymoneytoolkit.app/posts/fund-vs-self-invest",
-    "published": "2026-06-17T00:00:00.000Z"
-  },
-  {
     "site": "kusumotolab.com",
     "title": "Bridging the Gap: Giving Your Text-Only AI \"Eyes\" with macOS Vision Framework and Swift",
     "url": "https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/",
     "published": "2026-06-16T15:33:13.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "Ponytail: ทำให้ AI เขียนโค้ดน้อยลงแต่ดีขึ้น",
-    "url": "https://xiengperm.dev/posts/ponytail-lazy-ai-coding-th/",
-    "published": "2026-06-16T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -102,15 +102,15 @@
     "published": "2026-04-24T00:00:00.000Z"
   },
   {
-    "site": "karnwong.me",
-    "title": "Book Highlights - Babel by Gaston Dorren",
-    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/",
-    "published": "2026-04-22T00:00:00.000Z"
-  },
-  {
     "site": "fasu.dev",
     "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
     "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Book Highlights - Babel by Gaston Dorren",
+    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/",
     "published": "2026-04-22T00:00:00.000Z"
   },
   {
