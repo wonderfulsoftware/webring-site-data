@@ -1,33 +1,45 @@
 [
   {
-    "site": "mymoneytoolkit.app",
-    "title": "คลังพรอมต์ช่วยวิเคราะห์หุ้น หยิบไปถาม AI ได้เลย",
-    "url": "https://mymoneytoolkit.app/posts/invest-prompt",
-    "published": "2026-06-21T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "OWASP Top 10:2025 ฉบับเข้าใจง่ายสำหรับมือใหม่",
-    "url": "https://xiengperm.dev/posts/owasp-top-10-2025-th/",
-    "published": "2026-06-20T00:00:00.000Z"
-  },
-  {
     "site": "myifew.com",
-    "title": "Spec-Driven Development ในยุค AI จะช่วยทีมทำงานได้เร็วขึ้น?",
-    "url": "https://myifew.com/7704/spec-driven-development-ai-thai/",
-    "published": "2026-06-19T18:25:46.000Z"
+    "title": "สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569)",
+    "url": "https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/",
+    "published": "2026-06-28T16:07:34.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "บันทึกการอ่านบทความเรื่องการ scale database จาก Scaling Rails at Aura Frames",
-    "url": "https://www.somkiat.cc/note-scale-database-from-aura-frames/",
-    "published": "2026-06-19T09:36:13.000Z"
+    "title": "มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp",
+    "url": "https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/",
+    "published": "2026-06-28T09:32:06.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "Nuxt Docker Build Error failed to solve: invalid file request .output ….",
-    "url": "https://naiwaen.debuggingsoft.com/2026/06/nuxt-docker-build-error-failed-to-solve-invalid-file-request-output/",
-    "published": "2026-06-18T14:17:44.000Z"
+    "title": "Encoding / Embedding เหมือน หรือต่างกันยังไง",
+    "url": "https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/",
+    "published": "2026-06-27T03:18:43.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "วางแผนภาษีล่วงหน้า 20 ปี รู้ตั้งแต่ปีนี้เลยว่าปีหน้าจะซื้ออะไรเพิ่ม",
+    "url": "https://mymoneytoolkit.app/posts/tax-plan-advance",
+    "published": "2026-06-26T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "Figma Weave คืออะไร? เครื่องมือ AI ต่อโหนดสร้างวิดีโอ",
+    "url": "https://xiengperm.dev/posts/figma-weave-ai-media-th/",
+    "published": "2026-06-22T00:00:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย",
+    "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/",
+    "published": "2026-06-21T12:05:52.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD)",
+    "url": "https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/",
+    "published": "2026-06-21T09:50:06.000Z"
   },
   {
     "site": "kusumotolab.com",
@@ -40,12 +52,6 @@
     "title": "สีเหลืองเยลโล่ว บ๊ายบาย Skooldio",
     "url": "https://blog.ninprd.com/blog/goodbye-skooldio/",
     "published": "2026-06-14T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "เป็นเดฟยังไง? ให้คนจำได้!",
-    "url": "https://www.mikkipastel.com/how-to-remember-you-are-developer/",
-    "published": "2026-06-12T11:33:42.000Z"
   },
   {
     "site": "jitrak.dev",
@@ -72,12 +78,6 @@
     "published": "2026-05-29T00:00:00.000Z"
   },
   {
-    "site": "jetsukda.dev",
-    "title": "TIL: Life Lessons from Poker",
-    "url": "https://jetsukda.dev/til/life-lessons-from-poker/",
-    "published": "2026-05-24T01:00:00.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "Upgrading Managed Airflow (Cloud Composer) on GCP",
     "url": "https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/",
@@ -102,15 +102,15 @@
     "published": "2026-04-24T00:00:00.000Z"
   },
   {
-    "site": "fasu.dev",
-    "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
-    "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
-    "published": "2026-04-22T00:00:00.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Book Highlights - Babel by Gaston Dorren",
     "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/",
+    "published": "2026-04-22T00:00:00.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
+    "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
     "published": "2026-04-22T00:00:00.000Z"
   },
   {
