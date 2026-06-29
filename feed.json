@@ -12,6 +12,12 @@
     "published": "2026-06-28T09:32:06.000Z"
   },
   {
+    "site": "jitrak.dev",
+    "title": "Bitwarden Secrets Manager: Key Concepts and Getting Started",
+    "url": "https://jitrak.dev/posts/post-43-bitwarden-secrets-manager/",
+    "published": "2026-06-28T07:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Encoding / Embedding เหมือน หรือต่างกันยังไง",
     "url": "https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/",
@@ -52,12 +58,6 @@
     "title": "สีเหลืองเยลโล่ว บ๊ายบาย Skooldio",
     "url": "https://blog.ninprd.com/blog/goodbye-skooldio/",
     "published": "2026-06-14T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Claude Fable 5: The First Mythos-class Model for Everyone — Enabling It in Cursor",
-    "url": "https://jitrak.dev/posts/post-42-claude-fable-5-in-cursor/",
-    "published": "2026-06-10T04:28:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
