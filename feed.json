@@ -1,5 +1,17 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "Migrate Hermes API Keys to Bitwarden Secrets Manager",
+    "url": "https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/",
+    "published": "2026-06-29T03:58:00.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Using Grist API from a custom widget",
+    "url": "https://dt.in.th/GristAccessToken",
+    "published": "2026-06-29T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569)",
     "url": "https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/",
@@ -10,12 +22,6 @@
     "title": "มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp",
     "url": "https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/",
     "published": "2026-06-28T09:32:06.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Bitwarden Secrets Manager: Key Concepts and Getting Started",
-    "url": "https://jitrak.dev/posts/post-43-bitwarden-secrets-manager/",
-    "published": "2026-06-28T07:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -124,12 +130,6 @@
     "title": "เว็บจับใบดำใบแดง",
     "url": "https://nitpum.com/post/blackredcard/",
     "published": "2026-04-18T06:42:50.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "bizdocgen: Grist widget สำหรับสร้างใบเสนอราคา ใบแจ้งหนี้ และใบเสร็จ",
-    "url": "https://dt.in.th/Bizdocgen",
-    "published": "2026-04-18T00:00:00.000Z"
   },
   {
     "site": "betich.me",
