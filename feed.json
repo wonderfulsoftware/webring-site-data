@@ -1,5 +1,17 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "Update Plan July 2026",
+    "url": "https://mymoneytoolkit.app/posts/update-plan-july-2026",
+    "published": "2026-07-01T00:00:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "ทากกัดไม่กลัว: 7 เทคนิคป้องกันทากสำหรับนักเดินป่าหน้าฝน",
+    "url": "https://myifew.com/7744/%e0%b8%97%e0%b8%b2%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%94%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%a7-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%9b%e0%b9%89/",
+    "published": "2026-06-30T06:03:30.000Z"
+  },
+  {
     "site": "jitrak.dev",
     "title": "Migrate Hermes API Keys to Bitwarden Secrets Manager",
     "url": "https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/",
@@ -12,12 +24,6 @@
     "published": "2026-06-29T00:00:00.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "สัปดาห์แห่งการค้นพบสิ่งใหม่ กับจังหวะทำงานที่ลงตัวขึ้นเรื่อยๆ (22-28 มิ.ย. 2569)",
-    "url": "https://myifew.com/7742/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%84%e0%b9%89%e0%b8%99%e0%b8%9e%e0%b8%9a%e0%b8%aa%e0%b8%b4%e0%b9%88/",
-    "published": "2026-06-28T16:07:34.000Z"
-  },
-  {
     "site": "somkiat.cc",
     "title": "มาลอง Visualize code ของระบบงานด้วย codebase-memory-mcp",
     "url": "https://www.somkiat.cc/visualize-code-with-codebase-memory-mcp/",
@@ -28,12 +34,6 @@
     "title": "Encoding / Embedding เหมือน หรือต่างกันยังไง",
     "url": "https://naiwaen.debuggingsoft.com/2026/06/encoding-and-embedding/",
     "published": "2026-06-27T03:18:43.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "วางแผนภาษีล่วงหน้า 20 ปี รู้ตั้งแต่ปีนี้เลยว่าปีหน้าจะซื้ออะไรเพิ่ม",
-    "url": "https://mymoneytoolkit.app/posts/tax-plan-advance",
-    "published": "2026-06-26T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
