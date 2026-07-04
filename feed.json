@@ -1,21 +1,39 @@
 [
   {
+    "site": "myifew.com",
+    "title": "คู่มือการเขียน Prompt ที่ดี ให้ได้ผลตรงใจ จากคำแนะนำของ Google",
+    "url": "https://myifew.com/7753/writing-effective-prompts-by-google/",
+    "published": "2026-07-03T18:12:04.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "TIL: The Analytics Development Lifecycle (ADLC)",
+    "url": "https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/",
+    "published": "2026-07-03T17:04:48.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว",
+    "url": "https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/",
+    "published": "2026-07-03T15:04:01.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการแบ่งปันเรื่อง Idempotency",
+    "url": "https://www.somkiat.cc/sharing-about-idempotency/",
+    "published": "2026-07-03T05:56:24.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Common/Helper for Grouping/Sort on UTable (Nuxt UI)",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/",
     "published": "2026-07-03T02:17:33.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจจาก The 2026 AI Accountability Report ของ GitLab",
-    "url": "https://www.somkiat.cc/the-2026-ai-accountability-report-from-gitlab/",
-    "published": "2026-07-02T06:57:51.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "Loop Engineering: 3 ลูปที่ทำร่วมกับ AI Agent เพื่อสร้าง Product ได้จริง",
-    "url": "https://myifew.com/7748/loop-engineering-3-product-development-loops/",
-    "published": "2026-07-01T16:33:05.000Z"
+    "site": "xiengperm.dev",
+    "title": "ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ",
+    "url": "https://xiengperm.dev/posts/lao-karaoke-translator-lo/",
+    "published": "2026-07-03T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -34,24 +52,6 @@
     "title": "Using Grist API from a custom widget",
     "url": "https://dt.in.th/GristAccessToken",
     "published": "2026-06-29T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "Figma Weave คืออะไร? เครื่องมือ AI ต่อโหนดสร้างวิดีโอ",
-    "url": "https://xiengperm.dev/posts/figma-weave-ai-media-th/",
-    "published": "2026-06-22T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทำความรู้จัก Latent Space และทำบอทเทรดสุดง่าย",
-    "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-3-bangkok/",
-    "published": "2026-06-21T12:05:52.000Z"
-  },
-  {
-    "site": "jetsukda.dev",
-    "title": "เมื่อต้องเจอกับคนที่เป็น Narcissistic Personality Disorder (NPD)",
-    "url": "https://jetsukda.dev/posts/dealing-with-narcissistic-personality-disorder-npd/",
-    "published": "2026-06-21T09:50:06.000Z"
   },
   {
     "site": "kusumotolab.com",
