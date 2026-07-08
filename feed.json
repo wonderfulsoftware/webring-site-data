@@ -1,21 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "สวัสดี IBM Bob (Hello Bob)",
+    "url": "https://www.somkiat.cc/hello-bob/",
+    "published": "2026-07-08T02:07:54.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "[CR] 711 แฮมห่อชีส",
+    "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/",
+    "published": "2026-07-07T09:45:37.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง",
+    "url": "https://mymoneytoolkit.app/posts/mid-year-recap-2026",
+    "published": "2026-07-07T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "ZeeSpec กับการโค้ดงานแบบ Greenfield และ Brownfield",
     "url": "https://myifew.com/7769/zeespec-spec/",
     "published": "2026-07-06T16:06:52.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "GitHub Copilot สนับสนุน Kimi K2.7 Code แล้ว",
-    "url": "https://www.somkiat.cc/github-copilot-with-kimi-k27-code/",
-    "published": "2026-07-06T14:41:28.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "วางแผนงบ พร้อมเช็คสุขภาพการเงินทั้งปีในหน้าเดียวให้เสร็จ",
-    "url": "https://mymoneytoolkit.app/posts/budget-web",
-    "published": "2026-07-06T00:00:00.000Z"
   },
   {
     "site": "nitpum.com",
@@ -34,12 +40,6 @@
     "title": "แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว",
     "url": "https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/",
     "published": "2026-07-03T15:04:01.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Common/Helper for Grouping/Sort on UTable (Nuxt UI)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/07/common-helper-for-grouping-sort-on-utable-nuxt-ui/",
-    "published": "2026-07-03T02:17:33.000Z"
   },
   {
     "site": "xiengperm.dev",
