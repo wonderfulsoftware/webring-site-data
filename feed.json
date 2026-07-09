@@ -1,9 +1,15 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Harness Design: ทำ AI Agent ให้ทำงานยาวๆ ได้โดยไม่ต้องมีคนเฝ้าตลอดเวลา",
+    "url": "https://myifew.com/7778/harness-design-by-anthopic/",
+    "published": "2026-07-08T17:16:55.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "สวัสดี IBM Bob (Hello Bob)",
-    "url": "https://www.somkiat.cc/hello-bob/",
-    "published": "2026-07-08T02:07:54.000Z"
+    "title": "มาลองใช้งาน Vite+ กัน (beta version)",
+    "url": "https://www.somkiat.cc/hello-vite-plus/",
+    "published": "2026-07-08T06:45:26.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +22,6 @@
     "title": "สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง",
     "url": "https://mymoneytoolkit.app/posts/mid-year-recap-2026",
     "published": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ZeeSpec กับการโค้ดงานแบบ Greenfield และ Brownfield",
-    "url": "https://myifew.com/7769/zeespec-spec/",
-    "published": "2026-07-06T16:06:52.000Z"
   },
   {
     "site": "nitpum.com",
