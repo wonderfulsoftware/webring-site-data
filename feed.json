@@ -1,21 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "Harness Design: ทำ AI Agent ให้ทำงานยาวๆ ได้โดยไม่ต้องมีคนเฝ้าตลอดเวลา",
-    "url": "https://myifew.com/7778/harness-design-by-anthopic/",
-    "published": "2026-07-08T17:16:55.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Vite+ กัน (beta version)",
-    "url": "https://www.somkiat.cc/hello-vite-plus/",
-    "published": "2026-07-08T06:45:26.000Z"
+    "title": "วิธีใช้ Fable 5 แบบประหยัด Token",
+    "url": "https://myifew.com/7793/how-optimize-token-use-fable5-advisor/",
+    "published": "2026-07-09T16:18:24.000Z"
   },
   {
     "site": "debuggingsoft.com",
-    "title": "[CR] 711 แฮมห่อชีส",
-    "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-711-ham-wrap-with-cheese/",
-    "published": "2026-07-07T09:45:37.000Z"
+    "title": "[CR] Starbucks Pork Bulgogi Sandwich",
+    "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/",
+    "published": "2026-07-09T12:49:39.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "PostgreSQL :: เรื่องของ partitioning table",
+    "url": "https://www.somkiat.cc/postgresql-with-partitioning-table/",
+    "published": "2026-07-09T08:33:24.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Make logging in easier with passkeys",
+    "url": "https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/",
+    "published": "2026-07-09T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -112,12 +118,6 @@
     "title": "Transfer Money API — Engineering Notes",
     "url": "https://www.anewlife.dev/post/transfer-money-api-engineering-notes/",
     "published": "2026-04-24T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book Highlights - Babel by Gaston Dorren",
-    "url": "https://karnwong.me/posts/2026/04/book-highlights---babel-by-gaston-dorren/",
-    "published": "2026-04-22T00:00:00.000Z"
   },
   {
     "site": "fasu.dev",
