@@ -1,9 +1,27 @@
 [
   {
     "site": "myifew.com",
-    "title": "วิธีใช้ Fable 5 แบบประหยัด Token",
-    "url": "https://myifew.com/7793/how-optimize-token-use-fable5-advisor/",
-    "published": "2026-07-09T16:18:24.000Z"
+    "title": "ไฟฉายคาดหัวเดินป่า วิ่งเทรล เลือกยังไงดี",
+    "url": "https://myifew.com/7812/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%ab%e0%b8%b1%e0%b8%a7-u/",
+    "published": "2026-07-10T14:53:35.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity",
+    "url": "https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/",
+    "published": "2026-07-10T10:17:54.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Deploying Firebase Hosting from GitHub Actions with no stored secrets",
+    "url": "https://dt.in.th/FirebaseHostingGitHubActionsDeploy",
+    "published": "2026-07-10T00:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "What are (agent) sandboxes useful for?",
+    "url": "https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/",
+    "published": "2026-07-10T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -16,12 +34,6 @@
     "title": "PostgreSQL :: เรื่องของ partitioning table",
     "url": "https://www.somkiat.cc/postgresql-with-partitioning-table/",
     "published": "2026-07-09T08:33:24.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Make logging in easier with passkeys",
-    "url": "https://karnwong.me/posts/2026/07/make-logging-in-easier-with-passkeys/",
-    "published": "2026-07-09T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -42,12 +54,6 @@
     "published": "2026-07-04T03:15:57.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "แล้วมาเรียนธอน live session pass เรียนอะไรกัน? สรุปให้แล้ว",
-    "url": "https://www.mikkipastel.com/skooldio-marianthon-2026-live-session-pass/",
-    "published": "2026-07-03T15:04:01.000Z"
-  },
-  {
     "site": "xiengperm.dev",
     "title": "ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ",
     "url": "https://xiengperm.dev/posts/lao-karaoke-translator-lo/",
@@ -58,12 +64,6 @@
     "title": "Migrate Hermes API Keys to Bitwarden Secrets Manager",
     "url": "https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/",
     "published": "2026-06-29T03:58:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Using Grist API from a custom widget",
-    "url": "https://dt.in.th/GristAccessToken",
-    "published": "2026-06-29T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
