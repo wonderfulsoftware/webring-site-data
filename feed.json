@@ -1,27 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "How to delete lines containing a specific pattern in Notepad++",
+    "url": "https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/",
+    "published": "2026-07-14T10:43:06.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง module ด้วย Spring Modulith",
+    "url": "https://www.somkiat.cc/communication-between-modules-in-spring-modulith/",
+    "published": "2026-07-14T06:49:25.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "จัดการน้ำดื่มเดินป่า: 6 วิธีเลือก กรอง และฆ่าเชื้อให้ปลอดภัย",
+    "url": "https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/",
+    "published": "2026-07-14T06:05:14.000Z"
+  },
+  {
     "site": "nutchanon.org",
     "title": "root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root",
     "url": "https://nutchanon.org/blog/root-gate",
     "published": "2026-07-14T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "การปรับปรุงของ Superpowers 6",
-    "url": "https://www.somkiat.cc/superpowers-6-agent-skills/",
-    "published": "2026-07-13T04:36:12.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "สัปดาห์ที่ชมพูย้ายบ้านสู่ Hermes Agent (6-12 ก.ค. 2569)",
-    "url": "https://myifew.com/7826/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%ad%e0%b8%99%e0%b9%80%e0%b8%97%e0%b8%99%e0%b8%95%e0%b9%8c%e0%b8%82%e0%b9%89%e0%b8%b2/",
-    "published": "2026-07-12T16:09:39.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -34,12 +40,6 @@
     "title": "What are (agent) sandboxes useful for?",
     "url": "https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/",
     "published": "2026-07-10T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Pork Bulgogi Sandwich",
-    "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-starbucks-pork-bulgogi-sandwich/",
-    "published": "2026-07-09T12:49:39.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
