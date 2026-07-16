@@ -1,5 +1,23 @@
 [
   {
+    "site": "nutchanon.org",
+    "title": "ฝ่ายจัดซื้อประจำบ้าน",
+    "url": "https://nutchanon.org/blog/purchase-division",
+    "published": "2026-07-16T00:00:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "แจกโพยใช้ adb command ที่ต้องใช้ สำหรับ Android Developer",
+    "url": "https://www.mikkipastel.com/adb-command-for-android-developer/",
+    "published": "2026-07-15T09:11:17.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "Nakasendo Magome-Tsumago: ทางเดินเมืองเก่าในหุบเขาคิโสะ",
+    "url": "https://myifew.com/7832/nakasendo-magome-tsumago-%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%80%e0%b8%a1%e0%b8%b7%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%81%e0%b9%88%e0%b8%b2%e0%b9%83%e0%b8%99%e0%b8%ab/",
+    "published": "2026-07-15T06:04:56.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "How to delete lines containing a specific pattern in Notepad++",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/",
@@ -12,28 +30,10 @@
     "published": "2026-07-14T06:49:25.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "จัดการน้ำดื่มเดินป่า: 6 วิธีเลือก กรอง และฆ่าเชื้อให้ปลอดภัย",
-    "url": "https://myifew.com/7830/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b8%94%e0%b8%b7%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-6-%e0%b8%a7/",
-    "published": "2026-07-14T06:05:14.000Z"
-  },
-  {
-    "site": "nutchanon.org",
-    "title": "root-gate: จากขอให้ sudo ถามน้อยลง กลายเป็น native dialog เฝ้าประตู root",
-    "url": "https://nutchanon.org/blog/root-gate",
-    "published": "2026-07-14T00:00:00.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "ทำเว็บป้ายยา กับ Notion API ด้วย Google Antigravity",
-    "url": "https://www.mikkipastel.com/my-shopee-affiliate-website-from-notion-api-google-antigravity/",
-    "published": "2026-07-10T10:17:54.000Z"
   },
   {
     "site": "karnwong.me",
