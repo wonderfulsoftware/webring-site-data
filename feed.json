@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "เมื่อ tokenizer ของ LLM model ใหม่ ๆ นับจำนวน token มากขึ้น !!",
+    "url": "https://www.somkiat.cc/tokenizer-of-llm-model/",
+    "published": "2026-07-16T16:50:42.000Z"
+  },
+  {
     "site": "nutchanon.org",
     "title": "ฝ่ายจัดซื้อประจำบ้าน",
     "url": "https://nutchanon.org/blog/purchase-division",
@@ -22,12 +28,6 @@
     "title": "How to delete lines containing a specific pattern in Notepad++",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/how-to-delete-lines-containing-a-specific-pattern-in-notepad/",
     "published": "2026-07-14T10:43:06.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องการติดต่อสื่อสารระหว่าง module ด้วย Spring Modulith",
-    "url": "https://www.somkiat.cc/communication-between-modules-in-spring-modulith/",
-    "published": "2026-07-14T06:49:25.000Z"
   },
   {
     "site": "dt.in.th",
