@@ -1,5 +1,23 @@
 [
   {
+    "site": "myifew.com",
+    "title": "สัปดาห์ที่ชมพูเอาอยู่คนเดียว (13-19 ก.ค. 2569)",
+    "url": "https://myifew.com/7840/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%ad%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%84/",
+    "published": "2026-07-19T16:04:31.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "TIL: Snowflake vs BigQuery vs ClickHouse เลือกใช้อันไหนดี",
+    "url": "https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/",
+    "published": "2026-07-19T16:02:06.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Playwright :: Visual testing สำหรับตรวจสอบ look and feel ของระบบ web",
+    "url": "https://www.somkiat.cc/playwright-visual-testing/",
+    "published": "2026-07-19T05:08:51.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจากงาน Agile Thailand 2026",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/recap-agile-thailand-2026/",
@@ -10,18 +28,6 @@
     "title": "Upgrade Template ใหม่",
     "url": "https://pontakorn.dev/posts/upgrade-template/",
     "published": "2026-07-18T07:52:27.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เปรียบเทียบ Satellite Messenger สำหรับเดินป่า ปี 2026",
-    "url": "https://myifew.com/7835/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-satellite-messenger-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94/",
-    "published": "2026-07-17T06:04:17.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "เมื่อ tokenizer ของ LLM model ใหม่ ๆ นับจำนวน token มากขึ้น !!",
-    "url": "https://www.somkiat.cc/tokenizer-of-llm-model/",
-    "published": "2026-07-16T16:50:42.000Z"
   },
   {
     "site": "nutchanon.org",
@@ -58,12 +64,6 @@
     "title": "แอพธนาคารไหนย้ายเครื่องง่ายที่สุดในปี 2026",
     "url": "https://nitpum.com/post/transfer-thai-banking-app-in-2026/",
     "published": "2026-07-04T04:15:58.000Z"
-  },
-  {
-    "site": "jetsukda.dev",
-    "title": "TIL: The Analytics Development Lifecycle (ADLC)",
-    "url": "https://jetsukda.dev/til/the-analytics-development-lifecycle-adlc/",
-    "published": "2026-07-04T03:15:57.000Z"
   },
   {
     "site": "xiengperm.dev",
