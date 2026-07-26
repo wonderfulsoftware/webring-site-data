@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Quarkus Agent MCP สำหรับการพัฒนาระบบงานด้วย Quarkus",
-    "url": "https://www.somkiat.cc/working-with-quarkus-agent-mcp/",
-    "published": "2026-07-24T09:25:43.000Z"
+    "title": "Golang :: ลองใช้งาน Bytedance Sonic สำหรับจัดการข้อมูล JSON",
+    "url": "https://www.somkiat.cc/golang-json-bytedance-sonic/",
+    "published": "2026-07-25T04:38:31.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Password isn't enough to protect your laptop",
+    "url": "https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/",
+    "published": "2026-07-25T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -46,12 +52,6 @@
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "What are (agent) sandboxes useful for?",
-    "url": "https://karnwong.me/posts/2026/07/what-are-agent-sandboxes-useful-for/",
-    "published": "2026-07-10T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
