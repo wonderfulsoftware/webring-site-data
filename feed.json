@@ -1,9 +1,21 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก vLLM by mood @OpenCraft",
+    "url": "https://naiwaen.debuggingsoft.com/2026/07/recap-vllm-by-mood-opencraft/",
+    "published": "2026-07-26T15:08:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Golang :: ลองใช้งาน Bytedance Sonic สำหรับจัดการข้อมูล JSON",
-    "url": "https://www.somkiat.cc/golang-json-bytedance-sonic/",
-    "published": "2026-07-25T04:38:31.000Z"
+    "title": "สวัสดี TypeScript 7.0",
+    "url": "https://www.somkiat.cc/hello-typescript-7/",
+    "published": "2026-07-26T05:23:30.000Z"
+  },
+  {
+    "site": "nitpum.com",
+    "title": "The Agentskills, The Claude Code and The ironly",
+    "url": "https://nitpum.com/post/agentskills-claude-code/",
+    "published": "2026-07-25T15:53:05.000Z"
   },
   {
     "site": "karnwong.me",
@@ -22,12 +34,6 @@
     "title": "เป็น content creator staff ครั้งแรก ที่งาน Google IO Extended Bangkok 2026",
     "url": "https://www.mikkipastel.com/google-io-extended-bangkok-2026/",
     "published": "2026-07-23T13:38:10.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Performance Issue (Recap จากประสบการณ์)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/07/performance-issue-recap-from-my-13-year-experience/",
-    "published": "2026-07-23T10:18:00.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -58,12 +64,6 @@
     "title": "สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง",
     "url": "https://mymoneytoolkit.app/posts/mid-year-recap-2026",
     "published": "2026-07-07T00:00:00.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "แอพธนาคารไหนย้ายเครื่องง่ายที่สุดในปี 2026",
-    "url": "https://nitpum.com/post/transfer-thai-banking-app-in-2026/",
-    "published": "2026-07-04T04:15:58.000Z"
   },
   {
     "site": "xiengperm.dev",
