@@ -1,15 +1,27 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "Good Test :: แต่ละ test case ควรจบในตัวเอง (self-contained tests)",
+    "url": "https://www.somkiat.cc/self-contained-tests-good-test/",
+    "published": "2026-07-29T14:55:47.000Z"
+  },
+  {
+    "site": "jetsukda.dev",
+    "title": "TIL: What is dbt_utils.star macro",
+    "url": "https://jetsukda.dev/til/what-is-dbt-utils-star-macro/",
+    "published": "2026-07-29T08:06:53.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "ฮัลลาซาน: เดินขึ้นภูเขาไฟกลางเกาะเชจูผ่านเส้นทาง Yeongsil และ Seongpanak",
+    "url": "https://myifew.com/7894/%e0%b8%ae%e0%b8%b1%e0%b8%a5%e0%b8%a5%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%99-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b6%e0%b9%89%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%84/",
+    "published": "2026-07-29T06:06:02.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "[CR] Aoringo-Nibuta Curry รอบนี้ลด 99%",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/",
     "published": "2026-07-28T11:42:27.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "อ่านฟ้าก่อนขึ้นเขา: 6 วิธีลดความเสี่ยงพายุฝนฟ้าคะนองบนเส้นทางธรรมชาติ",
-    "url": "https://myifew.com/7892/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%99%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%81%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%b6%e0%b9%89%e0%b8%99%e0%b9%80%e0%b8%82%e0%b8%b2-6-%e0%b8%a7%e0%b8%b4%e0%b8%98/",
-    "published": "2026-07-28T06:03:51.000Z"
   },
   {
     "site": "betich.me",
@@ -24,18 +36,6 @@
     "published": "2026-07-27T11:02:39.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "เริ่มต้นใช้งาน Pi Coding Agent แบบง่าย ๆ",
-    "url": "https://www.somkiat.cc/let-start-with-pi-coding-agent/",
-    "published": "2026-07-27T08:18:30.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "คู่มือเบื้องต้น Google sheet ที่ใครก็เอาไปใช้ได้ ตอนที่ 3 (ทำชีตให้เปิดมาแล้วรู้เรื่อง)",
-    "url": "https://mymoneytoolkit.app/posts/google-sheet-tutorial-part-3",
-    "published": "2026-07-26T00:00:00.000Z"
-  },
-  {
     "site": "nitpum.com",
     "title": "The Agentskills, The Claude Code and The ironly",
     "url": "https://nitpum.com/post/agentskills-claude-code/",
@@ -46,12 +46,6 @@
     "title": "Password isn't enough to protect your laptop",
     "url": "https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/",
     "published": "2026-07-25T00:00:00.000Z"
-  },
-  {
-    "site": "jetsukda.dev",
-    "title": "TIL: Snowflake vs BigQuery vs ClickHouse เลือกใช้อันไหนดี",
-    "url": "https://jetsukda.dev/til/snowflake-vs-bigquery-vs-clickhouse/",
-    "published": "2026-07-19T16:02:06.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -70,6 +64,12 @@
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง",
+    "url": "https://mymoneytoolkit.app/posts/mid-year-recap-2026",
+    "published": "2026-07-07T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
