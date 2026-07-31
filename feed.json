@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Update PostgreSQL 17 > 18 Docker Note",
+    "url": "https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/",
+    "published": "2026-07-30T12:33:23.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "Good Test :: แต่ละ test case ควรจบในตัวเอง (self-contained tests)",
-    "url": "https://www.somkiat.cc/self-contained-tests-good-test/",
-    "published": "2026-07-29T14:55:47.000Z"
+    "title": "ทาง OpenAI ได้ปล่อย Codex Security CLI ออกมาให้ใช้งาน",
+    "url": "https://www.somkiat.cc/codex-security-cli/",
+    "published": "2026-07-30T05:56:53.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -16,12 +22,6 @@
     "title": "ฮัลลาซาน: เดินขึ้นภูเขาไฟกลางเกาะเชจูผ่านเส้นทาง Yeongsil และ Seongpanak",
     "url": "https://myifew.com/7894/%e0%b8%ae%e0%b8%b1%e0%b8%a5%e0%b8%a5%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%99-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b6%e0%b9%89%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%84/",
     "published": "2026-07-29T06:06:02.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Aoringo-Nibuta Curry รอบนี้ลด 99%",
-    "url": "https://naiwaen.debuggingsoft.com/2026/07/cr-aoringo-nibuta-curry-discount-99-percent/",
-    "published": "2026-07-28T11:42:27.000Z"
   },
   {
     "site": "betich.me",
@@ -134,7 +134,7 @@
   {
     "site": "fasu.dev",
     "title": "The LLM Wiki Pattern: A Second Brain That Compounds",
-    "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds",
+    "url": "https://fasu.dev/writings/the-llm-wiki-pattern-a-second-brain-that-compounds/",
     "published": "2026-04-22T00:00:00.000Z"
   },
   {
