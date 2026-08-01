@@ -1,27 +1,33 @@
 [
   {
+    "site": "myifew.com",
+    "title": "เปรียบเทียบ Sun Hoodie สำหรับเดินป่าแดดแรง ปี 2026",
+    "url": "https://myifew.com/7898/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-sun-hoodie-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4/",
+    "published": "2026-07-31T06:03:32.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "น่าสนใจกับ The CAP Principle for LLM Serving",
+    "url": "https://www.somkiat.cc/cap-principle-for-llm-serving/",
+    "published": "2026-07-31T03:47:28.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "ลองสร้าง Agent Skill มาอ่านหนังสือกับ Claude Code",
+    "url": "https://blog.ninprd.com/blog/agent-skill-read-books-with-claude-code/",
+    "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Update PostgreSQL 17 > 18 Docker Note",
     "url": "https://naiwaen.debuggingsoft.com/2026/07/update-postgres-17-18-docker-note-th/",
     "published": "2026-07-30T12:33:23.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "ทาง OpenAI ได้ปล่อย Codex Security CLI ออกมาให้ใช้งาน",
-    "url": "https://www.somkiat.cc/codex-security-cli/",
-    "published": "2026-07-30T05:56:53.000Z"
-  },
-  {
     "site": "jetsukda.dev",
     "title": "TIL: What is dbt_utils.star macro",
     "url": "https://jetsukda.dev/til/what-is-dbt-utils-star-macro/",
     "published": "2026-07-29T08:06:53.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ฮัลลาซาน: เดินขึ้นภูเขาไฟกลางเกาะเชจูผ่านเส้นทาง Yeongsil และ Seongpanak",
-    "url": "https://myifew.com/7894/%e0%b8%ae%e0%b8%b1%e0%b8%a5%e0%b8%a5%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%99-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%82%e0%b8%b6%e0%b9%89%e0%b8%99%e0%b8%a0%e0%b8%b9%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%84/",
-    "published": "2026-07-29T06:06:02.000Z"
   },
   {
     "site": "betich.me",
@@ -88,12 +94,6 @@
     "title": "Bridging the Gap: Giving Your Text-Only AI \"Eyes\" with macOS Vision Framework and Swift",
     "url": "https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/",
     "published": "2026-06-16T15:33:13.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "สีเหลืองเยลโล่ว บ๊ายบาย Skooldio",
-    "url": "https://blog.ninprd.com/blog/goodbye-skooldio/",
-    "published": "2026-06-14T00:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
