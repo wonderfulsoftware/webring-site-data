@@ -1,5 +1,29 @@
 [
   {
+    "site": "jetsukda.dev",
+    "title": "Reflect สิ่งที่ได้เรียนรู้จากเดือน July",
+    "url": "https://jetsukda.dev/posts/july-2026-reflection/",
+    "published": "2026-08-03T12:10:07.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "ทำ mood board ด้วย Figjam",
+    "url": "https://www.mikkipastel.com/mood-board-figjam-from-figma/",
+    "published": "2026-08-03T11:34:27.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจกับ Integration Test Harness ของ Cloudflare",
+    "url": "https://www.somkiat.cc/integration-test-harness/",
+    "published": "2026-08-03T07:15:05.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Virtual machines setup for homelab",
+    "url": "https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/",
+    "published": "2026-08-03T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "กลิ้งแลกแว่น 2569",
     "url": "https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/",
@@ -12,10 +36,10 @@
     "published": "2026-08-02T16:03:45.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "มาลองดู Stateless MCP กัน",
-    "url": "https://www.somkiat.cc/stateless-mcp-2026-07-28/",
-    "published": "2026-08-02T07:10:21.000Z"
+    "site": "mymoneytoolkit.app",
+    "title": "Update Plan August 2026",
+    "url": "https://mymoneytoolkit.app/posts/update-plan-august-2026",
+    "published": "2026-08-01T00:00:00.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -24,34 +48,16 @@
     "published": "2026-07-31T00:00:00.000Z"
   },
   {
-    "site": "jetsukda.dev",
-    "title": "TIL: What is dbt_utils.star macro",
-    "url": "https://jetsukda.dev/til/what-is-dbt-utils-star-macro/",
-    "published": "2026-07-29T08:06:53.000Z"
-  },
-  {
     "site": "betich.me",
     "title": "Turning design tokens into a design system, with a custom shadcn registry builder",
     "url": "https://betich.me/notes/design-token-pipeline/",
     "published": "2026-07-27T21:30:00.000Z"
   },
   {
-    "site": "mikkipastel.com",
-    "title": "Hello Neuro Symbolic กับ Payment Protocols ในยุค AI Agent กับคอมมู Solana Dev",
-    "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-4-bangkok/",
-    "published": "2026-07-27T11:02:39.000Z"
-  },
-  {
     "site": "nitpum.com",
     "title": "The Agentskills, The Claude Code and The ironly",
     "url": "https://nitpum.com/post/agentskills-claude-code/",
     "published": "2026-07-25T15:53:05.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Password isn't enough to protect your laptop",
-    "url": "https://karnwong.me/posts/2026/07/password-isnt-enough-to-protect-your-laptop/",
-    "published": "2026-07-25T00:00:00.000Z"
   },
   {
     "site": "pontakorn.dev",
@@ -70,12 +76,6 @@
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "สรุปครึ่งปี 2026 เราทำอะไรกันไปบ้าง",
-    "url": "https://mymoneytoolkit.app/posts/mid-year-recap-2026",
-    "published": "2026-07-07T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
