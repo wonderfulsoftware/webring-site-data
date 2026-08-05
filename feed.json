@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough)",
+    "url": "https://www.somkiat.cc/postgres-postgres-is-enough/",
+    "published": "2026-08-04T16:35:51.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "เดินบนทางเปียกและโคลนอย่างรับผิดชอบ: 6 เทคนิคที่ช่วยให้ปลอดภัยและไม่ทำร้ายเส้นทาง",
+    "url": "https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/",
+    "published": "2026-08-04T06:02:56.000Z"
+  },
+  {
     "site": "jetsukda.dev",
     "title": "Reflect สิ่งที่ได้เรียนรู้จากเดือน July",
     "url": "https://jetsukda.dev/posts/july-2026-reflection/",
@@ -12,12 +24,6 @@
     "published": "2026-08-03T11:34:27.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจกับ Integration Test Harness ของ Cloudflare",
-    "url": "https://www.somkiat.cc/integration-test-harness/",
-    "published": "2026-08-03T07:15:05.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Virtual machines setup for homelab",
     "url": "https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/",
@@ -25,15 +31,9 @@
   },
   {
     "site": "debuggingsoft.com",
-    "title": "กลิ้งแลกแว่น 2569",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/run-for-eyeglasses-2569/",
-    "published": "2026-08-02T22:50:42.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "สัปดาห์ที่ชมพูเรียนรู้การยืนเป็น fallback อย่างอ่อนโยน (27 ก.ค. – 2 ส.ค. 2569)",
-    "url": "https://myifew.com/7900/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b9%80%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%a3%e0%b8%b9%e0%b9%89/",
-    "published": "2026-08-02T16:03:45.000Z"
+    "title": "แวะมาฟัง QWEN3.8 USE CASE SHOW CASE",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/",
+    "published": "2026-08-02T15:27:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -76,6 +76,12 @@
     "title": "bgx: BackGround eXecute",
     "url": "https://dt.in.th/Bgx",
     "published": "2026-07-13T00:00:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "Monster Hunter Rise",
+    "url": "https://neizod.dev/2026/07/07/monster-hunter-rise.html",
+    "published": "2026-07-06T19:18:00.000Z"
   },
   {
     "site": "xiengperm.dev",
@@ -154,12 +160,6 @@
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
     "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",
     "published": "2026-03-23T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "むむむむむ",
-    "url": "https://neizod.dev/2026/02/14/no-no-no-no-no.html",
-    "published": "2026-02-14T03:49:18.000Z"
   },
   {
     "site": "sujamess.com",
