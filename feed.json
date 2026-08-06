@@ -1,15 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "แหล่งความชุดเครื่องมือต่าง ๆ สำหรับ Postgres (Postgres Is Enough)",
-    "url": "https://www.somkiat.cc/postgres-postgres-is-enough/",
-    "published": "2026-08-04T16:35:51.000Z"
+    "title": "ว่าง ๆ มาดึงข้อมูลจาก Coros MCP มาสร้าง dashboard กัน",
+    "url": "https://www.somkiat.cc/coros-mcp/",
+    "published": "2026-08-05T17:25:04.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Petaflop ของเรานั้นไม่เท่ากัน",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/",
+    "published": "2026-08-05T07:08:55.000Z"
   },
   {
     "site": "myifew.com",
-    "title": "เดินบนทางเปียกและโคลนอย่างรับผิดชอบ: 6 เทคนิคที่ช่วยให้ปลอดภัยและไม่ทำร้ายเส้นทาง",
-    "url": "https://myifew.com/7902/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9a%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%81%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b9%82%e0%b8%84%e0%b8%a5%e0%b8%99%e0%b8%ad/",
-    "published": "2026-08-04T06:02:56.000Z"
+    "title": "บ้านป่าบงเปียง: นาขั้นบันไดกลางฤดูฝนที่แม่แจ่ม",
+    "url": "https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/",
+    "published": "2026-08-05T06:03:59.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -28,12 +34,6 @@
     "title": "Virtual machines setup for homelab",
     "url": "https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/",
     "published": "2026-08-03T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "แวะมาฟัง QWEN3.8 USE CASE SHOW CASE",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-qwen3-8-use-case-show-case/",
-    "published": "2026-08-02T15:27:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
