@@ -1,9 +1,15 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ว่าง ๆ มาดึงข้อมูลจาก Coros MCP มาสร้าง dashboard กัน",
-    "url": "https://www.somkiat.cc/coros-mcp/",
-    "published": "2026-08-05T17:25:04.000Z"
+    "title": "บันทึกการลองเล่น TamaClaude บน MacOS เท่านั้น",
+    "url": "https://www.somkiat.cc/try-tamaclaude-on-macos/",
+    "published": "2026-08-06T07:15:45.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Coroot revisited",
+    "url": "https://karnwong.me/posts/2026/08/coroot-revisited/",
+    "published": "2026-08-06T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -28,12 +34,6 @@
     "title": "ทำ mood board ด้วย Figjam",
     "url": "https://www.mikkipastel.com/mood-board-figjam-from-figma/",
     "published": "2026-08-03T11:34:27.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Virtual machines setup for homelab",
-    "url": "https://karnwong.me/posts/2026/08/virtual-machines-setup-for-homelab/",
-    "published": "2026-08-03T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
