@@ -1,21 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Fixed Cannot find module /app/node_modules/xlsx/dist/cpexcel.js",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/",
+    "published": "2026-08-07T10:31:02.000Z"
+  },
+  {
     "site": "somkiat.cc",
-    "title": "บันทึกการลองเล่น TamaClaude บน MacOS เท่านั้น",
-    "url": "https://www.somkiat.cc/try-tamaclaude-on-macos/",
-    "published": "2026-08-06T07:15:45.000Z"
+    "title": "AnyDoc :: ทำการแปลงเอกสารในรูปแบบต่าง ๆ ออกมาในรูปแบบ Markdown",
+    "url": "https://www.somkiat.cc/anydoc-to-markdown/",
+    "published": "2026-08-07T04:52:22.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews",
+    "url": "https://dt.in.th/Qwen35OmniFlashTTSThai",
+    "published": "2026-08-07T00:00:00.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "รีวิว The Better Returns โดย Earthh Evans — อ่านจบแล้วอยากกลับไปแก้พอร์ตตัวเองเลย",
+    "url": "https://mymoneytoolkit.app/posts/the-better-returns",
+    "published": "2026-08-07T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
     "title": "Coroot revisited",
     "url": "https://karnwong.me/posts/2026/08/coroot-revisited/",
     "published": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Petaflop ของเรานั้นไม่เท่ากัน",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/petaflop-not-same-on-pc-vs-supercomputer/",
-    "published": "2026-08-05T07:08:55.000Z"
   },
   {
     "site": "myifew.com",
@@ -36,16 +48,16 @@
     "published": "2026-08-03T11:34:27.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "Update Plan August 2026",
-    "url": "https://mymoneytoolkit.app/posts/update-plan-august-2026",
-    "published": "2026-08-01T00:00:00.000Z"
-  },
-  {
     "site": "blog.ninprd.com",
     "title": "ลองสร้าง Agent Skill มาอ่านหนังสือกับ Claude Code",
     "url": "https://blog.ninprd.com/blog/agent-skill-read-books-with-claude-code/",
     "published": "2026-07-31T00:00:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "Geometry Boot Camp 2026",
+    "url": "https://neizod.dev/2026/07/30/geometry-boot-camp-2026.html",
+    "published": "2026-07-30T16:59:59.000Z"
   },
   {
     "site": "betich.me",
@@ -70,18 +82,6 @@
     "title": "ฝ่ายจัดซื้อประจำบ้าน",
     "url": "https://nutchanon.org/blog/purchase-division",
     "published": "2026-07-16T00:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "bgx: BackGround eXecute",
-    "url": "https://dt.in.th/Bgx",
-    "published": "2026-07-13T00:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Monster Hunter Rise",
-    "url": "https://neizod.dev/2026/07/07/monster-hunter-rise.html",
-    "published": "2026-07-06T19:18:00.000Z"
   },
   {
     "site": "xiengperm.dev",
