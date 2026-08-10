@@ -1,5 +1,29 @@
 [
   {
+    "site": "myifew.com",
+    "title": "เปรียบเทียบร่มเดินป่า Ultralight ปี 2026: กันฝน กันแดด แต่ยังพกง่าย",
+    "url": "https://myifew.com/8414/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%a3%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-ultralight/",
+    "published": "2026-08-09T16:45:08.000Z"
+  },
+  {
+    "site": "thiti.dev",
+    "title": "ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้",
+    "url": "https://thiti.dev/blog/69/",
+    "published": "2026-08-09T07:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "Claude Code :: ทำความรู้จักกับ Permission mode กัน (Auto mode)",
+    "url": "https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/",
+    "published": "2026-08-09T05:43:41.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาฟัง Lead Engineer Meetup#02",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/",
+    "published": "2026-08-09T05:12:00.000Z"
+  },
+  {
     "site": "neizod.dev",
     "title": "Coloring the Snub Dodecahedron",
     "url": "https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html",
@@ -12,18 +36,6 @@
     "published": "2026-08-08T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "Fixed Cannot find module /app/node_modules/xlsx/dist/cpexcel.js",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/fixed-cannot-find-module-app-node_modules-xlsx-dist-cpexcel-js/",
-    "published": "2026-08-07T10:31:02.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "AnyDoc :: ทำการแปลงเอกสารในรูปแบบต่าง ๆ ออกมาในรูปแบบ Markdown",
-    "url": "https://www.somkiat.cc/anydoc-to-markdown/",
-    "published": "2026-08-07T04:52:22.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews",
     "url": "https://dt.in.th/Qwen35OmniFlashTTSThai",
@@ -34,12 +46,6 @@
     "title": "Coroot revisited",
     "url": "https://karnwong.me/posts/2026/08/coroot-revisited/",
     "published": "2026-08-06T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "บ้านป่าบงเปียง: นาขั้นบันไดกลางฤดูฝนที่แม่แจ่ม",
-    "url": "https://myifew.com/7906/%e0%b8%9a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9a%e0%b8%87%e0%b9%80%e0%b8%9b%e0%b8%b5%e0%b8%a2%e0%b8%87-%e0%b8%99%e0%b8%b2%e0%b8%82%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b8%9a%e0%b8%b1/",
-    "published": "2026-08-05T06:03:59.000Z"
   },
   {
     "site": "jetsukda.dev",
@@ -208,12 +214,6 @@
     "title": "Bambu Lab A1 Essentials",
     "url": "https://garden.narze.live/bambu-lab-a1-essentials/",
     "published": "2025-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "thiti.dev",
-    "title": "OpenSSL คืออะไร",
-    "url": "https://thiti.dev/blog/29/",
-    "published": "2025-09-04T00:00:00.000Z"
   },
   {
     "site": "poom.dev",
