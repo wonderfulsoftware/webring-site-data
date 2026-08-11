@@ -1,5 +1,11 @@
 [
   {
+    "site": "xiengperm.dev",
+    "title": "Building Lao Karaoke: How I Made It",
+    "url": "https://xiengperm.dev/posts/building-lao-karaoke-en/",
+    "published": "2026-08-10T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "เปรียบเทียบร่มเดินป่า Ultralight ปี 2026: กันฝน กันแดด แต่ยังพกง่าย",
     "url": "https://myifew.com/8414/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%a3%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-ultralight/",
@@ -88,12 +94,6 @@
     "title": "ฝ่ายจัดซื้อประจำบ้าน",
     "url": "https://nutchanon.org/blog/purchase-division",
     "published": "2026-07-16T00:00:00.000Z"
-  },
-  {
-    "site": "xiengperm.dev",
-    "title": "ຄາລາໂອເກະລາວ: ເຄື່ອງມືແປໂຕໜັງສືລາວເປັນຄາລາໂອເກະ",
-    "url": "https://xiengperm.dev/posts/lao-karaoke-translator-lo/",
-    "published": "2026-07-03T00:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
