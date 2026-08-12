@@ -1,15 +1,27 @@
 [
   {
-    "site": "xiengperm.dev",
-    "title": "Building Lao Karaoke: How I Made It",
-    "url": "https://xiengperm.dev/posts/building-lao-karaoke-en/",
-    "published": "2026-08-10T00:00:00.000Z"
+    "site": "myifew.com",
+    "title": "เทคนิคการใช้ไม้เทรคกิ้งโพลอย่างถูกวิธี ตั้งแต่พื้นราบจนถึงข้ามลำธาร",
+    "url": "https://myifew.com/8418/%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%83%e0%b8%8a%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%89%e0%b9%80%e0%b8%97%e0%b8%a3%e0%b8%84%e0%b8%81%e0%b8%b4%e0%b9%89/",
+    "published": "2026-08-11T06:03:02.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "เปรียบเทียบร่มเดินป่า Ultralight ปี 2026: กันฝน กันแดด แต่ยังพกง่าย",
-    "url": "https://myifew.com/8414/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b8%a3%e0%b9%88%e0%b8%a1%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2-ultralight/",
-    "published": "2026-08-09T16:45:08.000Z"
+    "site": "karnwong.me",
+    "title": "Yes, you still need to know fundamentals even with AI",
+    "url": "https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "มัดรวม Agent Skills สำหรับงาน UX/UI ที่ควรมีติดเครื่อง",
+    "url": "https://xiengperm.dev/posts/agent-skills-for-ui-ux-th/",
+    "published": "2026-08-11T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "BrowserStack QA Meetup Group- Bangkok-AUG2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/",
+    "published": "2026-08-10T10:18:00.000Z"
   },
   {
     "site": "thiti.dev",
@@ -22,12 +34,6 @@
     "title": "Claude Code :: ทำความรู้จักกับ Permission mode กัน (Auto mode)",
     "url": "https://www.somkiat.cc/claude-code-permission-mode-and-auto-mode/",
     "published": "2026-08-09T05:43:41.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "แวะมาฟัง Lead Engineer Meetup#02",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/",
-    "published": "2026-08-09T05:12:00.000Z"
   },
   {
     "site": "neizod.dev",
@@ -46,12 +52,6 @@
     "title": "Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews",
     "url": "https://dt.in.th/Qwen35OmniFlashTTSThai",
     "published": "2026-08-07T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Coroot revisited",
-    "url": "https://karnwong.me/posts/2026/08/coroot-revisited/",
-    "published": "2026-08-06T00:00:00.000Z"
   },
   {
     "site": "jetsukda.dev",
