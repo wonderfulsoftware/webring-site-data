@@ -1,15 +1,15 @@
 [
   {
+    "site": "myifew.com",
+    "title": "We Are All Bad in Someone’s Story เมื่อเราเป็นคนเลวในเรื่องราวของใครสักคน",
+    "url": "https://myifew.com/8423/we-are-all-bad-in-someones-story/",
+    "published": "2026-08-13T17:40:59.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "ทำความรู้จักกับ Cloudflare Kitesurf",
     "url": "https://www.somkiat.cc/hello-cloudflare-kitesurf/",
     "published": "2026-08-12T14:48:07.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ภูหลวง: เส้นทางเดินป่าท่ามกลางเมเปิลและกุหลาบพันปี",
-    "url": "https://myifew.com/8421/%e0%b8%a0%e0%b8%b9%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%97%e0%b9%88/",
-    "published": "2026-08-12T06:03:43.000Z"
   },
   {
     "site": "yothinix.com",
@@ -30,16 +30,16 @@
     "published": "2026-08-11T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "BrowserStack QA Meetup Group- Bangkok-AUG2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/browserstack-qa-meetup-group-bangkok-aug2026/",
-    "published": "2026-08-09T10:18:00.000Z"
-  },
-  {
     "site": "thiti.dev",
     "title": "ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้",
     "url": "https://thiti.dev/blog/69/",
     "published": "2026-08-09T07:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาฟัง Lead Engineer Meetup#02",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-lead-engineer-meetup-02/",
+    "published": "2026-08-09T05:12:00.000Z"
   },
   {
     "site": "neizod.dev",
