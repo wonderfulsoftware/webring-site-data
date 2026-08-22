@@ -1,15 +1,12 @@
 {
   "dt.in.th": {
-    "blurhash": "v27d%l~nE19ID,IXax%K4oM|xtoe4nR%%Lk99FV]oNRkoboeRkf8SxScot%2",
+    "blurhash": "v27dzd~nE19ID,M}WB%K4oRRxtoe4nWAx[k99FV_oNRkk7oxRkjbSxScot%L",
     "description": null,
-    "backlink": {
-      "rect": "32:32:325:12.5",
-      "href": "https://webring.wonderful.software/#dt.in.th"
-    },
+    "backlink": null,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/dt.in.th_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:22.496Z",
+    "lastUpdated": "2026-08-22T00:59:03.516Z",
     "url": "https://dt.in.th",
-    "screenshotUpdatedAt": "2026-01-02T01:22:00.655Z",
+    "screenshotUpdatedAt": "2026-08-22T00:59:03.516Z",
     "owner": "dtinth",
     "number": 1
   },
@@ -22,7 +19,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wonderful.software_375w@2x.png",
     "screenshotUpdatedAt": "2025-07-08T01:19:09.872Z",
-    "lastUpdated": "2026-08-21T01:02:19.496Z",
+    "lastUpdated": "2026-08-22T00:59:00.658Z",
     "url": "https://wonderful.software",
     "owner": "dtinth",
     "number": 0
@@ -36,7 +33,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/notaboutcode.com_375w@2x.png",
     "screenshotUpdatedAt": "2025-05-17T13:44:51.656Z",
-    "lastUpdated": "2026-08-21T01:02:25.804Z",
+    "lastUpdated": "2026-08-22T00:59:06.556Z",
     "url": "http://www.notaboutcode.com",
     "owner": "ijemmy",
     "number": 2
@@ -67,7 +64,7 @@
     "description": "A blog of Chris, a human who love to learn more about himself and the world",
     "backlink": null,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/chrisza.me_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:29.345Z",
+    "lastUpdated": "2026-08-22T00:59:10.040Z",
     "url": "https://chrisza.me",
     "screenshotUpdatedAt": "2026-07-31T02:25:14.159Z",
     "owner": "chrisza4",
@@ -81,7 +78,7 @@
       "href": "https://webring.wonderful.software#srakrn.me"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/srakrn.me_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:32.752Z",
+    "lastUpdated": "2026-08-22T00:59:13.899Z",
     "url": "https://srakrn.me",
     "screenshotUpdatedAt": "2026-03-19T01:56:14.713Z",
     "owner": "srakrn",
@@ -95,7 +92,7 @@
       "href": "https://webring.wonderful.software#unnawut.com"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/unnawut.com_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:31.017Z",
+    "lastUpdated": "2026-08-22T00:59:12.199Z",
     "url": "http://www.unnawut.com",
     "screenshotUpdatedAt": "2026-08-04T02:05:58.480Z",
     "owner": "unnawut",
@@ -131,7 +128,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/knowlats.dev_375w@2x.png",
     "screenshotUpdatedAt": "2026-06-28T18:31:09.988Z",
-    "lastUpdated": "2026-08-21T01:02:35.351Z",
+    "lastUpdated": "2026-08-22T00:59:16.414Z",
     "url": "https://knowlats.dev",
     "owner": "icegotcha",
     "number": 7
@@ -144,7 +141,7 @@
       "href": "https://webring.wonderful.software#petepittawat.dev"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/petepittawat.dev_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:38.508Z",
+    "lastUpdated": "2026-08-22T00:59:19.548Z",
     "url": "https://petepittawat.dev",
     "screenshotUpdatedAt": "2026-06-28T18:31:13.068Z",
     "owner": "Pittawat2542",
@@ -155,8 +152,8 @@
     "description": null,
     "backlink": null,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/rayriffy.com_375w@2x.png",
-    "screenshotUpdatedAt": "2026-08-21T01:02:43.260Z",
-    "lastUpdated": "2026-08-21T01:02:43.260Z",
+    "screenshotUpdatedAt": "2026-08-22T00:59:24.248Z",
+    "lastUpdated": "2026-08-22T00:59:24.248Z",
     "url": "https://rayriffy.com",
     "owner": "rayriffy",
     "number": 10
@@ -170,7 +167,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/kusumotolab.com_375w@2x.png",
     "screenshotUpdatedAt": "2026-06-17T03:40:44.229Z",
-    "lastUpdated": "2026-08-21T01:02:54.805Z",
+    "lastUpdated": "2026-08-22T00:59:30.947Z",
     "url": "https://kusumotolab.com",
     "owner": "Kusumoto",
     "number": 11
@@ -183,7 +180,7 @@
       "href": "https://webring.wonderful.software#neizod.dev"
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/neizod.dev_375w@2x.png",
-    "lastUpdated": "2026-08-21T01:02:56.958Z",
+    "lastUpdated": "2026-08-22T00:59:32.989Z",
     "url": "https://neizod.dev",
     "screenshotUpdatedAt": "2026-08-09T01:20:35.192Z",
     "owner": "neizod",
@@ -198,7 +195,7 @@
     },
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wiput.me_375w@2x.png",
     "screenshotUpdatedAt": "2026-06-30T02:56:15.258Z",
-    "lastUpdated": "2026-08-21T01:03:01.516Z",
+    "lastUpdated": "2026-08-22T00:59:36.085Z",
     "url": "https://wiput.me",
     "owner": "wiput1999",
     "number": 13
@@ -209,7 +206,7 @@
     "backlink": null,
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jojoee.com_375w@2x.png",
     "screenshotUpdatedAt": "2026-08-16T01:02:41.949Z",
-    "lastUpdated": "2026-08-21T01:02:41.421Z",
+    "lastUpdated": "2026-08-22T00:59:22.453Z",
     "url": "https://jojoee.com",
     "owner": "jojoee",
     "number": 9
@@ -225,11 +222,14 @@
   },
   "icez.net": {
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/icez.net_375w@2x.png",
-    "blurhash": "v1TI,a-;~q-;00j[_3WB00j[_3WB00j[_3WB00j[?bWB4nj[?bWB4njt-;WB",
-    "screenshotUpdatedAt": "2026-08-20T01:00:09.110Z",
+    "blurhash": "vkJI9KVsWAxa~WozflM{-oj]ofkDjXRjWXs:IUR*WBoLIUofoKWBD%WCofkC",
+    "screenshotUpdatedAt": "2026-08-22T00:59:42.414Z",
     "description": null,
-    "backlink": null,
-    "lastUpdated": "2026-08-21T01:03:03.412Z",
+    "backlink": {
+      "rect": "32:18:779:3112",
+      "href": "https://webring.wonderful.software/#icez.net"
+    },
+    "lastUpdated": "2026-08-22T00:59:42.414Z",
     "url": "https://icez.net",
     "owner": "icez",
     "number": 14
@@ -243,7 +243,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#kykungz.dev"
     },
-    "lastUpdated": "2026-08-21T01:03:06.860Z",
+    "lastUpdated": "2026-08-22T00:59:45.788Z",
     "url": "https://kykungz.dev",
     "owner": "kykungz",
     "number": 15
@@ -257,7 +257,7 @@
       "rect": "30:30:281:13",
       "href": "https://webring.wonderful.software/#/jittagornp.me"
     },
-    "lastUpdated": "2026-08-21T01:03:12.365Z",
+    "lastUpdated": "2026-08-22T00:59:50.415Z",
     "url": "https://www.jittagornp.me",
     "owner": "jittagornp",
     "number": 16
@@ -268,7 +268,7 @@
     "screenshotUpdatedAt": "2026-04-26T02:27:16.721Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:03:15.870Z",
+    "lastUpdated": "2026-08-22T00:59:52.009Z",
     "url": "https://pandora.sh",
     "owner": "pe3zx",
     "number": 17
@@ -283,7 +283,7 @@
       "rect": "24:24:175.5:6573.75",
       "href": "https://webring.wonderful.software#warat.win"
     },
-    "lastUpdated": "2026-08-21T01:03:20.224Z",
+    "lastUpdated": "2026-08-22T00:59:56.107Z",
     "owner": "winwanwon",
     "number": 18
   },
@@ -326,7 +326,7 @@
       "rect": "32:18:13.125:913.234375",
       "href": "https://webring.wonderful.software#phitchaw.at"
     },
-    "lastUpdated": "2026-08-21T01:03:32.890Z",
+    "lastUpdated": "2026-08-22T01:00:06.605Z",
     "owner": "Shayennn",
     "number": 20
   },
@@ -342,14 +342,14 @@
   "jitrak.dev": {
     "url": "https://jitrak.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jitrak.dev_375w@2x.png",
-    "blurhash": "v02=}z%{4TZ*.iTWMew5%CNGRVt8j3nTs:XPrys:%2Rj0Jf#?IRQORXQxbi$",
-    "screenshotUpdatedAt": "2026-08-21T01:03:35.702Z",
+    "blurhash": "v02=}z%{4TZ*.iTWMew5%CNGRVt8j3nTspXPrys:%2Rj0JbX?IRQORXQxbi$",
+    "screenshotUpdatedAt": "2026-08-22T01:00:09.429Z",
     "description": "Notes and articles on software development, DevOps, and more by Jitrak.",
     "backlink": {
       "rect": "50:44:301:8",
       "href": "https://webring.wonderful.software#jitrak.dev"
     },
-    "lastUpdated": "2026-08-21T01:03:35.702Z",
+    "lastUpdated": "2026-08-22T01:00:09.429Z",
     "owner": "Eji4h",
     "number": 21
   },
@@ -372,7 +372,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#somkiat.cc"
     },
-    "lastUpdated": "2026-08-21T01:03:40.019Z",
+    "lastUpdated": "2026-08-22T01:00:13.450Z",
     "owner": "up1",
     "number": 22
   },
@@ -398,14 +398,14 @@
   "mikkipastel.com": {
     "url": "https://www.mikkipastel.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mikkipastel.com_375w@2x.png",
-    "blurhash": "vgMQt}nOofoz00o}afjF~VaKWVX8_NX8jYaeenaKofW=%gkCofjF_3jZayof",
-    "screenshotUpdatedAt": "2026-08-21T01:03:45.213Z",
+    "blurhash": "viM%=wnikCoz00ozf6jF^+aKWBbb_NX8f6V[VsV@ofbb%gkCofjZ_3jabHof",
+    "screenshotUpdatedAt": "2026-08-22T01:00:18.238Z",
     "description": "บล็อกของ Android Developer ที่จะพาทุกคน up-skill ให้ to the moon สำหรับสาย software development ทั้ง hard skill และ soft skill",
     "backlink": {
       "rect": "28.799999237060547:27.60000228881836:20.474987030029297:53.04999923706055",
       "href": "https://webring.wonderful.software#mikkipastel.com"
     },
-    "lastUpdated": "2026-08-21T01:03:45.213Z",
+    "lastUpdated": "2026-08-22T01:00:18.238Z",
     "owner": "mikkipastel",
     "number": 23
   },
@@ -428,7 +428,7 @@
       "rect": "40:40:104:269",
       "href": "https://webring.wonderful.software#pontakorn.dev"
     },
-    "lastUpdated": "2026-08-21T01:03:49.246Z",
+    "lastUpdated": "2026-08-22T01:00:22.036Z",
     "owner": "pontakornth",
     "number": 25
   },
@@ -460,7 +460,7 @@
       "rect": "66:18:191.390625:3344.78125",
       "href": "https://webring.wonderful.software#pat.chormai.org"
     },
-    "lastUpdated": "2026-08-21T01:03:51.737Z",
+    "lastUpdated": "2026-08-22T01:00:24.389Z",
     "owner": "heytitle",
     "number": 26
   },
@@ -474,7 +474,7 @@
       "rect": "32:32:154.96875:24",
       "href": "https://webring.wonderful.software#curiousdev.in.th"
     },
-    "lastUpdated": "2026-08-21T01:03:55.935Z",
+    "lastUpdated": "2026-08-22T01:00:26.543Z",
     "owner": "xeusteerapat",
     "number": 27
   },
@@ -498,7 +498,7 @@
       "rect": "21:29.359375:177:3356.109375",
       "href": "https://webring.wonderful.software#wiennat.com"
     },
-    "lastUpdated": "2026-08-21T01:03:57.842Z",
+    "lastUpdated": "2026-08-22T01:00:28.852Z",
     "owner": "wiennat",
     "number": 28
   },
@@ -512,7 +512,7 @@
       "rect": "48:36:276:40",
       "href": "https://webring.wonderful.software#llun.me"
     },
-    "lastUpdated": "2026-08-21T01:04:05.863Z",
+    "lastUpdated": "2026-08-22T01:00:36.436Z",
     "owner": "llun",
     "number": 29
   },
@@ -523,24 +523,24 @@
     "screenshotUpdatedAt": "2026-07-23T02:25:22.670Z",
     "description": "Thanawat Gulati • CSKMUNTB#32 | t6tg.com | Google Developer Student Clubs Lead | Microsoft Learn Student Ambassador (MLSA)",
     "backlink": {
-      "rect": "45.19200134277344:45.191986083984375:212.9040069580078:349.4040222167969",
+      "rect": "35.158935546875:35.158935546875:217.9205322265625:354.4205322265625",
       "href": "https://webring.wonderful.software#t6tg.com"
     },
-    "lastUpdated": "2026-08-21T01:04:10.056Z",
+    "lastUpdated": "2026-08-22T01:00:41.344Z",
     "owner": "t6tg",
     "number": 30
   },
   "thanapon.info": {
     "url": "https://thanapon.info",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/thanapon.info_375w@2x.png",
-    "blurhash": "vmOW:6%1$wt79Ij[ROj]~qIpNfWC^$Rjp0WBwFs+ogf5t4n#ROn~g5RkjXj?",
-    "screenshotUpdatedAt": "2026-08-21T01:04:21.646Z",
+    "blurhash": "vjOW+}%L$ct759jFRhja~qIqNKWX~TRPpJWBv_s+oMjsxsn#ROn$bxRkjXj?",
+    "screenshotUpdatedAt": "2026-08-22T01:00:51.897Z",
     "description": "Hello! I'm Toy, a software developer specializing in the design and development of software processes. My interests lie in embedded systems, IoTs, and smart farming. I am continually learning new programming languages to enhance my skills and foster better collaboration with my teammates.",
     "backlink": {
       "rect": "125:58:250:60",
       "href": "https://webring.wonderful.software#thanapon.info"
     },
-    "lastUpdated": "2026-08-21T01:04:21.646Z",
+    "lastUpdated": "2026-08-22T01:00:51.897Z",
     "owner": "toygame",
     "number": 31
   },
@@ -573,7 +573,7 @@
       "rect": "32:22:71:95.59375",
       "href": "https://webring.wonderful.software#blog.oatto.dev"
     },
-    "lastUpdated": "2026-08-21T01:04:27.365Z",
+    "lastUpdated": "2026-08-22T01:00:57.326Z",
     "owner": "oat9002",
     "number": 33
   },
@@ -587,7 +587,7 @@
       "rect": "32:32:219:5125",
       "href": "https://webring.wonderful.software#toupawa.com"
     },
-    "lastUpdated": "2026-08-21T01:04:31.949Z",
+    "lastUpdated": "2026-08-22T01:01:01.826Z",
     "owner": "Washira",
     "number": 34
   },
@@ -613,7 +613,7 @@
       "rect": "20:24:343:1562.65625",
       "href": "https://webring.wonderful.software#thiti.dev"
     },
-    "lastUpdated": "2026-08-21T01:04:38.366Z",
+    "lastUpdated": "2026-08-22T01:01:09.765Z",
     "owner": "thiti-y",
     "number": 36
   },
@@ -627,21 +627,21 @@
       "rect": "16:23:160.125:1372.1875",
       "href": "https://webring.wonderful.software#blog.kpping.me"
     },
-    "lastUpdated": "2026-08-21T01:04:40.918Z",
+    "lastUpdated": "2026-08-22T01:01:12.522Z",
     "owner": "kpping",
     "number": 37
   },
   "myifew.com": {
     "url": "https://myifew.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/myifew.com_375w@2x.png",
-    "blurhash": "vgJHgvM{xuM{MdWCWVay~qoft7ofyDofRja|x]ofj[ay_3ofaxofIUWCt7ay",
-    "screenshotUpdatedAt": "2026-08-20T01:01:37.103Z",
+    "blurhash": "viI=10WBt7IUD%fQaeWB~Wayt7t7x^a|aej]-pofWVWB_NofWAofIUj[ozWC",
+    "screenshotUpdatedAt": "2026-08-22T01:01:18.150Z",
     "description": null,
     "backlink": {
-      "rect": "32:18:164:5628.875",
+      "rect": "32:18:164:5684.875",
       "href": "https://webring.wonderful.software#myifew.com"
     },
-    "lastUpdated": "2026-08-21T01:04:49.034Z",
+    "lastUpdated": "2026-08-22T01:01:18.150Z",
     "owner": "ifew",
     "number": 38
   },
@@ -664,7 +664,7 @@
       "rect": "24:28:241.5:304",
       "href": "https://webring.wonderful.software#ntsd.dev"
     },
-    "lastUpdated": "2026-08-21T01:03:46.695Z",
+    "lastUpdated": "2026-08-22T01:00:19.632Z",
     "owner": "ntsd",
     "number": 24
   },
@@ -678,7 +678,7 @@
       "rect": "32:19:171.5:26541",
       "href": "https://webring.wonderful.software/#/bellmcp.work"
     },
-    "lastUpdated": "2026-08-21T01:04:51.157Z",
+    "lastUpdated": "2026-08-22T01:01:20.253Z",
     "owner": "bellmcp",
     "number": 39
   },
@@ -731,14 +731,14 @@
   "jaruwat.dev": {
     "url": "https://jaruwat.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/jaruwat.dev_375w@2x.png",
-    "blurhash": "v56R=jVW00ac_4aI9Zj=8wkX%Log00kX^+jZD%kC?bWCRjj[xuR*RkofRjRj",
-    "screenshotUpdatedAt": "2026-08-21T01:04:58.096Z",
+    "blurhash": "v56R=jVW00ac_4aI9Zj=8wkX%Log00kX^+jZD%kC?bWCRjj[xuR*R*kCRjRj",
+    "screenshotUpdatedAt": "2026-08-22T01:01:27.199Z",
     "description": "My name is Jaruwat Pohong, a Software Developer. I have studied in Computer Science. And would like to do anything about web design, frontend development and mobile application. I usually play video games, listen to music and coding my mini project.",
     "backlink": {
       "rect": "28:28:326:19",
       "href": "https://webring.wonderful.software#jaruwat.dev"
     },
-    "lastUpdated": "2026-08-21T01:04:58.096Z",
+    "lastUpdated": "2026-08-22T01:01:27.199Z",
     "owner": "l3lackMegas",
     "number": 40
   },
@@ -761,7 +761,7 @@
       "rect": "32:21:16:807.875",
       "href": "https://webring.wonderful.software#supavitk.com"
     },
-    "lastUpdated": "2026-08-21T01:05:00.378Z",
+    "lastUpdated": "2026-08-22T01:01:29.457Z",
     "owner": "b5510546671",
     "number": 41
   },
@@ -803,7 +803,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#naiwaen.debuggingsoft.com"
     },
-    "lastUpdated": "2026-08-21T01:05:04.864Z",
+    "lastUpdated": "2026-08-22T01:01:35.932Z",
     "owner": "pingkunga",
     "number": 42
   },
@@ -845,7 +845,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#yothinix.com"
     },
-    "lastUpdated": "2026-08-21T01:05:10.136Z",
+    "lastUpdated": "2026-08-22T01:01:40.961Z",
     "owner": "yothinix",
     "number": 44
   },
@@ -869,7 +869,7 @@
       "rect": "24:33.390625:235.5:5589",
       "href": "https://webring.wonderful.software#nitpum.com"
     },
-    "lastUpdated": "2026-08-21T01:05:15.508Z",
+    "lastUpdated": "2026-08-22T01:01:43.957Z",
     "owner": "nitpum",
     "number": 45
   },
@@ -883,7 +883,7 @@
       "rect": "0:32:397:48.640625",
       "href": "https://webring.wonderful.software#mesodiar.com"
     },
-    "lastUpdated": "2026-08-21T01:05:20.230Z",
+    "lastUpdated": "2026-08-22T01:01:46.740Z",
     "owner": "mesodiar",
     "number": 46
   },
@@ -897,7 +897,7 @@
       "rect": "94.359375:23:121.8125:148.28125",
       "href": "https://webring.wonderful.software/"
     },
-    "lastUpdated": "2026-08-21T01:05:22.251Z",
+    "lastUpdated": "2026-08-22T01:01:48.727Z",
     "owner": "bigdatarpg",
     "number": 47
   },
@@ -911,7 +911,7 @@
       "rect": "32:32:122.03125:28",
       "href": "https://webring.wonderful.software#garden.narze.live"
     },
-    "lastUpdated": "2026-08-21T01:02:27.419Z",
+    "lastUpdated": "2026-08-22T00:59:08.338Z",
     "owner": "narze",
     "number": 3
   },
@@ -922,7 +922,7 @@
     "screenshotUpdatedAt": "2026-04-28T02:39:59.703Z",
     "description": "A place to read and share stories, ideas, and perspectives.",
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:06:17.518Z",
+    "lastUpdated": "2026-08-22T01:02:43.445Z",
     "owner": "janewit",
     "number": 59
   },
@@ -936,7 +936,7 @@
       "rect": "32:32:328.25:67.1875",
       "href": "https://webring.wonderful.software#attomos.dev"
     },
-    "lastUpdated": "2026-08-21T01:05:24.657Z",
+    "lastUpdated": "2026-08-22T01:01:51.029Z",
     "owner": "attomos",
     "number": 48
   },
@@ -959,7 +959,7 @@
       "rect": "57.578125:16:94.703125:10869.6875",
       "href": "https://webring.wonderful.software#microbenz.in.th"
     },
-    "lastUpdated": "2026-08-21T01:05:27.992Z",
+    "lastUpdated": "2026-08-22T01:01:54.680Z",
     "owner": "MicroBenz",
     "number": 49
   },
@@ -982,7 +982,7 @@
       "rect": "32:21:16:2171.640625",
       "href": "https://webring.wonderful.software#blog.tawanchai.com"
     },
-    "lastUpdated": "2026-08-21T01:05:30.968Z",
+    "lastUpdated": "2026-08-22T01:01:57.860Z",
     "owner": "tawanchaiii",
     "number": 50
   },
@@ -996,7 +996,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#utopiabeam.dev"
     },
-    "lastUpdated": "2026-08-21T01:05:34.392Z",
+    "lastUpdated": "2026-08-22T01:02:01.124Z",
     "owner": "UtopiaBeam",
     "number": 51
   },
@@ -1047,7 +1047,7 @@
       "rect": "32:32:232:139.71875",
       "href": "https://webring.wonderful.software#blog.0002011.xyz"
     },
-    "lastUpdated": "2026-08-21T01:05:37.413Z",
+    "lastUpdated": "2026-08-22T01:02:04.357Z",
     "owner": "kana2011th",
     "number": 52
   },
@@ -1081,14 +1081,14 @@
   "th1nkk1d.xyz": {
     "url": "https://th1nkk1d.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/th1nkk1d.xyz_375w@2x.png",
-    "blurhash": "vLSF^aof~XayRjj[xuWB=}j[E1f6sqayNFofx]WURPofXljsi_bHV[j[j?WV",
-    "screenshotUpdatedAt": "2026-08-20T01:02:21.408Z",
+    "blurhash": "vLSF^aof~Xa}Rjj[xuWB=}juE1fPsqayNFofx]WURPofXmj@i_a|V[j[j?WU",
+    "screenshotUpdatedAt": "2026-08-22T01:02:08.007Z",
     "description": "An indie developer and generalist enthusiasm who value a meaningful impact",
     "backlink": {
       "rect": "32:32:171.5:6353",
       "href": "https://webring.wonderful.software#th1nkk1d.xyz"
     },
-    "lastUpdated": "2026-08-21T01:05:40.339Z",
+    "lastUpdated": "2026-08-22T01:02:08.007Z",
     "owner": "Th1nkK1D",
     "number": 53
   },
@@ -1102,21 +1102,21 @@
       "rect": "20:20:15:202",
       "href": "https://webring.wonderful.software#karnwong.me"
     },
-    "lastUpdated": "2026-08-21T01:04:34.218Z",
+    "lastUpdated": "2026-08-22T01:01:04.207Z",
     "owner": "kahnwong",
     "number": 35
   },
   "pawaret.dev": {
     "url": "https://pawaret.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pawaret.dev_375w@2x.png",
-    "blurhash": "v7AJp9xD00OF~Us.E2Nd00of^+WB0NW=?GxE59S4%0xZoLS4RjxF-;WWWAn$",
-    "screenshotUpdatedAt": "2026-07-01T03:29:19.475Z",
+    "blurhash": "v8AA8hxD00OF~Bs.E2R-01of?bWB0gW=?Gs-9vS4$%xZWXWXWAs.-:WWRjn$",
+    "screenshotUpdatedAt": "2026-08-22T01:02:20.256Z",
     "description": "Pawaret Muengkaew personal portfolio website made with 💖 using Next.js and Tailwind CSS",
     "backlink": {
       "rect": "32:32:303:41.5",
       "href": "https://webring.wonderful.software#pawaret.dev"
     },
-    "lastUpdated": "2026-08-21T01:05:53.429Z",
+    "lastUpdated": "2026-08-22T01:02:20.256Z",
     "owner": "JerGun",
     "number": 54
   },
@@ -1139,7 +1139,7 @@
       "rect": "32:32:227.5:40",
       "href": "https://webring.wonderful.software#boonsong.dev"
     },
-    "lastUpdated": "2026-08-21T01:05:56.548Z",
+    "lastUpdated": "2026-08-22T01:02:23.291Z",
     "owner": "srithong",
     "number": 55
   },
@@ -1153,7 +1153,7 @@
       "rect": "128:42:194.5:529",
       "href": "https://webring.wonderful.software#lucian.solutions"
     },
-    "lastUpdated": "2026-08-21T01:06:07.588Z",
+    "lastUpdated": "2026-08-22T01:02:34.284Z",
     "owner": "lucidkarn",
     "number": 56
   },
@@ -1167,7 +1167,7 @@
       "rect": "32:32:24:720",
       "href": "https://webring.wonderful.software#poom.dev"
     },
-    "lastUpdated": "2026-08-21T01:06:09.059Z",
+    "lastUpdated": "2026-08-22T01:02:35.762Z",
     "owner": "heypoom",
     "number": 57
   },
@@ -1181,7 +1181,7 @@
       "rect": "32:32:243:16",
       "href": "https://webring.wonderful.software#kajame.xyz"
     },
-    "lastUpdated": "2026-08-21T01:06:14.339Z",
+    "lastUpdated": "2026-08-22T01:02:40.300Z",
     "owner": "jame3032002",
     "number": 58
   },
@@ -1257,7 +1257,7 @@
       "rect": "48:48:303:72",
       "href": "https://webring.wonderful.software#maythiwat.com"
     },
-    "lastUpdated": "2026-08-21T01:06:25.324Z",
+    "lastUpdated": "2026-08-22T01:02:54.466Z",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/maythiwat.com_375w@2x.png",
     "blurhash": "v8BDWpxuIUM{9FIUxut700t7j[of~qxuWBWBayIUt7t7Rjt7RjWBD%t7offQ",
     "screenshotUpdatedAt": "2026-06-11T03:37:13.112Z",
@@ -1295,7 +1295,7 @@
       "rect": "12.84375:12.84375:330.15625:8772.28125",
       "href": "https://webring.wonderful.software#opecgame.in.th"
     },
-    "lastUpdated": "2026-08-21T01:09:13.191Z",
+    "lastUpdated": "2026-08-22T01:05:33.393Z",
     "owner": "opecgame",
     "number": 99
   },
@@ -1323,14 +1323,14 @@
   "yuttakhanb.dev": {
     "url": "https://yuttakhanb.dev/",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/yuttakhanb.dev_375w@2x.png",
-    "blurhash": "vPD+iGj[~qfioMj[jtju?bayWAfQWUj[j]a|?bfkWCfjayfQa|fQ.8j[WBfk",
-    "screenshotUpdatedAt": "2026-08-21T01:06:39.945Z",
+    "blurhash": "vPD+iFj[~qj@oMj[j[f6?bayWAj[WUj[jtfQ?bfkWCa{aya{fkfQ.8j[WBj[",
+    "screenshotUpdatedAt": "2026-08-22T01:03:08.399Z",
     "description": "Personal blog over tech and other journeys.",
     "backlink": {
       "rect": "16.953125:36:256.046875:41",
       "href": "https://webring.wonderful.software/#/yuttakhanb.dev"
     },
-    "lastUpdated": "2026-08-21T01:06:39.945Z",
+    "lastUpdated": "2026-08-22T01:03:08.399Z",
     "owner": "badgooooor",
     "number": 64
   },
@@ -1344,7 +1344,7 @@
       "rect": "48:48:307:572",
       "href": "https://webring.wonderful.software#nayuki.cyou"
     },
-    "lastUpdated": "2026-08-21T01:06:28.704Z",
+    "lastUpdated": "2026-08-22T01:02:57.435Z",
     "owner": "Kuuuuuuuu",
     "number": 63
   },
@@ -1358,7 +1358,7 @@
       "rect": "16:16:49.5:2350.28125",
       "href": "https://webring.wonderful.software#mistertfy64.com"
     },
-    "lastUpdated": "2026-08-21T01:06:45.503Z",
+    "lastUpdated": "2026-08-22T01:03:14.865Z",
     "owner": "mistertfy64",
     "number": 65
   },
@@ -1382,7 +1382,7 @@
       "rect": "134:35.1875:120.5:4245.6875",
       "href": "https://webring.wonderful.software#pichy.dev"
     },
-    "lastUpdated": "2026-08-21T01:06:48.426Z",
+    "lastUpdated": "2026-08-22T01:03:17.803Z",
     "owner": "quadiez",
     "number": 66
   },
@@ -1396,7 +1396,7 @@
       "rect": "28:22:225.046875:123.296875",
       "href": "https://webring.wonderful.software/#/pinpong.co"
     },
-    "lastUpdated": "2026-08-21T01:06:50.344Z",
+    "lastUpdated": "2026-08-22T01:03:19.421Z",
     "owner": "PinpongTp",
     "number": 67
   },
@@ -1410,7 +1410,7 @@
       "rect": "20:17:177.5:5251.078125",
       "href": "https://webring.wonderful.software#worathon.space"
     },
-    "lastUpdated": "2026-08-21T01:06:56.468Z",
+    "lastUpdated": "2026-08-22T01:03:25.324Z",
     "owner": "PinpongTp",
     "number": 68
   },
@@ -1424,7 +1424,7 @@
       "rect": "311:32:32:724",
       "href": "https://webring.wonderful.software#anuwataravis.dev"
     },
-    "lastUpdated": "2026-08-21T01:05:07.566Z",
+    "lastUpdated": "2026-08-22T01:01:38.450Z",
     "owner": "anuwatavis",
     "number": 43
   },
@@ -1441,13 +1441,13 @@
     "url": "https://nsys.site",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/nsys.site_375w@2x.png",
     "blurhash": "vZPs@qs+tSxu_NxUIVt600xZkEoe~pR-M{s+MwfloeWA-:t6WARjR:a#jYWB",
-    "screenshotUpdatedAt": "2026-08-21T01:06:21.718Z",
+    "screenshotUpdatedAt": "2026-08-22T01:02:51.070Z",
     "description": "nSys · nicenathapong · builder ที่ดีใจที่สุดตอนเห็นคนได้ใช้ของที่เราสร้าง",
     "backlink": {
       "rect": "36:36:28:9112.09375",
       "href": "https://webring.wonderful.software#nsys.site"
     },
-    "lastUpdated": "2026-08-21T01:06:21.718Z",
+    "lastUpdated": "2026-08-22T01:02:51.070Z",
     "owner": "nicenathapong",
     "number": 61
   },
@@ -1455,13 +1455,13 @@
     "url": "https://phurit.de",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/phurit.de_375w@2x.png",
     "blurhash": "v27w{h0^MdXO00^R%Mxu#JS}_3%2.RxbM{xu^$%3IUkCI9xt-;t6r.xaxu%2",
-    "screenshotUpdatedAt": "2026-08-21T01:06:59.990Z",
+    "screenshotUpdatedAt": "2026-08-22T01:03:28.988Z",
     "description": "Stay hungry, Stay Phulish.",
     "backlink": {
       "rect": "24:24:271.5:369.515625",
       "href": "https://webring.wonderful.software#phurit.de"
     },
-    "lastUpdated": "2026-08-21T01:06:59.990Z",
+    "lastUpdated": "2026-08-22T01:03:28.988Z",
     "owner": "richeyphu",
     "number": 69
   },
@@ -1475,7 +1475,7 @@
       "rect": "24:24:315.5:2037",
       "href": "https://webring.wonderful.software/#/anuwong.com"
     },
-    "lastUpdated": "2026-08-21T01:07:03.137Z",
+    "lastUpdated": "2026-08-22T01:03:31.964Z",
     "owner": "anwam",
     "number": 70
   },
@@ -1520,7 +1520,7 @@
       "rect": "30.390625:24:299.71875:36",
       "href": "https://webring.wonderful.software#profile.mwn99.com"
     },
-    "lastUpdated": "2026-08-21T01:07:09.484Z",
+    "lastUpdated": "2026-08-22T01:03:38.621Z",
     "owner": "mmawin99",
     "number": 72
   },
@@ -1534,7 +1534,7 @@
       "rect": "22:22:223.53125:230.375",
       "href": "https://webring.wonderful.software#guitarpawat.me"
     },
-    "lastUpdated": "2026-08-21T01:07:11.984Z",
+    "lastUpdated": "2026-08-22T01:03:41.173Z",
     "owner": "guitarpawat",
     "number": 73
   },
@@ -1548,7 +1548,7 @@
       "rect": "32:32:171.5:2036.796875",
       "href": "https://webring.wonderful.software#thammarith.dev"
     },
-    "lastUpdated": "2026-08-21T01:07:14.582Z",
+    "lastUpdated": "2026-08-22T01:03:43.758Z",
     "owner": "thammarith",
     "number": 74
   },
@@ -1571,7 +1571,7 @@
       "rect": "32:32:20:24",
       "href": "https://webring.wonderful.software#anewlife.dev"
     },
-    "lastUpdated": "2026-08-21T01:07:17.443Z",
+    "lastUpdated": "2026-08-22T01:03:46.639Z",
     "owner": "3ackdoor",
     "number": 75
   },
@@ -1585,7 +1585,7 @@
       "rect": "32:32:48:68",
       "href": "https://webring.wonderful.software#siravijbb.com"
     },
-    "lastUpdated": "2026-08-21T01:07:06.479Z",
+    "lastUpdated": "2026-08-22T01:03:35.617Z",
     "owner": "siravijbb",
     "number": 71
   },
@@ -1599,7 +1599,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#tantatorn.xyz"
     },
-    "lastUpdated": "2026-08-21T01:07:23.644Z",
+    "lastUpdated": "2026-08-22T01:03:49.987Z",
     "owner": "Tantatorn-dev",
     "number": 76
   },
@@ -1613,7 +1613,7 @@
       "rect": "63.296875:11:159.359375:1170.875",
       "href": "https://webring.wonderful.software#p4perf4ce.me"
     },
-    "lastUpdated": "2026-08-21T01:07:25.987Z",
+    "lastUpdated": "2026-08-22T01:03:52.135Z",
     "owner": "p4perf4ce",
     "number": 77
   },
@@ -1636,7 +1636,7 @@
       "rect": "32:30:127.5:1023.1875",
       "href": "https://webring.wonderful.software#blog.codename-t.com"
     },
-    "lastUpdated": "2026-08-21T01:07:39.941Z",
+    "lastUpdated": "2026-08-22T01:04:07.276Z",
     "owner": "moking55",
     "number": 79
   },
@@ -1650,7 +1650,7 @@
       "rect": "32:32:309.984375:169.5",
       "href": "https://webring.wonderful.software#https://annibuliful-lab.dev/"
     },
-    "lastUpdated": "2026-08-21T01:07:28.577Z",
+    "lastUpdated": "2026-08-22T01:03:56.026Z",
     "owner": "annibuliful",
     "number": 78
   },
@@ -1664,7 +1664,7 @@
       "rect": "32:32:72:40",
       "href": "https://webring.wonderful.software#mikelopster.dev"
     },
-    "lastUpdated": "2026-08-21T01:07:43.203Z",
+    "lastUpdated": "2026-08-22T01:04:10.327Z",
     "owner": "mikelopster",
     "number": 80
   },
@@ -1678,7 +1678,7 @@
       "rect": "24:24:270:24",
       "href": "https://webring.wonderful.software#blog.ninprd.com"
     },
-    "lastUpdated": "2026-08-21T01:07:46.085Z",
+    "lastUpdated": "2026-08-22T01:04:13.150Z",
     "owner": "peeranat-dan",
     "number": 81
   },
@@ -1701,7 +1701,7 @@
       "rect": "45.6875:19.1875:259.609375:13513.875",
       "href": "https://webring.wonderful.software#dvgamerr.app"
     },
-    "lastUpdated": "2026-08-21T01:04:25.681Z",
+    "lastUpdated": "2026-08-22T01:00:55.687Z",
     "owner": "dvgamerr",
     "number": 32
   },
@@ -1712,7 +1712,7 @@
     "screenshotUpdatedAt": "2026-03-14T01:50:03.420Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:06:18.162Z",
+    "lastUpdated": "2026-08-22T01:02:44.124Z",
     "owner": "khetkoong",
     "number": 60
   },
@@ -1726,7 +1726,7 @@
       "rect": "32:32:200:358.046875",
       "href": "https://webring.wonderful.software#nattawatt.com"
     },
-    "lastUpdated": "2026-08-21T01:07:49.074Z",
+    "lastUpdated": "2026-08-22T01:04:16.323Z",
     "owner": "RealNattawattHongthong",
     "number": 82
   },
@@ -1747,7 +1747,7 @@
     "screenshotUpdatedAt": "2026-06-04T03:42:25.648Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:07:52.692Z",
+    "lastUpdated": "2026-08-22T01:04:19.914Z",
     "owner": "Nokkaewja",
     "number": 84
   },
@@ -1758,7 +1758,7 @@
     "screenshotUpdatedAt": "2026-06-18T03:37:25.091Z",
     "description": "wawasabii's blog",
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:07:57.529Z",
+    "lastUpdated": "2026-08-22T01:04:24.784Z",
     "owner": "wasakunset",
     "number": 85
   },
@@ -1793,11 +1793,11 @@
   "sujamess.com": {
     "url": "https://sujamess.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/sujamess.com_375w@2x.png",
-    "blurhash": "vHRp8,WFWAxu_NRPt7ofxbS0jbofInn,bFj]V@ofaya#t7kCoMaxxvjaofWB",
-    "screenshotUpdatedAt": "2026-08-21T01:07:59.609Z",
+    "blurhash": "vHRp8,WFWAxu_NRPt7ofxbS0jbofInn,bFj]V@ofaya#t7kCoMaxxvjZofWB",
+    "screenshotUpdatedAt": "2026-08-22T01:04:26.858Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:07:59.609Z",
+    "lastUpdated": "2026-08-22T01:04:26.858Z",
     "owner": "sujamess",
     "number": 86
   },
@@ -1811,7 +1811,7 @@
       "rect": "28:32:24:16",
       "href": "https://webring.wonderful.software#punn.dev"
     },
-    "lastUpdated": "2026-08-21T01:08:02.450Z",
+    "lastUpdated": "2026-08-22T01:04:29.867Z",
     "owner": "Nacabacu",
     "number": 87
   },
@@ -1825,7 +1825,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#satjawat.com"
     },
-    "lastUpdated": "2026-08-21T01:08:12.755Z",
+    "lastUpdated": "2026-08-22T01:04:38.038Z",
     "owner": "lalkai",
     "number": 88
   },
@@ -1839,7 +1839,7 @@
       "rect": "46:32:322:43",
       "href": "https://webring.wonderful.software#tachakorn.com"
     },
-    "lastUpdated": "2026-08-21T01:08:21.810Z",
+    "lastUpdated": "2026-08-22T01:04:45.392Z",
     "owner": "saintzst",
     "number": 89
   },
@@ -1853,7 +1853,7 @@
       "rect": "72:72:303:568",
       "href": "https://webring.wonderful.software#portfolio"
     },
-    "lastUpdated": "2026-08-21T01:09:30.951Z",
+    "lastUpdated": "2026-08-22T01:05:49.944Z",
     "owner": "Homiez09",
     "number": 104
   },
@@ -1867,7 +1867,7 @@
       "rect": "38:41.390625:195.5:2373.296875",
       "href": "https://webring.wonderful.software#zartre.com"
     },
-    "lastUpdated": "2026-08-21T01:08:24.500Z",
+    "lastUpdated": "2026-08-22T01:04:47.881Z",
     "owner": "zartre",
     "number": 90
   },
@@ -1881,7 +1881,7 @@
       "rect": "24:24:175.5:216",
       "href": "https://webring.wonderful.software#hewkawar.xyz"
     },
-    "lastUpdated": "2026-08-21T01:08:35.991Z",
+    "lastUpdated": "2026-08-22T01:04:59.262Z",
     "owner": "hewkawar",
     "number": 91
   },
@@ -1915,7 +1915,7 @@
       "rect": "16.625:16.625:16:1346.046875",
       "href": "https://webring.wonderful.software#varkaria.works"
     },
-    "lastUpdated": "2026-08-21T01:08:38.752Z",
+    "lastUpdated": "2026-08-22T01:05:02.195Z",
     "owner": "varkaria",
     "number": 92
   },
@@ -1929,21 +1929,21 @@
       "rect": null,
       "href": "https://webring.wonderful.software#mymoneytoolkit.app"
     },
-    "lastUpdated": "2026-08-21T01:08:43.462Z",
+    "lastUpdated": "2026-08-22T01:05:07.087Z",
     "owner": "ApirutChaokrua",
     "number": 93
   },
   "mon.in.th": {
     "url": "https://mon.in.th",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/mon.in.th_375w@2x.png",
-    "blurhash": "v4S$u=R%o|J~=}^l%3kC9?I.0dIn~W?IM{i{00NGSwI.9s-W-qSx9sjZR%NZ",
-    "screenshotUpdatedAt": "2026-08-21T01:08:55.899Z",
+    "blurhash": "v4S$u=R%o|J~-q^l-Wba9?I.4-IU~W?IM{nP00NGSwI.E0-W-qSx9sjZR%Ns",
+    "screenshotUpdatedAt": "2026-08-22T01:05:19.001Z",
     "description": "Mon is a student building with AI, robotics, and the web. Explore projects, blog posts, certificates, and small tools.",
     "backlink": {
       "rect": "42:42:274.5:4076.75",
       "href": "https://webring.wonderful.software#mon.in.th"
     },
-    "lastUpdated": "2026-08-21T01:08:55.899Z",
+    "lastUpdated": "2026-08-22T01:05:19.001Z",
     "owner": "jarmonxd",
     "number": 94
   },
@@ -1963,14 +1963,14 @@
   "pokpong.net": {
     "url": "https://pokpong.net",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pokpong.net_375w@2x.png",
-    "blurhash": "vSRfkBog~qae4nof?bWBNGa}t7ay?bf6IUkC?baxD%of?baxIUogxtaxRjof",
-    "screenshotUpdatedAt": "2026-08-21T01:09:00.916Z",
+    "blurhash": "vSRfkBog~qae4nof?bWBNGa}t7ay?bayIUkC?baxD%of?baxIUogxtaxRjof",
+    "screenshotUpdatedAt": "2026-08-22T01:05:23.957Z",
     "description": "หน้าแรกของ ปกป้อง ลิมปพันธุ์ (ต้น) — นักศึกษาวิทยาลัยการคอมพิวเตอร์ ม.ขอนแก่น สายไอทีที่ชอบเขียนโปรแกรม วิ่ง และทดลองอะไรใหม่ๆ",
     "backlink": {
       "rect": "32:32:24:2263.53125",
       "href": "https://webring.wonderful.software#pokpong.net"
     },
-    "lastUpdated": "2026-08-21T01:09:00.916Z",
+    "lastUpdated": "2026-08-22T01:05:23.957Z",
     "owner": "pokpong007",
     "number": 95
   },
@@ -1981,7 +1981,7 @@
     "screenshotUpdatedAt": "2025-11-22T01:19:02.351Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:04.374Z",
+    "lastUpdated": "2026-08-22T01:05:24.751Z",
     "owner": "NantipatSoftEn",
     "number": 96
   },
@@ -1995,7 +1995,7 @@
       "rect": "32:32:102:640.9375",
       "href": "https://webring.wonderful.software#betich.me"
     },
-    "lastUpdated": "2026-08-21T01:09:06.192Z",
+    "lastUpdated": "2026-08-22T01:05:26.361Z",
     "owner": "betich",
     "number": 97
   },
@@ -2012,14 +2012,14 @@
   "blog.nattp.page": {
     "url": "https://blog.nattp.page",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/blog.nattp.page_375w@2x.png",
-    "blurhash": "v8SPU?Vt~pj=IXxtt6V]_3oy9GWV-pMyIBt79GNGxutQN1W.x[ogMzn,RjRj",
-    "screenshotUpdatedAt": "2026-08-21T01:09:09.758Z",
+    "blurhash": "v9SPU?V[~ok8M#xtofV[_3of9GWC%3M{IUt79ZRjtQt7RVWVxtofMzn,axR%",
+    "screenshotUpdatedAt": "2026-08-22T01:05:29.939Z",
     "description": "บทความจากปลายปากกาของนักเขียน ผู้หลงใหลในวิทย์และสุนทรีย์",
     "backlink": {
       "rect": "24:24:130:14",
       "href": "https://webring.wonderful.software#blog.nattp.page"
     },
-    "lastUpdated": "2026-08-21T01:09:09.758Z",
+    "lastUpdated": "2026-08-22T01:05:29.939Z",
     "owner": "natTP",
     "number": 98
   },
@@ -2040,7 +2040,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#phongsathorn.me"
     },
-    "lastUpdated": "2026-08-21T01:09:15.728Z",
+    "lastUpdated": "2026-08-22T01:05:35.902Z",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/phongsathorn.me_375w@2x.png",
     "blurhash": "v7Ss50j[~qof%Mxa%MofRjaxM|ax~qofIUj[IoofRPj[xvWBD%fQj^ofV@ay",
     "screenshotUpdatedAt": "2026-08-21T01:09:15.728Z",
@@ -2057,7 +2057,7 @@
       "rect": "327:24:24:4670.5",
       "href": "https://webring.wonderful.software#slamy.in.th"
     },
-    "lastUpdated": "2026-08-21T01:09:20.662Z",
+    "lastUpdated": "2026-08-22T01:05:40.599Z",
     "owner": "NongMam",
     "number": 101
   },
@@ -2068,7 +2068,7 @@
     "screenshotUpdatedAt": "2025-09-14T01:22:15.103Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:21.288Z",
+    "lastUpdated": "2026-08-22T01:05:41.268Z",
     "owner": "ChakkritGit",
     "number": 102
   },
@@ -2082,18 +2082,18 @@
       "rect": "32:32:82:15.5",
       "href": "https://webring.wonderful.software#amiearth.com"
     },
-    "lastUpdated": "2026-08-21T01:09:25.908Z",
+    "lastUpdated": "2026-08-22T01:05:45.388Z",
     "owner": "Amiearth",
     "number": 103
   },
   "wagyu.space": {
     "url": "https://wagyu.space",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/wagyu.space_375w@2x.png",
-    "blurhash": "v2S~x59F%M-;004n%Mt7009Fxuxuj[D%t7xu?bM{ofxv_3WBof%M%MfQofxu",
-    "screenshotUpdatedAt": "2026-08-21T01:09:32.394Z",
+    "blurhash": "v2S~x5D%%M-;004n%Mt7009FxuxuofD%t7xu_3M{of%M~qRjj[%M%Mj[j[xu",
+    "screenshotUpdatedAt": "2026-08-22T01:05:51.227Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:32.394Z",
+    "lastUpdated": "2026-08-22T01:05:51.227Z",
     "owner": "gri11",
     "number": 105
   },
@@ -2104,7 +2104,7 @@
     "screenshotUpdatedAt": "2026-02-14T01:53:46.660Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:33.069Z",
+    "lastUpdated": "2026-08-22T01:05:51.833Z",
     "owner": "mengsokool",
     "number": 106
   },
@@ -2128,7 +2128,7 @@
       "rect": "23:24:28:1243",
       "href": "https://webring.wonderful.software#papazeal.com"
     },
-    "lastUpdated": "2026-08-21T01:09:39.625Z",
+    "lastUpdated": "2026-08-22T01:05:58.710Z",
     "owner": "papazeal",
     "number": 108
   },
@@ -2142,7 +2142,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#iamthana.com"
     },
-    "lastUpdated": "2026-08-21T01:09:43.565Z",
+    "lastUpdated": "2026-08-22T01:06:03.079Z",
     "owner": "iamthana",
     "number": 109
   },
@@ -2156,7 +2156,7 @@
       "rect": "32:32:291:16",
       "href": "https://webring.wonderful.software#chompukyrc.com"
     },
-    "lastUpdated": "2026-08-21T01:09:47.110Z",
+    "lastUpdated": "2026-08-22T01:06:06.468Z",
     "owner": "chompukyrc",
     "number": 110
   },
@@ -2180,7 +2180,7 @@
       "rect": "32:32:327:592",
       "href": "https://webring.wonderful.software#pichayapon.com"
     },
-    "lastUpdated": "2026-08-21T01:09:56.634Z",
+    "lastUpdated": "2026-08-22T01:06:15.745Z",
     "owner": "pichxyaponn",
     "number": 112
   },
@@ -2191,7 +2191,7 @@
     "screenshotUpdatedAt": "2026-08-11T01:27:12.775Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:57.271Z",
+    "lastUpdated": "2026-08-22T01:06:16.951Z",
     "owner": "evanrintho",
     "number": 113
   },
@@ -2202,7 +2202,7 @@
     "screenshotUpdatedAt": "2026-07-17T02:20:54.353Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:09:57.930Z",
+    "lastUpdated": "2026-08-22T01:06:17.572Z",
     "owner": "sittichai4559",
     "number": 114
   },
@@ -2213,10 +2213,10 @@
     "screenshotUpdatedAt": "2026-08-11T01:27:15.943Z",
     "description": "Junior Full Stack Developer portfolio featuring selected projects, tech stack, and contact links.",
     "backlink": {
-      "rect": "43.03985595703125:43.03986358642578:236.48007202148438:11.480070114135742",
+      "rect": "42.45648193359375:42.45647430419922:236.77175903320312:11.77176284790039",
       "href": "https://webring.wonderful.software#jrkitt.com"
     },
-    "lastUpdated": "2026-08-21T01:10:00.563Z",
+    "lastUpdated": "2026-08-22T01:06:20.115Z",
     "number": 115,
     "owner": "jrKitt"
   },
@@ -2230,7 +2230,7 @@
       "rect": "26:26:214.5:9273.703125",
       "href": "https://webring.wonderful.software#pattaramet.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:03.284Z",
+    "lastUpdated": "2026-08-22T01:06:22.638Z",
     "number": 116,
     "owner": "Pattaramet"
   },
@@ -2244,7 +2244,7 @@
       "rect": "32:32:171.5:3066.4375",
       "href": "https://webring.wonderful.software#blog.luckytime1996.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:09.718Z",
+    "lastUpdated": "2026-08-22T01:06:28.616Z",
     "number": 118,
     "owner": "larb26656"
   },
@@ -2255,7 +2255,7 @@
     "screenshotUpdatedAt": "2026-08-10T01:29:08.476Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:10:10.412Z",
+    "lastUpdated": "2026-08-22T01:06:29.356Z",
     "number": 119,
     "owner": "mysbryce"
   },
@@ -2269,7 +2269,7 @@
       "rect": "18:18:287:44.796875",
       "href": "https://webring.wonderful.software/#/nightz.me"
     },
-    "lastUpdated": "2026-08-21T01:10:07.395Z",
+    "lastUpdated": "2026-08-22T01:06:26.365Z",
     "owner": "ArtifactyNight",
     "number": 117
   },
@@ -2293,7 +2293,7 @@
     "screenshotUpdatedAt": "2026-05-09T02:34:15.508Z",
     "description": "Pongsiri Pisut. - Tech Executive, Community Leader, Software Developer",
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:03:23.382Z",
+    "lastUpdated": "2026-08-22T00:59:59.184Z",
     "number": 19,
     "owner": "savepong"
   },
@@ -2307,7 +2307,7 @@
       "rect": "24:24:90:28",
       "href": "https://webring.wonderful.software#knot-dev.me"
     },
-    "lastUpdated": "2026-08-21T01:10:17.071Z",
+    "lastUpdated": "2026-08-22T01:06:36.089Z",
     "number": 120,
     "owner": "Notties"
   },
@@ -2321,21 +2321,21 @@
       "rect": "36:36:60.625:1059.234375",
       "href": "https://webring.wonderful.software#toonshou.in"
     },
-    "lastUpdated": "2026-08-21T01:07:51.955Z",
+    "lastUpdated": "2026-08-22T01:04:19.328Z",
     "owner": "toonshouin",
     "number": 83
   },
   "pavich.dev": {
     "url": "https://pavich.dev",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/pavich.dev_375w@2x.png",
-    "blurhash": "v571fqbc00oJ~WbcIUjrIAt7-;WB4.t7?bWCD*xa-:WCxuxaoIR+%Nt7M{Rk",
-    "screenshotUpdatedAt": "2026-08-21T01:10:23.919Z",
+    "blurhash": "vA8z+6NG8_W=~pWEMxaeR-ofxuWBE2t6%MafRjj]xuayxuayayjax]j[Rjay",
+    "screenshotUpdatedAt": "2026-08-22T01:06:42.980Z",
     "description": "Personal website of Pavich Komansil, Computer Engineering Student.",
     "backlink": {
       "rect": "22:25:334.25:4455.5",
       "href": "https://webring.wonderful.software#pavich.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:23.919Z",
+    "lastUpdated": "2026-08-22T01:06:42.980Z",
     "number": 121,
     "owner": "Pavich7"
   },
@@ -2349,7 +2349,7 @@
       "rect": "32:32:171.5:2512.5",
       "href": "https://webring.wonderful.software#www.tnpgot.me"
     },
-    "lastUpdated": "2026-08-21T01:10:26.089Z",
+    "lastUpdated": "2026-08-22T01:06:45.022Z",
     "number": 122,
     "owner": "Gotzastory"
   },
@@ -2363,7 +2363,7 @@
       "rect": "22:22:228.6875:303",
       "href": "https://webring.wonderful.software#suwizx.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:28.961Z",
+    "lastUpdated": "2026-08-22T01:06:47.886Z",
     "owner": "suwizx",
     "number": 123
   },
@@ -2377,7 +2377,7 @@
       "rect": "45:45:150:476.34375",
       "href": "https://webring.wonderful.software#nattapat2871.me"
     },
-    "lastUpdated": "2026-08-21T01:10:32.969Z",
+    "lastUpdated": "2026-08-22T01:06:54.501Z",
     "owner": "Nattapat2871",
     "number": 124
   },
@@ -2391,21 +2391,21 @@
       "rect": "14:14:97.40625:16.25",
       "href": "https://webring.wonderful.software#fasu.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:35.474Z",
+    "lastUpdated": "2026-08-22T01:06:56.980Z",
     "number": 125,
     "owner": "pyyupsk"
   },
   "lynndev.in.th": {
     "url": "https://lynndev.in.th",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/lynndev.in.th_375w@2x.png",
-    "blurhash": "vLLN=FIU9F4n~qWBM{M{^,IUIUxuayRiWBtR9Fxu%MRj-;WBRjWBRjofM{t7",
-    "screenshotUpdatedAt": "2026-08-21T01:10:46.011Z",
+    "blurhash": "vLLN=FIU9F4n~qWBM{M{^,IUInxuayRiWBt89Fxu%MRj-;WBRjWBRjofM{t7",
+    "screenshotUpdatedAt": "2026-08-22T01:07:07.649Z",
     "description": "Hello? Hello? Oh yeah Expendable? hes in here! lets check!",
     "backlink": {
       "rect": "22:22:237.3125:576.40625",
       "href": "https://webring.wonderful.software#lynndev.in.th"
     },
-    "lastUpdated": "2026-08-21T01:10:46.011Z",
+    "lastUpdated": "2026-08-22T01:07:07.649Z",
     "number": 126,
     "owner": "SillyDark"
   },
@@ -2419,7 +2419,7 @@
       "rect": "269.71875:25.5:45.140625:3369.9375",
       "href": "https://webring.wonderful.software#xiengperm.dev"
     },
-    "lastUpdated": "2026-08-21T01:10:49.172Z",
+    "lastUpdated": "2026-08-22T01:07:11.339Z",
     "number": 127,
     "owner": "Xaypanya"
   },
@@ -2433,7 +2433,7 @@
       "rect": "32:21:171.5:4032.90625",
       "href": "https://webring.wonderful.software#birdmusic.cc"
     },
-    "lastUpdated": "2026-08-21T01:10:51.367Z",
+    "lastUpdated": "2026-08-22T01:07:17.096Z",
     "owner": "b77912617-infra",
     "number": 128
   },
@@ -2454,13 +2454,13 @@
     "url": "https://supakorn.me",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/supakorn.me_375w@2x.png",
     "blurhash": "v4P??r9G%ft8?w%LM|t7~qo{WUtQ?bxtRjs;NFoyk9ofIVofofay?INGRjt6",
-    "screenshotUpdatedAt": "2026-08-19T01:07:09.483Z",
+    "screenshotUpdatedAt": "2026-08-22T01:06:09.801Z",
     "description": "- Welcome Hi, I’m Supakorn. This is my small corner of the internet — a digital garden where I collect thoughts, ideas, and things I’m still figuring out.",
     "backlink": {
       "rect": "24:56:188.59375:33",
       "href": "https://webring.wonderful.software#supakorn.me"
     },
-    "lastUpdated": "2026-08-21T01:09:50.516Z",
+    "lastUpdated": "2026-08-22T01:06:09.801Z",
     "number": 111,
     "owner": "supakornn"
   },
@@ -2474,7 +2474,7 @@
       "rect": "40:40:219.5:10489.203125",
       "href": "https://webring.wonderful.software#pachorn.dev"
     },
-    "lastUpdated": "2026-08-21T01:11:10.856Z",
+    "lastUpdated": "2026-08-22T01:07:35.808Z",
     "owner": "boomNDS",
     "number": 130
   },
@@ -2488,7 +2488,7 @@
       "rect": "24:24:228:49",
       "href": "https://webring.wonderful.software/#/kasawa.pro"
     },
-    "lastUpdated": "2026-08-21T01:11:16.977Z",
+    "lastUpdated": "2026-08-22T01:07:41.767Z",
     "owner": "x2super",
     "number": 131
   },
@@ -2502,7 +2502,7 @@
       "rect": "234:28:24:13637.875",
       "href": "https://webring.wonderful.software#phattaradit.dev"
     },
-    "lastUpdated": "2026-08-21T01:11:29.255Z",
+    "lastUpdated": "2026-08-22T01:07:53.921Z",
     "owner": "Nongdrream",
     "number": 132
   },
@@ -2513,18 +2513,18 @@
     "screenshotUpdatedAt": "2026-06-13T03:08:19.262Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:11:30.042Z",
+    "lastUpdated": "2026-08-22T01:07:54.498Z",
     "owner": "jarmonxd",
     "number": 133
   },
   "creaml4tt3.me": {
     "url": "https://creaml4tt3.me",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/creaml4tt3.me_375w@2x.png",
-    "blurhash": "vCQJ+XxD-nxCtSR+RkbH}+R-IVR-rqt7M{ae4ns.%Ms:=|xZads.]yV?NfRj",
-    "screenshotUpdatedAt": "2026-08-21T01:11:41.430Z",
+    "blurhash": "vFR3vOkXRjkD-pxDR*WB%fV@Nfn~}RbIRje.0LNHxaR*o$Siw[s:Vss:NGR*",
+    "screenshotUpdatedAt": "2026-08-22T01:07:58.587Z",
     "description": "Teekayu “Pon” Poongkawabutr is a Frontend Developer in Thailand specializing in Next.js, React, TypeScript, and performant web experiences. Explore portfolio work, blog posts, and projects on creaml4tt3.",
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:11:41.430Z",
+    "lastUpdated": "2026-08-22T01:07:58.587Z",
     "number": 134,
     "owner": "Creaml4tt3"
   },
@@ -2538,7 +2538,7 @@
       "rect": "36:40:322:1438",
       "href": "https://webring.wonderful.software#jetsukda.dev"
     },
-    "lastUpdated": "2026-08-21T01:11:44.106Z",
+    "lastUpdated": "2026-08-22T01:08:01.332Z",
     "number": 135,
     "owner": "0xKoios"
   },
@@ -2552,7 +2552,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#namnarak.in.th"
     },
-    "lastUpdated": "2026-08-21T01:11:54.707Z",
+    "lastUpdated": "2026-08-22T01:08:10.582Z",
     "number": 137,
     "owner": "Namnarak"
   },
@@ -2560,13 +2560,13 @@
     "url": "https://aeito90.in.th",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/aeito90.in.th_375w@2x.png",
     "blurhash": "vBCi,UW=0Lxa%#of~VR*E1ax^+WE^ibI9bs:0La}$%j@D%WBRja#IAs:RkRk",
-    "screenshotUpdatedAt": "2026-08-21T01:11:47.497Z",
+    "screenshotUpdatedAt": "2026-08-22T01:08:04.501Z",
     "description": "Personal portfolio website by a grade 12 student.",
     "backlink": {
       "rect": "25.1875:16:16.359375:26.03125",
       "href": "https://webring.wonderful.software#aeito90.in.th"
     },
-    "lastUpdated": "2026-08-21T01:11:47.497Z",
+    "lastUpdated": "2026-08-22T01:08:04.501Z",
     "number": 136,
     "owner": "aeito90"
   },
@@ -2580,7 +2580,7 @@
       "rect": "20:18:264.15625:2775.359375",
       "href": "https://webring.wonderful.software#nutchanon.org"
     },
-    "lastUpdated": "2026-08-21T01:12:02.868Z",
+    "lastUpdated": "2026-08-22T01:08:18.439Z",
     "number": 139,
     "owner": "ninyawee"
   },
@@ -2594,18 +2594,18 @@
       "rect": "26:18:279.5:3711.90625",
       "href": "https://webring.wonderful.software/#qwrtsdev.xyz"
     },
-    "lastUpdated": "2026-08-21T01:09:37.484Z",
+    "lastUpdated": "2026-08-22T01:05:56.363Z",
     "number": 107,
     "owner": "qwrtsdev"
   },
   "sastify.xyz": {
     "url": "https://me.sastify.xyz",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/sastify.xyz_375w@2x.png",
-    "blurhash": "v4Ss5000?b_4xu%M%MRj?aM{IU%L-;j[M{j[4nWB%Mogofofj[Rk?bj]M{ax",
-    "screenshotUpdatedAt": "2026-08-21T01:12:04.205Z",
+    "blurhash": "v4Ss5000?b_Nxu%M%MRj?aM{IU%L-;j[M{j[4nWB%Mogogofj[Rj?bkCM{ae",
+    "screenshotUpdatedAt": "2026-08-22T01:08:19.710Z",
     "description": null,
     "backlink": null,
-    "lastUpdated": "2026-08-21T01:12:04.205Z",
+    "lastUpdated": "2026-08-22T01:08:19.710Z",
     "number": 140,
     "owner": "s4msh1ne"
   },
@@ -2619,7 +2619,7 @@
       "rect": "40:40:20:580",
       "href": "https://webring.wonderful.software/#namnao.one"
     },
-    "lastUpdated": "2026-08-21T01:10:59.118Z",
+    "lastUpdated": "2026-08-22T01:07:24.211Z",
     "owner": "hnawny",
     "number": 129
   },
@@ -2633,7 +2633,7 @@
       "rect": "303:36.5:36:2562.875",
       "href": "https://webring.wonderful.software#me.oreshi.com"
     },
-    "lastUpdated": "2026-08-21T01:12:15.752Z",
+    "lastUpdated": "2026-08-22T01:08:28.409Z",
     "number": 141,
     "owner": "somboytiger"
   },
@@ -2647,7 +2647,7 @@
       "rect": "25.828125:25.828125:317.171875:14953.875",
       "href": "https://webring.wonderful.software#hewkawar.xyz"
     },
-    "lastUpdated": "2026-08-21T01:11:59.391Z",
+    "lastUpdated": "2026-08-22T01:08:15.358Z",
     "number": 138,
     "owner": "sagelga"
   },
@@ -2661,21 +2661,21 @@
       "rect": "80.75:82:14:601",
       "href": "https://webring.wonderful.software#pepo.dev"
     },
-    "lastUpdated": "2026-08-21T01:12:20.931Z",
+    "lastUpdated": "2026-08-22T01:08:33.509Z",
     "number": 142,
     "owner": "pepodev"
   },
   "phatsanphon.com": {
     "url": "https://phatsanphon.com",
     "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/phatsanphon.com_375w@2x.png",
-    "blurhash": "v6Ss5000j@?b?b%gWBM{ofM{Rjt7D%RjayjZ~q_3j[IA9F4.Rj-p?b%MRjM{",
-    "screenshotUpdatedAt": "2026-08-21T01:12:24.556Z",
+    "blurhash": "v5SY~y00xu?b.8%gjZMx~WSfIU$+%2bbNGso_3_3t7D%0000n+%g-;%MRjM{",
+    "screenshotUpdatedAt": "2026-08-22T01:08:35.500Z",
     "description": "Personal website of Phatsanphon Nakaranurak. Including Blog, Projects, and Resume.",
     "backlink": {
       "rect": "36:36:235:13.5",
       "href": "https://webring.wonderful.software#phatsanphon.com"
     },
-    "lastUpdated": "2026-08-21T01:12:24.556Z",
+    "lastUpdated": "2026-08-22T01:08:35.500Z",
     "number": 143,
     "owner": "phatsanphonna"
   },
@@ -2689,7 +2689,7 @@
       "rect": null,
       "href": "https://webring.wonderful.software#ntdotjsx.site"
     },
-    "lastUpdated": "2026-08-21T01:12:30.238Z",
+    "lastUpdated": "2026-08-22T01:08:40.833Z",
     "number": 144,
     "owner": "ntdotjsx"
   },
@@ -2703,7 +2703,7 @@
       "rect": "32:32:171.5:4554",
       "href": "https://webring.wonderful.software#mrrpmeowfurry.dev"
     },
-    "lastUpdated": "2026-08-21T01:12:32.597Z",
+    "lastUpdated": "2026-08-22T01:08:43.273Z",
     "number": 145,
     "owner": "mrrpmeowfurry"
   }
