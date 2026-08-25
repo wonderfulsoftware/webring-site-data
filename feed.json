@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "ทำความรู้จักกับ CRAP score กัน",
+    "url": "https://www.somkiat.cc/crap-score-with-ai-agent/",
+    "published": "2026-08-24T12:38:51.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "ARM64 can reduce your infra cost - with a catch",
+    "url": "https://karnwong.me/posts/2026/08/arm64-can-reduce-your-infra-cost---with-a-catch/",
+    "published": "2026-08-24T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "สัปดาห์ที่ระบบวิ่งเอง แล้วชมพูก็ยิ้ม (17-23 ส.ค. 2569)",
     "url": "https://myifew.com/8442/%e0%b8%aa%e0%b8%b1%e0%b8%9b%e0%b8%94%e0%b8%b2%e0%b8%ab%e0%b9%8c%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%a3%e0%b8%b0%e0%b8%9a%e0%b8%9a%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%ad%e0%b8%87-%e0%b9%81/",
@@ -10,12 +22,6 @@
     "title": "ซื้อ DRM-free E-book กับ Humble Bundle",
     "url": "https://nitpum.com/post/humblebundle-ebook/",
     "published": "2026-08-23T14:58:05.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการอ่านเรื่อง AI Engineering Skills Map",
-    "url": "https://www.somkiat.cc/note-ai-engineering-skills-map/",
-    "published": "2026-08-23T06:53:39.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -40,12 +46,6 @@
     "title": "โค้ดที่เราไม่ได้เขียน เขียนขึ้นมาทำไมนะ",
     "url": "https://yothinix.com/living-with-agent-gen-code/",
     "published": "2026-08-12T05:43:41.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Yes, you still need to know fundamentals even with AI",
-    "url": "https://karnwong.me/posts/2026/08/yes-you-still-need-to-know-fundamentals-even-with-ai/",
-    "published": "2026-08-11T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
