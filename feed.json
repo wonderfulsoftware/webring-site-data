@@ -1,9 +1,21 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "ว่าด้วยเรื่องของ Software Engineering Fundamentals ที่จำเป็นสำหรับ AI Engineering",
-    "url": "https://www.somkiat.cc/software-engineering-fundamentals/",
-    "published": "2026-08-28T07:56:48.000Z"
+    "title": "สิ่งที่น่าสนใจใน Modern Go Guidelines จาก JetBrains",
+    "url": "https://www.somkiat.cc/modern-go-guidelines-from-jetbrains/",
+    "published": "2026-08-29T09:02:25.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Cloud Native Bangkok: Cloud Native AI (AUG-2026)",
+    "url": "https://naiwaen.debuggingsoft.com/2026/08/recap-cloud-native-bangkok-cloud-native-ai-aug-2026/",
+    "published": "2026-08-29T01:16:53.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "แพลนตัง บัตรเครดิต: หาบัตรที่ใช่ เทียบบัตรที่คุ้ม",
+    "url": "https://mymoneytoolkit.app/posts/credit-card",
+    "published": "2026-08-29T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -12,22 +24,10 @@
     "published": "2026-08-28T06:01:55.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "แพลนตัง Timeline: เห็นเส้นทางการเงินทั้งชีวิตในภาพเดียว",
-    "url": "https://mymoneytoolkit.app/posts/timeline",
-    "published": "2026-08-27T00:00:00.000Z"
-  },
-  {
     "site": "mikkipastel.com",
     "title": "เส้นทางการเป็น Android Developer ของ MikkiPastel",
     "url": "https://www.mikkipastel.com/path-of-android-developer-girl-in-stem-2026/",
     "published": "2026-08-26T11:41:10.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to use RustDesk on local network",
-    "url": "https://naiwaen.debuggingsoft.com/2026/08/how-to-use-rustdesk-on-local-network/",
-    "published": "2026-08-26T04:46:18.000Z"
   },
   {
     "site": "karnwong.me",
