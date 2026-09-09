@@ -1,21 +1,33 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกการเรียนรู้เรื่อง Build Your Own AI Coding Agent Harness Part 1",
+    "url": "https://www.somkiat.cc/part-1-build-your-own-ai-coding-agent-harness/",
+    "published": "2026-09-08T09:03:41.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "AI เขียนโค้ดเร็วแล้ว แต่ทำไมงานยังช้าอยู่",
-    "url": "https://myifew.com/8478/ai-coding-bottleneck-requirement-workflow/",
-    "published": "2026-09-07T17:49:25.000Z"
+    "title": "วางแผนน้ำให้พอดี เดินป่าอากาศร้อนอย่างปลอดภัย",
+    "url": "https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/",
+    "published": "2026-09-08T06:03:20.000Z"
+  },
+  {
+    "site": "yothinix.com",
+    "title": "🧳 The Great Infra Migration: ย้ายบล็อกนี้ออกจาก AWS",
+    "url": "https://yothinix.com/the-great-infra-migration/",
+    "published": "2026-09-08T03:00:00.000Z"
+  },
+  {
+    "site": "betich.me",
+    "title": "Bundit Tracker: a live tracker for finding the graduate",
+    "url": "https://betich.me/notes/bundit-tracker/",
+    "published": "2026-09-07T13:34:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
     "title": "จดๆจากงาน BugDay2026",
     "url": "https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/",
     "published": "2026-09-05T22:08:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "แนะนำการใช้งาน Portless",
-    "url": "https://www.somkiat.cc/working-with-portless/",
-    "published": "2026-09-05T09:13:06.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -60,12 +72,6 @@
     "published": "2026-08-22T00:00:00.000Z"
   },
   {
-    "site": "yothinix.com",
-    "title": "โค้ดที่เราไม่ได้เขียน เขียนขึ้นมาทำไมนะ",
-    "url": "https://yothinix.com/living-with-agent-gen-code/",
-    "published": "2026-08-12T05:43:41.000Z"
-  },
-  {
     "site": "thiti.dev",
     "title": "ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้",
     "url": "https://thiti.dev/blog/69/",
@@ -88,12 +94,6 @@
     "title": "Reflect สิ่งที่ได้เรียนรู้จากเดือน July",
     "url": "https://jetsukda.dev/posts/july-2026-reflection/",
     "published": "2026-08-03T12:10:07.000Z"
-  },
-  {
-    "site": "betich.me",
-    "title": "Turning design tokens into a design system, with a custom shadcn registry builder",
-    "url": "https://betich.me/notes/design-token-pipeline/",
-    "published": "2026-07-27T21:30:00.000Z"
   },
   {
     "site": "pontakorn.dev",
