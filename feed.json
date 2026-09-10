@@ -1,15 +1,15 @@
 [
   {
+    "site": "myifew.com",
+    "title": "รามคำแหง (เขาหลวง) สุโขทัย: เดินป่าขึ้นยอดเขาหลวง",
+    "url": "https://myifew.com/8490/%e0%b8%a3%e0%b8%b2%e0%b8%a1%e0%b8%84%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%87-%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%a7%e0%b8%87-%e0%b8%aa%e0%b8%b8%e0%b9%82%e0%b8%82%e0%b8%97%e0%b8%b1/",
+    "published": "2026-09-09T06:03:41.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกการเรียนรู้เรื่อง Build Your Own AI Coding Agent Harness Part 1",
     "url": "https://www.somkiat.cc/part-1-build-your-own-ai-coding-agent-harness/",
     "published": "2026-09-08T09:03:41.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "วางแผนน้ำให้พอดี เดินป่าอากาศร้อนอย่างปลอดภัย",
-    "url": "https://myifew.com/8488/%e0%b8%a7%e0%b8%b2%e0%b8%87%e0%b9%81%e0%b8%9c%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%b3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%9e%e0%b8%ad%e0%b8%94%e0%b8%b5-%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88/",
-    "published": "2026-09-08T06:03:20.000Z"
   },
   {
     "site": "yothinix.com",
@@ -28,6 +28,12 @@
     "title": "จดๆจากงาน BugDay2026",
     "url": "https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/",
     "published": "2026-09-05T22:08:00.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "カローラ ツーリング",
+    "url": "https://neizod.dev/2026/09/06/corolla-touring.html",
+    "published": "2026-09-05T21:09:12.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -76,12 +82,6 @@
     "title": "ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้",
     "url": "https://thiti.dev/blog/69/",
     "published": "2026-08-09T07:00:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "Coloring the Snub Dodecahedron",
-    "url": "https://neizod.dev/2026/08/08/coloring-snub-dodecahedron.html",
-    "published": "2026-08-08T11:19:20.000Z"
   },
   {
     "site": "dt.in.th",
