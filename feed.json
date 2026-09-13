@@ -1,15 +1,21 @@
 [
   {
+    "site": "fasu.dev",
+    "title": "Using aipass-proxy with opencode",
+    "url": "https://fasu.dev/writings/using-aipass-proxy-with-opencode/",
+    "published": "2026-09-12T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ",
+    "url": "https://www.somkiat.cc/note-slow-sql-query-in-postgresql/",
+    "published": "2026-09-11T16:40:54.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "เลือกแผ่นรองนอนให้ไม่หนาว: อ่านค่า R-Value ให้เป็นก่อนออกทริป",
     "url": "https://myifew.com/8494/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9c%e0%b9%88%e0%b8%99%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab/",
     "published": "2026-09-11T06:01:59.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การเปลี่ยนแปลงใน Vitest 5.0",
-    "url": "https://www.somkiat.cc/vitest-5-improve-performance/",
-    "published": "2026-09-10T04:43:35.000Z"
   },
   {
     "site": "yothinix.com",
@@ -45,12 +51,6 @@
     "site": "mymoneytoolkit.app",
     "title": "Update Plan September 2026",
     "url": "https://mymoneytoolkit.app/posts/update-plan-september-2026",
-    "published": "2026-09-03T00:00:00.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "mise: The One Tool That Replaced Everything",
-    "url": "https://fasu.dev/writings/mise-the-one-tool-that-replaced-everything/",
     "published": "2026-09-03T00:00:00.000Z"
   },
   {
