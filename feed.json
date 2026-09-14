@@ -1,5 +1,23 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Build ik_llama.cpp with AVX512 on Windows",
+    "url": "https://naiwaen.debuggingsoft.com/2026/09/build-ik_llama-cpp-with-avx512-on-windows/",
+    "published": "2026-09-14T03:13:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "AI-Native SDLC มนุษย์อยู่ตรงจุดไหน และใช้ส่งต่องานกันอย่างไร",
+    "url": "https://myifew.com/8495/ai-native-sdlc-software-delivery-playbook/",
+    "published": "2026-09-13T16:50:36.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "แพลนเนอร์รายเดือน: ไฟล์เดียวจบ เปิดออฟไลน์ ข้อมูลอยู่กับเราคนเดียว",
+    "url": "https://mymoneytoolkit.app/posts/planner-template",
+    "published": "2026-09-13T00:00:00.000Z"
+  },
+  {
     "site": "fasu.dev",
     "title": "Using aipass-proxy with opencode",
     "url": "https://fasu.dev/writings/using-aipass-proxy-with-opencode/",
@@ -10,12 +28,6 @@
     "title": "บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ",
     "url": "https://www.somkiat.cc/note-slow-sql-query-in-postgresql/",
     "published": "2026-09-11T16:40:54.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เลือกแผ่นรองนอนให้ไม่หนาว: อ่านค่า R-Value ให้เป็นก่อนออกทริป",
-    "url": "https://myifew.com/8494/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%81%e0%b8%9c%e0%b9%88%e0%b8%99%e0%b8%a3%e0%b8%ad%e0%b8%87%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab/",
-    "published": "2026-09-11T06:01:59.000Z"
   },
   {
     "site": "yothinix.com",
@@ -30,12 +42,6 @@
     "published": "2026-09-07T13:34:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจากงาน BugDay2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/recap-bugday2026/",
-    "published": "2026-09-05T22:08:00.000Z"
-  },
-  {
     "site": "neizod.dev",
     "title": "カローラ ツーリング",
     "url": "https://neizod.dev/2026/09/06/corolla-touring.html",
@@ -46,12 +52,6 @@
     "title": "เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/",
     "published": "2026-09-03T14:22:27.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Update Plan September 2026",
-    "url": "https://mymoneytoolkit.app/posts/update-plan-september-2026",
-    "published": "2026-09-03T00:00:00.000Z"
   },
   {
     "site": "karnwong.me",
