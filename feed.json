@@ -1,9 +1,15 @@
 [
   {
     "site": "debuggingsoft.com",
-    "title": "Build ik_llama.cpp with AVX512 on Windows",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/build-ik_llama-cpp-with-avx512-on-windows/",
-    "published": "2026-09-14T03:13:00.000Z"
+    "title": "Fixed Container Build Error – Release file for http://deb.debian.org/debian-security/dists/bullseye-security/InRelease is expired",
+    "url": "https://naiwaen.debuggingsoft.com/2026/09/fixed-container-build-release-file-for-http-deb-debian-org-debian-security-dists-bullseye-security-inrelease-is-expired/",
+    "published": "2026-09-14T23:22:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาแล้ว AI Engineering Skills Map ในหัวข้อ Shaping the Build",
+    "url": "https://www.somkiat.cc/shaping-the-build/",
+    "published": "2026-09-14T10:59:26.000Z"
   },
   {
     "site": "myifew.com",
@@ -22,12 +28,6 @@
     "title": "Using aipass-proxy with opencode",
     "url": "https://fasu.dev/writings/using-aipass-proxy-with-opencode/",
     "published": "2026-09-12T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกการเรียนรู้ที่น่าสนใจจาก Slow SQL Query ที่พบเจอ",
-    "url": "https://www.somkiat.cc/note-slow-sql-query-in-postgresql/",
-    "published": "2026-09-11T16:40:54.000Z"
   },
   {
     "site": "yothinix.com",
