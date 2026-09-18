@@ -1,5 +1,11 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "KBTG Techtopia: Human of Tomorrow",
+    "url": "https://naiwaen.debuggingsoft.com/2026/09/recap-kbtg-techtopia-2026-human-of-tomorrow/",
+    "published": "2026-09-17T14:17:34.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาดูการเปลี่ยนแปลงใน Playwright 1.62 ถึง 1.63",
     "url": "https://www.somkiat.cc/playwright-new-in-1-63/",
@@ -16,12 +22,6 @@
     "title": "เข้าใจ cron expression แบบไม่ต้องท่อง ด้วย crontab.guru",
     "url": "https://xiengperm.dev/posts/cron-expression-crontab-guru-th/",
     "published": "2026-09-16T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Build ik_llama.cpp with AVX512 on Windows",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/build-ik_llama-cpp-with-avx512-on-windows/",
-    "published": "2026-09-15T03:13:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
