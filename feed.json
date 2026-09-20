@@ -1,5 +1,23 @@
 [
   {
+    "site": "thanapon.info",
+    "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
+    "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",
+    "published": "2026-09-19T15:33:03.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "Introducing opencode-aipass",
+    "url": "https://fasu.dev/writings/opencode-aipass/",
+    "published": "2026-09-19T00:00:00.000Z"
+  },
+  {
+    "site": "xiengperm.dev",
+    "title": "สรุปสารคดี The Story of VS Code",
+    "url": "https://xiengperm.dev/posts/story-of-vs-code-documentary-th/",
+    "published": "2026-09-19T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองเล่น Jev จาก TypeSafe กัน",
     "url": "https://www.somkiat.cc/hello-jev-from-typesafe/",
@@ -18,22 +36,10 @@
     "published": "2026-09-17T14:17:34.000Z"
   },
   {
-    "site": "xiengperm.dev",
-    "title": "เข้าใจ cron expression แบบไม่ต้องท่อง ด้วย crontab.guru",
-    "url": "https://xiengperm.dev/posts/cron-expression-crontab-guru-th/",
-    "published": "2026-09-16T00:00:00.000Z"
-  },
-  {
     "site": "mymoneytoolkit.app",
     "title": "แพลนเนอร์รายเดือน: ไฟล์เดียวจบ เปิดออฟไลน์ ข้อมูลอยู่กับเราคนเดียว",
     "url": "https://mymoneytoolkit.app/posts/planner-template",
     "published": "2026-09-13T00:00:00.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "Using aipass-proxy with opencode",
-    "url": "https://fasu.dev/writings/using-aipass-proxy-with-opencode/",
-    "published": "2026-09-12T00:00:00.000Z"
   },
   {
     "site": "yothinix.com",
@@ -226,12 +232,6 @@
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
-  },
-  {
-    "site": "thanapon.info",
-    "title": "🎵 ESP32 + Bluetooth Speaker เล่นเพลงผ่าน A2DP",
-    "url": "https://thanapon.info/esp32-bluetooth-speaker-sender/",
-    "published": "2025-07-19T09:22:12.000Z"
   },
   {
     "site": "icez.net",
