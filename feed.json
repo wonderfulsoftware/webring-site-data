@@ -1,5 +1,17 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "[PoC] ลองใช้งาน Jev ร่วมกับ Playwright MCP สำหรับการทดสอบ web application",
+    "url": "https://www.somkiat.cc/poc-jev-with-playwright-mcp/",
+    "published": "2026-09-20T16:30:52.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Book Highlights - The Art of Leadership by Michael Lopp",
+    "url": "https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/",
+    "published": "2026-09-20T00:00:00.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
     "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",
@@ -16,12 +28,6 @@
     "title": "สรุปสารคดี The Story of VS Code",
     "url": "https://xiengperm.dev/posts/story-of-vs-code-documentary-th/",
     "published": "2026-09-19T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองเล่น Jev จาก TypeSafe กัน",
-    "url": "https://www.somkiat.cc/hello-jev-from-typesafe/",
-    "published": "2026-09-18T06:59:10.000Z"
   },
   {
     "site": "myifew.com",
@@ -64,12 +70,6 @@
     "title": "เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/",
     "published": "2026-09-03T14:22:27.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "GreenOps tools on Kubernetes",
-    "url": "https://karnwong.me/posts/2026/08/greenops-tools-on-kubernetes/",
-    "published": "2026-08-26T00:00:00.000Z"
   },
   {
     "site": "nitpum.com",
