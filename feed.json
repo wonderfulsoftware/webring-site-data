@@ -1,9 +1,9 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "[PoC] ลองใช้งาน Jev ร่วมกับ Playwright MCP สำหรับการทดสอบ web application",
-    "url": "https://www.somkiat.cc/poc-jev-with-playwright-mcp/",
-    "published": "2026-09-20T16:30:52.000Z"
+    "title": "การ replicate ข้อมูลจาก PostgreSQL ไปยัง ClickHouse ด้วย WalShadow",
+    "url": "https://www.somkiat.cc/walshadow-replicate-data-from-postgresql-to-clickhouse/",
+    "published": "2026-09-21T07:22:37.000Z"
   },
   {
     "site": "karnwong.me",
