@@ -1,5 +1,17 @@
 [
   {
+    "site": "blog.ninprd.com",
+    "title": "Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ",
+    "url": "https://blog.ninprd.com/blog/claude-code-context-window/",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
+    "site": "nitpum.com",
+    "title": "Golden Kamuy เมะดีที่คนไม่ค่อยพูดถึง",
+    "url": "https://nitpum.com/post/golden-kamuy/",
+    "published": "2026-09-24T13:22:45.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]>",
     "url": "https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/",
@@ -70,18 +82,6 @@
     "title": "เตรียมความพร้อมก่อนลุย Colosseum Hackathon และทำความรู้จัก Ruliology",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-5-bangkok/",
     "published": "2026-09-03T14:22:27.000Z"
-  },
-  {
-    "site": "nitpum.com",
-    "title": "ซื้อ DRM-free E-book กับ Humble Bundle",
-    "url": "https://nitpum.com/post/humblebundle-ebook/",
-    "published": "2026-08-23T14:58:05.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "แจกพิกัด เดินเที่ยวถ่ายรูปเล่นตลาดน้อย 2026",
-    "url": "https://blog.ninprd.com/blog/photo-guide-talad-noi/",
-    "published": "2026-08-22T00:00:00.000Z"
   },
   {
     "site": "thiti.dev",
