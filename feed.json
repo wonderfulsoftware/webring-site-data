@@ -1,5 +1,23 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ Microsoft Agent Framework – Agent Skills",
+    "url": "https://naiwaen.debuggingsoft.com/2026/09/using-skill-in-microsoft-agent-framework-with-csharp-th/",
+    "published": "2026-09-25T22:08:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "เปรียบเทียบไฟฉายคาดศีรษะสำหรับเดินป่า 2026: เลือกรุ่นให้เหมาะกับการใช้งาน",
+    "url": "https://myifew.com/8541/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%84%e0%b8%9f%e0%b8%89%e0%b8%b2%e0%b8%a2%e0%b8%84%e0%b8%b2%e0%b8%94%e0%b8%a8%e0%b8%b5%e0%b8%a3/",
+    "published": "2026-09-25T06:04:33.000Z"
+  },
+  {
+    "site": "tantatorn.xyz",
+    "title": "Sophie's World",
+    "url": "https://tantatorn.xyz/posts/sophie-world/",
+    "published": "2026-09-25T00:00:00.000Z"
+  },
+  {
     "site": "blog.ninprd.com",
     "title": "Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ",
     "url": "https://blog.ninprd.com/blog/claude-code-context-window/",
@@ -16,18 +34,6 @@
     "title": "[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]>",
     "url": "https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/",
     "published": "2026-09-23T16:02:20.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "โมโกจู อุทยานแห่งชาติแม่วงก์: วางแผนเดินป่าระยะไกล 5 วัน 4 คืน",
-    "url": "https://myifew.com/8539/%e0%b9%82%e0%b8%a1%e0%b9%82%e0%b8%81%e0%b8%88%e0%b8%b9-%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%81%e0%b8%a1/",
-    "published": "2026-09-23T06:04:41.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "[CR] Starbucks Smoked Sausage Croissant Pizza Roll",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/cr-starbucks-smoked-sausage-croissant-pizza-roll/",
-    "published": "2026-09-22T09:08:54.000Z"
   },
   {
     "site": "karnwong.me",
@@ -124,12 +130,6 @@
     "title": "Bridging the Gap: Giving Your Text-Only AI \"Eyes\" with macOS Vision Framework and Swift",
     "url": "https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/",
     "published": "2026-06-16T15:33:13.000Z"
-  },
-  {
-    "site": "tantatorn.xyz",
-    "title": "My Thoughts on The Invention of Nature",
-    "url": "https://tantatorn.xyz/posts/the-invention-of-nature/",
-    "published": "2026-06-06T00:00:00.000Z"
   },
   {
     "site": "creaml4tt3.me",
