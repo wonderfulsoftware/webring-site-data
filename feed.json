@@ -1,15 +1,33 @@
 [
   {
+    "site": "fasu.dev",
+    "title": "I Cut My AGENTS.md in Half, Then Measured What Broke",
+    "url": "https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/",
+    "published": "2026-09-29T00:00:00.000Z"
+  },
+  {
+    "site": "jitrak.dev",
+    "title": "My Agent Harness: The System Around the Model",
+    "url": "https://jitrak.dev/posts/post-45-my-agent-harness/",
+    "published": "2026-09-28T18:43:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "ลองทำความรู้จักและใช้งาน bugpatrol สำหรับการทดสอบระบบงาน",
+    "url": "https://www.somkiat.cc/hello-bugpatrol/",
+    "published": "2026-09-28T16:35:43.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "MS Sec TH Meetup: Microsoft SOC in real Job, in AI ERA",
+    "url": "https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/",
+    "published": "2026-09-28T11:04:00.000Z"
+  },
+  {
     "site": "myifew.com",
     "title": "ลองจับ Jev มาช่วยคัด Lead ปลอม ทำได้จริงไหม",
     "url": "https://myifew.com/8543/jev-ai-fake-lead/",
     "published": "2026-09-27T02:47:32.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "สรุปงาน Build {dot} AI",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/recap-build-dot-ai/",
-    "published": "2026-09-26T18:27:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -30,12 +48,6 @@
     "published": "2026-09-24T13:22:45.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "[Rust] ลดการใช้งาน memory ด้วยการเปลี่ยนจาก Vec<T> ไปเป็น Box<[T]>",
-    "url": "https://www.somkiat.cc/rust-reduce-memory-from-vec-to-box/",
-    "published": "2026-09-23T16:02:20.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Book Highlights - The Art of Leadership by Michael Lopp",
     "url": "https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/",
@@ -46,12 +58,6 @@
     "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
     "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",
     "published": "2026-09-19T15:33:03.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "Introducing opencode-aipass",
-    "url": "https://fasu.dev/writings/opencode-aipass/",
-    "published": "2026-09-19T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
@@ -118,12 +124,6 @@
     "title": "ฝ่ายจัดซื้อประจำบ้าน",
     "url": "https://nutchanon.org/blog/purchase-division",
     "published": "2026-07-16T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "Migrate Hermes API Keys to Bitwarden Secrets Manager",
-    "url": "https://jitrak.dev/posts/post-44-migrate-hermes-api-keys-to-bitwarden-secrets-manager/",
-    "published": "2026-06-29T03:58:00.000Z"
   },
   {
     "site": "kusumotolab.com",
