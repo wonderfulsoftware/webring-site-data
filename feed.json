@@ -1,9 +1,27 @@
 [
   {
     "site": "somkiat.cc",
-    "title": "Mermaid เพิ่ม Use case diagram เข้ามา",
-    "url": "https://www.somkiat.cc/use-case-diagram-in-mermaid/",
-    "published": "2026-09-30T14:19:27.000Z"
+    "title": "สรุปประเด็นที่น่าสนใจใน State of agent skills จาก Vercel",
+    "url": "https://www.somkiat.cc/state-of-agent-skills-from-vercel/",
+    "published": "2026-10-01T12:23:17.000Z"
+  },
+  {
+    "site": "neizod.dev",
+    "title": "3-6-flexagon",
+    "url": "https://neizod.dev/2026/10/01/trihexaflexagon.html",
+    "published": "2026-10-01T04:38:05.000Z"
+  },
+  {
+    "site": "mymoneytoolkit.app",
+    "title": "Update Plan October 2026",
+    "url": "https://mymoneytoolkit.app/posts/update-plan-october-2026",
+    "published": "2026-10-01T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ Microsoft Agent Framework – Agent Skills",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/using-skill-in-microsoft-agent-framework-with-csharp-th/",
+    "published": "2026-09-30T22:08:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -18,12 +36,6 @@
     "published": "2026-09-30T00:00:00.000Z"
   },
   {
-    "site": "mymoneytoolkit.app",
-    "title": "วางแผนจ่ายบัตรเครดิต รูดกี่ใบก็ไม่งง รู้ว่าต้องกันเงินเท่าไหร่ก่อนบิลมา",
-    "url": "https://mymoneytoolkit.app/posts/card-plan",
-    "published": "2026-09-29T00:00:00.000Z"
-  },
-  {
     "site": "fasu.dev",
     "title": "I Cut My AGENTS.md in Half, Then Measured What Broke",
     "url": "https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/",
@@ -34,12 +46,6 @@
     "title": "My Agent Harness: The System Around the Model",
     "url": "https://jitrak.dev/posts/post-45-my-agent-harness/",
     "published": "2026-09-28T18:43:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "MS Sec TH Meetup: Microsoft SOC in real Job, in AI ERA",
-    "url": "https://naiwaen.debuggingsoft.com/2026/09/ms-sec-th-meetup-microsoft-soc-in-real-job-in-ai-era/",
-    "published": "2026-09-28T11:04:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -82,12 +88,6 @@
     "title": "Bundit Tracker: a live tracker for finding the graduate",
     "url": "https://betich.me/notes/bundit-tracker/",
     "published": "2026-09-07T13:34:00.000Z"
-  },
-  {
-    "site": "neizod.dev",
-    "title": "カローラ ツーリング",
-    "url": "https://neizod.dev/2026/09/06/corolla-touring.html",
-    "published": "2026-09-05T21:09:12.000Z"
   },
   {
     "site": "mikkipastel.com",
