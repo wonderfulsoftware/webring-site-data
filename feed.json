@@ -1,15 +1,21 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "แนวทางเรื่องของการแก้ไขปัญหาทำซ้ำของระบบงาน (Prevent Duplication)",
+    "url": "https://www.somkiat.cc/preventing-duplicate-in-system/",
+    "published": "2026-10-04T06:44:23.000Z"
+  },
+  {
+    "site": "blog.ninprd.com",
+    "title": "จด ๆ จากงาน Design to Code Bangkok 2026",
+    "url": "https://blog.ninprd.com/blog/take-note-design-to-code-bangkok-2026/",
+    "published": "2026-10-04T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจาก OpenAI DevDay Exchange Community: Bangkok",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/recap-openai-devday-exchange-community-bangkok/",
     "published": "2026-10-03T23:23:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Stitch CLI สำหรับการออกแบบ user interface กันดู",
-    "url": "https://www.somkiat.cc/try-stitch-cli/",
-    "published": "2026-10-03T15:44:18.000Z"
   },
   {
     "site": "myifew.com",
@@ -51,12 +57,6 @@
     "site": "tantatorn.xyz",
     "title": "Sophie's World",
     "url": "https://tantatorn.xyz/posts/sophie-world/",
-    "published": "2026-09-25T00:00:00.000Z"
-  },
-  {
-    "site": "blog.ninprd.com",
-    "title": "Claude Code ติด Limit เร็ว? มาประหยัด Context Window กันเถอะ",
-    "url": "https://blog.ninprd.com/blog/claude-code-context-window/",
     "published": "2026-09-25T00:00:00.000Z"
   },
   {
