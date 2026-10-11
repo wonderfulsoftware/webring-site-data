@@ -1,5 +1,17 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Claude Thailand Community Meetup 3: Real Business Use Case",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/",
+    "published": "2026-10-11T01:19:00.000Z"
+  },
+  {
+    "site": "yothinix.com",
+    "title": "Setting up Herdr for agent work: tmux keys, four plugins, and a review loop",
+    "url": "https://yothinix.com/setting-up-herdr/",
+    "published": "2026-10-10T05:16:45.000Z"
+  },
+  {
     "site": "mikkipastel.com",
     "title": "วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/",
@@ -16,12 +28,6 @@
     "title": "My Money Tracker: Sheet รายรับรายจ่าย จดง่าย รู้ว่าเงินไปไหน และเหลือใช้จริงเท่าไหร่",
     "url": "https://mymoneytoolkit.app/posts/money-tracker",
     "published": "2026-10-09T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "How to reset GitLab root or any user password with Rails console",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/how-to-reset-gitlab-root-or-any-user-password-with-rails-console/",
-    "published": "2026-10-08T21:04:36.000Z"
   },
   {
     "site": "nitpum.com",
@@ -82,12 +88,6 @@
     "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
     "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",
     "published": "2026-09-19T15:33:03.000Z"
-  },
-  {
-    "site": "yothinix.com",
-    "title": "🧳 The Great Infra Migration: ย้ายบล็อกนี้ออกจาก AWS",
-    "url": "https://yothinix.com/the-great-infra-migration/",
-    "published": "2026-09-08T03:00:00.000Z"
   },
   {
     "site": "betich.me",
