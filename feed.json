@@ -1,9 +1,21 @@
 [
   {
+    "site": "mesodiar.com",
+    "title": "ลด Storage cost ใน BigQuery กัน",
+    "url": "https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/",
+    "published": "2026-10-13T01:45:24.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
-    "title": "จดๆจาก Claude Thailand Community Meetup 3: Real Business Use Case",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/recap-claude-thailand-community-meetup-3-real-business-use-case/",
-    "published": "2026-10-11T01:19:00.000Z"
+    "title": "Sleep Test ครั้งแรกที่โรงพยาบาลตากสิน",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/",
+    "published": "2026-10-12T12:24:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "บันทึกเรื่อง Designing MCP Gateway จาก Uber",
+    "url": "https://www.somkiat.cc/designing-mcp-gateway-from-uber/",
+    "published": "2026-10-12T08:36:31.000Z"
   },
   {
     "site": "yothinix.com",
@@ -34,12 +46,6 @@
     "title": "Octopath Traveler ขายบน GOG แล้วและกำลังลดราคา",
     "url": "https://nitpum.com/post/gog-octopath-traveler/",
     "published": "2026-10-08T18:24:04.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ทาง Microsoft ปล่อย Postgres MCP Server มาให้ใช้งาน",
-    "url": "https://www.somkiat.cc/microsoft-postgres-mcp/",
-    "published": "2026-10-08T05:13:46.000Z"
   },
   {
     "site": "blog.ninprd.com",
@@ -136,12 +142,6 @@
     "title": "Next.js View Transitions ใช้ยังไง? พร้อมตัวอย่างจริง",
     "url": "https://creaml4tt3.me/blogs/nextjs-view-transitions-native-like-animation",
     "published": "2026-06-01T17:15:28.868Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "Upgrading Managed Airflow (Cloud Composer) on GCP",
-    "url": "https://mesodiar.com/2026/05/12/upgrading-managed-airflow-cloud-composer-on-gcp/",
-    "published": "2026-05-12T03:34:07.000Z"
   },
   {
     "site": "blog.kpping.me",
