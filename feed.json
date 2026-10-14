@@ -1,15 +1,21 @@
 [
   {
+    "site": "myifew.com",
+    "title": "The New SDLC with Vibe Coding : เมื่อ AI ย้ายคอขวดจาก Code ไปที่ Intent",
+    "url": "https://myifew.com/8570/the-new-sdlc-vibe-coding-google/",
+    "published": "2026-10-13T15:54:28.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Refactor Jenkins User Defined Global Properties",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/",
+    "published": "2026-10-13T07:59:38.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "ลด Storage cost ใน BigQuery กัน",
     "url": "https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/",
     "published": "2026-10-13T01:45:24.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Sleep Test ครั้งแรกที่โรงพยาบาลตากสิน",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/sleep-test-firsttime/",
-    "published": "2026-10-12T12:24:00.000Z"
   },
   {
     "site": "somkiat.cc",
@@ -28,12 +34,6 @@
     "title": "วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน",
     "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/",
     "published": "2026-10-09T12:38:26.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เปรียบเทียบ Bear Canister สำหรับ Backpacking ปี 2026",
-    "url": "https://myifew.com/8567/%e0%b9%80%e0%b8%9b%e0%b8%a3%e0%b8%b5%e0%b8%a2%e0%b8%9a%e0%b9%80%e0%b8%97%e0%b8%b5%e0%b8%a2%e0%b8%9a-bear-canister-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a-backpacking-%e0%b8%9b%e0%b8%b5/",
-    "published": "2026-10-09T06:02:38.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
