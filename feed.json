@@ -1,5 +1,17 @@
 [
   {
+    "site": "mesodiar.com",
+    "title": "Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg",
+    "url": "https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/",
+    "published": "2026-10-15T13:18:01.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade",
+    "url": "https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/",
+    "published": "2026-10-15T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "มาลองใช้งาน Excalidraw CLI กัน",
     "url": "https://www.somkiat.cc/excalidraw-cli/",
@@ -22,12 +34,6 @@
     "title": "Refactor Jenkins User Defined Global Properties",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/refactor-jenkins-user-defined-global-properties/",
     "published": "2026-10-13T07:59:38.000Z"
-  },
-  {
-    "site": "mesodiar.com",
-    "title": "ลด Storage cost ใน BigQuery กัน",
-    "url": "https://mesodiar.com/2026/10/13/reduce-bigquery-storage-cost/",
-    "published": "2026-10-13T01:45:24.000Z"
   },
   {
     "site": "yothinix.com",
@@ -82,12 +88,6 @@
     "title": "Sophie's World",
     "url": "https://tantatorn.xyz/posts/sophie-world/",
     "published": "2026-09-25T00:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book Highlights - The Art of Leadership by Michael Lopp",
-    "url": "https://karnwong.me/posts/2026/09/book-highlights---the-art-of-leadership-by-michael-lopp/",
-    "published": "2026-09-20T00:00:00.000Z"
   },
   {
     "site": "thanapon.info",
