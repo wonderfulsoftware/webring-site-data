@@ -1,5 +1,23 @@
 [
   {
+    "site": "icez.net",
+    "title": "0264 | run nemotron-3.5-bolt on dgx spark",
+    "url": "https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark",
+    "published": "2026-10-16T16:38:17.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด",
+    "url": "https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide",
+    "published": "2026-10-16T07:53:12.926Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "Garmin inReach Messenger Plus สำหรับทริปเดินป่าพื้นที่ไร้สัญญาณ",
+    "url": "https://myifew.com/8583/garmin-inreach-messenger-plus-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9e/",
+    "published": "2026-10-16T06:02:12.000Z"
+  },
+  {
     "site": "mesodiar.com",
     "title": "Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg",
     "url": "https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/",
@@ -16,12 +34,6 @@
     "title": "มาลองใช้งาน Excalidraw CLI กัน",
     "url": "https://www.somkiat.cc/excalidraw-cli/",
     "published": "2026-10-14T08:05:43.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "อ่างกา เส้นทางสั้นในป่าดงดิบเขาบนดอยอินทนนท์",
-    "url": "https://myifew.com/8581/%e0%b8%ad%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b8%81%e0%b8%b2-%e0%b9%80%e0%b8%aa%e0%b9%89%e0%b8%99%e0%b8%97%e0%b8%b2%e0%b8%87%e0%b8%aa%e0%b8%b1%e0%b9%89%e0%b8%99%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2/",
-    "published": "2026-10-14T06:02:53.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -90,6 +102,12 @@
     "published": "2026-09-25T00:00:00.000Z"
   },
   {
+    "site": "chakkritton.com",
+    "title": "สร้าง Whiteboard ด้วย Claude Code",
+    "url": "https://chakkritton.com/projects/whiteboard-with-claude-code",
+    "published": "2026-09-24T03:46:20.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
     "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",
@@ -136,12 +154,6 @@
     "title": "Bridging the Gap: Giving Your Text-Only AI \"Eyes\" with macOS Vision Framework and Swift",
     "url": "https://kusumotolab.com/bridging-the-gap-giving-your-text-only-ai-eyes-with-macos-vision-framework-and-swift/",
     "published": "2026-06-16T15:33:13.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "Next.js View Transitions ใช้ยังไง? พร้อมตัวอย่างจริง",
-    "url": "https://creaml4tt3.me/blogs/nextjs-view-transitions-native-like-animation",
-    "published": "2026-06-01T17:15:28.868Z"
   },
   {
     "site": "blog.kpping.me",
@@ -232,12 +244,6 @@
     "title": "10 ข้อศิลปะการปรับปรุง AI Products แบบ 100x",
     "url": "https://bigdatarpg.com/2025/08/03/ai-product-improvement-tips-100x/",
     "published": "2025-08-03T07:47:42.000Z"
-  },
-  {
-    "site": "icez.net",
-    "title": "0263 | บั๊กตู้ชาร์จ ปตท รุ่นใหม่ๆ",
-    "url": "https://www.icez.net/blog/167563/0263-%e0%b8%9a%e0%b8%b1%e0%b9%8a%e0%b8%81%e0%b8%95%e0%b8%b9%e0%b9%89%e0%b8%8a%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%88-%e0%b8%9b%e0%b8%95%e0%b8%97-%e0%b8%a3%e0%b8%b8%e0%b9%88%e0%b8%99%e0%b9%83%e0%b8%ab",
-    "published": "2025-06-30T06:44:41.000Z"
   },
   {
     "site": "evanrintho.buzz",
