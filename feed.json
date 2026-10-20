@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy",
+    "url": "https://www.somkiat.cc/problems-with-context-engineering/",
+    "published": "2026-10-19T17:07:12.000Z"
+  },
+  {
     "site": "yothinix.com",
     "title": "Musing: คำตอบไม่สำคัญเท่ากับการเลือก",
     "url": "https://yothinix.com/choosing-over-answers/",
@@ -46,12 +52,6 @@
     "title": "Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade",
     "url": "https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/",
     "published": "2026-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาลองใช้งาน Excalidraw CLI กัน",
-    "url": "https://www.somkiat.cc/excalidraw-cli/",
-    "published": "2026-10-14T08:05:43.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -187,7 +187,7 @@
   },
   {
     "site": "sujamess.com",
-    "title": "[Eng] Distributed Scheduler The Series: Episode 2 — Only One Leader",
+    "title": "[Eng] Distributed Scheduler The Series: Episode 2 - Only One Leader",
     "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
     "published": "2026-01-29T00:00:00.000Z"
   },
