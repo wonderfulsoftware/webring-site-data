@@ -1,5 +1,35 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/",
+    "published": "2026-10-20T20:21:00.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026",
+    "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2026/",
+    "published": "2026-10-20T12:04:38.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "เดินป่าหน้าหนาวในป่าร้อนชื้น: 6 เทคนิคสำหรับเส้นทางเมืองไทย",
+    "url": "https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/",
+    "published": "2026-10-20T06:04:53.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Homelab virtual machine management gui roundup",
+    "url": "https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
+    "site": "tantatorn.xyz",
+    "title": "Doi Luang Tak: Leaves, Leeches, Pines, and Blisters",
+    "url": "https://tantatorn.xyz/posts/doi-luang-tak/",
+    "published": "2026-10-20T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy",
     "url": "https://www.somkiat.cc/problems-with-context-engineering/",
@@ -10,12 +40,6 @@
     "title": "Musing: คำตอบไม่สำคัญเท่ากับการเลือก",
     "url": "https://yothinix.com/choosing-over-answers/",
     "published": "2026-10-18T04:34:33.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆ จาก LINE Thailand Developer Conference 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/recap-line-dev-conf2026/",
-    "published": "2026-10-18T01:58:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -36,28 +60,10 @@
     "published": "2026-10-16T12:01:40.725Z"
   },
   {
-    "site": "myifew.com",
-    "title": "Garmin inReach Messenger Plus สำหรับทริปเดินป่าพื้นที่ไร้สัญญาณ",
-    "url": "https://myifew.com/8583/garmin-inreach-messenger-plus-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%97%e0%b8%a3%e0%b8%b4%e0%b8%9b%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%9e/",
-    "published": "2026-10-16T06:02:12.000Z"
-  },
-  {
     "site": "mesodiar.com",
     "title": "Building a Reliable Medallion Pipeline with Traffy Fondue, BigQuery, and Apache Iceberg",
     "url": "https://mesodiar.com/2026/10/15/building-a-reliable-medallion-pipeline-with-traffy-fondue-bigquery-and-apache-iceberg/",
     "published": "2026-10-15T13:18:01.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Book Highlights - ALIEN Thinking by Cyril Bouquet, Jean-Louis Barsoux, Michael Wade",
-    "url": "https://karnwong.me/posts/2026/10/book-highlights---alien-thinking-by-cyril-bouquet-jean-louis-barsoux-michael-wade/",
-    "published": "2026-10-15T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "วันที่เพื่อนมาใหม่เยอะสุด ๆ มา Reflex, Rethink, Refine กัน",
-    "url": "https://www.mikkipastel.com/solana-x-ai-builders-the-road-to-mainnet-u-bangkok/",
-    "published": "2026-10-09T12:38:26.000Z"
   },
   {
     "site": "nitpum.com",
@@ -94,12 +100,6 @@
     "title": "My Agent Harness: The System Around the Model",
     "url": "https://jitrak.dev/posts/post-45-my-agent-harness/",
     "published": "2026-09-28T18:43:00.000Z"
-  },
-  {
-    "site": "tantatorn.xyz",
-    "title": "Sophie's World",
-    "url": "https://tantatorn.xyz/posts/sophie-world/",
-    "published": "2026-09-25T00:00:00.000Z"
   },
   {
     "site": "chakkritton.com",
