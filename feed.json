@@ -1,5 +1,23 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "Gangprompting",
+    "url": "https://dt.in.th/Gangprompting",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง",
+    "url": "https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/",
+    "published": "2026-10-21T06:03:27.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Flashy new things aren't always the answer",
+    "url": "https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/",
+    "published": "2026-10-21T00:00:00.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/",
@@ -10,18 +28,6 @@
     "title": "อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026",
     "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2026/",
     "published": "2026-10-20T12:04:38.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เดินป่าหน้าหนาวในป่าร้อนชื้น: 6 เทคนิคสำหรับเส้นทางเมืองไทย",
-    "url": "https://myifew.com/8586/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b8%ab%e0%b8%99%e0%b8%b2%e0%b8%a7%e0%b9%83%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b9%89/",
-    "published": "2026-10-20T06:04:53.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Homelab virtual machine management gui roundup",
-    "url": "https://karnwong.me/posts/2026/10/homelab-virtual-machine-management-gui-roundup/",
-    "published": "2026-10-20T00:00:00.000Z"
   },
   {
     "site": "tantatorn.xyz",
@@ -124,12 +130,6 @@
     "title": "ปิดฝา Mac ยังไงให้รัน AI ต่อเนื่องได้",
     "url": "https://thiti.dev/blog/69/",
     "published": "2026-08-09T07:00:00.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Qwen3.5-Omni-Flash Text-to-Speech Thai Voice Previews",
-    "url": "https://dt.in.th/Qwen35OmniFlashTTSThai",
-    "published": "2026-08-07T00:00:00.000Z"
   },
   {
     "site": "jetsukda.dev",
