@@ -1,8 +1,38 @@
 [
   {
+    "site": "creaml4tt3.me",
+    "title": "Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code",
+    "url": "https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix",
+    "published": "2026-10-22T19:13:26.085Z"
+  },
+  {
+    "site": "chakkritton.com",
+    "title": "SSD Scope for Mac",
+    "url": "https://chakkritton.com/projects/ssd-scope-for-mac",
+    "published": "2026-10-22T15:05:41.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "PHP2Shell-mitigation",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/",
+    "published": "2026-10-22T10:45:37.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "แนวทางการแก้ไขปัญหา PHP2Shell เบื้องต้น",
+    "url": "https://www.somkiat.cc/php2shell-mitigation/",
+    "published": "2026-10-22T08:16:59.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "Gangprompting",
     "url": "https://dt.in.th/Gangprompting",
+    "published": "2026-10-22T00:00:00.000Z"
+  },
+  {
+    "site": "karnwong.me",
+    "title": "Use YubiKey instead of fingerprint auth on Linux",
+    "url": "https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/",
     "published": "2026-10-22T00:00:00.000Z"
   },
   {
@@ -10,18 +40,6 @@
     "title": "อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง",
     "url": "https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/",
     "published": "2026-10-21T06:03:27.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Flashy new things aren't always the answer",
-    "url": "https://karnwong.me/posts/2026/10/flashy-new-things-arent-always-the-answer/",
-    "published": "2026-10-21T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "Fixed .NET WEBAPI Error 524 + 403 When Call Local LLM Server behind Cloudflare Tunnel",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/fixed-net-webapi-error-524-403-when-call-local-llm-server-behind-cloudflare-tunnel/",
-    "published": "2026-10-20T20:21:00.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -34,12 +52,6 @@
     "title": "Doi Luang Tak: Leaves, Leeches, Pines, and Blisters",
     "url": "https://tantatorn.xyz/posts/doi-luang-tak/",
     "published": "2026-10-20T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "บันทึกรูปแบบของปัญหา context ที่ไม่ดี จากหนังสือ Context Engineering with DSPy",
-    "url": "https://www.somkiat.cc/problems-with-context-engineering/",
-    "published": "2026-10-19T17:07:12.000Z"
   },
   {
     "site": "yothinix.com",
@@ -58,12 +70,6 @@
     "title": "0264 | run nemotron-3.5-bolt on dgx spark",
     "url": "https://www.icez.net/blog/167578/0264-run-nemotron-3-5-bolt-on-dgx-spark",
     "published": "2026-10-16T16:38:17.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด",
-    "url": "https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide",
-    "published": "2026-10-16T12:01:40.725Z"
   },
   {
     "site": "mesodiar.com",
@@ -106,12 +112,6 @@
     "title": "My Agent Harness: The System Around the Model",
     "url": "https://jitrak.dev/posts/post-45-my-agent-harness/",
     "published": "2026-09-28T18:43:00.000Z"
-  },
-  {
-    "site": "chakkritton.com",
-    "title": "สร้าง Whiteboard ด้วย Claude Code",
-    "url": "https://chakkritton.com/projects/whiteboard-with-claude-code",
-    "published": "2026-09-24T03:46:20.000Z"
   },
   {
     "site": "thanapon.info",
