@@ -1,5 +1,23 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "จดบันทึกการอ่านเรื่อง How the Claude Code team does code review",
+    "url": "https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/",
+    "published": "2026-10-23T16:00:40.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "รีวิวเก้าอี้แคมป์ปิ้งปี 2026: ALPS Mountaineering King Kong และรุ่นที่เหมาะกับแต่ละทริป",
+    "url": "https://myifew.com/8590/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%ad%e0%b8%b5%e0%b9%89%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b8%9b%e0%b9%8c%e0%b8%9b%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%9b/",
+    "published": "2026-10-23T06:02:26.000Z"
+  },
+  {
+    "site": "fasu.dev",
+    "title": "Rebuilding GeoThai: From Reformatted Data to Checked Sources",
+    "url": "https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/",
+    "published": "2026-10-23T00:00:00.000Z"
+  },
+  {
     "site": "creaml4tt3.me",
     "title": "Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code",
     "url": "https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix",
@@ -18,12 +36,6 @@
     "published": "2026-10-22T10:45:37.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "แนวทางการแก้ไขปัญหา PHP2Shell เบื้องต้น",
-    "url": "https://www.somkiat.cc/php2shell-mitigation/",
-    "published": "2026-10-22T08:16:59.000Z"
-  },
-  {
     "site": "dt.in.th",
     "title": "Gangprompting",
     "url": "https://dt.in.th/Gangprompting",
@@ -34,12 +46,6 @@
     "title": "Use YubiKey instead of fingerprint auth on Linux",
     "url": "https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/",
     "published": "2026-10-22T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "อุทยานแห่งชาติขุนแจ ดอยลังกาหลวง: ทริปภูเขาสำหรับคนที่อยากเดินจริง",
-    "url": "https://myifew.com/8588/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b8%82%e0%b8%b8%e0%b8%99%e0%b9%81%e0%b8%88-%e0%b8%94%e0%b8%ad%e0%b8%a2/",
-    "published": "2026-10-21T06:03:27.000Z"
   },
   {
     "site": "mikkipastel.com",
@@ -100,12 +106,6 @@
     "title": "ແບບຟອມ ຊີວະປະຫວັດຫຍໍ້ ສະບັບໃໝ່",
     "url": "https://xiengperm.dev/posts/lao-biography-form-lo/",
     "published": "2026-09-30T00:00:00.000Z"
-  },
-  {
-    "site": "fasu.dev",
-    "title": "I Cut My AGENTS.md in Half, Then Measured What Broke",
-    "url": "https://fasu.dev/writings/i-cut-my-agents-md-in-half-and-measured-it/",
-    "published": "2026-09-29T00:00:00.000Z"
   },
   {
     "site": "jitrak.dev",
