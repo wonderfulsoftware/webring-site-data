@@ -1,5 +1,29 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร",
+    "url": "https://mymoneytoolkit.app/posts/insurance-planner-v2",
+    "published": "2026-10-25T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Ray Summit 2026 Recap",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/",
+    "published": "2026-10-24T07:57:58.000Z"
+  },
+  {
+    "site": "dt.in.th",
+    "title": "Polite Compaction for Claude Code",
+    "url": "https://dt.in.th/ClaudeCodePoliteCompaction",
+    "published": "2026-10-24T00:00:00.000Z"
+  },
+  {
+    "site": "blog.oatto.dev",
+    "title": "สร้าง Skill ให้ AI ทำงานซ้ำได้ ด้วยพรอมป์ต์เดียว",
+    "url": "https://blog.oatto.dev/2026/10/24/create-ai-skill-with-prompt.html",
+    "published": "2026-10-24T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "จดบันทึกการอ่านเรื่อง How the Claude Code team does code review",
     "url": "https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/",
@@ -30,18 +54,6 @@
     "published": "2026-10-22T15:05:41.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "PHP2Shell-mitigation",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/php2shell-mitigation/",
-    "published": "2026-10-22T10:45:37.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Gangprompting",
-    "url": "https://dt.in.th/Gangprompting",
-    "published": "2026-10-22T00:00:00.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Use YubiKey instead of fingerprint auth on Linux",
     "url": "https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/",
@@ -64,12 +76,6 @@
     "title": "Musing: คำตอบไม่สำคัญเท่ากับการเลือก",
     "url": "https://yothinix.com/choosing-over-answers/",
     "published": "2026-10-18T04:34:33.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "เดือนนี้รูดบัตรไปกับอะไรบ้าง ลองโยน e-Statement ให้เว็บช่วยดู",
-    "url": "https://mymoneytoolkit.app/posts/credit-statement",
-    "published": "2026-10-18T00:00:00.000Z"
   },
   {
     "site": "icez.net",
@@ -190,12 +196,6 @@
     "title": "[Eng] Distributed Scheduler The Series: Episode 2 - Only One Leader",
     "url": "https://sujamess.com/blogs/20260129-distributed-scheduler-the-series-ep-2/",
     "published": "2026-01-29T00:00:00.000Z"
-  },
-  {
-    "site": "blog.oatto.dev",
-    "title": "Recap 2025",
-    "url": "https://blog.oatto.dev/2026/01/01/recap-2025.html",
-    "published": "2026-01-01T00:00:00.000Z"
   },
   {
     "site": "blog.nattp.page",
