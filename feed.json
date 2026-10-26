@@ -1,5 +1,17 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "Winter Arc 90 วัน: กฎของตัวเอง ไม่ใช่ checklist ลอก",
+    "url": "https://amiearth.com/blog/winter-arc-90-days-own-rules",
+    "published": "2026-10-26T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "สิ่งที่น่าสนใจจากการแบ่งปันเรื่อง AI Agent for coding with Claude code",
+    "url": "https://www.somkiat.cc/check-specification-claude-code/",
+    "published": "2026-10-25T16:53:03.000Z"
+  },
+  {
     "site": "mymoneytoolkit.app",
     "title": "อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร",
     "url": "https://mymoneytoolkit.app/posts/insurance-planner-v2",
@@ -24,10 +36,10 @@
     "published": "2026-10-24T00:00:00.000Z"
   },
   {
-    "site": "somkiat.cc",
-    "title": "จดบันทึกการอ่านเรื่อง How the Claude Code team does code review",
-    "url": "https://www.somkiat.cc/note-how-the-claude-code-team-does-code-review/",
-    "published": "2026-10-23T16:00:40.000Z"
+    "site": "creaml4tt3.me",
+    "title": "Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code",
+    "url": "https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix",
+    "published": "2026-10-23T11:00:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -40,12 +52,6 @@
     "title": "Rebuilding GeoThai: From Reformatted Data to Checked Sources",
     "url": "https://fasu.dev/writings/rebuilding-geothai-from-reformatted-data-to-checked-sources/",
     "published": "2026-10-23T00:00:00.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code",
-    "url": "https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix",
-    "published": "2026-10-22T19:13:26.085Z"
   },
   {
     "site": "chakkritton.com",
@@ -178,12 +184,6 @@
     "title": "Transfer Money API — Engineering Notes",
     "url": "https://www.anewlife.dev/post/transfer-money-api-engineering-notes/",
     "published": "2026-04-24T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "All-in PostgreSQL ปี 2026: แทน Redis + Elasticsearch + Pinecone ได้จริงไหม และถึงจุดไหนต้องย้าย",
-    "url": "https://amiearth.com/blog/postgresql-2026-all-in-one-redis-es-pinecone",
-    "published": "2026-04-19T00:00:00.000Z"
   },
   {
     "site": "birdmusic.cc",
