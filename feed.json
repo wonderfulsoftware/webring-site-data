@@ -1,27 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "CVE-2026-111497: What the Brotli Bug Means for .NET Developers",
+    "url": "https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/",
+    "published": "2026-10-28T00:01:17.000Z"
+  },
+  {
     "site": "amiearth.com",
-    "title": "Winter Arc 90 วัน: กฎของตัวเอง ไม่ใช่ checklist ลอก",
-    "url": "https://amiearth.com/blog/winter-arc-90-days-own-rules",
-    "published": "2026-10-26T00:00:00.000Z"
+    "title": "ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง",
+    "url": "https://amiearth.com/blog/systems-over-goals-dev",
+    "published": "2026-10-28T00:00:00.000Z"
   },
   {
     "site": "somkiat.cc",
-    "title": "สิ่งที่น่าสนใจจากการแบ่งปันเรื่อง AI Agent for coding with Claude code",
-    "url": "https://www.somkiat.cc/check-specification-claude-code/",
-    "published": "2026-10-25T16:53:03.000Z"
+    "title": "ลองใช้งาน Apple’s Foundation Models CLI (FM) บน MacOS 27.2 (Golden Gate)",
+    "url": "https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/",
+    "published": "2026-10-27T07:13:43.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "Power Walk ด้วย Trekking Poles: 7 เทคนิคเดินให้เป็นจังหวะ ตั้งแต่ทางราบถึงทางชัน",
+    "url": "https://myifew.com/8594/power-walk-%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2-trekking-poles-7-%e0%b9%80%e0%b8%97%e0%b8%84%e0%b8%99%e0%b8%b4%e0%b8%84%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80/",
+    "published": "2026-10-27T06:02:47.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
     "title": "อัปเดตแพลนตัง จัดการประกัน: ดูได้แล้วว่าเงินประกันจะไปถึงใคร",
     "url": "https://mymoneytoolkit.app/posts/insurance-planner-v2",
     "published": "2026-10-25T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Ray Summit 2026 Recap",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/ray-summit-2026-recap/",
-    "published": "2026-10-24T07:57:58.000Z"
   },
   {
     "site": "dt.in.th",
@@ -40,12 +46,6 @@
     "title": "Google Workspace MCP ขึ้น The caller does not have permission? สาเหตุและวิธีแก้ใน Claude Code",
     "url": "https://creaml4tt3.me/blogs/google-workspace-mcp-caller-does-not-have-permission-fix",
     "published": "2026-10-23T11:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "รีวิวเก้าอี้แคมป์ปิ้งปี 2026: ALPS Mountaineering King Kong และรุ่นที่เหมาะกับแต่ละทริป",
-    "url": "https://myifew.com/8590/%e0%b8%a3%e0%b8%b5%e0%b8%a7%e0%b8%b4%e0%b8%a7%e0%b9%80%e0%b8%81%e0%b9%89%e0%b8%b2%e0%b8%ad%e0%b8%b5%e0%b9%89%e0%b9%81%e0%b8%84%e0%b8%a1%e0%b8%9b%e0%b9%8c%e0%b8%9b%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%9b/",
-    "published": "2026-10-23T06:02:26.000Z"
   },
   {
     "site": "fasu.dev",
