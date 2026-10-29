@@ -1,5 +1,11 @@
 [
   {
+    "site": "somkiat.cc",
+    "title": "คำถามที่น่าสนใจ ทดสอบก็เยอะนะ แต่ทำไมยังมี bug อีก !!",
+    "url": "https://www.somkiat.cc/more-tests-more-bugs/",
+    "published": "2026-10-28T07:42:49.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "CVE-2026-111497: What the Brotli Bug Means for .NET Developers",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/",
@@ -10,12 +16,6 @@
     "title": "ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง",
     "url": "https://amiearth.com/blog/systems-over-goals-dev",
     "published": "2026-10-28T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "ลองใช้งาน Apple’s Foundation Models CLI (FM) บน MacOS 27.2 (Golden Gate)",
-    "url": "https://www.somkiat.cc/hello-apples-foundation-models-cli-on-macos27/",
-    "published": "2026-10-27T07:13:43.000Z"
   },
   {
     "site": "myifew.com",
