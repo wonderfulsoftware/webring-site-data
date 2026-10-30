@@ -1,5 +1,23 @@
 [
   {
+    "site": "mikkipastel.com",
+    "title": "โพยการสร้าง widget ในแอพ Android ฉบับ 101",
+    "url": "https://www.mikkipastel.com/android-widget-101/",
+    "published": "2026-10-30T03:30:33.000Z"
+  },
+  {
+    "site": "chakkritton.com",
+    "title": "CalorieFlow แอปนับแคลอรี่ สุขภาพ และแชท",
+    "url": "https://chakkritton.com/projects/calorieflow",
+    "published": "2026-10-29T08:59:45.000Z"
+  },
+  {
+    "site": "amiearth.com",
+    "title": "Vibe coding เร็วจริง แต่ขาดอะไรไปบ้าง",
+    "url": "https://amiearth.com/blog/vibe-coding-tradeoffs",
+    "published": "2026-10-29T00:00:00.000Z"
+  },
+  {
     "site": "somkiat.cc",
     "title": "คำถามที่น่าสนใจ ทดสอบก็เยอะนะ แต่ทำไมยังมี bug อีก !!",
     "url": "https://www.somkiat.cc/more-tests-more-bugs/",
@@ -10,12 +28,6 @@
     "title": "CVE-2026-111497: What the Brotli Bug Means for .NET Developers",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/cve-2026-111497-what-the-brotli-bug-means-for-net-developers/",
     "published": "2026-10-28T00:01:17.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "ระบบสำคัญกว่าเป้าหมาย: มุมมองของเดฟคนหนึ่ง",
-    "url": "https://amiearth.com/blog/systems-over-goals-dev",
-    "published": "2026-10-28T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -54,22 +66,10 @@
     "published": "2026-10-23T00:00:00.000Z"
   },
   {
-    "site": "chakkritton.com",
-    "title": "SSD Scope for Mac",
-    "url": "https://chakkritton.com/projects/ssd-scope-for-mac",
-    "published": "2026-10-22T15:05:41.000Z"
-  },
-  {
     "site": "karnwong.me",
     "title": "Use YubiKey instead of fingerprint auth on Linux",
     "url": "https://karnwong.me/posts/2026/10/use-yubikey-instead-of-fingerprint-auth-on-linux/",
     "published": "2026-10-22T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "อัพเดตของใหม่ และเติมความรู้ด้วย AI ที่งาน งาน LINE DEV CONF 2026",
-    "url": "https://www.mikkipastel.com/line-thailand-developer-conference-2026/",
-    "published": "2026-10-20T12:04:38.000Z"
   },
   {
     "site": "tantatorn.xyz",
