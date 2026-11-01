@@ -1,21 +1,27 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "โมเดลฉลาดขึ้นไม่สำคัญเท่าต้นทุนกับความเร็ว",
+    "url": "https://amiearth.com/blog/intelligence-saturation-cost",
+    "published": "2026-11-01T00:00:00.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "ทำ infinite scroll แบบ masonry ใน Next.js อย่างไร? ใช้ masonic กับ cursor pagination",
+    "url": "https://creaml4tt3.me/blogs/nextjs-infinite-masonry-feed-masonic",
+    "published": "2026-10-31T15:31:20.805Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "[Playwright Bug] Firefox fails บน MacOS 27",
+    "url": "https://www.somkiat.cc/playwright-bug-firefox-macos-27/",
+    "published": "2026-10-31T04:50:10.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start)",
     "url": "https://naiwaen.debuggingsoft.com/2026/10/note-aws-certified-cloud-practitioner-clf-c02/",
     "published": "2026-10-30T21:27:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "น่าสนใจกับ Postgres for AI agents หรือ pgx.dev",
-    "url": "https://www.somkiat.cc/pgx-postgres-for-ai-agents/",
-    "published": "2026-10-30T14:19:59.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "9Router คืออะไร? รวม Claude Code, Codex และ AI ฟรีไว้ endpoint เดียว ให้โค้ดต่อได้ไม่สะดุด",
-    "url": "https://creaml4tt3.me/blogs/9router-ai-router-claude-code-codex-guide",
-    "published": "2026-10-30T12:55:48.983Z"
   },
   {
     "site": "myifew.com",
@@ -28,12 +34,6 @@
     "title": "โพยการสร้าง widget ในแอพ Android ฉบับ 101",
     "url": "https://www.mikkipastel.com/android-widget-101/",
     "published": "2026-10-30T03:30:33.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "เงียบเป็นวินัย: Solo Recharge ของคนที่แชทไม่เคยหยุดเด้ง",
-    "url": "https://amiearth.com/blog/solo-recharge-silence",
-    "published": "2026-10-30T00:00:00.000Z"
   },
   {
     "site": "chakkritton.com",
