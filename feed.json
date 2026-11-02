@@ -1,5 +1,17 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "chezmoi for Dotfiles Across Machines",
+    "url": "https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/",
+    "published": "2026-11-02T03:37:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "Remove Active Session in Cloudflare Zero Trust",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/remove-active-session-in-cloudflare-zero-trust/",
+    "published": "2026-11-01T22:27:48.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "โมเดลฉลาดขึ้นไม่สำคัญเท่าต้นทุนกับความเร็ว",
     "url": "https://amiearth.com/blog/intelligence-saturation-cost",
@@ -16,12 +28,6 @@
     "title": "[Playwright Bug] Firefox fails บน MacOS 27",
     "url": "https://www.somkiat.cc/playwright-bug-firefox-macos-27/",
     "published": "2026-10-31T04:50:10.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/10/note-aws-certified-cloud-practitioner-clf-c02/",
-    "published": "2026-10-30T21:27:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -118,12 +124,6 @@
     "title": "ແບບຟອມ ຊີວະປະຫວັດຫຍໍ້ ສະບັບໃໝ່",
     "url": "https://xiengperm.dev/posts/lao-biography-form-lo/",
     "published": "2026-09-30T00:00:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "My Agent Harness: The System Around the Model",
-    "url": "https://jitrak.dev/posts/post-45-my-agent-harness/",
-    "published": "2026-09-28T18:43:00.000Z"
   },
   {
     "site": "thanapon.info",
