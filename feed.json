@@ -126,6 +126,12 @@
     "published": "2026-10-01T04:38:05.000Z"
   },
   {
+    "site": "notpumpkins.dev",
+    "title": "Hello World in Astro",
+    "url": "https://notpumpkins.dev/blog/astro-hello",
+    "published": "2026-09-28T00:00:00.000Z"
+  },
+  {
     "site": "thanapon.info",
     "title": "🖨️ ปริ้นใบปะหน้า Shopee ผ่าน Bluetooth XPrinter XP-80T ไม่ง้อ Driver",
     "url": "https://thanapon.info/react-xprinter-shopee-bluetooth/",

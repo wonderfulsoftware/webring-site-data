@@ -2703,5 +2703,19 @@
     "lastUpdated": "2026-11-06T05:03:38.135Z",
     "number": 145,
     "owner": "mrrpmeowfurry"
+  },
+  "notpumpkins.dev": {
+    "url": "https://notpumpkins.dev",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/notpumpkins.dev_375w@2x.png",
+    "blurhash": "vKQvqMIb?wR%V;%J%MkA%$NHIAt7~qRlD%t3$jxtNaNGR%RkRRofE3Rjs,xa",
+    "screenshotUpdatedAt": "2026-11-06T15:41:40.939Z",
+    "description": "I'm Pumpkins. I build fast, friendly web apps and the tools behind them. Full-stack developer based in Thailand. I like clean APIs, smooth UI, and…",
+    "backlink": {
+      "rect": "40:40:224.5:5255.59375",
+      "href": "https://webring.wonderful.software#notpumpkins.dev"
+    },
+    "lastUpdated": "2026-11-06T15:41:40.939Z",
+    "number": 146,
+    "owner": "NotNiceKun"
   }
 }
