@@ -1,5 +1,17 @@
 [
   {
+    "site": "ntsd.dev",
+    "title": "Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown",
+    "url": "https://ntsd.dev/migrating-from-jekyll-to-astro-7/",
+    "published": "2026-11-07T00:00:00.000Z"
+  },
+  {
+    "site": "amiearth.com",
+    "title": "Grill Me: สอบถาม requirement จนชัดก่อนลงมือ",
+    "url": "https://amiearth.com/blog/grill-me-requirements",
+    "published": "2026-11-07T00:00:00.000Z"
+  },
+  {
     "site": "creaml4tt3.me",
     "title": "Cloudflare Clef กับ Clairic คืออะไร? ลองใช้จริงแทน LLM ตัดสินใจและดึงข้อมูล รวมผลภาษาไทย",
     "url": "https://creaml4tt3.me/blogs/cloudflare-clef-clairic-workers-ai-decision-extraction-models",
@@ -15,12 +27,6 @@
     "site": "karnwong.me",
     "title": "Crunching numbers on GPU vs CPU",
     "url": "https://karnwong.me/posts/2026/11/crunching-numbers-on-gpu-vs-cpu/",
-    "published": "2026-11-06T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "Green Check ไม่ได้แปลว่าถูก: นิสัยการ Verify และ Paradox of Supervision ในวันที่ Agent เขียนโค้ดแทน",
-    "url": "https://amiearth.com/blog/verify-and-supervision-paradox",
     "published": "2026-11-06T00:00:00.000Z"
   },
   {
@@ -310,12 +316,6 @@
     "title": "2024 (+2023)",
     "url": "https://microbenz.in.th/blog/2024-plus-2023-review/",
     "published": "2024-12-23T13:07:00.000Z"
-  },
-  {
-    "site": "ntsd.dev",
-    "title": "How to use Stream Pipe and Transform in Node.js",
-    "url": "https://ntsd.dev/node-stream-pipe-and-transform/",
-    "published": "2024-11-22T17:00:00.000Z"
   },
   {
     "site": "kajame.xyz",
