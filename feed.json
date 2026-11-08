@@ -1,21 +1,21 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "ยุค agent = คุณต้องเขียน AC เหมือน PO: เมื่อทุกคนที่สั่งงาน agent คือเจ้าของโปรดักต์",
+    "url": "https://amiearth.com/blog/agent-era-write-ac-like-po",
+    "published": "2026-11-08T00:00:00.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "ทำโลโก้ให้ขยับได้ด้วย AI agent + Clayzo: จาก SVG นิ่งๆ สู่ animation บนเว็บจริง พร้อม 3 บั๊กที่เจอ",
+    "url": "https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl",
+    "published": "2026-11-07T15:15:42.013Z"
+  },
+  {
     "site": "ntsd.dev",
     "title": "Migrating from Jekyll to Astro 7: Zero-JS, 100/100 Lighthouse, and Rolldown",
     "url": "https://ntsd.dev/migrating-from-jekyll-to-astro-7/",
     "published": "2026-11-07T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "Grill Me: สอบถาม requirement จนชัดก่อนลงมือ",
-    "url": "https://amiearth.com/blog/grill-me-requirements",
-    "published": "2026-11-07T00:00:00.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "Cloudflare Clef กับ Clairic คืออะไร? ลองใช้จริงแทน LLM ตัดสินใจและดึงข้อมูล รวมผลภาษาไทย",
-    "url": "https://creaml4tt3.me/blogs/cloudflare-clef-clairic-workers-ai-decision-extraction-models",
-    "published": "2026-11-06T14:00:00.000Z"
   },
   {
     "site": "myifew.com",
