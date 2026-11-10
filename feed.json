@@ -1,15 +1,33 @@
 [
   {
+    "site": "mymoneytoolkit.app",
+    "title": "จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน",
+    "url": "https://mymoneytoolkit.app/posts/core-satellite",
+    "published": "2026-11-10T00:00:00.000Z"
+  },
+  {
     "site": "amiearth.com",
-    "title": "รับ requirement จากลูกค้าที่ยังไม่ครบ: เดินงานต่อได้โดยไม่ต้องเดา และไม่ต้องรอ",
-    "url": "https://amiearth.com/blog/incomplete-client-requirements",
-    "published": "2026-11-09T00:00:00.000Z"
+    "title": "Agent ตัวเดียวมักชนะทั้งฝูง: บทเรียนจาก Anthropic สำหรับคนที่ชอบตั้ง Multi-Agent",
+    "url": "https://amiearth.com/blog/anthropic-one-agent-vs-swarm",
+    "published": "2026-11-10T00:00:00.000Z"
+  },
+  {
+    "site": "nutchanon.org",
+    "title": "ทำให้ภาษาไทยในเทอร์มินัล Herdr อ่านง่าย: รวมฟอนต์เอง 2 รอบ กว่าจะได้แบบที่ใช่",
+    "url": "https://nutchanon.org/blog/herdr-thai-font/",
+    "published": "2026-11-10T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "How to get real error message on Portainer",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/how-to-get-real-error-message-on-portainer/",
+    "published": "2026-11-09T10:03:34.000Z"
   },
   {
     "site": "creaml4tt3.me",
-    "title": "ทำโลโก้ให้ขยับได้ด้วย AI agent + Clayzo: จาก SVG นิ่งๆ สู่ animation บนเว็บจริง พร้อม 3 บั๊กที่เจอ",
-    "url": "https://creaml4tt3.me/blogs/animate-brand-mark-ai-agent-clayzo-webgl",
-    "published": "2026-11-07T15:15:42.013Z"
+    "title": "ถาม GA4 ผ่าน MCP ว่าเว็บพอร์ตเกิดอะไรขึ้นจริง: เจอ bot, Organic Search จาก 3 เป็น 57 อีก 3 เรื่อง",
+    "url": "https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings",
+    "published": "2026-11-09T06:52:44.904Z"
   },
   {
     "site": "ntsd.dev",
@@ -42,22 +60,10 @@
     "published": "2026-11-03T19:30:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "บันทึก CLF-C02 – AWS Certified Cloud Practitioner (AWS re/Start)",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/note-aws-certified-cloud-practitioner-clf-c02/",
-    "published": "2026-11-02T21:27:00.000Z"
-  },
-  {
     "site": "jitrak.dev",
     "title": "chezmoi for Dotfiles Across Machines",
     "url": "https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/",
     "published": "2026-11-02T03:37:00.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "Update Plan November 2026",
-    "url": "https://mymoneytoolkit.app/posts/update-plan-november-2026",
-    "published": "2026-11-02T00:00:00.000Z"
   },
   {
     "site": "xiengperm.dev",
@@ -172,12 +178,6 @@
     "title": "Upgrade Template ใหม่",
     "url": "https://pontakorn.dev/posts/upgrade-template/",
     "published": "2026-07-18T07:52:27.000Z"
-  },
-  {
-    "site": "nutchanon.org",
-    "title": "ฝ่ายจัดซื้อประจำบ้าน",
-    "url": "https://nutchanon.org/blog/purchase-division",
-    "published": "2026-07-16T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
