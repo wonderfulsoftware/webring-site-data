@@ -1,14 +1,14 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "ทิปใช้ Coding Agent จาก Thorsten Ball: โมเดลที่ดีที่สุด สั่งที่ผลลัพธ์ และอย่าให้ agent ทำงานในที่มืด",
+    "url": "https://amiearth.com/blog/thorsten-ball-coding-agent-tips",
+    "published": "2026-11-11T00:00:00.000Z"
+  },
+  {
     "site": "mymoneytoolkit.app",
     "title": "จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน",
     "url": "https://mymoneytoolkit.app/posts/core-satellite",
-    "published": "2026-11-10T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "Agent ตัวเดียวมักชนะทั้งฝูง: บทเรียนจาก Anthropic สำหรับคนที่ชอบตั้ง Multi-Agent",
-    "url": "https://amiearth.com/blog/anthropic-one-agent-vs-swarm",
     "published": "2026-11-10T00:00:00.000Z"
   },
   {
