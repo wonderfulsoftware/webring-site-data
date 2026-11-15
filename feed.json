@@ -1,9 +1,15 @@
 [
   {
+    "site": "dt.in.th",
+    "title": "OpenThai 2.0 OCR in the browser",
+    "url": "https://dt.in.th/OpenThaiOCRWebDemo",
+    "published": "2026-11-15T00:00:00.000Z"
+  },
+  {
     "site": "amiearth.com",
-    "title": "Cursor Annotate (Design Mode): ชี้บน UI แทนการพิมพ์อธิบาย ช่วย design review ได้แค่ไหน",
-    "url": "https://amiearth.com/blog/cursor-annotate-design-mode",
-    "published": "2026-11-14T00:00:00.000Z"
+    "title": "Auto-merge PR จาก AI: เมื่อกด Approve โดยไม่เปิดอ่าน และคนรีวิวกลายเป็นคอขวด",
+    "url": "https://amiearth.com/blog/auto-merge-ai-prs",
+    "published": "2026-11-15T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -82,12 +88,6 @@
     "title": "CalorieFlow แอปนับแคลอรี่ สุขภาพ และแชท",
     "url": "https://chakkritton.com/projects/calorieflow",
     "published": "2026-10-29T08:59:45.000Z"
-  },
-  {
-    "site": "dt.in.th",
-    "title": "Polite Compaction for Claude Code",
-    "url": "https://dt.in.th/ClaudeCodePoliteCompaction",
-    "published": "2026-10-24T00:00:00.000Z"
   },
   {
     "site": "blog.oatto.dev",
