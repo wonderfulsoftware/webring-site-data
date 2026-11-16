@@ -1,33 +1,39 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "สั่ง agent ให้ CI เขียว แล้วมันแก้ test แทนแก้บั๊ก: ทำไม CI เขียวยังไม่ใช่หลักฐาน และทีมควรกันยังไง",
+    "url": "https://amiearth.com/blog/agent-rewrites-tests-ci-green",
+    "published": "2026-11-16T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "จดๆ DevFest Bangkok 2026 มัดรวม 2 วัน",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/",
+    "published": "2026-11-15T23:03:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาดูการปรับปรุง performance ของ Agent Browser 0.43",
+    "url": "https://www.somkiat.cc/inprove-performance-of-agent-browser/",
+    "published": "2026-11-15T10:32:48.000Z"
+  },
+  {
     "site": "dt.in.th",
     "title": "OpenThai 2.0 OCR in the browser",
     "url": "https://dt.in.th/OpenThaiOCRWebDemo",
     "published": "2026-11-15T00:00:00.000Z"
   },
   {
-    "site": "amiearth.com",
-    "title": "Auto-merge PR จาก AI: เมื่อกด Approve โดยไม่เปิดอ่าน และคนรีวิวกลายเป็นคอขวด",
-    "url": "https://amiearth.com/blog/auto-merge-ai-prs",
+    "site": "nutchanon.org",
+    "title": "Cheer up: บทระลึกถึงกันระหว่างคนกับเอเจนต์ AI ก่อนเริ่มงาน",
+    "url": "https://nutchanon.org/blog/cheer-up/",
     "published": "2026-11-15T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Software Architecture Meetup 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-software-architecture-meetup-2026/",
-    "published": "2026-11-13T15:45:00.000Z"
   },
   {
     "site": "mikkipastel.com",
     "title": "อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี?",
     "url": "https://www.mikkipastel.com/test-foldable-device-samsung-developer/",
     "published": "2026-11-13T11:30:32.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "การเปลี่ยนแปลงใน Spring Boot 4.2 RC2",
-    "url": "https://www.somkiat.cc/try-spring-boot-4-2-rc2/",
-    "published": "2026-11-13T06:30:48.000Z"
   },
   {
     "site": "myifew.com",
@@ -45,12 +51,6 @@
     "site": "mymoneytoolkit.app",
     "title": "จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน",
     "url": "https://mymoneytoolkit.app/posts/core-satellite",
-    "published": "2026-11-10T00:00:00.000Z"
-  },
-  {
-    "site": "nutchanon.org",
-    "title": "ทำให้ภาษาไทยในเทอร์มินัล Herdr อ่านง่าย: รวมฟอนต์เอง 2 รอบ กว่าจะได้แบบที่ใช่",
-    "url": "https://nutchanon.org/blog/herdr-thai-font/",
     "published": "2026-11-10T00:00:00.000Z"
   },
   {
