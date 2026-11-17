@@ -1,9 +1,15 @@
 [
   {
+    "site": "myifew.com",
+    "title": "เดินลงเขาอย่างไรให้เข่าไม่ล้า: เทคนิคสำหรับนักเดินป่า",
+    "url": "https://myifew.com/8614/%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%a5%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b8%87%e0%b9%84%e0%b8%a3%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b9%80%e0%b8%82%e0%b9%88/",
+    "published": "2026-11-17T06:02:54.000Z"
+  },
+  {
     "site": "amiearth.com",
-    "title": "สั่ง agent ให้ CI เขียว แล้วมันแก้ test แทนแก้บั๊ก: ทำไม CI เขียวยังไม่ใช่หลักฐาน และทีมควรกันยังไง",
-    "url": "https://amiearth.com/blog/agent-rewrites-tests-ci-green",
-    "published": "2026-11-16T00:00:00.000Z"
+    "title": "AGENTS.md กับ CLAUDE.md: ทีมที่ใช้ agent หลายตัว ควรเขียนกติกาไว้ไฟล์ไหน และกับดักที่ Claude Code ไม่อ่าน AGENTS.md",
+    "url": "https://amiearth.com/blog/agents-md-vs-claude-md",
+    "published": "2026-11-17T00:00:00.000Z"
   },
   {
     "site": "debuggingsoft.com",
@@ -34,12 +40,6 @@
     "title": "อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี?",
     "url": "https://www.mikkipastel.com/test-foldable-device-samsung-developer/",
     "published": "2026-11-13T11:30:32.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "เลือกเป้เดินป่ายังไงไม่ให้ปวดหลัง เทียบ 5 รุ่นสำหรับทริปวันเดียว",
-    "url": "https://myifew.com/8611/%e0%b9%80%e0%b8%a5%e0%b8%b7%e0%b8%ad%e0%b8%81%e0%b9%80%e0%b8%9b%e0%b9%89%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%b1%e0%b8%87%e0%b9%84%e0%b8%87%e0%b9%84%e0%b8%a1/",
-    "published": "2026-11-13T06:03:21.000Z"
   },
   {
     "site": "karnwong.me",
