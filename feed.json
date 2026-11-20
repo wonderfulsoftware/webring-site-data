@@ -1,9 +1,15 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Cloud Native Bangkok: The Rise of Agentic Commerce",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-cloud-native-bangkok-the-rise-of-agentic-commerce/",
+    "published": "2026-11-20T00:00:00.000Z"
+  },
+  {
     "site": "amiearth.com",
-    "title": "agent-desktop ของ Vercel Labs: ให้ AI agent คุมแอป desktop ผ่าน accessibility tree แทนการดูภาพหน้าจอ ใช้กับงาน QA ได้แค่ไหน และต้องระวังอะไรก่อนให้สิทธิ์",
-    "url": "https://amiearth.com/blog/vercel-agent-desktop",
-    "published": "2026-11-19T00:00:00.000Z"
+    "title": "DHH เตือนโปรแกรมเมอร์ที่ทำงานด้วยยาก: ยุค AI agent ความรู้เฉพาะทางจะเลิกเป็นเกราะจริงไหม gatekeeper คือใคร และทีมที่มี junior ควรฝึก people skills ยังไง",
+    "url": "https://amiearth.com/blog/dhh-ai-agents-soft-skills",
+    "published": "2026-11-20T00:00:00.000Z"
   },
   {
     "site": "myifew.com",
@@ -16,12 +22,6 @@
     "title": "Recent AppArmor issue on Linux kernel 7.0.0-43",
     "url": "https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/",
     "published": "2026-11-17T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "จดๆ DevFest Bangkok 2026 มัดรวม 2 วัน",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-devfest-bangkok-2026/",
-    "published": "2026-11-15T23:03:00.000Z"
   },
   {
     "site": "somkiat.cc",
