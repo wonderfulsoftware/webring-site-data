@@ -2783,5 +2783,19 @@
     "lastUpdated": "2026-11-21T05:36:10.106Z",
     "number": 151,
     "owner": "gxjakkap"
+  },
+  "sirilerk.com": {
+    "url": "https://sirilerk.com",
+    "mobileImageUrlV2": "https://wonderfulsoftware.github.io/webring-site-screenshots/sirilerk.com_375w@2x.png",
+    "blurhash": "v76t{}?bM_M{WXRkRjxuM_jsofM|4nIU%MofMxjst7RjogazWBt7~q%MM{Rk",
+    "screenshotUpdatedAt": "2026-11-21T10:38:24.770Z",
+    "description": "Software engineer building full-stack apps, backend systems and AI-powered tools mainly in TypeScript and Python. CTF organizer at LannaSec.",
+    "backlink": {
+      "rect": "20:20:20:7176.28125",
+      "href": "https://webring.wonderful.software#sirilerk.com"
+    },
+    "lastUpdated": "2026-11-21T10:38:24.770Z",
+    "number": 152,
+    "owner": "sirilerklab"
   }
 }

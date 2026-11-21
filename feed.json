@@ -1,5 +1,11 @@
 [
   {
+    "site": "jitrak.dev",
+    "title": "When Health Checks Amplify Damage: Lessons from the Microsoft 365 Outage",
+    "url": "https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/",
+    "published": "2026-11-21T06:00:00.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "Agentic SDLC: เมื่อ requirement ถึง production กลายเป็น loop ที่ agent วิ่งแทน คนต้องนิยามอะไร ด่านไหนห้ามปล่อย และทำไม loop ที่เร็วขึ้นไม่ได้แก้ requirement ที่ไม่ครบ",
     "url": "https://amiearth.com/blog/agentic-sdlc-loop",
@@ -70,12 +76,6 @@
     "title": "Coding with AI",
     "url": "https://gunt.in.th/blog/coding-with-ai",
     "published": "2026-11-03T19:30:00.000Z"
-  },
-  {
-    "site": "jitrak.dev",
-    "title": "chezmoi for Dotfiles Across Machines",
-    "url": "https://jitrak.dev/posts/post-46-chezmoi-for-dotfiles/",
-    "published": "2026-11-02T03:37:00.000Z"
   },
   {
     "site": "xiengperm.dev",
@@ -178,6 +178,12 @@
     "title": "Upgrade Template ใหม่",
     "url": "https://pontakorn.dev/posts/upgrade-template/",
     "published": "2026-07-18T07:52:27.000Z"
+  },
+  {
+    "site": "sirilerk.com",
+    "title": "MongoDB Index กับการงมเข็มไปยัง Let's Encrypt EKU",
+    "url": "https://blog.sirilerk.com/blog/mongodb-and-let-s-encrypt-eku/",
+    "published": "2026-06-19T00:00:00.000Z"
   },
   {
     "site": "kusumotolab.com",
