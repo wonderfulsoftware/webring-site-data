@@ -1,21 +1,21 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "Agentic SDLC: เมื่อ requirement ถึง production กลายเป็น loop ที่ agent วิ่งแทน คนต้องนิยามอะไร ด่านไหนห้ามปล่อย และทำไม loop ที่เร็วขึ้นไม่ได้แก้ requirement ที่ไม่ครบ",
+    "url": "https://amiearth.com/blog/agentic-sdlc-loop",
+    "published": "2026-11-21T00:00:00.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "MSR PocketRocket Deluxe: เตาแก๊สหัวถังสำหรับทริปเดินป่า",
+    "url": "https://myifew.com/8618/msr-pocketrocket-deluxe-%e0%b9%80%e0%b8%95%e0%b8%b2%e0%b9%81%e0%b8%81%e0%b9%8a%e0%b8%aa%e0%b8%ab%e0%b8%b1%e0%b8%a7%e0%b8%96%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a/",
+    "published": "2026-11-20T06:03:24.000Z"
+  },
+  {
     "site": "debuggingsoft.com",
     "title": "จดๆจาก Cloud Native Bangkok: The Rise of Agentic Commerce",
     "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-cloud-native-bangkok-the-rise-of-agentic-commerce/",
     "published": "2026-11-20T00:00:00.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "DHH เตือนโปรแกรมเมอร์ที่ทำงานด้วยยาก: ยุค AI agent ความรู้เฉพาะทางจะเลิกเป็นเกราะจริงไหม gatekeeper คือใคร และทีมที่มี junior ควรฝึก people skills ยังไง",
-    "url": "https://amiearth.com/blog/dhh-ai-agents-soft-skills",
-    "published": "2026-11-20T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "อุทยานแห่งชาติเขาใหญ่: 7 เส้นทางเดินป่าศึกษาธรรมชาติ",
-    "url": "https://myifew.com/8616/%e0%b8%ad%e0%b8%b8%e0%b8%97%e0%b8%a2%e0%b8%b2%e0%b8%99%e0%b9%81%e0%b8%ab%e0%b9%88%e0%b8%87%e0%b8%8a%e0%b8%b2%e0%b8%95%e0%b8%b4%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b9%83%e0%b8%ab%e0%b8%8d%e0%b9%88-7/",
-    "published": "2026-11-18T06:05:18.000Z"
   },
   {
     "site": "karnwong.me",
