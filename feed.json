@@ -210,6 +210,12 @@
     "published": "2026-04-24T00:00:00.000Z"
   },
   {
+    "site": "cwayusu.dev",
+    "title": "แชร์ประสบการณ์ ฝึกงาน 6 เดือนที่ BorntoDev ในตำแหน่ง Tech Consultant",
+    "url": "https://cwayusu.dev/th/blog/borntodev-internship",
+    "published": "2026-04-05T00:00:00.000Z"
+  },
+  {
     "site": "birdmusic.cc",
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
     "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",

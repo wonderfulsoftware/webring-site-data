@@ -83,6 +83,7 @@
       <outline text="notpumpkins.dev" title="notpumpkins.dev" type="rss" xmlUrl="https://notpumpkins.dev/rss.xml" htmlUrl="https://notpumpkins.dev"/>
       <outline text="gunt.in.th" title="gunt.in.th" type="rss" xmlUrl="https://gunt.in.th/feed.xml" htmlUrl="https://gunt.in.th"/>
       <outline text="sirilerk.com" title="sirilerk.com" type="rss" xmlUrl="https://blog.sirilerk.com/rss.xml" htmlUrl="https://sirilerk.com"/>
+      <outline text="cwayusu.dev" title="cwayusu.dev" type="rss" xmlUrl="https://cwayusu.dev/th/rss.xml" htmlUrl="https://cwayusu.dev"/>
     </outline>
   </body>
 </opml>
