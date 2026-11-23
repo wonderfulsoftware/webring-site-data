@@ -1,14 +1,20 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้",
+    "url": "https://amiearth.com/blog/sdlc-loop-one-command",
+    "published": "2026-11-23T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "Anthropic: Claude Certified Architect – Professional (CCAR-P)",
+    "title": "ผ่านแล้ววว Anthropic: Claude Certified Architect – Professional (CCAR-P)",
     "url": "https://myifew.com/8621/anthropic-claude-certified-architect-professional-ccar-p/",
     "published": "2026-11-22T03:55:17.000Z"
   },
   {
-    "site": "amiearth.com",
-    "title": "Agentic CI/CD: เมื่อ pipeline พังตอนตีสองแล้ว agent อ่าน log แก้เอง รันใหม่เอง failure แบบไหนปล่อยให้แก้ได้ แบบไหนต้องหยุดรอคน และ lead ต้องนิยามอะไรก่อน",
-    "url": "https://amiearth.com/blog/agentic-cicd",
+    "site": "mymoneytoolkit.app",
+    "title": "คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร",
+    "url": "https://mymoneytoolkit.app/posts/crisis-survivor",
     "published": "2026-11-22T00:00:00.000Z"
   },
   {
@@ -52,12 +58,6 @@
     "title": "อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี?",
     "url": "https://www.mikkipastel.com/test-foldable-device-samsung-developer/",
     "published": "2026-11-13T11:30:32.000Z"
-  },
-  {
-    "site": "mymoneytoolkit.app",
-    "title": "จัดพอร์ต Core-Satellite: กรอกของที่ถืออยู่ แล้วดูว่าพอร์ตหน้าตาแบบไหน",
-    "url": "https://mymoneytoolkit.app/posts/core-satellite",
-    "published": "2026-11-10T00:00:00.000Z"
   },
   {
     "site": "creaml4tt3.me",
