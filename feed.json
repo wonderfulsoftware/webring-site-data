@@ -1,15 +1,33 @@
 [
   {
+    "site": "karnwong.me",
+    "title": "On-site networking setup with 5G network",
+    "url": "https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/",
+    "published": "2026-11-24T00:00:00.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "NPKill ออก version 1 มาแล้ว",
+    "url": "https://www.somkiat.cc/npkill-version-1/",
+    "published": "2026-11-23T11:40:07.000Z"
+  },
+  {
+    "site": "myifew.com",
+    "title": "รีวิว Claude Certified Architect – Professional (CCAR-P)",
+    "url": "https://myifew.com/8629/review-claude-certified-architect-professional-ccar-p/",
+    "published": "2026-11-23T08:27:12.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้",
     "url": "https://amiearth.com/blog/sdlc-loop-one-command",
     "published": "2026-11-23T00:00:00.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "ผ่านแล้ววว Anthropic: Claude Certified Architect – Professional (CCAR-P)",
-    "url": "https://myifew.com/8621/anthropic-claude-certified-architect-professional-ccar-p/",
-    "published": "2026-11-22T03:55:17.000Z"
+    "site": "debuggingsoft.com",
+    "title": "จดๆจาก Software Architecture Meetup 2026",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-software-architecture-meetup-2026/",
+    "published": "2026-11-22T15:45:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -18,28 +36,10 @@
     "published": "2026-11-22T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "แวะมาจด AI Developer Meetup",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/",
-    "published": "2026-11-21T16:30:00.000Z"
-  },
-  {
     "site": "jitrak.dev",
     "title": "When Health Checks Amplify Damage: Lessons from the Microsoft 365 Outage",
     "url": "https://jitrak.dev/posts/post-47-when-health-checks-amplify-damage/",
     "published": "2026-11-21T06:00:00.000Z"
-  },
-  {
-    "site": "karnwong.me",
-    "title": "Recent AppArmor issue on Linux kernel 7.0.0-43",
-    "url": "https://karnwong.me/posts/2026/11/recent-apparmor-issue-on-linux-kernel-7.0.0-43/",
-    "published": "2026-11-17T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "มาดูการปรับปรุง performance ของ Agent Browser 0.43",
-    "url": "https://www.somkiat.cc/inprove-performance-of-agent-browser/",
-    "published": "2026-11-15T10:32:48.000Z"
   },
   {
     "site": "dt.in.th",
