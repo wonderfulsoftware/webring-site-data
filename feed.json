@@ -1,5 +1,11 @@
 [
   {
+    "site": "myifew.com",
+    "title": "กิ่วแม่ปาน ดอยอินทนนท์: เส้นทางป่าดิบเขาสู่ทะเลหมอก",
+    "url": "https://myifew.com/8651/%e0%b8%81%e0%b8%b4%e0%b9%88%e0%b8%a7%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%9b%e0%b8%b2%e0%b8%99-%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c/",
+    "published": "2026-11-25T06:02:48.000Z"
+  },
+  {
     "site": "karnwong.me",
     "title": "On-site networking setup with 5G network",
     "url": "https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/",
@@ -12,28 +18,22 @@
     "published": "2026-11-23T11:40:07.000Z"
   },
   {
-    "site": "myifew.com",
-    "title": "รีวิว Claude Certified Architect – Professional (CCAR-P)",
-    "url": "https://myifew.com/8629/review-claude-certified-architect-professional-ccar-p/",
-    "published": "2026-11-23T08:27:12.000Z"
-  },
-  {
     "site": "amiearth.com",
     "title": "คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้",
     "url": "https://amiearth.com/blog/sdlc-loop-one-command",
     "published": "2026-11-23T00:00:00.000Z"
   },
   {
-    "site": "debuggingsoft.com",
-    "title": "จดๆจาก Software Architecture Meetup 2026",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-software-architecture-meetup-2026/",
-    "published": "2026-11-22T15:45:00.000Z"
-  },
-  {
     "site": "mymoneytoolkit.app",
     "title": "คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร",
     "url": "https://mymoneytoolkit.app/posts/crisis-survivor",
     "published": "2026-11-22T00:00:00.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "แวะมาจด AI Developer Meetup",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/",
+    "published": "2026-11-21T16:30:00.000Z"
   },
   {
     "site": "jitrak.dev",
