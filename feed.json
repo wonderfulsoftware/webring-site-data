@@ -1,9 +1,15 @@
 [
   {
+    "site": "amiearth.com",
+    "title": "AI coding ≠ Agentic SDLC: เขียนโค้ดได้เร็วขึ้นยังไม่ใช่ทั้งวงจร แล้ว requirements, design หรือ QA ควรเป็นเฟสที่มี agent ช่วยก่อน",
+    "url": "https://amiearth.com/blog/ai-coding-not-agentic-sdlc",
+    "published": "2026-11-26T00:00:00.000Z"
+  },
+  {
     "site": "myifew.com",
-    "title": "กิ่วแม่ปาน ดอยอินทนนท์: เส้นทางป่าดิบเขาสู่ทะเลหมอก",
-    "url": "https://myifew.com/8651/%e0%b8%81%e0%b8%b4%e0%b9%88%e0%b8%a7%e0%b9%81%e0%b8%a1%e0%b9%88%e0%b8%9b%e0%b8%b2%e0%b8%99-%e0%b8%94%e0%b8%ad%e0%b8%a2%e0%b8%ad%e0%b8%b4%e0%b8%99%e0%b8%97%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c/",
-    "published": "2026-11-25T06:02:48.000Z"
+    "title": "ลองเล่น pstack กับ AI-SDLC โหดสมคำร่ำลือ",
+    "url": "https://myifew.com/8647/pstack-sdlc-review-principles-skills/",
+    "published": "2026-11-25T16:10:41.000Z"
   },
   {
     "site": "karnwong.me",
@@ -16,12 +22,6 @@
     "title": "NPKill ออก version 1 มาแล้ว",
     "url": "https://www.somkiat.cc/npkill-version-1/",
     "published": "2026-11-23T11:40:07.000Z"
-  },
-  {
-    "site": "amiearth.com",
-    "title": "คำสั่งเดียว /sdlc:loop ใน Claude Code แล้ว agent ทำตั้งแต่ spec ถึง review ใน 5.5 นาที: demo ครั้งเดียวพิสูจน์อะไรได้ พิสูจน์อะไรไม่ได้ ด่านคนอยู่ตรงไหน และต้องตรวจอะไรก่อนเชื่อ loop แบบนี้",
-    "url": "https://amiearth.com/blog/sdlc-loop-one-command",
-    "published": "2026-11-23T00:00:00.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -218,7 +218,7 @@
   {
     "site": "birdmusic.cc",
     "title": "เปลี่ยน LINE ให้เป็น AI ส่วนตัว: เจาะลึกการสร้าง OpenClaw บน DigitalOcean ด้วยตัวเอง",
-    "url": "https://birdmusic.cc//2026/03/23/openclaw-personal-ai-on-digitalocean.html",
+    "url": "https://birdmusic.cc/2026/03/23/openclaw-personal-ai-on-digitalocean.html",
     "published": "2026-03-23T00:00:00.000Z"
   },
   {
