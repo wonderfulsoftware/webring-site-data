@@ -1,15 +1,21 @@
 [
   {
+    "site": "myifew.com",
+    "title": "Gaiters สำหรับเดินป่าและวิ่งเทรล เลือกแบบไหนให้เหมาะกับฝนและฝุ่น",
+    "url": "https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/",
+    "published": "2026-11-27T06:04:17.000Z"
+  },
+  {
+    "site": "debuggingsoft.com",
+    "title": "ลองมาใช้ MSBuild Structured Log Viewer",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/",
+    "published": "2026-11-26T08:50:35.000Z"
+  },
+  {
     "site": "amiearth.com",
     "title": "AI coding ≠ Agentic SDLC: เขียนโค้ดได้เร็วขึ้นยังไม่ใช่ทั้งวงจร แล้ว requirements, design หรือ QA ควรเป็นเฟสที่มี agent ช่วยก่อน",
     "url": "https://amiearth.com/blog/ai-coding-not-agentic-sdlc",
     "published": "2026-11-26T00:00:00.000Z"
-  },
-  {
-    "site": "myifew.com",
-    "title": "ลองเล่น pstack กับ AI-SDLC โหดสมคำร่ำลือ",
-    "url": "https://myifew.com/8647/pstack-sdlc-review-principles-skills/",
-    "published": "2026-11-25T16:10:41.000Z"
   },
   {
     "site": "karnwong.me",
@@ -28,12 +34,6 @@
     "title": "คุณผ่านวิกฤตมาแล้วกี่ครั้ง? ย้อนดูว่าตลาดเคยพังแค่ไหน แล้วฟื้นนานเท่าไร",
     "url": "https://mymoneytoolkit.app/posts/crisis-survivor",
     "published": "2026-11-22T00:00:00.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "แวะมาจด AI Developer Meetup",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/recap-ai-developer-meetup/",
-    "published": "2026-11-21T16:30:00.000Z"
   },
   {
     "site": "jitrak.dev",
