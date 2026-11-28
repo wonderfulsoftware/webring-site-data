@@ -1,15 +1,33 @@
 [
   {
+    "site": "debuggingsoft.com",
+    "title": "ลองใช้ Blazor AI Components (Experimental .NET 11) + AG-UI ร่วมกับ MudBlazor",
+    "url": "https://naiwaen.debuggingsoft.com/2026/11/trying-blazor-ai-components-experimental-net-11-ag-ui-with-mudblazor-th/",
+    "published": "2026-11-27T22:44:59.000Z"
+  },
+  {
+    "site": "somkiat.cc",
+    "title": "มาดูแนวทางการทำ Synthetic Testing จาก Airbnb กัน",
+    "url": "https://www.somkiat.cc/synthetic-testing-from-airbnb/",
+    "published": "2026-11-27T16:52:27.000Z"
+  },
+  {
+    "site": "mikkipastel.com",
+    "title": "เป็นสตาฟงาน DevFest Bangkok 2026 ได้ฟัง session อะไรบ้าง?",
+    "url": "https://www.mikkipastel.com/devfest-bangkok-2026/",
+    "published": "2026-11-27T11:51:10.000Z"
+  },
+  {
+    "site": "creaml4tt3.me",
+    "title": "Claude Code MCP ใช้ไม่ได้? รวมวิธีแก้ error ที่เจอบ่อย ตั้งแต่ claude mcp add จนถึง OAuth",
+    "url": "https://creaml4tt3.me/blogs/claude-code-mcp-errors-troubleshooting",
+    "published": "2026-11-27T07:46:31.833Z"
+  },
+  {
     "site": "myifew.com",
     "title": "Gaiters สำหรับเดินป่าและวิ่งเทรล เลือกแบบไหนให้เหมาะกับฝนและฝุ่น",
     "url": "https://myifew.com/8666/gaiters-%e0%b8%aa%e0%b8%b3%e0%b8%ab%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%94%e0%b8%b4%e0%b8%99%e0%b8%9b%e0%b9%88%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b8%b0%e0%b8%a7%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80/",
     "published": "2026-11-27T06:04:17.000Z"
-  },
-  {
-    "site": "debuggingsoft.com",
-    "title": "ลองมาใช้ MSBuild Structured Log Viewer",
-    "url": "https://naiwaen.debuggingsoft.com/2026/11/intro-msbuild-structured-log-viewer/",
-    "published": "2026-11-26T08:50:35.000Z"
   },
   {
     "site": "amiearth.com",
@@ -22,12 +40,6 @@
     "title": "On-site networking setup with 5G network",
     "url": "https://karnwong.me/posts/2026/11/on-site-networking-setup-with-5g-network/",
     "published": "2026-11-24T00:00:00.000Z"
-  },
-  {
-    "site": "somkiat.cc",
-    "title": "NPKill ออก version 1 มาแล้ว",
-    "url": "https://www.somkiat.cc/npkill-version-1/",
-    "published": "2026-11-23T11:40:07.000Z"
   },
   {
     "site": "mymoneytoolkit.app",
@@ -52,18 +64,6 @@
     "title": "Cheer up: บทระลึกถึงกันระหว่างคนกับเอเจนต์ AI ก่อนเริ่มงาน",
     "url": "https://nutchanon.org/blog/cheer-up/",
     "published": "2026-11-15T00:00:00.000Z"
-  },
-  {
-    "site": "mikkipastel.com",
-    "title": "อยากเทสบนมือถือจอพับ Samsung แต่ไม่มีเครื่อง ทำยังไงดี?",
-    "url": "https://www.mikkipastel.com/test-foldable-device-samsung-developer/",
-    "published": "2026-11-13T11:30:32.000Z"
-  },
-  {
-    "site": "creaml4tt3.me",
-    "title": "ถาม GA4 ผ่าน MCP ว่าเว็บพอร์ตเกิดอะไรขึ้นจริง: เจอ bot, Organic Search จาก 3 เป็น 57 อีก 3 เรื่อง",
-    "url": "https://creaml4tt3.me/blogs/ga4-mcp-case-study-portfolio-findings",
-    "published": "2026-11-09T06:52:44.904Z"
   },
   {
     "site": "ntsd.dev",
